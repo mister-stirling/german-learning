@@ -6,6 +6,7 @@
 // @description  Click on the clipboard to hear a word and copy it to your clipboard. Alt + A to access the search bar quickly.
 // @match        https://www.dict.cc/*
 // @match        https://www.linguee.fr/*
+// @match        https://de-en.dict.cc/*
 // @grant        GM_setClipboard
 // ==/UserScript==
 
