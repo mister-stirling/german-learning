@@ -5,6 +5,8 @@ Un dico inspiré du livre Die Außenseiter 1 - Alexey Osadchuk, par Fauxhumain, 
 
 Note perso 10JUIN2025 : étant bilingue fr/en et utilisant 3 dicos différents, la plupart des mots sont traduits en anglais. Toutefois j'ai commencé à ajouter les traductions françaises, j'ai l'impression de les retenir plus vite comme ça.
 
+================================================================ 06JUN2025 (Page 9) ================================================================
+
 Vorarbeiter {m} : : ind. jobs foreman | 483 
 
 Junge  {m} : young^e : boy | 32767
@@ -413,11 +415,7 @@ von Bug : de Bug.
 
 sicher : siçha  : sûr (être sûr de)/certainement {adj} | 3695
 
- ^this was only page 9. Like literally only a page.
- I had to look up 128 words for a single, 288 words page.
- 
- 193 words for 288 page words => 67% words I had to look up.
-================================================================ 07JUN2025 (Page 10) SESSION 1 (MATIN) ================================================================
+================================================================ 07JUN2025 (Page 10) (MATIN) ================================================================
 
 jd./etw. soll : zoll  : sb./sth. shall | 2224 
 
