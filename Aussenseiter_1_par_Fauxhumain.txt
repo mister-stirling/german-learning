@@ -15,7 +15,7 @@ Leiter1  {f} : l'aïl-ter : ladder | 3202
 
 Leiter2  {m} : l'aïl-ter : leader | 508
 
-wohl : voh^l : arguably {adv} [probably] | 2441
+wohl : voh^l : arguably/certainement/bel et bien/probablement {adv} | 2441
 
 wohlhabend : vohl^abent : wealthy {adj} | 1808
 
@@ -40,7 +40,7 @@ freudige (joyeux) Erregung {f} : froy-digeu : a thrill of pleasure
 Nachricht {f} [Mitteilung, Botschaft] :  : message | 4713
 Nachricht {f} : naCHiçht : news | 435
 
-Grund {m} [Ursache, Veranlassung, Ausrede, Beweggrund] : groun^t  : reason [cause, motive] | 3397
+Grund {m} : groun^t  : cause/raison/reason [cause, motive] | 3397
 düsteren : du-sterèn : sombre
 
 Gesichtsausdruck {m} : gézi-çhts-aous-trouk : countenance [facial expression] | 631
@@ -59,7 +59,7 @@ von : fon : de qqch/by/of/from/off/out of
 
 laut : laout : loud/son/bruit {adj} {adv} | 4508
 
-Worte {pl} :  : words | 69
+Worte {pl} : vorte : mots/la parole [contexte discussion]/words | 69
 [wir/sie/Sie] kamen : ka-mèn : [we/they/you] came/sortit | 74
 
 leicht [ohne Schwierigkeiten, einfach] : laiçht : easy/light {adj} | 2009
@@ -102,7 +102,9 @@ jd. trat : tra^t : sb. stepped [foot] | 179
 
 jd. schritt : shritt : sb. strode | 483
 
-vor : en avant
+vor : before/ahead/previously/prior to/il y a [temporel]
+vor est spatial aussi, action : en avant [spatial]
+
 trat einen Schritt vor : fit un pas en avant,
 trat vor	il s’avança	Action globale, mouvement net
 trat einen Schritt vor	fit un pas en avant	Geste concret, image détaillée
@@ -286,7 +288,8 @@ knapp :  : concise {adj} | 4531
 jd. antwortete : ant-vor-teteu : sb. replied | 641
 
 
-genullt : mis à zero
+genullt : annulé/remis à zero / intraduisible en fr
+
 Gesicht {n} : gésiçht  : face/visage | 6019
 verlor : fea-loa : sb. lost/[il perdit]/to lose  | 247
 
@@ -397,7 +400,7 @@ denken : denk^n  : to think | 4062
    
 mir schon denke :
    
-bestimmt : beshtimmt : déterminé [une quantité déterminée]/destinées/definitely/certain/affirmative [destinées : pas pour tes oreilles : nicht für deine ohren bestimmt] {adj} | 8423
+bestimmt : beshtimmt : déterminé [une quantité déterminée]/destinées/SÛREMENT/definitely/certain/affirmative [destinées : pas pour tes oreilles : nicht für deine ohren bestimmt] {adj} | 8423
    
 vom Got : par Dieu
 
@@ -418,9 +421,9 @@ sicher : siçha  : sûr (être sûr de)/certainement {adj} | 3695
  193 words for 288 page words => 67% words I had to look up.
 ================================================================ 07JUN2025 (Page 10) SESSION 1 (MATIN) ================================================================
 
-jd./etw. soll : zoll  : sb./sth. shall | 2224
+jd./etw. soll : zoll  : sb./sth. shall | 2224 
 
-jd./etw. soll : zoll : sb./sth. /est censé/doit/is believed to/(exprime un exigence)
+jd./etw. soll : zoll : sb./sth. /est censé/doit/is believed to/(exprime un exigence) | sollte : aurait dû/devrait
 
 « Qu’est-ce que cette remarque insultante est censée vouloir dire, vieille sorcière ? »
 
@@ -583,6 +586,8 @@ fuhr...fort : continua/poursuivit (fortfahren)
 Fortfahren : forte-fa-ren : comp. Continue | 232
 und fuhr leise fort: et poursuivit à voix basse
 
+fort est une particule de continuation, elle peut être séparée de fahren/fuhr.
+
 bei (datif): bail  : [temporel!] lors de/à sa [naissance par ex] / près de/ à côté de / near {prep} [also: near to] [close to] | 451
 
 bei einem xxx {prep} : [e.g. to work for a company] | 3163
@@ -599,6 +604,7 @@ eigens : eigenz  : specifically {adv} | 297
 
 Verfügung {f} [Verfügungsgewalt] :  : disposal | 1380
 Verfügung {f} : fea-fu-gung  : law ordinance | 455
+jd. verfügte : fa-fugteu  : sb. disposed [had at one's disposal] | 169
 
 jd. stellt : shtelt  : sb. poses/represents | 217
 
@@ -613,7 +619,7 @@ uns mit Vorräten versieht
 und uns unsere ersten Eigenschaftstafeln zur Verfügung stellt.“
 → « et met à notre disposition nos premières fiches de caractéristiques. »
 
-zur = contraction de „zu der“, littéralement « à la »
+zur : contraction de „zu der“, littéralement « à la »
 
 Verfügung = « disposition » (dans le sens de « disponibilité » ou « à disposition »)
 
@@ -655,7 +661,7 @@ gehört [von hören] : geu-heuat  : heard {past-p} | 385
 
 jd. nickte : nik-teu : sb. nodded | 1273
 
-schweigend : schv-aïl-gent : silently {adv} | 259
+schweigend : schv-aïl-gent : se taire (oui c'est la vraie signification ENTIERE du verbe)/garder le silence/silencieusement/silently {adv} | 259 | schwiegen :
 
 Erstgeborener {m} : east-ge-borener : firstborn | 10
 
@@ -673,7 +679,10 @@ langsam : langzam : slow {adj} {adv} | 3388
 
 gerade [Zahl] : gé-ra-de : math. juste/even {adj} | 4034
 gerade [aufrichtig] :  : honest {adj} [sincere, frank] | 349
-gerade :  : straight/précisément {adj} {adv} | 2605
+
+gerade :  : straight/PRECISEMENT {adj} {adv} | 2605
+
+gerade : gé-ra-de : en ce moment/en train de/currently {adv} | 221
 
 hier and her. 
 hier is about a current location, her is a destination.
@@ -744,7 +753,7 @@ Kindheit {f} : kint-haït  : enfance/childhood | 2025
 
 alle : alle : everybody  [+Verb im Plural] [jeder, jedermann] everybody {pron} [+verb in the singular] | 251
 
-schwächer : sch-vé-çhea : faible/inférieur/weaker {adj} | 301
+schwächer : sch-vé-çhea : faible/faiblesse/inférieur/weaker {adj} | 301
 
 andere : and-eureu : un autre/another/les autres {adj} | 4151
 
@@ -778,7 +787,7 @@ bedeuten : be-doyten : signifier/to matter/mean/signify | 6040
 
 Zukunft {f} : tsou-kounft  : future | 3120
 
-ganz [ziemlich] :  : tout-à-fait/entier/complet/rather/quite {adv} [rather] | 4694
+ganz [ziemlich] :  : tout-à-fait/entier/complet/rather/quite/fairly {adv} [rather] | 4694
 
 normales : normale
 
@@ -871,7 +880,7 @@ alles : tout
 
 Leg los! : lék los : Take it away! (idiom)
 
-unter [+Dat.] : ount^a  : among {prep} | 5960
+unter [+Dat.] : ount^a  : among/under (= sous [ses yeux etc]) {prep} | 5960
 
 vielen : fi-len : many
 
@@ -1000,7 +1009,7 @@ Falten {pl} : falt^n : wrinkles | 659 (NOUN)
 
 Tiefen {pl} : ti^fn : deeps | 44
 
-nachdenklich : naCHTden-kliçh : thoughtful/pensively {adj} [pensive] | 2356
+nachdenklich : naCHTden-kliçh : thoughtful/pensively {adj} [pensive] | 2356 | nachdenken : réfléchir/contempler | nachdachten= préterit de nachdenken
 
 
 wohl : nuance d'incertitude/hypothèse/conjecture (e.g : wie alt sie wohl ist = quelle âge at-t-elle? / Wie alt sie wohl ist? : quelle âge a tlle, je me demande?)
@@ -1267,7 +1276,7 @@ Bewegung setzen : mettre en mouvement
 setzen : zet-ssen : to put [something] (e.g : put in motion)| 1797
 sich in Bewegung setzen :  : to get under way/put in motion
 
-Bewegung {f} : bevi-goung : motion/movement | 1203
+Bewegung {f} : bevi-goung : motion/movement | 1203 | bewegen | bewegte
 
 Gänsefeder {f} : ganze-fed^er  : orn. goose feather
 
@@ -1383,7 +1392,7 @@ zu : comparable à "to" en anglais. LIE L'INFINITIF QUI LE SUIT EN ACTION/OBJECT
 
 lächeln : léçhen : to smile | 1656
 
-über : u-ba : above {prep} | 3976
+über : u-ba : above/au sujet de/concernant {prep} | 3976
 
 Weste {f} : vesteu : cloth. vest [Am.] [Aus.] | 432
 
@@ -1689,7 +1698,7 @@ Bürohengst {m} [pej.] : buro-hèngst  : paper pusher [coll.]
 
 lustig : loustiçh : funny/amusing {adj} | 3153
 
-lief : courut/se mit à (verbe laufen)
+lief : courut/se mit à (inf verb laufen) 
 
 knallrot : knall-rot : rouge pétant {adj}
 
@@ -1732,7 +1741,7 @@ etw. hing : hin : sth. hung | 64
 
 etw. erhob : ea-houp : sth. uplifted/SE LEVER/arose | 22
 
-rechten [geh.] : rèçht^n : to argue/on the right/à DROITE | 352
+rechten [geh.] : rèçht^n : to argue/on the right/à DROITE | 352 
 
 etw. klopfte : klop-fteu : sth. throbbed | 195
 
@@ -1863,7 +1872,7 @@ Abend {m} : abent : evening | 5733
 
 wirst du : virst dou : être au futur 2nd personne (tu seras/tu vas)
 
-================================================================ 10JUN2025 (Page 16) (MATIN) ================================================================
+================================================================ 10JUN2025 (Page 16) (MATIN/SOIR) ================================================================
 
 aufmunternd : aouf-mountent : encourageant/cheery {adj} | 309
 
@@ -1968,7 +1977,7 @@ Meinen : penser
 erstaunt : ea-shtaunt : amazed {adj} {past-p} | 2324
 
 einfallen [einstürzen] : einfall^n : to fall in
-jd./etw. fiel : fi^l : sb./sth. fell | 887
+jd./etw. fiel : fi^l : sb./sth. fell | 887 | fallen inf verb
 
 Restschuld {f} : rest-shoult : dette résiduelle/balance due/residual debt
 
@@ -2047,3 +2056,257 @@ Torso : torzo : torse
 
 Bierfass {n} : bi^afass : tonneau de bière/brew beer barrel
 
+weil : va-il : because {conj} | 6918
+
+verkrüppelt : fa-kruppelt : infirme/mutilé/crippled {adj} {past-p} | 661 | verkrüppeln
+
+überrascht : u-ba-rassht : surprised {adj} {past-p} | 2097
+überraschen :  : to surprise | 1468
+
+merken : merk^n : mémoriser/se rendre compte | merkt
+
+etw. anschauen : ansch-aouen : to look at sth | anschaut.
+
+dunkle: dounkl^a : dark/sombre
+
+Ringe {pl} : ring-eu : rings | 45
+
+ob : op : si/if/wether {conj} [whether] | 1604
+
+kürzlich : kurtz-liçh : lately/dernièrement/récemment {adv} | 794
+
+krank : kr-anne-k  : med. malade/sick/ill {adj} [also fig.] | 2059
+
+immerhin : imm^a^hin : toujours/néanmoins/TOUT DE MÊME/anyway/after all {adv} | 1559
+
+Tagen : jour
+
+vor wenigen Tagen : il y a quelques jours
+
+deshalb : dess-halb : donc/pour cela/therefore {adv} | 4887
+
+bleich : blaiçh : pale {adj} | 612
+
+Nee! [ugs.] : néé : Nope! [coll.] | 400
+
+ich vermute : fa-mout-eu : supposer/présumer/I reckon [coll.]
+
+die Armen {pl} : arm^n : pauvre/the poor {pl}
+
+Arme {pl} : arm-é : anat. bras/arms | 471
+
+sei seiner armen Seele gnädig : formule religieuse <<fasse miséricorde à son âme>>
+
+gnädig [barmherzig] : gnéd-içh : miséricorde/merciful {adj} | 216
+
+jd./etw. widersprach : vi-dash-praCH : sb./sth. contradicted | 364
+
+Pech {n} : peçh : malchance/malheur/mauvaise fortune/misfortune | 1457
+
+eine Weile : vayleu : période/moment/for a bit {adv} [for a while]
+
+Unterhaltung {f} : ounta-halt-oung  : conversation/chat | 5046
+
+die beiden : beid^n : the two of them {pron}
+
+setzte sich : se poursuivit / se continua
+
+oui setzte c'est bizarre parce que setzen = s'asseoir/put [something into motion for example]/poser qqch mais en fait ça vient de fortsetzen.
+
+fortsetzen : fort-zetsen : to resume/poursuivre/continuer | 4834
+
+En allemand, les particules fort-, zurück-, auf- etc. se séparent souvent au prétérit ou au présent.
+
+leichter : laiçhta : lighter {adj} | 278
+
+angestrengt : angé-shtrengt : tendu/strained/stressed {adj} {past-p} | 83
+
+Schwer : shvéa : difficile/grave/lourd |Schweres
+
+zweistöckiges Haus {n} : tsvai-shteuck-igeuss : archi. two-story building | zweistöckiger = two-story smth.
+
+recht : reçht : quite/fairly/rather {adv} [to some degree] | 162
+
+Pferde {pl} : pf-érde : horses | 175
+
+Schweine {pl} : shv-ayne : zool. T pigs | 48
+
+
+läuft: loyft :operated/tourner [sens opérationnel, la boite tourne bien]/ran | infinitif laufen
+
+
+deutlich : doyt-liçh : obvious/distinct/évident {adj} | 1391
+
+beste : best-eu : [le/la] meilleur/best {adj} | 714
+
+Team {n} : tim : team | 296
+
+geleitet : ge-lay-tèt : dirigé (comme chef)/led/managed/conducted {adj} | {past-p} | 39
+
+leiten : lay-t^n : guider/diriger (verb, infinitif)
+
+umgekommen : oum-geu-komm^n : périr/mourir (surtout dans un contexte d'accident)
+
+Schacht {m} : shaCHT : mining vertical tunnel/puits de mine
+
+eingestürzt : ein-geu-sturtsst  : éffondré/collapsed {adj} {past-p} [bridge, roof, etc.] | 82
+
+================================================================ 10JUN2025 (Page 18) (SOIR) ================================================================
+
+verdammt : fa-dammt : mince/darn/heck!/blimey/basted... {adj} [coll.] | 1689 | <<-- traduit la surprise, ex "ah c'est chaud/ah merde" mais poli
+
+Frauen {pl} : fra-ouen : women | 32767
+
+Mittagessen {n} : Mitt-tag-essen : gastr. déjeuner/lunch/repas de midi | 4317
+
+ebenfalls : iben-fallss : aussi/also {adv} | 5397
+
+erwischt : ervisht : attrapés/caught {adj} {past-p} | 704 | infinitif erwischen
+
+Tonfall {m} : toonfall : ling. cadence de voix/ton de voix/intonation/inflexion [Br.] | 550
+
+Freunde {pl} : froy-nde  : friends | 353 | (der Freund)
+
+ernsthaft : erns-t-haft (il faut qu'on entende le h) : serious {adj} | 1611
+
+zu schaffen machen : affecter quelqu'un/causer du souci/des difficultés  (IDIOM)
+
+denen : den^n : those {pron} [indirect object] | 353
+
+ein ziemliches ... : tsiemliçhes : assez/plutôt/relativement/a bit of a ... [coll.] [rather a ...]
+
+nun ja : noun ya : well
+
+fing : fin^ : commença (prétérit du verbe anfangen = commencer)
+
+an : pour finir anfangen, particule de fin de phrase
+
+Zusammenstellung {f} : tsou-zamm^n-shtelloung : combinaison/assortiment/set/combination | 57
+
+Eigenschaften {pl} : aïgen-shaften : attributes | 391 (pour rappel on lit un litRPG, donc c'est des caractéristiques)
+
+stärkste : shtéa-kste : le plus fort/strongest {adj} | 140
+
+Altersgruppe {f} : alteas-groupeu : age group/age bracket
+
+jd./etw. ging : gin : sb./sth. went | 1532
+
+Winter- : vint-^ea : winter {adj} [attr.] | 129
+
+desselben : desselb^n : semblable/(of) the same/ {pron}
+
+Turnier {n} : tourni^a : hist. sports tournoi/tournament | 1254 
+
+Neuling {m} : noy-ling : recrue/rookie | 548
+
+Gefolge {n} : geu-fol-geu : retinue/entourage | 753
+
+aufgenommen : aouf-genomm^n : incorporated {adj} {past-p} | 212
+
+Du meine Güte! : Mon Dieu!/Seigneur!/Bon sang! (IDIOM)
+
+Ach so : usage classique en allemand quand on te donne des mauvaises nouvelles (équivalent à "ah, je vois..." "ah, d'accord...")
+
+Ja, so... : "oui, c'est comme ça..." (accepter la situation)
+
+erneut : ea-noyt : anew/à nouveau {adv} | 521
+
+Informationen {pl} : informa-tssio-nen : information {sg} | 374
+
+etw.Akk. verarbeiten : fa-arb-aïten : to process sth. | 2952
+
+etw. dauerte : da-ouateu: sth. lasted | 687 | infinitif dauern (verb)
+
+jd. meldete : meldèteteu : sb. manifester/notifier/notified | 85 | infinitif melden
+
+sich zu Wort melden : prendre la parole (IDIOM intraduisible; manifester la parole)
+
+zu Wort meldete — "prit la parole" / se fit entendre. peut aussi être assimilé à une requête pour prendre la parole
+
+diesmal : dizmal : this time {adv}
+
+das Wort ergreifen" = to take the floor, to rise to speak 
+jdm. das Wort erteilen" = to give the floor to sb., to allow sb. to speak 
+"jdm. das Wort abschneiden" = to stop someone from speaking, to cut sb. short 
+
+vergingen : fa-gi-en : passer/disparaître/mourir | infinitif Vergehen  (VERBE)
+
+Vergehen1  {n} :  : méfait/délit/infraction [Am.] | 1750 (NOUN)
+
+schwanger : shvan^g^a : enceinte/pregnant/expecting {adj} | 3136
+
+eigentlich : ai-gèn-tliçh : en fait/en réalité/actually/actual/true {adv} | 7055
+
+gewesen : gé-vizen : been {past-p} | 1074 | infinitif sein
+
+Sache {f} : zaCHE : choses/thing | 1079
+
+lag : lag : se trouvait/était (infinitif liegen, situer) (VERB)
+
+gewiss : géviss : certain/quelque {adj} | 3547 
+
+Gewissen {n} : gévi-ssen : conscience | 5832 (noun) 
+
+Ne pas confondre Gewissen et gewissen (adjectif, pas un nom) 
+
+schlimmer : shlimm^a : worse {adj} {adv} | 7019
+
+jd. schrie : shrie : sb. criait/pleurait/screamed/cried | 67
+
+[wir/sie/Sie] dachten : daCHten : [we/they/you] thought | 104
+
+fähig : fé-içh : capable/accompli {adj} | 7228 | fähige
+
+Medizinfrau {f} : médit-sin-frao : ethn. relig. medicine woman
+
+beauftragt : beu-aouf-tragt : chargé/mandaté//commissioned {adj} {past-p} | 1026
+
+fiel auf : est apparu/a sauté aux yeux/a remarqué | infinitif auffallen (à particules à cause du -auf), ne pas confondre avec FALLEN
+
+atmete : atmèteu : respirer | atmen infinitif (verbe) 
+
+das Atmen : respiration 
+
+kaum : ka-om : hardly/barely {adv} | 6859
+
+spürbar : shpua-ba : palpable/noticeable {adj} | 1127
+
+zwar : tsva : admettons/indeed {adv} [admittedly] | 2293
+
+Himmel {pl} : him-mel : heavens! | 38
+
+jd. kommentierte : kommen-ti^ate : sb. commented
+
+================================================================ 11JUN2025 (Page 19) (MATIN) ================================================================
+
+wichtigste : vishtiçhsteu : principal {adj} | 101
+
+gar [geh.] [sogar] : ga : même/carrément/even {adv} | 371
+
+Menge {f} [Quantum] : men^gue : amount | 4362
+
+Geld {n} : gelt : money | 3987
+
+Hauptstadt {f} : haoup-shtadt : capital city
+
+bezahlt <bez.> : beu-tsaalt : paid {adj} {past-p} <pd> | 201
+
+jedenfalls : yedenfallts : anyway {adv} | 5142
+
+jd. berichtete : beriçh-téteu : sb. told/reported | 18
+
+etw. klang : klan : sth. sounded/clinked | 14
+
+Kinnlade {f} : kinn-ladeu : dent. mandible/lower jaw | 110
+
+krachend : kraCHend : bruyamment/avec fracas/cracking {adj} | 392
+
+klar : klaa : clair/lucid {adj} | 1619
+
+wurde mir klar : je compris
+
+Werkzeuge {pl} : verk-tzoygeu : outils/artéfacts/artifacts | 109
+
+untersuchen : ount^a-zuCHen : to investigate | 4817 | untersuchten
+
+sieht : zit : voir | racine sehen = voir infinitif vebre
