@@ -2,8 +2,8 @@
 // @name         Easy copy & listen for dict.cc
 // @namespace    http://tampermonkey.net/
 // @version      0.6
-// @author       Fauxhumain/mister-stirling
 // @description  Click on the clipboard to hear a word and copy it to your clipboard. Alt + A to access the search bar quickly.
+// @author       mister-stirling
 // @match        https://www.dict.cc/*
 // @match        https://www.linguee.fr/*
 // @match        https://de-en.dict.cc/*
@@ -12,6 +12,18 @@
 
 (function () {
     'use strict';
+
+    // changes position of dict.cc main content to the left (more comfy to look at and use)
+    document.getElementById('maincontent')?.style && (document.getElementById('maincontent').style.marginLeft = '100px');
+
+const observer = new MutationObserver(() => {
+    const el = document.getElementById('maincontent');
+    if (el) el.style.marginLeft = '100px';
+});
+
+observer.observe(document.body, { childList: true, subtree: true });
+
+    // QoL improvements
 
     window.addEventListener('load', () => {
 
