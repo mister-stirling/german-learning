@@ -1,14 +1,37 @@
 # german-learning
 
-Ce repo contient mes notes personnelles sur l'apprentissage de l'allemand, c'est-à-dire :
-- Les programmes que j'utilise :
-      - Add-on pour le site https://www.dict.cc/ et linguee.fr (dicos en ligne) : une fois ajouté dans l'extension Tampermonkey, il permet d'écouter et de copier un mot et sa signification en un clic. Il ajoute aussi une boîte de texte pour noter des choses (e.g : guide de prononciation) et copier ensuite.
+Ce dépôt contient mes notes personnelles et outils pour l'apprentissage de l'allemand.
 
-Pour cet add-on, la barre de recherche se désactive lorsque les boîtes de texte sont actives. On peut utiliser le raccourci ALT + A pour la faire réapparaître et saisir à nouveau du texte sans avoir à bouger la souris.
-  
-   
-- Mes dictionnaires/notes
-     - voir la dernière verrsion du dico : Aussenseiter_1_par_Fauxhumain_XXXXXX_pX-pXXX.txt
-- Mes recommandations
-  
-bon apprentissage
+## 📦 Contenu
+
+- Un add-on (script Tampermonkey) pour faciliter l'utilisation des dictionnaires en ligne.
+- Des dictionnaires et notes personnelles organisés par version.
+- Quelques recommandations pratiques pour progresser efficacement.
+
+---
+
+## 🧩 Add-on pour dict.cc et linguee.fr
+
+Un script pour Tampermonkey qui :
+
+- Permet de copier et écouter un mot + sa traduction en un clic.
+- Ajoute une boîte de texte pour prendre des notes (ex. : prononciation).
+- Utilise le raccourci `ALT + A` pour réactiver la barre de recherche si elle est désactivée.
+
+👉 Voir [`tampermonkey-addon.user.js`](tampermonkey-addon.user.js)
+
+---
+
+## 📚 Dictionnaires personnels
+
+- Fichiers au format `.txt` contenant du vocabulaire trié par thème ou fréquence.
+- Dernière version :  
+  `Aussenseiter_1_par_Fauxhumain_XXXXXX_pX-pXXX.txt`
+
+---
+
+## ✅ Recommandations
+
+- Ne pas apprendre des mots isolés : privilégier les phrases complètes.
+- Revenir régulièrement sur le vocabulaire appris.
+- Lire, écouter, parler : utiliser des supports variés (livres, podcasts, dialogues).
