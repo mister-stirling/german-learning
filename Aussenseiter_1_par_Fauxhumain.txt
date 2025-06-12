@@ -190,7 +190,7 @@ das Einzige {n} : ein-tsi-ke : the only one
 ihre : sa (possessif, singulier féminin) (sa à elle)
 ihren : possessif singulier masculin
 
-gesamt : gé-zamt : entier/total/complet
+gesamt : gé-zamt : entier/total/complet | adverbe dans l'ensemble | gesamten
 
 Region {f} :  : region | 412
 Gegend {f} :  : region | 1471
@@ -235,7 +235,7 @@ Früh : (fr-u) early/plus tôt/matinal/avant [e.g : c'était mieux avant : früh
 	
 dazwischengekommen : da-ts-vischken-gekommen : intervenu/came up
 
-erwartet : ea-va^r^tet : planned/anticipated {adj} {past-p} | 1067
+erwartet : ea-va^r^tet : planned/anticipated {adj} {past-p} | 1067 | racine verb erwaten
 
 eingesetzt : einge-zetst : commencé/débuté/appointed {adj} {past-p} | 955
 
@@ -324,6 +324,8 @@ Felsen : felzen : rocher (gros rocher, nature immobile, indomptale)
 
 hervorgerufen : hea-for-géru-feun  : caused {past-p} | 514
 
+im : i-m : en 
+
 im Großen :  : en masse {adv} 
 Großen : gros/large | großer
 Steins : bloc/roche/pierre/caillou (petit caillou, une pierre, objet manipulable)
@@ -335,7 +337,7 @@ Toten- : t-eau-t^n : death {adj} [attr.] [e.g. knell, mask, certificate, deity] 
 
 Ozeans : ot-sians : oceans
 zuerst : tsou-earst : d'abord/first {adv} | 2112
-[sie] brachen : braCHen  : [they] broke | 173
+[sie] brachen : braCHen  : [they] broke | 173 | 
 innerlich : innaliçh : internal {adj} | 705
 
 jd. spürte auf : spu^ate : sb. traced
@@ -472,11 +474,11 @@ daran :  : thereon {adv} | 612
 daran → en cela, à cela (référence à une croyance, ici : croire en)
 DARAN peut aussi dire "à cela/y [penser => gedacht]"
 
-dass → que
+dass : que
 
-alles → tout
+alles : tout
 
-was → ce qui
+was : ce qui
 
 etwa : marque l'étonnement/provocation (ne se traduit pas)
 „Glaubst du etwa, ich merke das nicht?“ => u crois vraiment que je ne le remarque pas ? = Sous-entendu : bien sûr que je m'en rends compte.)
@@ -600,7 +602,7 @@ eigens : eigenz  : specifically {adv} | 297
 
 Verfügung {f} [Verfügungsgewalt] :  : disposal | 1380
 Verfügung {f} : fea-fu-gung  : law ordinance | 455
-jd. verfügte : fa-fugteu  : sb. disposed [had at one's disposal] | 169
+jd. verfügte : fa-fugteu  : sb. disposer/disposed [had at one's disposal] | 169 | verfügen
 
 jd. stellt : shtelt  : sb. poses/represents | 217
 
@@ -730,7 +732,7 @@ sich einnisten : einn-est^n  : to nest
 
 nach :  : après [later/after]/towards {prep} | 2688
 
-Tod {m} : tot  : death | 1866
+Tod {m} : tot  : mort/death | 1866
 
 doch : doCH : however {adv} | 2697
 
@@ -779,7 +781,7 @@ etw. erhellte : ea-hell-te : sth. lit up
 
 vergessen : fea-gessen : forgotten {adj} {past-p} | 584
 
-bedeuten : be-doyten : signifier/to matter/mean/signify | 6040
+bedeuten : be-doyten : signifier/to matter/mean/signify | 6040 | racine verbe deuten | deutete
 
 Zukunft {f} : tsou-kounft  : future | 3120
 
@@ -876,7 +878,7 @@ alles : tout
 
 Leg los! : lék los : Take it away! (idiom)
 
-unter [+Dat.] : ount^a  : among/under (= sous [ses yeux etc]) {prep} | 5960
+[datif] unter : ount^a  : among/under (= sous [ses yeux etc]) {prep} | 5960
 
 vielen : fi-len : many
 
@@ -1014,7 +1016,7 @@ jd. überlegte : uba-lekte : sb. deliberated | 206
 
 wussten (racine wissend : savoir)
 
-lange : langeu : long {adv} | 543
+lange : langeu : long {adv} | 543 | lang
 
 jd. hieß : hiss : sb. was called
 
@@ -1030,7 +1032,7 @@ entdeckt : en-teckt : découvert/discovered {adj} {past-p} | 554
 
 Heiler : guérisseurs, soigneurs
 
-jd. lachte : loCHte : sb. laughed | 121
+jd. lachte : laCHte : sb. laughed | 121
 
 sein hinein : hi-naïn : son intérieur/ (hinein = in) {adv} | 601 
 
@@ -1091,6 +1093,9 @@ gebraucht habe = ai mis / ai utilisé/avoir mis (du temps)
 brauchen : rau-CHen: to need/to require/to want [de temps VOIRE prendre du temps] : verb 
 
 gebraucht : ge-brau-CHt : deuxième main/usé/used/second-handed {adj} {past-p} | 973 (ADJECTIF)
+
+^ NE PAS CONFONDRE AVEC GETRAGEN (verbe porter) 
+
 merkwürdig : merkvurd-içh : peculiar/odd/curious {adj} | 3787
 
 bis : bis : until/till/jusqu'à {prep} {conj} | 4198
@@ -1153,6 +1158,8 @@ etw.Akk. erzählen : ertsé-len : to tell sth. [a story etc.] | 4241
 jd. dachte : daCHte : sb. thought | 4210
 
 bereits : beu-raïts : already {adv} | 6848
+
+à NE PAS CONFONDRE avec bereit (ready/préparé)
 
 darüber : daruba : ahead/overhead {adv} | 379
 
@@ -1411,7 +1418,7 @@ Aufzeichnungen machen : keep records
 
 eng [Kleidung, Beziehung] : (prononcé ing) : serré/étroit/proche/tight {adj} [narrow, close] | 7251
 
-bei = près, à côté
+bei : b-aïl : près, à côté
 
 einander : eye-nan-dea : each other/l'un l'autre {pron}
 
@@ -1558,7 +1565,7 @@ bei der Auswahl → lors de la sélection / dans le choix
 
 Ihres Personals → de votre personnel
 
-jdn./etw. erinnern [ugs.] [nordd.] : ea-innern : to remember sb./sth. | 2158
+jdn./etw. erinnern [ugs.] [nordd.] : ea-innern : to remember sb./sth. | 2158 | die {f} Erinnerung (Mémoire, NOUN)
 
 dich : diçh : you {pron} [direct object] [informal] | 1351
 
@@ -1648,7 +1655,7 @@ bebte (infinitif Beben) : tremblait. inf séisme/tremblement/secousse/frémissem
 
 Empörung {f} : emp-uuu-roung : outrage/indignation/dégoût | 2390
 
-aus : préposition fourre-tout : from/out/of
+aus : préposition fourre-tout : from/out/of/de/par
 
 vogelartig : fogel-artiçh : orn. avian/birdlike/aquilin {adj} | 254
 
@@ -1712,7 +1719,7 @@ endlich [selten]: ent-liçh : finalement/eventually/finally/ eventual {adj} | 22
 
 Ordnung {f} : ort-noung : order | 673
 
-gebracht : gebraCHT : brought {past-p} | 573 (infinitif bringen)
+gebracht : gebraCHT : brought {past-p} | 573 (infinitif bringen) | brachte
 
 Seiten {pl} : zay-ten : pages <pp.> | 1063
 
@@ -1746,6 +1753,8 @@ Staub {m} : shtao-b : dust/poudre | 2746
 Hose {f} : hoo-ze : cloth. pants {pl} [esp. Am.] [one pair] | 5489
 
 abgetragen : ap-ge-trag^n : shabby/dégradé/threadbare {adj} | 203
+
+NE PAS CONFONDRE avec GETRAGEN ^
 
 ordentlich : ordent-liçh : SOIGNEE (un vetement soigné)/ordinaire/convenable/correctement 
 
@@ -2239,7 +2248,7 @@ Sache {f} : zaCHE : choses/thing | 1079
 
 lag : lag : se trouvait/était (infinitif liegen, situer) (VERB)
 
-gewiss : géviss : certain/quelque {adj} | 3547 
+gewiss : géviss : certain/quelque {adj} | 3547 | gewisser
 
 Gewissen {n} : gévi-ssen : conscience | 5832 (noun) 
 
@@ -2301,8 +2310,287 @@ klar : klaa : clair/lucid {adj} | 1619
 
 wurde mir klar : je compris
 
-Werkzeuge {pl} : verk-tzoygeu : outils/artéfacts/artifacts | 109
+Werkzeuge {pl} : verk-tsoygeu : outils/artéfacts/artifacts | 109
 
 untersuchen : ount^a-zuCHen : to investigate | 4817 | untersuchten
 
 sieht : zit : voir | racine sehen = voir infinitif vebre
+
+ehrlich :  : honnête/sincère/fidèlement/honest {adj} | 9887
+
+wahrheitsgetreu : var-haï-tsgeu-troy : véridique/veridic/faithful {adj} [to reality] | 380
+
+wiedergegeben: vi-d^a-gégéb^n  : reported/portrayed/reproduced {adj} {past-p} | 251
+
+stimmen : stimm^n : math. to add up
+
+Details {pl} : di-tayls : details | 107
+
+im Wesentlichen : vi-zent-liçhen : en gros/en grande partie/for the most part/largely {adv}
+
+tatsächlich : tat-zéçhliçh : effectivement/indeed {adv} [in truth] | 2899
+
+sich zugetragen : tsou-gé-tragènn : occurred {past-p}
+
+oft : auft : souvent/often {adv} | 6140
+
+Faulenzer {pl} : fowl-ents^a : fainéants/slacker/bums | 342
+
+Brüllen {n} : brull^n : bellow | 47
+
+jd. ließ : liss : sb. let | 431 | liess
+
+zusammenzucken : tsou-zamm^tsouk^n : tressaillir/sursauter/to wince/to jerk | 1831
+
+gefälligst : gé-félligst : kindly {adv} [esp. euph.] | 426
+
+der / die / das Eure : oyre : yours {pron}
+
+bezahlen : bé-tsah-len : payer/paiement | bezahle
+
+Trottel {m} [pej.] : trott^l : moron/twat/sucker [esp. Am.] [coll.] [stupid person] | 538
+
+quatschen [ugs.] : kvat-sh^n : bavarder/papoter/to gossip | 684
+
+das Quatschen : bavardage
+
+hünenhaft : huu-nen-haft : gigantic {adj} | 28 | hünenhafte
+
+Anführer {m} : an-fuhr-er : meneur/leader (légèrement péjoratif, "meneur"/celui qui mène en avant, c'est chef d'un groupe INFORMEL, rebelles, criminels, utilisé aussi avec les enfants)| 335
+
+on utilise Anführer pck dire Führer ça craint en allemange à cause de l'autrichien fou (c'est très mal vu)
+
+Au travail on dit der Chef/die Chefin (féminin) ou Leiter (chef de projet= Projektleiter, leader = Leiter)
+
+Vorgesetzter : fuo-geu-zetster: supérieur/supérieur hiérarchique 
+
+jd. tauchte : taoCHte : sb. dove [Am.] | 130 | tauchen
+
+Vordereingang {m} : ford-ar-aïl-ngang : front entrance
+
+am : [an dem] : a-m : AT THE/on the/near the/by the {prep} [prep+art]
+
+jd. warf : varf : sb. threw | 412
+
+Tür {f} : tu-a : door | 2562
+
+zur : zu + der = zur (= vers : zur Tür : vers la porte)
+
+eilen : aïl-en : to hurry | 1013 | eilten
+
+Faule Säcke : sacs parasseux! (grosses feignasses)
+
+jd./etw. knurrte : kno-tte : sb./sth. snarled/growled | 122
+
+Lohn1  {m} [Arbeitsentgelt] : lo^n  : [financial, jobs] wage/paie | 4313
+
+abholen : aller checher (verbe) / abzuholen
+
+mal : dans un contexte d'une réprimande par ex, peut adoucir ou ironise l’injonction 
+
+jd. beobachtete : bo-obaCH-téteu : sb. observer/observed | 68 (adj)
+
+jdn./etw. beobachten : bo-obaCH-t^n : to observe sb./sth. [watch] | 5205
+
+das Beobachten : l'observation
+
+der {m} Hof : hoo-f : cour/jardin/préau
+
+etw.Akk. erwärmen : ea-vér-men : réchauffer/to warm up/to heat sth. | 189
+
+eingetroffen : aïl-ngeu-troffeun : arrived {adj} {past-p} | 229
+
+Transport {m} : tr-anne-spor-t : transport | 1289
+
+bereit : beu-raïl-t : ready {adj} | 2428
+
+merkwürdigerweise : merk-vurdi-ga-vaill-ze : strangely {adv}/oddly enough/curiously enough/funnily enough [strangely enough] | 161
+
+ertappen : ea-tapp^n : surpris/prendre en flagrant délit/to catch [e.g: myself]| ertappte
+
+Gedanken {pl} : gé-dank^n : thoughts | 1701
+
+bei dem Gedanken = à la pensée de 
+ungeduldig : oun-geul-doul-diçh : impatient/eager {adj} | 4126
+
+gewartet : gé-vartet : waited {past-p} | 37
+
+================================================================ 12JUN2025 (Page 20) (MATIN) ================================================================
+
+
+Weise : manière
+
+in gewisser Weise : geviss^a vayze : dans un sens/in a sort/in a way/in a sense {adv}
+(littéraelement : dans une certaine manière/d'une certaine manière)
+
+zusammengebrochen : tsou-zam^n-gebroCHen : crashed down/collapsed {adj} {past-p} | 327
+
+Meine Welt ist zusammengebrochen. :  : My world just caved in. (IDIOM)/ mon monde s'est éffondré
+
+großartig : grouss-artiçh : great/splendid {adj} | 3109
+
+dürfen :  : are allowed to/ to be authorized to/to dare | durfte
+
+distanziert [Verhalten] : distan-tsiert : distant {adj} [reserved] | 33
+
+Heim {n} : hay-m : home | 359
+
+auseinander : aouss-ein-and^a : apart {adv} | 1404
+
+genommen : genomm^n : taken {adj} {past-p} | 622
+
+auseinandergenommen :  : taken apart {adj} {past-p} [usually postpos.]
+
+klargeworden : kla-gé-vo^r^den : become clear {past-p} | klarwerden (verb)
+
+allein : all-ayn : alone {adj} {adv} | 2202
+
+Als ich : j'avais
+
+gegen : gi-gen  : against {prep} | 5714
+
+starker : shta-k^a : fort | racine stark (adj)
+
+helfen : helf-en : to help | 2052
+
+PEJORATIF ==> schwatzhaft : shvatss-haft : talkative/chatty {adj} | 13 | schwatzhaft
+
+
+zärtlich : tséat-liçh : (adj) tendre/affectueuse 
+
+die {f} Verzweiflung : fa-tsvai-floung : désespoir/désolation (NOUN)
+
+Wut {f} : vout : furie/rage | 1917
+
+trocknen : treuk-nen : sécher
+
+Kloß {m} : kloss : lump | 179
+
+Kehle {f} : kiileu : anat. VetMed. throat | 1190
+
+[sie] brannten : brann^tn : [they] burned | 13
+
+dadurch : dadoyçh : ainsi/donc
+
+Gefühle {pl} : ge-fühleu : emotions/sentiments | 458 | fühlen 
+
+jdn./etw. verraten : ferra-ten : trahir/to betray sb./sth. | 565  | verrieten
+
+ausbrechen : aouss-brèçhen : to burst [e.g : in tears = in Tränen] | 587
+ 
+Wenigstens : au moins/du moins (adverbe)
+
+Räuber {m} : royb^a : voleurs/bandits/robber | 620
+
+amüsieren : amuzir^n : to amuse | 541
+
+unter den Nagel rissen : s'approprier/s'emparer de qqch de force (littéralement "arracher sous l'ongle" (IDIOM)
+
+Nagel {m} : nageul : anat. tools nail | 1693
+
+reißen : rayss^n déchirer/arracher (verbe) | reissen
+
+(prédictif) vorbei : forb-aïl : fini/over {adv} [pred.] [finished] | 654
+
+tief : tiff : profond (adjectif, adverbe : profondément) | tiefes
+
+Loch {n} [auch fig.] : loCH : trou/hole [also fig.] | 2402
+(ne pas confondre avec laCH qui signifie rire)
+
+sichAkk. verkriechen : fa-kriçhen : se terrer/to hide oneself away
+
+frei : fray : libre (adjectif) | librement (adverbe) | freien
+
+lassen : lass^n : laisser/to let [e.g : let my feelings run free]| 3834
+
+jd./etw. wäre : vèreu : sb./sth. were [subjunctive] | 227
+
+Erinnerung {f} : eu-inneroung  : memory | 1390
+
+gelehrt : geu-lyat : APPRIS/TAUGHT/ érudit/savant/studieux/studious/academic {adj} | 489 (racine LEHREN)
+
+jd. sah : zah : sb. saw | 509 racine sehen
+
+geliebt : gé-lipt : aimé/bien-aimé | geliebten. racine verbe lieben/geliebt
+
+vernichtet :fa-niçhtet  : destroyed/expunged {adj} {past-p} | 81
+
+getragen : geu-trag^n : porté/carried/worn {adj} {past-p} [dressed in] | 522 
+
+Ort {m} : Ort : location/site/place | 2378
+
+aufgehört : auf-ge-heurt : cessé/ceased {past-p} | 759 | racine aufhören
+
+Zuhause {n} : tsou-haouze : foyer/home | 728 (zuhause ça veut dire "chez soi", le lieu où l'on vit, c'est pas forcément une structure physique. Haus désigne le batiment)
+
+gestorben <gest.> : gesht-orb^n : mort/dead/died {adj} | 570 | verbe racine sterben (mourir)
+
+^ NE PAS CONFONDRE AVEC LE NOM Tod, ici sterben est un VERBE (action)
+
+2. Proposition subordonnée introduite par dass
+
+En allemand, dans une subordonnée introduite par une conjonction comme dass, le verbe conjugué se place en fin de proposition.
+
+bewusst : bévoust : aware/conscious {adj} | 7407
+
+fundamental : foundamental : radical {adj} | 320
+
+Wahrheiten {pl} : var-haï-ten : truths | 46
+
+Leute {pl} : loyteu : les gens/people | 2450
+
+dort : douat : là/there {adv} | 32767
+
+Zu dieser Zeit : à cette époque
+ 
+jd./etw. rutschte : rout-shte : sb./sth. glisser/descendre/slipped/skidded | 244 | racine verbe rutschen
+
+Hocker {m} : hock^a : furn. tabouret/stool | 1712
+
+größere : greuss-èreu : vaste/grand/sizeable {adj} | 18
+
+geschwind [südd.] : gé-shvint : fast {adj} {adv} | 120
+
+Geschwindigkeit {f} : gésh-vint-diçh-kayt : vitesse/vélocité/speed | 1214
+
+angesichts : angeu-ziçhts : compte tenu de/vu/in light of 
+
+lediglich : lidikliçh : seulement/merely {adv} | 9618
+
+Beweglichkeit {f} : bivig-liçh-kayt  : agility | 561
+
+etw.Akk zustande bringen : tsou-shtande : to accomplish/to achieve sth | zustande :
+
+froh : fro : glad {adj} | 4673
+
+zu verfügen : disposer de/avoir à disposition
+
+damals : dam-alss: back then {adv}
+
+hold : favorable/souriante
+
+Das Glück war jdm. hold. [dichter.] [veraltend] :  : Fortune favoured sb. [Br.]
+
+(la chance lui avait souri)
+
+in der Lage sein : être en mesure de/être capable de (IDIOM intraduisible; traduction littérale "dans la situation être")
+
+Lage {f} [örtlich] : la-geu : location/situation | 1815
+
+Schwarzmarkt {m} : shvatz-markt : comm. law black market
+
+Gewohnheit {f} : gévon-haït : habit | 3285
+
+Aus alter Gewohnheit : par habitude ancienne/out of old habit
+
+Brust {f} : broust : anat. VetMed. poitrine/chest/breast | 5904
+
+Steinbrocken-Monitor-Knochen-Knopf : Pierre — moniteur — os — bouton
+
+Steinbrocken {pl} :  : geol. boulders | 6
+
+(ça sert à rien d'y faire sens, c'est le nom de l'objet qu'il porte, Bouton en os de moniteur pierreux. Un monitor ça peut être un type de lézard)
+
+================================================================ 12JUN2025 (Page 21) (MATIN) ================================================================
+
+
