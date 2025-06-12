@@ -17,21 +17,6 @@ Un script pour Tampermonkey qui :
 - Permet de copier et écouter un mot + sa traduction en un clic.
 - Ajoute une boîte de texte pour prendre des notes (ex. : prononciation).
 - Utilise le raccourci `ALT + A` pour réactiver la barre de recherche si elle est désactivée.
+- Permet de lisser l'utilisation du site: marge à gauche, etc pour plus de visibilité.
 
-👉 Voir [`tampermonkey-addon.user.js`](tampermonkey-addon.user.js)
-
----
-
-## 📚 Dictionnaires personnels
-
-- Fichiers au format `.txt` contenant du vocabulaire trié par thème ou fréquence.
-- Dernière version :  
-  `Aussenseiter_1_par_Fauxhumain_XXXXXX_pX-pXXX.txt`
-
----
-
-## ✅ Recommandations
-
-- Ne pas apprendre des mots isolés : privilégier les phrases complètes.
-- Revenir régulièrement sur le vocabulaire appris.
-- Lire, écouter, parler : utiliser des supports variés (livres, podcasts, dialogues).
+👉 Voir l'extension tampermonkey.
