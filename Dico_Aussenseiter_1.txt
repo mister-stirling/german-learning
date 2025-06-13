@@ -597,7 +597,7 @@ etw.Akk. versehen [ein Amt, eine Funktion] :  : to exercise sth. [an office or
 
 jdn. versehen  : relig. to give sb. the last rites
 
-Versehen {n} : fa-zi-en : mistake | 618
+Versehen {n} : fa-zi-en : mistake/accident | 618
 
 eigens : eigenz  : specifically {adv} | 297
 
@@ -1035,7 +1035,7 @@ entdeckt : en-teckt : découvert/discovered {adj} {past-p} | 554
 
 Heiler : guérisseurs, soigneurs
 
-jd. lachte : laCHte : sb. laughed | 121
+jd. lachte : laCHte : sb. laughed | 121 | racine verbe lachten
 
 sein hinein : hi-naïn : son intérieur/ (hinein = in) {adv} | 601 
 
@@ -1385,6 +1385,8 @@ ein weiteres : vaille-te-res : another {adj} (racine weiteren)
 
 Gericht {n} [Speise] : géri-çht : gastr. dish | 6424
 
+Gericht {n} : gériçht : tribunal/law court | 5127
+
 jdn./etw. bringen : bring^n : to bring sb./sth. | 2770
 
 zugeflüstert : tsou-geu-fluust-^ea^t : whispered to {past-p}
@@ -1479,7 +1481,7 @@ Klappe! [ugs.] : klappeu! : Pipe down! [coll.]
 
 Klappe : klappeu : clapet/gueule {f} (NOUN)
 
-Hintern : hint^an : fesses/butt {m} {f} (NOUN)
+Hintern : hint^an : fesses/butt {m} {f} (NOUN) 
 
 Halt : halt :arrête/stop/maintenir
 
@@ -1565,7 +1567,7 @@ Personals: perzonal: personnes/ressources humaines/employés/staff
 
 vorgehen [verfahren] : for-gi-ine : to proceed | 1034
 
-bissig : bissiçh : snappy {adj} [coll.] [snappish] [often fig.] | 419
+bissig : bissiçh : acerbe/snappy/mordant {adj} [coll.] [snappish] [often fig.] | 419 | bissigen
 
 bei der Auswahl → lors de la sélection / dans le choix
 
@@ -1679,7 +1681,7 @@ ruckartig : rouck-artiçh : par accoups/saccadé/brusquement/fitful/jerky {adj} 
 
 jd. kroch : kroCH : sb. rampant/crawled/crept/cringed | 705
 
-der :  : the [masculine]/who [prnom relatif, male]/which/that {pron} | 151
+der :  : the [masculine]/who [prnom relatif, male]/which/that/ celui-ci {pron} | 151
 
 jd. verfluchte : fa-flouCHte: sb. cursed | 83
 
@@ -2250,7 +2252,7 @@ eigentlich : ai-gèn-tliçh : en fait/en réalité/actually/actual/true {adv} | 
 
 gewesen : gé-vizen : been {past-p} | 1074 | infinitif sein
 
-Sache {f} : zaCHE : choses/thing | 1079
+Sache {f} : zaCHE : l'affaire [ex: une dispute]/l'histoire/choses/thing | 1079
 
 lag : lag : se trouvait/était (infinitif liegen, situer) (VERB)
 
@@ -2518,7 +2520,7 @@ gelehrt : geu-lyat : ENSEIGNER/APPRIS/TAUGHT/ érudit/savant/studieux/studious/a
 
 utiliser gelehrt implique un enseignement scolaire ou théorique, c'est formel
 
-jd. sah : zah : sb. saw | 509 racine sehen
+jd. sah : zah : sb. regarder/saw | 509 racine sehen
 
 geliebt : gé-lipt : aimé/bien-aimé | geliebten. racine verbe lieben/geliebt
 
@@ -2913,3 +2915,169 @@ Arenen {pl} : arén^n : arenas | 7
 
 ================================================================ 13JUN2025 (Page 24) (MATIN) ================================================================
 
+früher : fruuer : plus tôt 
+
+zuhören : tsou-heuren : to listen | 1815
+
+{m} Ausbilder [bes.: mil.] : aouss-bild^a : entraîneur/instructor/trainer | 362
+
+etw. hallte : hallt-eu : sth. résonner
+
+wider : en écho : particule de wiederhallen qui modifie le verbe hallen pour exprimer reverbération (la voix a résonné avec un retour)
+
+widerhallen :  : to resound | 418 (résonner + écho revient)
+
+{f} Höhle : heull-eu : grotte (implique une cavité naturelle souterraine (espace fermé, naturel, grand), ce n'est pas un simple trou comme Loch)| 1480
+
+zähe : tsé-heu : tough {adj} | 75
+
+{m} Rotschopf : rot-shopf : redhead | 68
+
+{m} Schopf :  : shock of hair
+
+{n} Mitglied : mit-gl-iit : member/associé | 2381
+
+{m}  Wettstreit : vett-shtrayt : rival/rivalerie/en compétition | 53
+
+dem : di-m  : (to) whom {pron}/to the
+
+Grundlagen {pl} : grount-lagen : essentials/fondamentaux | 994
+
+{f} Kunst : koun-st  : art/knack [talent] | 558
+
+Spitzhacke {f} : shpitz-hackeu : tools pickaxe [Br.] | 175
+
+{m} Bergbau : industrie minière (NOUN) | Bergbaus
+
+umgehen : oum-gi-en : manier/manipuler/savoir uiliser qqch :(verbe à part entière, pas séparable)
+
+umgeht: oum-git : sb./smth contourner/goes round sb./sth.
+
+scharfe : sharf : perçant/incsif/tranchant 
+
+{f} Ausnahme : aouss-nahmeu : exception | 4017
+
+breiter : brayta : wider {adj} {adv} | 786
+
+{f} Reihe : rayh-eu : rangée/row/array | 1415
+
+schiefer : de travers/tordues/penchées
+
+gelber : gelb^a : ambrée/jaunes | gelb
+
+krötenähnlicher : kröten = crapauds + ähnlicher : ressemblant à /similaire à 
+
+{f} Kröte : kreu-teu : crapaud/toad
+
+ähnlicher : énliçh^a : similaire 
+
+aufs Stichwort : intraduisible mais c'est l'équivalent de "right on cue", en français "comme sur commande" (IDIOM)
+
+{n} Stichwort : shtiçh-vort : signal/cue/mot d'odre | 2538
+
+aufs : an das (prép + article contracté) => à la
+
+{m} Mitschüler : mit-shuula : classmate/fellow pupil/condisciple | 274
+
+hämisch : hémiçh : avec malveillance/gleeful/sneering {adj} [maliciously] | 613
+
+Mädchen {n} : médçhen : girl | 32767
+
+hübscheste : huup-sheste : prettiest {adj} | 21
+
+{f} Klasse : klasseu : classe [e.g : salle de classe]
+
+besonders : beuzondas : particulièrement/particularly/especially {adv} | 7287
+
+umgeben : oum-giben : entouré/surrounded {adj} {past-p} | 711
+
+{f} Schar : shaa : foule/groupe/ribambelle/troupe/flock | 1409
+
+übel : ub-eul : disgusting/unpleasant/sick/evil {adj} | 1112
+
+hübsch : hupsh : beau/handsome/belle/pretty {adj} | 5724
+
+{f} Königin : keunig-in : reine/queen | 927
+
+ältesten : alt-est^ns : plus vieux/oldest/eldest {adj}
+
+{m} Streit : shtrayt : conflit/quarrel | 1689
+
+{f} Visage : visageu : synonyme de Gesicht = visage
+
+on dit une visage
+
+to smash sb.'s face in [coll.]	: jdm. die Fresse polieren [ugs.] (IDIOM)
+
+poliert : poli-a^t : lustré/poli/ciré/slick {adj} | 83 | polieren
+
+^ comprendre ici "donner une gifle/frapper quelqu'un au visage" même si c'est pas clair car le pere a presque (beinahe) poli le visage du mec. 
+
+Stadt {f} : shta-dt : town/city | 1657
+
+gesprochen : gesh-proCHen : talked/spoken {adj} {past-p} | 482
+
+begonnen : be-gonnen : begun {past-p} | 358 | verbe racine beginnen
+
+spießige : petit-bourgeois/arrogant/étroit d'esprit/(être carré/coincé/ennuyeux, empêche les enfants de jouer avec les enfants 'questionnables' des voisins,c'est un terme ancré dans la culture allemande avec notion de classe)
+
+aufgeregt [nervös] : aouf-gerigt : excité/jittery/flustered/nervous {adj} | 1300
+
+verfluchter : fa-fluCHte : more cursed {adj}
+
+{f} Tochter : toCHta  : daughter | 32767
+
+gelandet :  : landed {adj} {past-p} | 57
+
+vor Gericht landen : « passer en justice », « finir devant les tribunaux ».
+
+einhellig : aïl-n-héliçh : unanimous {adj} | 575
+
+hinter : hint-a : derrière/behind {prep} | 4920
+
+argumentieren : argoumentièren : to argue | 3489 | argumentierten
+
+{f} Behinderung : bé-hind-éroung : med. disability | 1965
+
+Lernfortschritt {m} : leurn-fort-shritt : educ. learning progress
+
+etw.Akk. beeinträchtigen : be-ayn-tréçhtigèn : to compromise sth. [impair] | 2353
+
+jdn./etw. jagen : ya-g^n  : to chase sb./sth. | 2923
+
+[sie] gingen : ging^n : [they] went | 822
+
+bloße : bloss-eu: seulement/uniquement | bloß
+
+{f} Anwesenheit : an-vizent-haït : attendance/presence | 2281
+ 
+{f} Gruppe : groupeu : group | 1331
+
+schwächen : shvéçhen : to weaken/to undermine | 728
+
+etw. anrichten [Schaden, Unheil etc.] : anriçhtèn : to cause sth. [damage, harm, etc.] | 579
+ 
+ letztendlich : lètzt-entliçh  : eventually {adv} | 3237
+ 
+ Beute {f} : boyte : prey/loot | 3154
+ 
+ wollen : envie/vouloir
+ 
+ wohl doch nuance avec incertitude ou fatalisme : « probablement quand même »
+ 
+ anhaltende : an-halt-endeu : persistent/durable
+ 
+{f} Belastung : beul-astoung : burden | 3403
+ 
+auf etw.Akk. achten : ACHten : to pay attention to sth.
+
+nicht aus Versehen — ne [soit] pas par accident
+  
+irgendeinem : irg-en-daynem : quelconque
+  
+Mob : monstre
+ 
+================================================================ 13JUN2025 (Page 25) (MATIN) ================================================================
+
+getötet : geu-tutét : slayed/killed {adj} {past-p} | 101 | töten
+  
