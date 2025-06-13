@@ -20,3 +20,9 @@ Un script pour Tampermonkey qui :
 - Permet de lisser l'utilisation du site: marge à gauche, etc pour plus de visibilité.
 
 👉 Voir l'extension tampermonkey.
+
+---
+
+## 📊 Où trouver un résumé des statistiques de la progression ?.. 
+
+👉 Voir le fichier Progression_et_stats_ici!
