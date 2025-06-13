@@ -49,7 +49,7 @@ Gesichtsausdruck {m} : gézi-çhts-aous-trouk : countenance [facial expression]
 
 Augenblicke {pl} : aougen-blik^a : moments | 22
 
-wenige : vinigg^a : few {adj} {pron} | 1557
+wenige : vinigg^a : peu [e.g : peu remarquable]/few {adj} {pron} | 1557
 
 jd. glaubte : gla-obte : sb. believed | 57
 
@@ -88,7 +88,7 @@ fast : "presque" /nuance d'intensité
 
 hinzu : in-tsou : en plus/en supplément
 
-hinzufügen : ajouter en plus (mot exact pour définir l'ajout, hinzu étant la particule du verbe)
+hinzufügen : hin-tsou-fug^n : ajouter en plus (mot exact pour définir l'ajout, hinzu étant la particule du verbe)
 
 zufügen : ajouter, inflinger,causer
 
@@ -104,6 +104,7 @@ jd. schritt : shritt : sb. strode | 483
 
 vor : before/ahead/previously/prior to/il y a [temporel]
 vor est spatial aussi, action : en avant [spatial]
+vor : surtout
 
 trat einen Schritt vor : fit un pas en avant,
 trat vor	il s’avança	Action globale, mouvement net
@@ -240,7 +241,7 @@ erwartet : ea-va^r^tet : planned/anticipated {adj} {past-p} | 1067 | racine verb
 eingesetzt : einge-zetst : commencé/débuté/appointed {adj} {past-p} | 955
 
 
-daher : da^hea : hence {adv} | 8433
+daher : da^hea : ainsi/hence {adv} | 8433
 
 schläfrige {f} : shlé-fri-geu  : drowsy/somnolent
 
@@ -364,7 +365,7 @@ Vorräte {pl} : f-oa-rrête : réserves/stores/supplies/reserves | 44
  Vorräte {pl} an [+Dat.] :  : stocks of (IDIOM)
  
  an Leben und Energie : de vie et d'énergie
- an : de (introduit ce dont les réserves sont constituées)
+ an : de (introduit ce dont les réserves sont constituées)/pour/dans
 
  
  
@@ -781,7 +782,9 @@ etw. erhellte : ea-hell-te : sth. lit up
 
 vergessen : fea-gessen : forgotten {adj} {past-p} | 584
 
-bedeuten : be-doyten : signifier/to matter/mean/signify | 6040 | racine verbe deuten | deutete
+bedeuten : be-doyten : signifier/to matter/mean/signify | 6040 | racine verbe bedeuten | bedeutete
+
+deuten : interpréter/indiquer/signaler (avec auf + accusatif), sert à analyser/interpréter qqch. : il a pointé l'image du doigt | deutete  |
 
 Zukunft {f} : tsou-kounft  : future | 3120
 
@@ -902,7 +905,7 @@ davon : dafon : de ceci/des [qqch]/of the/of this {adv}
 
 gelesen : gili-zeun : read {adj} {past-p} | 312
 
-altehrwürdig : alt--ia--vurdiçh  : Ancien/vénérable/très honorable {adj} [building, town, name, etc.] | 504
+altehrwürdig : alt--ia--vurdiçh  : Ancien/vénérable/très honorable {adj} [building, town, name, etc.] | 504 | altehwürdigen
 
 es gibt [existiert, ist vorhanden] : es gipt : there's [there is]
 
@@ -982,7 +985,7 @@ käme nichts dabei heraus : nothing would come out of it/cela ne donnerait rien 
 
 Erfahrungsessenzen : erfahrung (=expérience) + essenz (pluriel essenzen = essence)
 
-nahezu : nahé-tsu : virtually {adv} | 3250
+nahezu : nahé-tsu : just about/almost/virtually {adv} | 3250
 
 geschaffen : ge-schaff^n : créer/created (VERB, infinitif schaffen)
 
@@ -1268,7 +1271,7 @@ vertrocknet : fa-trok-net : withered {adj} {past-p} | 1119
 vertrocknet wirkenden = paraissant desséchés, secs
 
 wirkend : virk-^nd  : agissant/donnant l'impression de/paraissant/avoir l'air/active/effective {adj} | 94
-(infinitif wirken) | wirkte
+(infinitif wirken) | wirkte | wirkten
 
 wirkend = adj marqueur d'apparence, styllistique, impression visuelle, ajoute distance littéraire + politesse
 (si on le met pas avec le 1er adj, ça sera une constation "ses doigts secs" (=mort, déshydraté) vs "ses doigts qui semblent désséchés")
@@ -1298,6 +1301,7 @@ festhalten : fest-halten : consigner/noter/enregistrer par écrit/adhérer/to ad
 entfernt [weggenommen] :  : removed {adj} {past-p} | 294
 
 [wir/sie/Sie] wurden : vourd^n : [we/they/you] were | 257
+[wir/sie/Sie] waren : var^n : [we/they/you] were | 1073
 
 die aus dem Haus entfernt wurden = qui furent enlevés de la maison
 
@@ -1358,6 +1362,8 @@ Tisch {m} : tish : furn. table | 3141 (NOUN)
 
 Jedes Mal :chaque fois
 
+===> Jedes = chaque unité d'un ensemble, contrairement alles qui désigne l'ensemble
+
 stört : shteu-at : sb./sth. déranger/distrub/deranges | 9
 
 Sprung {m} : shproung : saut/bond/FISSURE | 321
@@ -1366,7 +1372,7 @@ wen : vin : who {pron} | 3321
 
 Suppe {f} : zo-ppeu : gastr. soup | 32767
 
-halten (e.g : hält = hélt): halt-en : maintenir/retenir/garder/fermer | halt
+halten (e.g : hält = hélt): halt-en : tient/maintenir/retenir/garder/fermer/CONSIDERE | halt
 
 dennoch : néanmoins/quand même (implique la notion de 'malgré que')
 
@@ -1701,7 +1707,7 @@ Bürohengst {m} [pej.] : buro-hèngst  : paper pusher [coll.]
 
 lustig : loustiçh : funny/amusing {adj} | 3153
 
-lief : courut/se mit à (inf verb laufen) 
+lief : courut/marcher (inf verb laufen) 
 
 knallrot : knall-rot : rouge pétant {adj}
 
@@ -1754,7 +1760,7 @@ Hose {f} : hoo-ze : cloth. pants {pl} [esp. Am.] [one pair] | 5489
 
 abgetragen : ap-ge-trag^n : shabby/dégradé/threadbare {adj} | 203
 
-NE PAS CONFONDRE avec GETRAGEN ^
+NE PAS CONFONDRE avec GETRAGEN/tragen ^ 
 
 ordentlich : ordent-liçh : SOIGNEE (un vetement soigné)/ordinaire/convenable/correctement 
 
@@ -2094,7 +2100,7 @@ bleich : blaiçh : pale {adj} | 612
 
 Nee! [ugs.] : néé : Nope! [coll.] | 400
 
-ich vermute : fa-mout-eu : supposer/présumer/I reckon [coll.]
+ich vermute : fa-mout-eu : supposer/présumer/I reckon [coll.] | vermutet | verbe racine vermuten
 
 die Armen {pl} : arm^n : pauvre/the poor {pl}
 
@@ -2206,7 +2212,7 @@ Neuling {m} : noy-ling : recrue/rookie | 548
 
 Gefolge {n} : geu-fol-geu : retinue/entourage | 753
 
-aufgenommen : aouf-genomm^n : incorporated {adj} {past-p} | 212
+aufgenommen : aouf-genomm^n : repris/contracter/incorporated {adj} {past-p} | 212
 
 Du meine Güte! : Mon Dieu!/Seigneur!/Bon sang! (IDIOM)
 
@@ -2248,11 +2254,11 @@ Sache {f} : zaCHE : choses/thing | 1079
 
 lag : lag : se trouvait/était (infinitif liegen, situer) (VERB)
 
-gewiss : géviss : certain/quelque {adj} | 3547 | gewisser
+gewiss : géviss : certain/quelque {adj} | 3547 | gewisser | gewissen
 
 Gewissen {n} : gévi-ssen : conscience | 5832 (noun) 
 
-Ne pas confondre Gewissen et gewissen (adjectif, pas un nom) 
+Ne pas CONFONDRE Gewissen et gewissen (adjectif, pas un nom) 
 
 schlimmer : shlimm^a : worse {adj} {adv} | 7019
 
@@ -2288,7 +2294,7 @@ wichtigste : vishtiçhsteu : principal {adj} | 101
 
 gar [geh.] [sogar] : ga : même/carrément/even {adv} | 371
 
-Menge {f} [Quantum] : men^gue : amount | 4362
+Menge {f} [Quantum] : men^gue : quantité/beaucoup/amount | 4362
 
 Geld {n} : gelt : money | 3987
 
@@ -2328,7 +2334,7 @@ Details {pl} : di-tayls : details | 107
 
 im Wesentlichen : vi-zent-liçhen : en gros/en grande partie/for the most part/largely {adv}
 
-tatsächlich : tat-zéçhliçh : effectivement/indeed {adv} [in truth] | 2899
+tatsächlich : tat-zéçhliçh : en réalité/effectivement/indeed {adv} [in truth] | 2899
 
 sich zugetragen : tsou-gé-tragènn : occurred {past-p}
 
@@ -2372,7 +2378,7 @@ am : [an dem] : a-m : AT THE/on the/near the/by the {prep} [prep+art]
 
 jd. warf : varf : sb. threw | 412
 
-Tür {f} : tu-a : door | 2562
+{f} Tür : tu-a : door | 2562
 
 zur : zu + der = zur (= vers : zur Tür : vers la porte)
 
@@ -2474,7 +2480,8 @@ dadurch : dadoyçh : ainsi/donc
 
 Gefühle {pl} : ge-fühleu : emotions/sentiments | 458 | fühlen 
 
-jdn./etw. verraten : ferra-ten : trahir/to betray sb./sth. | 565  | verrieten
+jdn./etw. verraten : ferra-ten : révéler/trahir/to betray sb./sth. | 565  | verrieten
+^ faire gaffe ici à REVELER ET TRAHIR
 
 ausbrechen : aouss-brèçhen : to burst [e.g : in tears = in Tränen] | 587
  
@@ -2507,7 +2514,9 @@ jd./etw. wäre : vèreu : sb./sth. were [subjunctive] | 227
 
 Erinnerung {f} : eu-inneroung  : memory | 1390
 
-gelehrt : geu-lyat : APPRIS/TAUGHT/ érudit/savant/studieux/studious/academic {adj} | 489 (racine LEHREN)
+gelehrt : geu-lyat : ENSEIGNER/APPRIS/TAUGHT/ érudit/savant/studieux/studious/academic {adj} | 489 (racine LEHREN)
+
+utiliser gelehrt implique un enseignement scolaire ou théorique, c'est formel
 
 jd. sah : zah : sb. saw | 509 racine sehen
 
@@ -2592,3 +2601,315 @@ Steinbrocken {pl} :  : geol. boulders | 6
 (ça sert à rien d'y faire sens, c'est le nom de l'objet qu'il porte, Bouton en os de moniteur pierreux. Un monitor ça peut être un type de lézard)
 
 ================================================================ 12JUN2025 (Page 21) (MATIN) ================================================================
+
+Kategorie {f} : katégori : category | 457
+
+Stärke : shté-rke : force
+
+Verstand {m} : fa-shtand : mind [as opposed to emotions] | 5518
+
+Einschränkungen {pl} : ein-shrén-koungen : restrictions | 611
+
+Haltbarkeit : : durabilité
+
+Haltbarkeit {f} : halt-bar-kayte : durability | 591
+
+armselig : arm-zi-liçh : pathetic {adj} | 1507
+
+Eigenschaft {f} : aïg-eun-shaft : characteristic | 911
+
+Bett {n} : bett : furn. bed | 3125
+
+gefesselt : gé-fesselt : enchaîné/bound {adj} {past-p} [enchained] | 1253
+
+unbeweglich : oum-béveg-liçh : immobile {adj} | 416
+
+Stück {n} : shtuk : chunk/stick/bout [e.g : de bois]/bâton | 647
+
+Holz {n} : holts : bot. material wood | 2247
+
+Fähigkeit {f} : féhiçhkayt : faculté/faculty/ability | 11093
+
+Geschenk {n} : géshenk : gift/present (gift) | 2344
+
+passiert [geschehen] : passi^a^t : happened {past-p} | 257 | racine verbre passieren
+
+Hand {f} : han-t : hand | 5657
+
+Pourquoi il a utilisé "der Hand" et pas "meine Hand" ?
+> En allemand il est plus courant d'utiliser l'article défini (der,die,das) avec les parties du corps, mm si c'est le corps du locuteur. C'est une différence avec le français.
+
+In der Hand => dans la main => dans ma main
+
+Rucksack {m} : rouk-ssak : sac à dos/ backpack | 1423
+
+[sie] lagen : lag-n : [they] se situait/laid/lay | 127 | racine liegen
+
+hartgekocht : hart-gekoCHt : gastr. hard-boiled {adj}
+
+Eier {pl} : aïl-a : eggs | 1424 | das Ei (n) (NOUN)
+
+das Brot {n} : bro-t : pain/bread (gastronomie) | 32767
+
+Brotkanten {m} : bro-t-kant^n : gastr. croûte/crust [crusty end of bread] | 58
+
+Nachbarin {f} : naCHbarin : voisine/neighbour [female] [Br.] | 184
+
+Wegzehrung {f} [geh.] : vig-tsi-roung : provisions {pl} for the journey
+
+böse : beuseu: méchant/evil/wicked/mean/naughty
+
+streitsüchtig : shtrayt-zuçhtiçh : querelleur(se)/feisty {adj} [quarrelsome] | 811
+
+gehalten : geu-halt^n : considérer/tenir/kept/held {adj} {past-p} | racine verbe halten | 1710
+
+Jemanden für [etwas] halten : considérer quelqu’un comme [quelque chose]. (IDIOM)
+
+Ende {n} : èndeu : end | 3084
+
+geschafft : ge-shafft : managed {past-p} | 537 | racine verbe schaffen
+
+vorbeikommen : for-baïl-komm^n : to come by/drop by (vorbeigekommen :)
+
+sichAkk. erkundigen : ea-koun-digèn : to ask/se renseigner/enquire [esp. Br.]
+
+etw. werden : viar-d^n : to become sth. | 1244
+
+{m} Gürtel : gu-rt^l : belt | 2954
+
+ebenso : iben-zo : alike/equally {adv} | 657
+
+{m} Rest : rest : tech. reste/residue | 914
+
+{f} Kleidung : klay-doun^g : cloth. vêtements/clothes/attire/{pl} | 1788
+
+Tasche {f} : ta-sheu : poche/sac/pocket/bag | 2507 
+
+winzige : vin-tsigeu :  minuscule | winzig
+
+Taschenmesser {n} : tash^n-mess^a : pocketknife | 41
+
+etw.Akk. aufbewahren : aouf-bevar^n  : to store/keep sth. | 1405 | aufbewahrte
+
+gab es : il y avait
+
+Libellen {pl} : libell^n : entom. T libéllule/dragonflies/
+
+Schaden {m} : shad-en : damage | 4915
+
+beschaffen : beushaff^n : se procurer/to acquire | 1477
+
+Geburtstag {m} : ge-bouet-staks : birthday | 3547
+
+Geburtstagsgeschenk {n} :  : birthday gift
+
+überreicht : u-ba-rraçht : presented {adj} {past-p} | 75
+
+================================================================ 13JUN2025 (Page 22) (MATIN) ================================================================
+
+jämmerlich : yammé^r^-liçh : pathetic/despicable {adj} | 866
+
+reichen : rayçhen : suffire | 478 | 
+
+gerade so : tout juste/à peine
+
+unauffällig : oun-aouf-fféliçh : unremarkable/ordinary {adj} | 1184
+
+verdanken : fa-dank^n : to owe | 1999
+
+Stahl {m} : shtal : material steel | 1289
+
+der Ring {m} : ring : anneau/ring | 1644
+
+
+schlichten : shliçhten : simple/sobre (adjectif)
+
+etw.Akk. schlichten : shliçhten  : to smoothe/to reconcile sth. [fight etc| 4647 (VERBE)
+
+wertvoll : viat-foll : précieux/valuable {adj} | 6475
+
+Wie sich herausgestellt hat, ... :  : Turns out, ... [sl.] [Am.]
+
+Wie sich herausgestell hat => as it turned out... 
+
+herausgestellt : herr-aous-geshtellt : révélé/avéré
+
+gewichtige Gründe {pl} : géviçhtigeu : weighty reasons
+
+Gründe {pl} : grundeu : reasons | 570
+
+dafür : dafu^a : pour cette raison/for it/that reason {adv}
+
+zunächst : tsou-néçhst : initially {adv} | 3906
+
+unabhängig : oun-ap-héngiçh : independent {adj} | 6728
+
+zweitens :  tsvai-tens : deuxièmement, secondly {adv} | 450
+
+Boni {pl} : booni : bonuses | 35
+
+etw.Akk. verbessern : fa-bess^n : to improve sth. | 10452
+
+etw.Akk. anstellen  : anshtellen : entreprendre/to carry out/to undertake sth
+
+wobei : vobay : à condition que/du moment que (conjonction)
+
+Gerücht {n} : geu-ruçht : rumour [Br.] | 2127
+
+Verbesserung {f} : fa-besseu-roung : improvement | 2985
+
+bestehend : béshté-ent :  existant | bestehenden | bestand
+
+stärken : renforcer/fortifier
+
+sondern : zond^an : mais plutôt/but rather {conj}
+
+[das] Neue {n} : noyeu : nouveau venu
+
+Neu (adjectif) : noy : nouveau
+
+skalierbar : skali-a-bar : scalable {adj} | 167
+
+erreichen : err-açychen : atteindre/to reach/to achieve [goal, aim] | 10031
+
+jd. könnte : keunnt-e : sb. might | 5183
+
+angehoben : an-geu-hob^n : raised {adj} {past-p} | 1183
+
+Träume {pl} : troy-meu : dreams | 93
+
+außerdem : ausser-dim : également/additionally/besides {adv} | 6814 | aussederm 
+
+Werke : verke : oeuvres/ouvrages
+
+hohen : hoh^n : élevé/haut (adj) | forme racine : hoh. hohen est la forme déclinée
+
+Normale {f} :  : math. normal | 203
+
+das Gewöhnliche {n} : geuv-eunliçhe  : ordinaires/ordinariness
+
+Alltagsgegenstände {pl} : all-tags-gig-en-shténde; : everyday items/objects
+
+etw. betraf : bétraf : en ce qui concerne/sth. concerned [pertained] | 136
+
+teurer : toyrer : plus cher/more expensive/pricier {adj} [airlines etc.] | 38
+
+Schmuck {m} : shmouk : bijoux/jewelry [Am.] | 862
+
+================================================================ 13JUN2025 (Page 23) (MATIN) ================================================================
+
+Bergarbeiter {m} : berg-arbayter :  mineur (le métier) | 506
+
+das Falsche {n} : falsheu : the wrong thing
+
+die Art : art : l'art
+
+Aufmerksamkeit {f} : auf-merk-zam-kayt : attention/heed | 4004
+
+erregt [sexuell] : érrekt : suscitait/aroused {adj} {past-p} | 1005
+
+gelten : gélt^n : considéré/s'appliquer/valoir | galt
+
+einmalig : einmaliçh : unique {adj} | 1543
+
+prahlen : prahl^n : vanter/pavaner/to brag/to boast | 3859
+
+unnötige : unneutigeu  : unnecessary
+
+lenken : lenk^n : to lead | 602 
+
+die {pl} Regeln : ri-geuln : rules | 4047
+
+beigebracht : bay-geu-braCHt : enseigner/taught/m'a appris | beibringen
+
+===> utiliser beigebracht au lieu de lehren (enseigner 'scolaire') implique un enseignement pratique, concret, personnel voire informel
+
+wenn : venn : if/whenever/when {conj} | 3185
+on l'utilise au conditionnel ou pour le temporel, à NE PAS CONFONDRE avec wann
+
+wann : utilisé UNIQUEMENT quand on veut poser une QUESTION de temps et questions indirectes, c'est TOUT : "quand est-ce que tu viens? wann kommst du?")
+
+bald : balt : soon {adv} | 8190
+
+Hausbewohner : haouse-be-vohner : habitants de la maison
+
+{m} Dank : dank : thanks {sg} {pl} [treated as sg. or pl.] | 291
+
+niemand : nie-mant : nobody {pron} | 1690
+
+{n} Beispiel : bay-shpiel : exemple/instance | 6151
+
+{m} Rücken : ruck^n : back | 1839
+
+liegend : li-gent : allongé/lying {adj} {pres-p} [stretched out, recumbent] | 215
+
+verbracht : féa-braCHt : spent {adj} {past-p} [time] | 346 
+
+jd. lieferte : lief-ate : sb. livré/delivered | 24 | verbe racine  liefern
+
+logische : log(prononce le G)-ish :l ogique/cohérent (adjectif)/
+
+erfolgreich : ea-fol-greiçh : prospère (adjectif) | erfolgreichen
+
+{m} Kredit : krédit : fin. crédit [bancaire]/loan | 3507
+
+
+übrigens : uubrigenz: d'ailleurs/au fait/par ailleurs//anyway {adv} | 3235/
+
+gefunden : geu-found^n  : found {adj} {past-p} | 1178 | verb racine finden
+
+{f} Mühe : mu-eu : trouble [bother, effort] | 335
+
+{m} Finderlohn : finda-lohn : finder's fee
+
+dass es keine andere
+als die alte Heilerin gewesen war : it was no one else than the old healer
+
+Ausgaben {pl} : aouss-gab^n : fin. dépenses/expenses | 2504
+
+einigermaßen : éini-g(prononcé comme guerre)-ermassen  : somewhat {adv} | 761
+
+hoch : hoCH : high {adj} {adv} | 1841
+
+einschließlich : ayn-shliss-lieçh : including {adv} | 96
+
+aufgelaufener Zins {m} : aufgel-aouf-ner : fin. accrued interest
+
+Zinsen {pl} : tsin-z^n : fin. interest {sg} | 4064
+
+erschrocken : ea-shrok^n : effrayé/terrifié/startled/terrified {adj} | 2974 (racine verbe/adj erschrecken)
+
+enorm : énorm : énorme/enormous {adj} | 961
+
+jd. nahm : na-m : sb. took | 683
+
+die Farm {f} : farm : agr. ferme/farm | 229
+
+trotzdem : trots-dim : despite/yet/still {adv} | 7268
+
+Erbe {n} : erbeu : heritage | 5356
+
+als Erbe : en tant qu'héritier
+
+Goldstück {n} : goldhstuk : gold piece
+
+jd. schuldete : shouldéteu : sb. owed | 217 
+
+verkauft : fa-kaoft : sold {adj} {past-p} | 349
+
+namens [mit Namen] : nam ^n-s  : named {adv} [by the name of] | 148
+
+wandte: van-dte : tournant | racine wenden tournants
+
+jd. seufzte : zoif-tste : sb. sighed | 662
+
+Lanista : lanista : propriétaire de gladiateurs/d'un ludus (ludus = école de gladiateurs)
+
+gehören : appartenir à/belong to 
+
+Gladiatoren {pl} : gladiator^n : gladiators
+
+Arenen {pl} : arén^n : arenas | 7
+
+================================================================ 13JUN2025 (Page 24) (MATIN) ================================================================
+
