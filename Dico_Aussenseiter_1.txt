@@ -102,7 +102,7 @@ Augen- [z. B. Farbe, Höhle, Klinik, Zeuge] :  : eye {adj} [attr.] [e.g. colour,
 
 jd. trat : tra^t : sb. stepped [foot] | 179
 
-jd. schritt : shritt : sb. strode | 483
+jd. schritt : shritt : pas (de marche, de course)/sb. strode | 483
 
 vor : before/ahead/previously/prior to/il y a [temporel]
 vor est spatial aussi, action : en avant [spatial]
@@ -222,7 +222,7 @@ nach geraumer Zeit :  : after considerable time {adv}
 
 aus geraumer Entfernung [geh.] :  : from some distance {adv}
 
-Entfernung (noun, f) : ent-fea-noung: éloignement/distance:retrait
+Entfernung (noun, f) : ent-fea-noung: distance/éloignement/retrait
 
 jdn./etw. entfernen :  : to remove sb./sth. | 3703 (verb)
 
@@ -294,7 +294,7 @@ jd. antwortete : ant-vor-teteu : sb. replied | 641
 genullt : annulé/remis à zero / intraduisible en fr
 
 Gesicht {n} : gésiçht  : face/visage | 6019
-verlor : fea-loa : sb. lost/[il perdit]/to lose  | 247
+verlor : fea-loa : sb. lost/[il perdit]/to lose  | 247 | verloren
 
 jeden : yé-den : chaque
 jeder : yé-der  : everyone {pron} | 2424
@@ -602,7 +602,7 @@ jdn. versehen  : relig. to give sb. the last rites
 
 Versehen {n} : fa-zi-en : mistake/accident | 618
 
-eigens : eigenz  : specifically {adv} | 297 | eigene
+eigens : eigenz  : specifically {adv} | 297 | eigene | eingenen
 
 Verfügung {f} [Verfügungsgewalt] :  : disposal | 1380
 Verfügung {f} : fea-fu-gung  : law ordinance | 455
@@ -740,7 +740,7 @@ Tod {m} : tot  : mort/death | 1866
 
 doch : doCH : however {adv} | 2697
 
-offensichtlich : offen-zish-tliçh : obviously {adv} | 9436
+offensichtlich : offen-zish-tliçh : évident/manifeste/obviously {adv} [e.g : c'est manifestement faux] | 9436
 
 manche : mançhe : some {adj} | 897
 
@@ -831,7 +831,7 @@ sei : soit/être
 
 Baby : bay-by : baby {adj} [attr.] | 60
 
-einmal : ayn-mal : once {adv} | 3742
+einmal : ayn-mal : once/tout à coup/soudainement {adv} | 3742
 
 das Einzige {n} : ein-tsi-ge : only one/une seule
 
@@ -1005,7 +1005,7 @@ resigniert : résign-i^at : résigné/resigned {adj} {past-p} | 813
 
 jd. setzte : zet-ste : sb. put | 461 | setzen
 
-neben : ni-ben : beside {prep} | 2904
+neben : ni-ben : à côté de /le long de/beside {prep} | 2904
 
 falten : falt^n : to crease [deliberately] | 162/ (VERB)
 Falten {pl} : falt^n : wrinkles | 659 (NOUN)
@@ -1176,7 +1176,7 @@ wichtigste : vish-tik-ste : main {adj} [attr.] [most important] | 210
  
  später : shpét^a : plus tard
  
- jdn. verdammen :  : to doom/curse  sb. | 1874 (verb, infinitif)
+ jdn. verdammen :  : to doom/curse/maudire  sb. | 1874 (verb, infinitif) | verdammter (sb. maudit)
  
  schwerer :  : plus lourd/plsu grave/plus dur/heavier/more serious/more difficult (si c'est une insulte, c'est un marqueur d'intensité, pas de résistance physique (exemple sale batard/sacré salaud!)) {adj} | 139
  
@@ -1251,9 +1251,9 @@ im (contractio nde im dem) : dans le/la [la salle à manger]
 
 Bankangestellte {f} : bank-angeu-shtellte : bank assistant/employé de banque [female]
 
-jd. stellte : shtellte : set/put | 136
+jd. stellte : shtellte : set/put/ peut aussi dire CESSER | 136 | prétérit de stellen
 
-stellte + something + FEST : noter/constater/affirmer/déclarer 
+stellte + something + FEST : noter/constater/affirmer/déclarer/
 
 jd. löste : leu-steu : sb. undid | 208
 
@@ -1547,7 +1547,8 @@ gestatten : gess-ta-tn: autoriser/permettre/laisser | gestattete
 
 
 Zahn {m} : tsahn  : anat. tech. tooth [jaw, saw, rake, etc.] | 5015 (ou Zähne : )
-leg : ajoute/pose (infinitif legen)
+
+leg : ajoute/pose (infinitif legen) | legte
 
 leg einen Zahn zu : mets les bouchées doubles/accélère! (idiom)
 
@@ -1687,7 +1688,7 @@ der :  : the [masculine]/who [prnom relatif, male]/which/that/ celui-ci {pron} |
 
 jd. verfluchte : fa-flouCHte: sb. cursed | 83
 
-vertrottelt [ugs.] : fa-trottelt : crétin/goofy {adj} [Am.] [coll.] | 613 
+vertrottelt [ugs.] : fa-trottelt : crétin/goofy {adj} [Am.] [coll.] | 613 | vertrottelten
 
 rüpelhaft [pej.] :  : grossier/rude/boorish {adj} | 604
 
@@ -1962,7 +1963,7 @@ Respekt {m} [vor] : rèspekt : respect [for] | 496
 
 zusteht : tsou-shtit: mériter/deserves/concéder (infitif zustehen)
 
-jd. heulte :  : sb. hurla/pleura/blubbered/howled [coll.] | infintiif heulen (fondre en larmes)
+jd. heulte : hol-teu : sb. hurla/pleura/blubbered/howled [coll.] | infintiif heulen (fondre en larmes) | heulten
 
 einfach : einfaCH  : simple/easy {adj} | 3127
 
@@ -2140,7 +2141,7 @@ Schwer : shvéa : difficile/grave/lourd |Schweres
 
 zweistöckiges Haus {n} : tsvai-shteuck-igeuss : archi. two-story building | zweistöckiger = two-story smth.
 
-recht : reçht : quite/fairly/rather {adv} [to some degree] | 162
+recht : reçht : plutôt/très/quite/fairly/rather {adv} [to some degree] | 162
 
 Pferde {pl} : pf-érde : horses | 175
 
@@ -2168,7 +2169,7 @@ eingestürzt : ein-geu-sturtsst  : éffondré/collapsed {adj} {past-p} [bridge,�
 
 ================================================================ 10JUN2025 (Page 18) (SOIR) ================================================================
 
-verdammt : fa-dammt : mince/darn/heck!/blimey/basted... {adj} [coll.] | 1689 | <<-- traduit la surprise, ex "ah c'est chaud/ah merde" mais poli
+verdammt : fa-dammt : mince/darn/heck!/blimey/basted... {adj} [coll.] | 1Narr689 | <<-- traduit la surprise, ex "ah c'est chaud/ah merde" mais poli
 
 Frauen {pl} : fra-ouen : women | 32767
 
@@ -2350,7 +2351,7 @@ oft : auft : souvent/often {adv} | 6140
 
 Faulenzer {pl} : fowl-ents^a : fainéants/slacker/bums | 342
 
-Brüllen {n} : brull^n : bellow | 47 | brüllte
+Brüllen {n} : brull^n : rugir/bellow | 47 | brüllte
 
 jd. ließ : liss : sb. let | 431 | liess
 
@@ -2362,7 +2363,7 @@ der / die / das Eure : oyre : yours {pron}
 
 bezahlen : bé-tsah-len : payer/paiement | bezahle
 
-Trottel {m} [pej.] : trott^l : moron/twat/sucker [esp. Am.] [coll.] [stupid person] | 538
+Trottel {m} [pej.] : trott^l : crétin/moron/twat/sucker [esp. Am.] [coll.] [stupid person] | 538
 
 quatschen [ugs.] : kvat-sh^n : bavarder/papoter/to gossip | 684
 
@@ -2443,7 +2444,7 @@ Meine Welt ist zusammengebrochen. :  : My world just caved in. (IDIOM)/ mon mond
 
 großartig : grouss-artiçh : great/splendid {adj} | 3109
 
-dürfen :  : are allowed to/ to be authorized to/to dare | durfte
+dürfen : duu-rf^n : are allowed to/ to be authorized to/to dare | durfte
 
 distanziert [Verhalten] : distan-tsiert : distant {adj} [reserved] | 33
 
@@ -3558,7 +3559,7 @@ schmaler : shmal^a : narrower {adj} | 67
 
 Enge {f} : engeu  : narrowness/density | 207
 
-knochig : knoCHiçh : osseux
+knochig : knoCHiçh : osseux | knochigen
 
 {f} gebeugte Haltung : gé-boygteu : stoop [bent posture]
 
@@ -3775,5 +3776,207 @@ abgetragen ist : soit rembousée (=soit portée/dégradée jusqu'à extinction)
 
 das Schlimmste {n} : shlimmsteu : the worst
 
-================================================================ 17JUN2025 (Page 31) (SOIR) ================================================================
+================================================================ 18JUN2025 (Page 31) (SOIR) ================================================================
 
+Söhne {pl} : zeu-neu : sons | 247
+
+treiben : pousser/faire avancer/inciter/mener
+
+auftreiben  : se procurer/dénicher
+
+aufzutreiben : faire en sorte de faire surgir/pousser vers soi/reussir à se procurer
+
+ackern [ugs.] : ak-an : trimer [genre travailler dur]/to work hard
+
+ackern :  : agr. to till [the soil] | 113
+
+letzte : let-ste : last {adj} | 1680
+
+aufsuchen : aouf-zouCHen : visiter/trouver/voir/chercher/to find [search for] | 367 | aufsuchten
+
+jd. weinte : va-ine-teu : sb. wept | 430
+
+hingegen : hing-gig^n : however {adv} {conj} | 1044
+
+Hunde {pl} :  : zool. T dogs | 231 
+der Hund : le chien
+
+heulen wie Schlosshunde : littéralement "hurler comme des chiens de château" (équivalent à chiens battus en fr) => pleurer très bruyamment (IDIOM)
+
+wischen : vishen : essuyer/to wipe/smear | 1609 
+
+jd. umarmte : oum-armte : sb. étreindre/embraced | 35
+
+starren : regard fixe, rigide, raide
+
+Flasche {f} <Fl.> : flasheu : bouteille/bottle <btl, BTL> | 3001
+
+aufschauen : aouf-shaouen  : to look up
+
+beeindruckend : ba-aïl-ndroukent : impressive {adj}  | 3004
+
+Stahlgitter {n} : shtahl-gitt^a : grille d'acier/steel grid/steel grating/lattice/
+
+davor : dafoa : devant/in front/before it {adv}
+
+Wand- : vant : wall {adj} [attr.] [e.g. calendar, clock] | 524
+
+Wand {f} [Zimmerwand, Hauswand] [auch anat.] : vant  : wall [of a room or building] [also anat.] | 3489
+
+Granitwände : granitvé-ndeu : mur de granit
+
+Fenster {n} : fenst^a : window | 3922
+
+Festung {f} : festoung : archi. mil. forteresse/stronghold/fortress | 1291
+
+Steinwall {m} [aus Steinen aufgeschütteter Wall] : shtain-vall  : stone wall
+
+{n} Tor : to^a : gate | 4622
+
+bewaffnet : bevaffnete : armé/armed/weaponed {adj} {past-p} | 1132
+
+{pl} Wachen : vaCHen : guards/garde/sentinelle | 84
+
+Umstände {pl} : oum-shténdeu : circonstances/circumstances/conditions | 3634
+
+reich : reiçh : riche/rich/wealthy/affluent {adj} | 4708
+
+schweigenden : shvai-gend^n : en silence/silencieusement {adverbe}
+
+Arbeitssklaven : esclaves travailleurs
+
+(jdn./etw.) rollen : roll^n  : rouler/to roll (sb./sth.) | 924 | rollte
+
+Baracken : barak^n : baraques/barracks (NOUN)
+
+einiger : einig^a : une certaine/quelque
+
+identisches : identique | identisch (adj)
+
+denselben : den-zilb^n : le même
+
+Schnurrbart {m} : shnourr-bart : moustache | 1996
+
+forschen : forshen : to delve/to search | 2461 | forschenden (participe présent)
+
+ungesund[auch fig.] : ounge-zount : malsain/malade/unhealthy/sickly {adj} [also fig.] | 480
+
+gesunden : gézound^n : to heal | 48
+
+Gesichtsfarbe {f} : gézi-çhts-farbeu : teint/complexion | 1529
+
+Angestellter {m} : angeu-shtellt^a : jobs employee | 4943
+
+exakt : eks-akt : exact {adj} | 112
+
+Gegenteil {n} : gi-gèn-tayl : opposite | 2244
+
+breitschultrig : br-aïlt-shoul-triçh : broad-shouldered {adj}
+
+Baggerschaufel {f} : bakk^a-shaoufel : constr. excavator shovel/excavation bucket [mining] | Baggerschaufeln
+
+Energie {f} : éner-gui (comme le gui, la plante) : energy | 1828
+
+Macht {f} [Stärke] : maCHt : might/power | 2111
+
+ungeschickt : ounge-shikt  : maladroit/awkward {adj} | 6215
+
+================================================================ 18JUN2025 (Page 32) (SOIR) ================================================================
+
+vertraut : fer-traut : familier (adjectif) | vertrautes
+
+zerknittertes Papier {n} : tser-knitt-t-a-tes : froissé/crinkled paper
+
+Aufseher {m} : aouf-zih^a : jobs gardien/surveillant/warden | 2919
+
+besagt : be-zagt : aforementioned/said/implied {adj} {past-p} | 398
+
+vier, sechs, etc : fi-a, zechs : quatre, six.. [je ne vais pas traduire les chiffres, car c'est évident, ce sera leur dernière mention dans le dico] | 32767
+
+sichtlich : ziçhtliçh : visible/apparent/obvious/noticeably/perceptible à l'oeil (obvious mais RESTREINT AU VISIBLE e.g : dommage visibles sur un bâtiment). à ne pas confondre avec offensichtlich car offensichtlich exprime une évidence plus large (plus courant dans le langage parlé), et pas seulement une évidence perceptible à l'oeil.
+
+Abscheu {f} : ab-shoy  : dégoût/répugnance/aversion/répulsion/revulsion | 1327
+
+entgegen [+Dat.] : ent-gig^n : contre/against {prep} | 898
+
+jd. studierte : shtoudi^a^te  : sb. studied | 19 | studiert
+
+studieren : vrebe
+
+angekommen : an-geu-komm^n : arrived {past-p} | 461 | verbe racine ankommen
+
+weiten : vaille-ten : élargir/to widen | 27
+
+aufgefallen : aouf-ge-fall^n : remarqué/attirer l'attention/noticed {past-p} [having been noticed] | 148
+
+unterzujubeln : ounta-tsou-you-beln : refiler/refourguer [littéralement : fourguer en dessous, sens familier de forcer quelqu'un à accepter qqch.]
+
+jdm. etw. unterjubeln [ugs.] : ount-a-you-beln  : fourguer/to pin/to slip sb. sth. [coll.] [secretively administer] | 118
+
+ausgepeitscht : aouss-geu-pay-tsht (le sch ici est comme dans "cheval"): flageller/fouetté/flogged/whipped {adj} {past-p} | 328
+
+rotbärtige : root-bértigeu : red-bearded  
+
+dagestanden : dagé-shtanden : stood there {past-p} | dastehen
+
+drohenden : dro-ent : menaçant/menacing/impending/imminent (adjectif)
+
+etw. sank : zank : chuta/s'écroula/sth. couler [comme un bâteau]/sth. sank | 48 | sinken
+
+tobend : too-bent : raging {adj} {pres-p} | 585
+
+inzwischen : intsvi-shen : entre-temps/meanwhile/since/by now {adv} | 274
+
+weinenden : vay-nend^n : pleurant | weinend
+
+Pranke {f} :  : paw | 250 | Pranken = pattes
+
+erschauern [geh.] : er-shau^an : trembler/to shiver | 180
+
+beim : ba-im : on the/at (the) {prep}
+
+e.g das Pferd beim Schwanz aufzäumen v [fig.]—mettre la charrue avant les bœufs v 
+
+Erlaubnis {f} : er-laoub-niss : permission | 10655 
+
+Urlaub {m} : oua-lop : holiday [esp. Br.] | 1977
+
+Bug selbst musste mir diese Worte aus dem vertrottelten Mund
+gezogen haben. : L’idée est que Bug a forcé, extorqué ou fait sortir ces mots de la bouche de la personne, alors que cette personne n’était pas vraiment claire d’esprit ou était confuse.
+
+zurücknehmen : tsou-ruuk-ni-men : reprendre/retirer/to withdraw | 861
+
+bedrückend : bedrou-kent : oppressant/accablant/oppressive/depressive {adj} | 1510 | bedrückendes
+
+Schicksalsgenossen {pl} : shik-sals-genoss^n : people sharing the same destiny/fate/ mon compagnon de destin/compagnon de sort
+
+raubtierhaft : ra-op-tia-haft : predatory {adj} | 95 
+
+dieselbe : di-zel-be : same {adj} | 258
+
+Auspeitschung {f} : aous-p-aïlt-shoung : whipping | 20
+
+ereilen [geh.] :  : to befall [fate] [literary] | 591
+
+hirnlos : hiirn-loss : mindless/brainless {adj} | 88
+
+Idioten {pl} : idiot^n : idiot/âne/crétin/dunce/cretins | 42
+
+akzeptieren : ak-tsept-irèn : to accept | 3453 | akzeptiere
+
+Risiko {n} [Brettspiel] : riziko : games Risk [board game] | 44
+
+etw. kostete : koste-teu: sth. cost | 205 |verbe racine kosten
+
+unterdrücken : out-a-druuk-n : réprimer/supprimer/to suppress/to smother | 2886
+
+Fahre fort! : continue (littéralement : va de l'avant | Fahre = conduis/roule/va (fahren), et fort = loin/loin d'ici/en avant/continue)
+
+Befehle {pl} : befihle : ordres/commands | 160
+
+pflichtgemäß : pfliçht-geméss : duly {adv} | 100
+
+ausgeführt : aouss-gefuurt : exécuté/conducted {adj} {past-p} | 2931
+
+
+================================================================ 18JUN2025 (Page 33) (SOIR) ================================================================
