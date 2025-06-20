@@ -21,7 +21,9 @@ wohl : voh^l : arguably/certainement/bel et bien/probablement {adv} | 2441
 
 wohlhabend : vohl^abent : wealthy {adj} | 1808
 
-Minenarbeiter {m} : mine (comme miner)-arbeiter : jobs mining miner | jd. schaute : sh-otte : sb. looked | 104
+Minenarbeiter {m} : mine (comme miner)-arbeiter : jobs mining miner | jd. 
+
+schaute : sh-otte : sb. regarder/looked/apparaître/sortaient | 104 | schauten (prétérit)
 
 tief [auch fig.] : tiiff : deep {adj} {adv} | 1886
 
@@ -35,7 +37,7 @@ verblüfft : fa^bluft : stunned {adj} {past-p} | 3317
 
 welchen : vélçhen : whom {pron}/quelle | 485
 
-solch [geh.] [so (ein)] : zo-lch : such {pron} | 3439
+solch [geh.] [so (ein)] : zo-lch : such {pron} | 3439 | solches = such a one {pron}
 
 freudige (joyeux) Erregung {f} : froy-digeu : a thrill of pleasure
 
@@ -96,7 +98,7 @@ zufügen : ajouter, inflinger,causer
 
 verengte : fa-èngte : narrow/rétrecir
 
-erbost : eRbost : furious {adj} | 605
+erbost : eRR-bost : furious {adj} | 605
 
 Augen- [z. B. Farbe, Höhle, Klinik, Zeuge] :  : eye {adj} [attr.] [e.g. colour, socket, clinic, witness] | 38
 
@@ -578,7 +580,7 @@ jd. erhielt : éa-hilt : sb. reçut/obtained | 172
 
 Systemmeldung : message système
 
-Eid {m} : aïl-t  : oath | 2241
+Eid {m} : aï-t  : oath | 2241
 
 angenommen : angenomm^n : assumed/accepted {adj} {past-p} 
 
@@ -602,7 +604,7 @@ jdn. versehen  : relig. to give sb. the last rites
 
 Versehen {n} : fa-zi-en : mistake/accident | 618
 
-eigens : eigenz  : specifically {adv} | 297 | eigene | eingenen
+eigens : eigenz  : [sa/son] propre/specifically {adv} | 297 | eigene | eingenen
 
 Verfügung {f} [Verfügungsgewalt] :  : disposal | 1380
 Verfügung {f} : fea-fu-gung  : law ordinance | 455
@@ -699,7 +701,7 @@ seitdem : zeit-dim : since {conj} | 1136
 Nachricht {f} : NaCH-riçht : message | 4713
 
 öde : uu-deu  : bleak {adj} | 1403
-Öde {f} [öde Gegend] : uu-deu : wasteland/désolation [lieu] | 475
+Öde {f} [öde Gegend] : uu-deu : terres désolées/wasteland/désolation [lieu] | 475
 
 schlachten : shlaCHten : to slaughter | 1237
 
@@ -738,9 +740,16 @@ nach :  : après [later/after]/towards {prep} | 2688
 
 Tod {m} : tot  : mort/death | 1866
 
-doch : doCH : however {adv} | 2697
+doch : doCH : c'est une PARTICULE. généralement mais faire GAFFE however/donc {adv} | 2697
 
-offensichtlich : offen-zish-tliçh : évident/manifeste/obviously {adv} [e.g : c'est manifestement faux] | 9436
+pour info doch n'est pas vraiment traduisible. elle exprime une insistance/renforcement dasn une phrase affirmative (e.g :komm doch! allez viens)
+
+unne contradiction/correction s'il y a une negation juste avant (du kommst nicht, oder? doch! (= si au contraire))
+
+ou atténuation ou encouragement (mach das doch mal! fais ça, allez!)
+
+
+offensichtlich : offen-ziçh-tliçh : évident/manifeste/obviously {adv} [e.g : c'est manifestement faux] | 9436
 
 manche : mançhe : some {adj} | 897
 
@@ -782,7 +791,7 @@ dieser : diza : this {pron} | 607
 
 etw. erhellte : ea-hell-te : sth. lit up
 
-vergessen : fea-gessen : forgotten {adj} {past-p} | 584
+vergessen : fea-gessen : forgotten {adj} {past-p} | 584 | vergaß
 
 bedeuten : be-doyten : signifier/to matter/mean/signify | 6040 | racine verbe bedeuten | bedeutete
 
@@ -1017,7 +1026,7 @@ nachdenklich : naCHTden-kliçh : thoughtful/pensively {adj} [pensive] | 2356 | n
 
 wohl : nuance d'incertitude/hypothèse/conjecture (e.g : wie alt sie wohl ist = quelle âge at-t-elle? / Wie alt sie wohl ist? : quelle âge a tlle, je me demande?)
 
-jd. überlegte : uba-lekte : sb. deliberated | 206
+jd. überlegte : uba-lekte : sb. deliberated | 206 (adjectif)
 
 wussten (racine wissend : savoir)
 
@@ -1435,7 +1444,7 @@ jd. zeigte : tsai-kte : sb. showed/se montraient | 252
 
 Verachtung {f} : fa-aCH-toung : contempt | 5918
 
-stehend : shti-ent: debout, ici pris au sens figuré, signifiant « placés » ou « situés »
+participé présent stehend : shti-ent: debout/se trouver qq part. ici pris au sens figuré, signifiant « placés » ou « situés » | stehst | verbe racine stehen
 
 beieinanderstehend : placés [stehend] très près [bei] l'un l'autre [einander]
 
@@ -1819,7 +1828,7 @@ nahen : na-han : proche/proximité/to draw near [notion de spatialement proche]
 
 in der nahen Mine : dans la mine proche/voisine
 
-Mine : mayne : mine (cave où tu pioches et tout)
+Mine : mayne : mine (cave où tu pioches et tout) | minen {pl}
 
 erfahren : ea-fahren : experienced {adj} | 2978
 
@@ -1892,7 +1901,7 @@ wirst du : virst dou : être au futur 2nd personne (tu seras/tu vas)
 
 aufmunternd : aouf-mountent : encourageant/cheery {adj} | 309
 
-zwinkern : tsvinkern : to wink/cligner | 1580
+zwinkern : tsvinkern : to wink/cligner | 1580 | zwinkerte
 
 zuwinkern : faire un clin d'oeil à quelqu'un 
 
@@ -2036,7 +2045,7 @@ mit erhobenem Kopf : erhou-ben^m : avec la tête haute/with head held high {adv}
 Ausgang {m} : aouss-gang : sortie/exit | 994
 
 
-im Folgenden : folg^nd^n : suivre/suivant/in the following {adv}
+im Folgenden : folg^nd^n : suivre/suivant/in the following {adv} | verbe racine folgen
 
 Austausch {m} : aouss-taush : échange/exchange | 1937
 
@@ -2575,7 +2584,7 @@ angesichts : angeu-ziçhts : compte tenu de/vu/in light of
 
 lediglich : lidikliçh : seulement/merely {adv} | 9618
 
-Beweglichkeit {f} : bivig-liçh-kayt  : agility | 561
+Beweglichkeit {f} : bevik-liçh-kayt  : agility | 561
 
 etw.Akk zustande bringen : tsou-shtande : to accomplish/to achieve sth | zustande :
 
@@ -3729,7 +3738,7 @@ unmöglich : oun-meukliçh  : impossible {adj} | 2780
 
 Spektakel {n} : spek-ta-keul  : brouhara/spectacle | 145
 
-jd. schickte : shikte  : sb. sent | 193 | shicken
+jd. schickte : shikte  : sb. sent/dispatched | 193 | verbe racine shicken 
 
 weichherzig : vaille-hea-tsiçh : soft-hearted {adj}
 
@@ -3917,7 +3926,7 @@ ausgepeitscht : aouss-geu-pay-tsht (le sch ici est comme dans "cheval"): flagell
 
 rotbärtige : root-bértigeu : red-bearded  
 
-dagestanden : dagé-shtanden : stood there {past-p} | dastehen
+dagestanden : dagé-shtanden : stood there {past-p} | dastehen = se tenir/apparaitre
 
 drohenden : dro-ent : menaçant/menacing/impending/imminent (adjectif)
 
@@ -3979,4 +3988,263 @@ pflichtgemäß : pfliçht-geméss : duly {adv} | 100
 ausgeführt : aouss-gefuurt : exécuté/conducted {adj} {past-p} | 2931
 
 
-================================================================ 18JUN2025 (Page 33) (SOIR) ================================================================
+================================================================ 19JUN2025 (Page 33) (MIDI) ================================================================
+
+gefallen [im Krieg gefallen] :  : mil. killed in action {adj} {past-p} [postpos.] <KIA>
+gefallen :  : fallen {adj} {past-p} | 364
+
+gekämpft : gé-kempft : fought {adj} {past-p} | 347
+
+Wahl {f} [Auswahl] : va-hl : choice | 1227
+
+Augenwinkel {m} : aougen-vinkèl : anat. corner of the eye
+
+fasziniert : fas-tsi-niat : fascinated/intrigued {adj} {past-p} | 196
+
+ansah : ansehen (regarder) 
+
+biegsame : big-zame :  flexible/souple (adj)
+
+massiv : massif (oui ça se prononce comme ça) : massive {adj} | 398
+
+investiert : in-ves-ti-at : invested {adj} {past-p} | 17
+
+Kopftuch {n} : kopf-touCH : cloth. voile/foulard/headscarf/bandana/scarf | 458
+
+feuerrote Haare {pl} : feyeu-rotte : flaming red hair {sg}
+
+hervor : her-foa : vers l'avant/au-dehors/forth/ {adv} | 642
+
+Smaragde {pl} : smara-gteu : emeralds | 50
+
+If /s/ is followed by a vowel it is pronounced like an English /z/
+(ex: Samstag becomes Zams-tag)
+
+If /s/ is followed by a /t/ or a /p/ it is pronounced like an English /sh/
+(ex: Student becomes Shtu-dent)
+
+If /s/ is followed by a consonant other than /t/ or /p/ it is pronounced like an English /s/
+
+If /s/ is followed by a second /s/ it is pronounced like an English /s/
+(ex: dass/daß sounds the same in English)
+
+You will notice some variation across the country, but for the most part this is how /s/ is pronounced.
+
+Sommersprossen {pl} : zomma-shpross^n : freckles | 1390 
+
+Sommersprosse {f} :  : freckle | 493
+
+Stupsnase {f} : shtoup-snazeu : button nose
+
+blass : blass :pâle (adj) | blassen
+
+Wangen {pl} : vangen : anat. cheeks | 458
+
+[wir/sie/Sie] taten : tat^n : [we/they/you] did | 308
+
+Schönheit {f} : scheun-hayt : beauté/beauty/loveliness | 1152
+
+Abbruch {m} [von Freundschaft, Beziehung etc.] : ap-prouCH (vraiment APPP-PPROUCH) : annulation/rupture/abandon/arrêt/démantèlement/severance | 482
+
+Ganz im Gegenteil : bien au contraire (IDIOM) (expression littérale : ganz = complètement/entièrement + dans le (im, c'est contraction de in dem) + gegenteil = contraire)
+
+Wahrheit {f} : var-hayt : truth | 1872
+
+wütend : vuu-tent : en colère/furious {adj} | 4320
+
+Jawohl : ya-vol : affirmative/yes/yessir
+
+etw. verwandelte : fer-vantelte : sth. metamorphosed/transformé | 6 | verbe racine verwandeln
+
+Freundlichkeit {f} : froynt-liçh-kayt : friendliness/amabilité/gentleness/kindness | 162
+
+in Ordnung : ord-noung : bien/dans l'ordre//all right/fair enough/fine (c'est une expression)
+
+etw.Akk. besorge [beschaffen, kaufen] : beu-zorg : procure/trouve/to procure/to provide/to get sth. [obtain, acquire] | 1370(<-- impératif, verbe racine : besorgen) 
+
+Platz {m} [Ort] : plat-ss : endroit/spot/place | 244
+
+jd./etw. führte : fua-te : sb./sth. dirigea/led | 1594 | verbe racine einführen
+
+am weitesten : vay-test^n : farthest {adj} {adv}
+
+entfernten : ent-fert^n : éloigné/remote/distant | entfernt
+
+entfernt : adverbe (loin)
+
+pourquoi am weitesten entfernten et pas an meisten weitesten ?
+
+« weit » (loin) est un adjectif/advérbe irrégulier dont le superlatif se forme directement en ajoutant « -esten » :
+
+    Positif - weit (loin)
+
+    Comparatif - weiter (plus loin)
+
+    Superlatif - am weitesten (le plus loin)
+    
+    am weitesten = « le plus loin » (superlatif correct de « weit »)
+
+    am meisten (= le plus) weitestn est incorrect, car tu ne peux pas cumuler deux superlatifs (« meisten » + « weitesten »).
+
+« entfernt » est un adjectif signifiant « éloigné ».
+Pour dire « le plus éloigné », on met :
+am weitesten entfernten
+Ici, « am weitesten » est le superlatif de « weit » qui qualifie « entfernten » (forme adjectivale au génitif/datif selon contexte).
+
+    Pour exprimer « le plus éloigné », on dit toujours am weitesten entfernten.
+    
+umdrehen : oum-dri-in : retourner/to roll over/to reverse/ (verbe)
+
+jdm./etw. folgen : folg^n : to follow sb./sth. | 165
+
+plötzlich : pleuts-liçh : soudainement/suddenly {adv} | 6301
+
+davonkommen : da-fon-komm^n : s'en tirer/to get away
+
+Widerhaken {m} : vi-da-hak^n : barbillon (c'est une unité d'un fil de fer barbelé, en anglais c'est plus facile à comprendre)/barb (au pluriel barbs) | 300 (NOUN)
+
+bohren : boh-r^n : forer/percer/to drill [bore a hole] | 2218 | bohrte
+
+außer sich : ausser : hors de lui/de soi-même (IDIOM) (traduction littérale : außer : hors de/en dehors de)
+
+
+
+
+Mist! [ugs.] :  : Damn! [coll.] | 1367
+
+{m} Mist [informel] : merde/erreur/bêtise (c'est UN MERDE, UN BÊTISE)
+ 
+gebaut : geu-baout : construit/fait/built {adj} {past-p} | 328
+ | bauen
+ 
+ Scherben {pl} : sherb^n  : les éclats/morceaux brisés/shards | 537
+ 
+Scherben {m} [österr.] [südd.] [Scherbe] :  : shard | 165
+
+total : total : total (adjectif synonyme : ganz, gesamt)
+ 
+wertlos : veat-loss : inutile/useless/worthless {adj} | 501
+
+überlegen : uba-lig^n : réfléchir/penser/méditer/délibérer (verbe racine überlegen)
+
+Wie kommt es : cela vient/se fait-il (plus simple en angalis : how come)  (IDIOM)
+
+================================================================ 19JUN2025 (Page 34) (SOIR) ================================================================
+
+stecken : shteck^n  : caser/placer/insérer/to stick | 1504
+
+unerwartet : oun-ervartèt : inattendu/soudain/unexpected/unexpectedly {adj} | 1758
+
+Sieh da! :  : Lo and behold!
+
+zierlich [von Objekten] : tsia-liçh : délicat/frêle/dainty {adj} [fragile] | 716 | zierliche
+
+Kundschafter {m} : kount-shafter : éclaireur/espion/scout/spy | 91
+
+gesucht : ge-zouCHt : cherché/sought/wanted {adj} {past-p} | 4200 | racine verbe suchen (chercher)
+
+schon : shon : déjà/aussi tôt que/already {adv} | 8971
+
+schon lange : depuis longtemps (IDIOM)
+
+Stunde {f} : s-tounde : educ. lesson | 127
+
+umfallen : oum-fall^n : to yield/to topple down/to fall over | umfällt
+
+jd. schluckte : shloukteu : sb. swallowed | 360 | verbe racine schluken
+
+Brustkorb {m} : broustkorp : anat. med. VetMed. cage thoracique (différent de brust qui est la poitrine/le torse) | 517
+
+Korb {m} [Förderkorb] : korp : panier/basket (en anglais)/cage | 82
+
+etw. zersprengen [Wild] : tsa-shprengen : disperser/to scatter sth. [game] | 24 (verbe)
+
+Wen kümmert's? [ugs.] : kumm-ats : Who gives a shit / crap? [vulg.]
+
+jd. beharrte : ba-harrteu : sb. persisted | 477 | verbe racine beharren
+
+Beschwerde {f} :  : complaint/grievance/reclamation | 5808
+
+etw. einreichen [ein Gesuch, einen Bericht, ein Angebot etc.] : ein-rayçhen : déposer qqch/soumettre qqch/to submit sth. [a requ
+
+est, a report, a bid, etc.]/to file [a divorce] | 5156
+
+behaupten : bé-hopt^n : affirmer/prétendre/to claim [profess, assert] | 6727
+
+
+Eigentum {n} [Habseligkeiten] : ayg-entoum : property/belongings {pl} | 1169
+
+beschädigt : beshé-diçht : abîmé/détérioré/damaged/marred {adj} {past-p} | 3888 | beschädigen
+
+Entschädigung {f} : ent-shé-digoung : indemnité/compensation | 2772
+
+durchgedreht [ugs.] [insb. Menschen] : doch-gedrid : crazy/wacko/nuts {adj} [coll.] [pred.] [esp. people] | 10 | verbe racine durchdrehen
+
+etw. beläuft sich auf : beloyft : sth. totals
+
+eingehen [Waren, Post] : ayn-gehin : to come in/to enter (utilisé par exemple pour dire "prendre un risque : Risiko eingehen". On utilise pas "gehen" parce que "un risque va" ça veu rien dire.)
+
+Betrag {m} : bétrak : montant/amount | 7160
+
+Dutzend {n} <Dtzd.> : dout-sent : unit dozen <doz.> | 1262
+
+jdn. anheuern : an-hoyern : jobs to hire/to engage sb. | 2501
+
+demselben : le même
+
+zehn :  : ten | 32767
+
+Kupfer- : koupf^a : cuivre/copper {adj} [attr.] | 687
+
+Geizhals {m} [pej.] : gaï-ts-hals : radin/avare/miser/scrooge/cheapskate | 1111
+
+frisch : frish : fresh {adj} | 1695
+
+Löffel {m} : leuff^l : cuillère/spoon | 6610
+
+abgeben : ap-geben : donner/céder/to provide | 2480
+
+den Löffel abgeben : rendre l'âme/mourir/passer l'arme à gauche (IDIOM)
+
+stammen (von) : shtamm^n : to originate (from)
+
+stammen :  : to be descended
+
+fröhlich : freuliçh : joyeux/gai/jovial/merry/happy {adj} | 3507
+
+Schauer {m} [Erregung, Nervenkitzel] : shau^a : frisson | 625
+
+kalt : kalt : cold {adj} | 32767 | katen
+
+Rücken {m} : ru-k^n : dos/back | 1839
+
+hinunterstürzen [schnell hinunterlaufen] :  : to dash down
+
+hinunter : hinunt^a : down {adv} | 389
+
+stürzen [plötzlich fallen, auch Kurse etc.] : shtu-tsen : to plunge [fall, decrease dramatically] | 3579
+
+Tunnel {m} : tounnel : tunnel | 676
+
+etw.Akk. erforschen : er-forshen : to investigate/to explore sth. [investigate, experiment] | 2884
+
+Wurm {m} : vourm : zool. T ver/worm | 514
+
+passen [Kleidung, Schuhe etc.] : pass^n : passe/to fit [clothes, shoes, etc.] | 5765
+
+Strich {m} [Pinselstrich etc.] : shtriçh : stroke [writing, painting] | 126
+
+gedankenverloren : ge-dank-^n-ferloren : absentmindedly {adv} | 95
+
+Bart {m} : bart : beard | 5251
+
+jd. drängte : drén-gte : elbowed/sb. urged | 448
+
+Überleg doch mal : réfléchis donc encore (réfléchis quand même/donc = doch + mal (une fois/donc))
+
+================================================================ 19JUN2025 (Page 35) (SOIR) ================================================================
+
+davorstehen : dafor-shti-in :littéralement auparavant + être debout => devant cela/était sur le point de | davorstand
+
+nachzugeben : naCH-tsou-giben : céder
+
