@@ -81,9 +81,9 @@ tätig : tétiçh  : active {adj} | 677
 
 rasch : rash : rapid {adj} | 1772
 
-jd. fügte ein : fugteu : sb. inserted/add
+jd. fügte ein : fugteu : sb. ajouter/infliger/inserted/add
 
-leise : lay-zeu : quiet {adj} | 2408
+leise : lay-zeu : quiet/soft/doucement/à voix basse {adj} | 2408 | leisen
 
 flüstern : flu-steurn : to whisper/à voix basse | 2160
 Er fügte hinzu, dass ... : fug^té in-tsou : He added that ... | geflüsterten
@@ -230,13 +230,13 @@ jdn./etw. entfernen :  : to remove sb./sth. | 3703 (verb)
 
 seit geraumer Zeit :  : for a considerable time {adv}
 
-nur : only
+nur : only/seulement
 
 Regenzeit {f} : ricken-tsaït : rains/rainy season {pl} [coll.] | 15
 
 Woche : (vocHë) : week
 
-Früh : (fr-u) early/plus tôt/matinal/avant [e.g : c'était mieux avant : früher besser war]
+Früh : (fr-u) early/plus tôt/matinal/avant [e.g : c'était mieux avant : früher besser war] | frühen
 	
 dazwischengekommen : da-ts-vischken-gekommen : intervenu/came up
 
@@ -398,6 +398,7 @@ bisher : bis-hia : until now {adv}
 bisher : bis-hia : to date {adv}
 
 nie : ni : jamais/ never {adv} | 5102
+
 erlebt : eal-libt : vécu/expérimenté/experienced {adj} {past-p} | 509 [infintiif: erleben]
 
 So etwas habe ich bisher noch nie erlebt“ → : Une chose pareille, je n’ai encore jamais vécu cela. 
@@ -456,7 +457,9 @@ Geist1  {m} : ga-ïst  : spirit| 1399
 tun : toun : to do | 2428
 ^ faire gaffe à la forme impérative (ordre) : tu (oui oui, tu pour dire do!)
 
-damit : da-mit : with it {adv} : pour que/par ça/avec cela, là-dedans, dans cette affaire
+damit : da-mit : with it {adv} : pour que/par ça/avec cela, là-dedans, dans cette affaire [cet adverbe exprime TOUJOURS un but et/ou un complément utilisé avec "mit" pour dire "avec cela/en s'en servant", ne pas confondre avec DARUM qui exprime la CAUSE ou la MOTIVATION]
+
+ne pas confondre non plus avec DARAUF qui est temporel (ensuite, après ça) ou un pronom adverbial (je l'attends : Ich warte darauf)
 
 damit zu tun haben: démit avoir à faire avec/être lié à (IDIOM)
 
@@ -526,7 +529,7 @@ C’est la question la plus neutre et la plus standard pour demander la cause ou
 „wieso“ signifie aussi « pourquoi », mais avec une nuance plus marquée : « comment ça se fait que », « pour quelle raison précise », souvent avec un soupçon de surprise ou d’étonnement.
 
 
-also: alzo : donc/alors/ainsi/therefore {adv} | 1584
+also: alzo : donc/alors/ainsi/well .../therefore {adv} | 1584
 
 
 sich widersetzen : vieda-zetsen : to resist sb./sth.
@@ -576,11 +579,11 @@ Ich will nicht als Ketzerin gesteinigt werden!
 jd. versprach : fea-shpraC
 *H  : sb. promised | 277
 
-jd. erhielt : éa-hilt : sb. reçut/obtained | 172
+jd. erhielt : éa-hilt : sb. reçut/obtained | 172 |
 
 Systemmeldung : message système
 
-Eid {m} : aï-t  : oath | 2241
+{m} Eid : aï-t  : oath | 2241
 
 angenommen : angenomm^n : assumed/accepted {adj} {past-p} 
 
@@ -675,7 +678,7 @@ Tafeln : taf-el^n : fiches/plaques/tableau
 
 schatten [dichter.] : sha-tt^n : to shadow | 436
 
-jd. senkte : zenk^te : sb. lowered | 35
+jd. 	 : zenk^te : sb. lowered | 35
 
 jdm. zustehen : tsou-sté-ine : to appertain to sb.
 
@@ -694,7 +697,8 @@ hier is about a current location, her is a destination.
 Ich bin hier. : I am here.
 Komm her! : Come here! (i tell someone to come somewhere, this is a destination, so it's 'her')
 
-her : he^a : il y a/cela fait que...: adverbe de temps : Il marque un point de départ dans le passé, vu depuis le moment présent.
+her : he^a : il y a/cela fait que...: adverbe de temps : Il marque un point de départ dans le passé, vu depuis le moment présent. [temporel]
+Il peut aussi servir de particule directionnele (indique mouvement ou action en direction de l'endroit où se trouve la personne qui parle) [spatial]
 
 seitdem : zeit-dim : since {conj} | 1136
 
@@ -840,7 +844,7 @@ sei : soit/être
 
 Baby : bay-by : baby {adj} [attr.] | 60
 
-einmal : ayn-mal : once/tout à coup/soudainement {adv} | 3742
+einmal : ayn-mal : une fois/once/tout à coup/soudainement {adv} | 3742
 
 das Einzige {n} : ein-tsi-ge : only one/une seule
 
@@ -918,7 +922,7 @@ gelesen : gili-zeun : read {adj} {past-p} | 312 | lies :
 
 altehrwürdig : alt--ia--vurdiçh  : Ancien/vénérable/très honorable {adj} [building, town, name, etc.] | 504 | altehwürdigen
 
-es gibt [existiert, ist vorhanden] : es gipt : there's [there is]
+es gibt [existiert, ist vorhanden] : es gipt : there's [there is]/il y a
 
 dahingeschieden : da-hin-geshii-den  : défunts/deceased {adj} {past-p} <decd., dec.> [formal] | 14
 
@@ -1070,7 +1074,7 @@ faire gaffe c'est un verbe à particule spérable aussi : aus + sehen
 
 Aussah : avait l'air/semblait (racine aussehen)
 
-mindestens : mind-estenz : at least {adv}
+mindestens : mind-estenz : au moins/au minimum/at least {adv}
 
 doppelt : dopp-elt : twice/double {adv} | 3436
 
@@ -1354,7 +1358,7 @@ rötlich : ruut-liçh : reddish {adj} | 377
 
 jd./etw. blieb :  : sb./sth. fixa/rester/demeurait/stayed | 168
 
-hager : hag^a : maigre/lean/gaunt {adj} | 598
+hager : hag^a : maigre/lean/gaunt {adj} | 598 | hagere
 
 Der Blick blieb hängen : le regard resta accroché/s'arrête, se fixe...
 
@@ -1382,18 +1386,17 @@ wen : vin : who {pron} | 3321
 
 Suppe {f} : zo-ppeu : gastr. soup | 32767
 
-halten (e.g : hält = hélt): halt-en : tient/maintenir/retenir/garder/fermer/CONSIDERE | halt | hielten
+halten (e.g : hält = hélt): halt-en : tient/maintenir/retenir/garder/fermer/CONSIDERE/TO HOLD | halt | hielten | hielt
 
 dennoch : néanmoins/quand même (implique la notion de 'malgré que')
 
-zurück: tsou-ruk : back {adv} | 1368
-
+zurück: tsou-ruk : retour/back {adv} | 1368
 
 gehastet : ge-ha-steute : scurried {past-p} | 30 (verb)
 
 ein weiteres : vaille-te-res : another {adj} (racine weiteren)
 
-Gericht {n} : géri-çht : gastr. dish | 6424 | gerichte
+Gericht {n} : géri-çht : gastr. dish | 6424 | gerichte |Gerichts
 
 Gericht {n} : gériçht : tribunal/law court | 5127
 
@@ -1456,7 +1459,7 @@ dir : di^a : you {pron} [indirect object] [informal] | 1318
 
 Anweisung {f} : an-vaille-zoung : instruction [order, command] | 2218
 
-gegeben : gégé-ben : given {adj} {past-p} | 417 
+gegeben : gégé-ben : given {adj} {past-p} | 417 | verbe racine geben 
 
 holen : hol-en : prendre/aller chercher/apporter
 
@@ -1468,7 +1471,7 @@ Karren {m} : karr^n  : chariot/cart | 520 (NOUN)
 
 Teil {m} {n} : tayl : part <pt> | 3170 (NOUN)
 
-jd. versuchte : fa-zouCH-te  : sb. tenta/attempted/tried | 399 | racine verbe versuchen
+jd. versuchte : fa-zouCH-te  : sb. essayer/tenta/attempted/tried | 399 | racine verbe versuchen
 
 rechtfertigen : reçhtfea-tigen : to justify | 4366
 
@@ -1520,7 +1523,7 @@ kurz : kourts : brief {adj} | 4252
 wohin du gest : where are you going?/où vas-tu
 
 geste = gehen
-gehen : gé-hen : VA/CONCERNER [si suivi de "an"]/PARTIR/to go/marcher/se promener| 4153
+gehen : gé-hen : VA/CONCERNER [si suivi de "an"]/PARTIR/to go/marcher/se promener| 4153 | gegangen = aller 
 
 en fait 'an' donne une direction : « Das geht dich nichts an » = « Cela ne va rien vers toi » = « Ça ne te concerne pas ».
 
@@ -1546,7 +1549,7 @@ einzeln : ein-tseln  : particular {adj} | 1514
 
 jede [...] einzeln : une par une (IDIOM)
 
-etw. tragen : trag^n  : to carry sth. | 7455
+etw. tragen : trag^n  : to carry sth./to bear something | 7455 | trägt
 
 hinaus : hin-aouss : out {adv} | 729
 
@@ -1667,7 +1670,10 @@ Schätze {pl} : shétze : treasures | 242
 
 wieder : vie-da : de nouveau/again {adv} | 3478
 
-etw.Akk. einsammeln : ayn-zammeln : rassembler/collecter/gather/to collect sth. [taxes, an amount of money, news, etc.] | 828 | einzusammeln 
+etw.Akk. einsammeln : ayn-zammeln : rassembler/collecter/gather/to collect sth. [taxes, an amount of money, news, etc.] | 828 | einzusammeln | eingesammelt
+
+C’est un verbe à particule séparable. Ich sammle ein = je ramasse / collecte.
+    
 
 Körper {m} : keurp^a : body [also wine] | 1243
 
@@ -1729,7 +1735,7 @@ knall : péter/exploser/bang/boum/craquement
 
 lief knallrot an (=an : anlaufen : démarrer/commencer) : devint rouge vif (IDIOM)
 
-Tränen {pl} : trén-^n : tears | 629
+Tränen {pl} : trén-^n : larmes/tears | 629
 
 traten : tra-t^n : entrèrent/surgirent/pédaler (verbe) (infinitif : treten)
 
@@ -1739,7 +1745,7 @@ endlich [selten]: ent-liçh : finalement/eventually/finally/ eventual {adj} | 22
 
 Ordnung {f} : ort-noung : order | 673
 
-gebracht : gebraCHT : brought {past-p} | 573 (infinitif bringen) | brachte
+gebracht : gebraCHT : brought/ramener {past-p} | 573 (infinitif bringen) | brachte
 
 Seiten {pl} : zay-ten : pages/côtés [e.g : de tous les côtés]<pp.> | 1063
 
@@ -1799,6 +1805,8 @@ der Korridor : korrid^oa : corridor/couloir (noun, m)
 jd. wartete : var-téteu  : sb. waited | 54
 
 darauf : dar-aof : LA-DESSUS/ensuite/alors/upon {adv} [archaic] | 5715
+[DARAUF est temporel (ensuite, après ça) ou un pronom adverbial (je l'attends : Ich warte darauf).
+Ne pas confondre avec DAMIT (exprime un but ou complément après un "mit" e.g : "avec ça, il coupe le pain" ni DARUM qui exprime la CAUSE ou la MOTIVATION ("j'étais malade, c'est pourquoi je suis resté chez moi")
 
 Schicksal {n} : shink-ssal : destinée/destin/fate/destiny | 5745
 
@@ -1863,7 +1871,7 @@ kapieren [ugs.] : kapier^n : to understand | 439 | kapiert
 
 wovon : vofon : de quoi/à propos de quoi/from which/from what {adv}
 
-jd. redete : ri-deteu : sb. parlait/talked | 26 (infintif reden, parler)
+jd. redete : ri-deteu : sb. parlait/talked | 26 (infintif reden, parler) 
 
 der Kerl : ker-l : le gars/le type/bloke
 
@@ -1905,7 +1913,7 @@ zwinkern : tsvinkern : to wink/cligner | 1580 | zwinkerte
 
 zuwinkern : faire un clin d'oeil à quelqu'un 
 
-verlassen : fa-lassen : abandonna/quita/abandoned {adj} {past-p} [discarded, empty, cast off] | 3837 | verliß
+verlassen : fa-lassen : abandonna/quita/abandoned {adj} {past-p} [discarded, empty, cast off] | 3837 | verließ
 
 zurückgezogen : tsou-ruuk-gezog^n : retroussé/replié/pincé/retiré/withdrawn {adj} {past-p} | 629
 
@@ -1929,7 +1937,7 @@ oben : obeun : upstairs/above {adj} {adv} | 1367
 
 Schimpftirade {f} : shimpf-tiradeu : tirade [d'injures]/rant | 1253
 
-bevor : before : before {conj} | 3512
+bevor : before : avant [temporel]/before {conj} | 3512
 
 besser : bess^a : better {adj} {adv} | 1392 | besseres
 
@@ -2240,7 +2248,7 @@ Informationen {pl} : informa-tssio-nen : information {sg} | 374
 
 etw.Akk. verarbeiten : fa-arb-aïten : to process sth. | 2952
 
-etw. dauerte : da-ouateu: sth. lasted | 687 | infinitif dauern (verb)
+etw. dauerte : da-ouateu: dure/sth. lasted | 687 | infinitif dauern (verb)
 
 jd. meldete : meldèteteu : sb. manifester/notifier/notified | 85 | infinitif melden
 
@@ -2262,7 +2270,7 @@ schwanger : shvan^g^a : enceinte/pregnant/expecting {adj} | 3136
 
 eigentlich : ai-gèn-tliçh : en fait/en réalité/actually/actual/true {adv} | 7055
 
-gewesen : gé-vizen : been {past-p} | 1074 | infinitif sein
+gewesen : gé-vizen : been {past-p} | 1074 | infinitif sein 
 
 Sache {f} : zaCHE : l'affaire [ex: une dispute]/l'histoire/choses/thing | 1079
 
@@ -2392,7 +2400,7 @@ jd. tauchte : taoCHte : sb. dove [Am.] | 130 | tauchen
 
 Vordereingang {m} : ford-ar-aïl-ngang : front entrance
 
-am : [an dem] : a-m : AT THE/on the/near the/by the {prep} [prep+art]
+am : [an dem] : a-m : AT THE/on the/near the/by the {prep} [prep+art] (souvent utilisé by morning => am frühen)
 
 jd. warf : varf : sb. threw | 412
 
@@ -2820,9 +2828,9 @@ Bergarbeiter {m} : berg-arbayter :  mineur (le métier) | 506
 
 das Falsche {n} : falsheu : the wrong thing
 
-{f} die Art : art : l'art
+{f} die Art : ar-t : l'art
 
-Art {f} [Sorte] :  : type [de qqch, type d'homme, type d femme etc] | 799
+Art {f} [Sorte] : ar-t (prononce le t) : type [de qqch, type d'homme, type d femme etc]/kind | 799
 
 Aufmerksamkeit {f} : auf-merk-zam-kayt : attention/heed | 4004
 
@@ -2899,7 +2907,7 @@ Zinsen {pl} : tsin-z^n : fin. interest {sg} | 4064
 
 erschrocken : ea-shrok^n : effrayé/terrifié/startled/terrified {adj} | 2974 (racine verbe/adj erschrecken)
 
-enorm : énorm : énorme/enormous {adj} | 961
+enorm : énorm : énorme/enormous {adj} | 961 | enormen
 
 jd. nahm : na-m : sb. took | 683
 
@@ -2937,7 +2945,7 @@ früher : fruuer : plus tôt
 
 zuhören : tsou-heuren : to listen | 1815
 
-{m} Ausbilder [bes.: mil.] : aouss-bild^a : entraîneur/instructor/trainer | 362
+{m} Ausbilder [bes.: mil.] : aouss-bild^a : entraîneur/instructor/trainer | 362	
 
 etw. hallte : hallt-eu : sth. résonner
 
@@ -3077,7 +3085,7 @@ schwächen : shvéçhen : to weaken/to undermine | 728
 
 etw. anrichten [Schaden, Unheil etc.] : anriçhtèn : to cause sth. [damage, harm, etc.] | 579
  
- letztendlich : lètzt-entliçh  : eventually {adv} | 3237
+ letztendlich : lètzt-entliçh  : eventually {adv} | 3237 | éventuellement | après tout | à la fin
  
  Beute {f} : boyte : prey/loot | 3154
  
@@ -3361,7 +3369,7 @@ jd. belohnte : bélo-nte : sb. récompensa/ sb. rewarded | 13
 
 ================================================================ 15JUN2025 (Page 27) (SOIR) ================================================================
 
-Atem {m} : a-tem : breath [the air taken into or expelled from the lungs; the process of breathing] | 1809
+Atem {m} : a-tem : souffle/respiration/haleine/breath [the air taken into or expelled from the lungs; the process of breathing] | 1809
 
 ließ los : let go
 
@@ -3635,7 +3643,7 @@ Hilfe {f} : hil-feu : help | 32767
 
 Halluzination {f} : hall-ou-tsi-na-tsione  : psych. hallucination | 88
 
-beruhigen : bé-rou-higèn : rassurer/calmer/to soothe | 3089 | behurigt
+beruhigen : bé-rou-higèn : rassurer/calmer/to soothe | 3089 | behurigt | beruhigend
 
 weit : vaït : far {adj} {adv} | 6011
 
@@ -3718,7 +3726,7 @@ eintreffen : arriver (verbe) | eintrafen
 
 süß : zuss : doux/joli/sucré/cute/sweet {adj} | 1669
 
-duftend : douft^nd : parfumé/odorant/smelling {adj} {pres-p} [scenting] | 21
+duftend : douft^nd : parfumé/odorant/smelling {adj} {pres-p} [scenting] | 21 |
 
 Heu {n} : hoy : foin/hay | 908
 
@@ -3812,9 +3820,9 @@ der Hund : le chien
 
 heulen wie Schlosshunde : littéralement "hurler comme des chiens de château" (équivalent à chiens battus en fr) => pleurer très bruyamment (IDIOM)
 
-wischen : vishen : essuyer/to wipe/smear | 1609 
+wischen : vishen : essuyer/to wipe/smear | 1609  | wischte
 
-jd. umarmte : oum-armte : sb. étreindre/embraced | 35
+jd. umarmte : oum-armte : sb. étreindre/embraced | 35 | verbe racine umarmen
 
 starren : regard fixe, rigide, raide
 
@@ -3846,7 +3854,7 @@ bewaffnet : bevaffnete : armé/armed/weaponed {adj} {past-p} | 1132
 
 {pl} Wachen : vaCHen : guards/garde/sentinelle | 84
 
-Umstände {pl} : oum-shténdeu : circonstances/circumstances/conditions | 3634
+Umstände {pl} : oum-shténdeu : circonstances/circumstances/conditions | 3634 | 
 
 reich : reiçh : riche/rich/wealthy/affluent {adj} | 4708
 
@@ -3856,7 +3864,7 @@ Arbeitssklaven : esclaves travailleurs
 
 (jdn./etw.) rollen : roll^n  : rouler/to roll (sb./sth.) | 924 | rollte
 
-Baracken : barak^n : baraques/barracks (NOUN)
+Baracke {f} : barak^n : baraques/caserne/barracks (NOUN)  | baracken {pl}
 
 einiger : einig^a : une certaine/quelque
 
@@ -3880,7 +3888,7 @@ exakt : eks-akt : exact {adj} | 112
 
 Gegenteil {n} : gi-gèn-tayl : opposite | 2244
 
-breitschultrig : br-aïlt-shoul-triçh : broad-shouldered {adj}
+breitschultrig : br-aïlt-shoul-triçh : broad-shouldered {adj} | breitschultrige
 
 Baggerschaufel {f} : bakk^a-shaoufel : constr. excavator shovel/excavation bucket [mining] | Baggerschaufeln
 
@@ -4151,7 +4159,7 @@ Stunde {f} : s-tounde : educ. lesson | 127
 
 umfallen : oum-fall^n : to yield/to topple down/to fall over | umfällt
 
-jd. schluckte : shloukteu : sb. swallowed | 360 | verbe racine schluken
+jd. schluckte : shloukteu : avaler/sb. swallowed | 360 | verbe racine schluken
 
 Brustkorb {m} : broustkorp : anat. med. VetMed. cage thoracique (différent de brust qui est la poitrine/le torse) | 517
 
@@ -4163,7 +4171,7 @@ Wen kümmert's? [ugs.] : kumm-ats : Who gives a shit / crap? [vulg.]
 
 jd. beharrte : ba-harrteu : sb. persisted | 477 | verbe racine beharren
 
-Beschwerde {f} :  : complaint/grievance/reclamation | 5808
+Beschwerde {f} :  : complaint/grievance/reclamation | 5808 | beschwert
 
 etw. einreichen [ein Gesuch, einen Bericht, ein Angebot etc.] : ein-rayçhen : déposer qqch/soumettre qqch/to submit sth. [a requ
 
@@ -4238,13 +4246,225 @@ gedankenverloren : ge-dank-^n-ferloren : absentmindedly {adv} | 95
 
 Bart {m} : bart : beard | 5251
 
-jd. drängte : drén-gte : elbowed/sb. urged | 448
+jd. drängte : drén-gte : pressa/poussa/elbowed/sb. urged | 448
 
 Überleg doch mal : réfléchis donc encore (réfléchis quand même/donc = doch + mal (une fois/donc))
 
-================================================================ 19JUN2025 (Page 35) (SOIR) ================================================================
+================================================================ 20JUN2025 (Page 35) (MATIN) ================================================================
 
 davorstehen : dafor-shti-in :littéralement auparavant + être debout => devant cela/était sur le point de | davorstand
 
 nachzugeben : naCH-tsou-giben : céder
 
+verlangt : fa-langt : requested/demand/requires {adj} {past-p} | 85 | verbe racine verlangen
+
+schicken : shik^n :  envoyer/to send | geschickt
+
+anschließend : an-shlie-ssent : subsequent {adj} | 5792
+
+zurückschicken : tsou-ruuk-shik^n : to return [send back] | 125
+
+eben :  : plat (adjectif) {adj} | 4371
+eben : justement/simplement/précisément/absoluement/juste/even (adverbe)
+
+Rundgang {m} : rount-gang : tournée/round | 32
+
+jd. heißt : haï-sst : sb. is called
+
+Es heißt : il est dit/on dit
+
+Besuch {m} : beuzouCH : visit/visite/attendance | 1346
+
+unterwegs : ounta-vigss : en chemin/on the move {adv}
+
+Nachschub {m} : naCHshoup : supplies {pl} | 403
+
+{m} Zug : zoug : train/convoi/cortège
+
+ Kriegsgefangene {f} : kriegss-gé-fangeu-neu : prisoner of war <POW> [female]
+ 
+ Kriegs- : krigss : war {adj} [attr.]
+ 
+ fangen : fang-en : capturer/piéger/to trap/capture/ensnare | 652
+ 
+ Orks {pl} [die Rasse der Orks in Tolkiens Welt] :  : film lit. F Orcs [in Tolkien's work]
+ 
+ Jungspund {m} [ugs.] : youngshpount : débutant/novice/young buck [coll.] [whippersnapper] synonyme de Grünschnabel mais en plus sympa (grünschnabel c'est le "bleu" ou le "blanc bec")
+ 
+ Gelegenheit {f} : geli-g^n-haït : chance/opporutnité/occasion/opportunity | 8467
+ 
+ es jdm. heimzahlen [ugs.] : haym-tsah-len : to pay sb. back [coll.] [take revenge]
+ 
+Umso besser : oumzo bess^a : tant mieux
+
+Samen {m} : samen : bot. seed/semen/semence | 4475
+
+fruchtbar : frouCHt-ba : fructueux/fertile (adjectif) | fruchtbaren
+
+bedauern : beu-da-ouanne : to regret | 6967
+
+Redegewandtheit {f} : ridégé-vant-tayt : éloquence/rhétorique | 202
+
+Rede {f} : ri-deu : parole/discours/speech | 2757
+
+gewandt : gevant : habile/adroit/agile/dexterous/deft {adj} | 681
+
+heit c'est un suffixe nominalisateur équivalent à -té en français
+
+jd. schoss : shoss : sb. shot | 225
+
+Überredung {f} : ub-a-riddoung : persuasion | 367
+
+Pfeil {m} : p-fayl : flèche/arrow/dart | 2078
+
+abschießen [fig.] : ap-shiessen : to shoot [glance] | 340
+
+etw.Akk. abschießen [töten] :  : hunting to take sth. [kill by shooting] | 326
+
+abschießen », dont « ab » est une particule séparée.
+
+« Ab » ici indique l’action de lancer ou tirer quelque chose avec force ou finalité.
+
+« Abschießen » signifie donc « tirer (une flèche, un missile, un projectile) » ou « lancer ».
+
+ « schoss ... ab » = « tira »
+ 
+ c'est le même truc 
+ 
+ Eis {n} : ayss: ice | 1075
+ 
+ Großmaul {n} [ugs.] : gross-maoul : bigmouth/grande gueule [coll.] | 71
+ 
+ danach : danaCH : après ça/after/next {adv} | 2687
+ 
+ Fußstapfen {m} : fouss-shtapf^n : footprint | 54
+ 
+ also dann : well then
+ 
+ es sieht danach aus : it looks like/it appears that
+ 
+ versterben [geh.] : fasht-ea-ben : to die | 173 | verstorbenen
+ 
+ ================================================================ 20JUN2025 (Page 36) (SOIR) ================================================================
+ 
+ Schätzchen {n} : shétss-çhien : chérie/darling | 30
+ 
+ Iss! : iss : Eat! | 20 | verbe racine essen (manger) 
+ 
+ gegessen : geug-éss^n : eaten {adj} {past-p} | 309
+ 
+Tonschüssel : ton-shussel : bol en terre cuite/un plat (ne pas confondre avec Terrine qui est strictement en céramique)
+
+Ton- [z. B. Gehalt, Zylinder, Lagerstätte, Figur, Idol, Mineral, Abbau] : ton : clay {adj} [attr.] [e.g. content, cylinder, deposit, figure, idol, mineral, mining] | 53
+
+Schüssel {f} : shuss^l : bol/plat/saladier/bowl | 6743
+ 
+ jd. roch : rOCH : sb. smelled | 101
+ 
+ fantastisch : fantast-ish  : fantastic {adj} | 1278
+ 
+ mühsam : muuzam : difficile/pénible/laborieux/painstakingly/tedious {adj} | 3485
+
+Spucke {f} [ugs.] : shpoukeu : saliva | 269
+ 
+
+Lady {f} : laydi : lady | 6
+ 
+Angst {f} [vor jdm./etw.] [Befürchtung, stärker: Furcht] : ang-sst : angoisese/anxiété/peur/worries/fear [of sb./sth.] | 3151
+
+Gemüsesuppe {f} : geumuu-ze-zeuppe : gastr. potage/soupe de légumes/pottage | 52
+
+Hunger {m} : houng^a : hunger | 2638
+
+jdn. bemühen [geh.] : beumu^n : to exert [himself/herself] | s'efforcer de | 116 | bemühte
+
+darum : daroum : for that reason {adv}
+[darum exprime la CAUSE ou la MOTIVATION
+Ne pas confondre avec DARAUF qui est temporel (ensuite, après ça ou un pronom adverbial : ex je l'attends Ich warte darauf) ni DAMIT qui exprime un BUT ou un complément avec MIT ("j'ai utilisé un couteau pour couper le pain")]
+
+etw. hinunterschlingen : hin-ounta-shling^n : dévorer/engloutir/to gobble sth./to wolf down | 614 | hinunterzuschlingen on ajoute zu pck y'a une action évidemment
+
+on peut pas dire 
+    zu hinunterschlingen (structure incorrecte)
+mais on peut dire
+    hinunterzuschlingen
+
+Pourquoi ?
+
+C’est une règle fixe en allemand. Pour tous les verbes à particule séparable, la structure est toujours la suivante - Particule + zu + verbe à l’infinitif
+
+-> il faut apprendre les particules séparables (trennbares verb dans Duden) par coeur
+
+wundervoll : voun-der-foll : marvellous/wonderful {adj} [Br.] | 653 | wundervoller
+
+Duft {m} : douft : fragrance/flavor | 1612
+
+Reiseproviant {m} : rayze-provi-ant : food for the journey/traveling fare
+
+jdn./etw. mögen : meug^n : souhaiter/vouloir/to wish/to like sb./sth. | 1755
+
+möge c'est une forme konjunktiv I solennelle, fréquente dans les prières et bénédictions (möge Gott sie segnen! que Dieu la bénisse)
+
+
+Gott möge abhüten! [ostösterr.] [aus dem Jiddischen] : meugeu : God forbid!
+
+jdn./etw. segnen : zign^n : bénir sb/sth./to bless sb./sth. | 1371
+
+ausgegangen : aouss-gegang^n: gone out {past-p}
+
+großzügig : gross-tsuu-giçh : generous/charitable {adj} [liberal, lavish] | 7857
+
+Trocken : trok^n : sec/aride {adj}
+
+Zwiebel {f} [österr. und bayer. ugs. {m}] : tsvie-bel : bot. gastr. oignon / onion | 5051
+
+Laib {m} : laip : gastr. miche [de pain]/loaf | 1631
+
+Leckereien {pl} : léke-ray-^n : gastr. friandises/délices/gourmandises/treats | 207
+
+gewöhnen : géveu-nn^n : to familiarize/to accustom | 1968 | gewöhnt
+
+{n} Essen : ess^n : nourriture/food | 3610
+
+unbegründet : oun-be-gruun-dèt : infondé/sans fondements {adj}
+
+Schuldgefühl {n} : shoult-gefuul : guilt feeling
+
+Schuldgefühle {pl} :  : feelings of guilt
+
+zu besänftigen : bessén-ftig^n : apaiser/to appease/to placate
+
+Gefühl {n} : gé-fuul : feeling | 2003
+
+Albtraum {m} : alp-traom : nightmare | 693
+
+Traum {m} : tra-om : dream | 1248
+
+Sekunde {f} <s, Sek.> [Sek. ist veraltet] : zé-kounde  : unit second <s, sec.> | 2168
+
+enden : end^n : se terminer/to end | 427
+
+vorübergehend : for-ub-a-gi-int : temporary {adj} | 2276
+
+Unterkunft {f} : ounta-kounft : logement/accommodation/shelter/lodging	 [lodging] | 7081
+
+etw.Akk. hervorholen : her-foa-holen : to pop sth. | 121
+
+hervoreilen : :
+
+etw.Akk. drücken [zusammendrücken, quetschen] : druk^n : serrer/presser/appuyer/to squeeze sth. | 1766
+
+Kutsche {f} : koutsheu  : carriage [horse-drawn]/coach | 1059
+
+Hervoreilen : eilen (se dépêcher/courir) + hervor (vers l'extérieur/en avant) = acourir
+
+Verkettung {f} : fa-kettoung : enchaînement/chaînage/raccordement/nexus/concaténation/linkage/imbrication | 79
+
+{m} Umständen : oumshténden :circonstance/situation/état des choses (NOUN)
+
+pourquoi hierhergebracht et pas hiergebracht
+„Hierherbringen“ = « amener ici (vers ici, vers le locuteur) » — insiste sur le fait que l’action s’est faite en direction du lieu où je me trouve ou du point de vue du locuteur.
+
+„Hierbringen“ (moins courant) pourrait être compris simplement comme « apporter ici » sans insister sur la direction « vers ici ».
+
+================================================================ 21JUN2025 (Page 37) (SOIR) ================================================================
