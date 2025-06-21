@@ -71,7 +71,7 @@ leicht [ohne Schwierigkeiten, einfach] : laiçht : easy/light {adj} | 2009
  doch diese Worte kamen ihm nicht leicht von den Lippen. : es mots ne lui vinrent pas facilement aux lèvres.
  
 Er ist am Leben“ : il est en vie (idiom)
-jd. erwiderte : éavide^atte : sb. retorted | 154
+jd. erwiderte : éavide^atte : répondre/rétorquer/sb. retorted | 154
 
 düsteren : du-sterèn : sombre
 
@@ -83,7 +83,7 @@ rasch : rash : rapid {adj} | 1772
 
 jd. fügte ein : fugteu : sb. ajouter/infliger/inserted/add
 
-leise : lay-zeu : quiet/soft/doucement/à voix basse {adj} | 2408 | leisen
+leise : lay-zeu : quiet/soft/doucement/à voix basse {adj} | 2408 | leisen | leier
 
 flüstern : flu-steurn : to whisper/à voix basse | 2160
 Er fügte hinzu, dass ... : fug^té in-tsou : He added that ... | geflüsterten
@@ -161,7 +161,7 @@ Geburt {f} : gebou^eut ou gebuRT : birth | 1773
 
 hervorragend : hea-fo-rragend : outstanding {adj} | 4121
 
-überstanden : uba-shtanden : overcome {adj} {past-p} | 626
+überstanden : uba-shtanden : overcome {adj} {past-p} | 626 | überstehst
 
 
 « des Minenarbeiters » = du mineur (génitif, singulier) (génitif = posssession ou origine)
@@ -269,7 +269,7 @@ Berge {pl} : bea-ge  : mountains | 223
 
 Erwägung {f} : ervé-gonn^ : contemplation | 433
 
-(jdn./etw.) ziehen : tsi-in : to pull (sb./sth.) | 4197
+(jdn./etw.) ziehen : tsi-in : tirer/mettre/tracer/to pull (sb./sth.) | 4197 | zieh (forme impérative)
 
 in Erwägung ziehen : envisager/considérer
 
@@ -381,7 +381,7 @@ normalerweise :  normalea-vaize : normally {adv} | 1032
 Untergrenze {f} : ount^a-grèn-tse : strict minimum/limite basse/lower limit
 
 möglich : mukliçh : possible {adj} | 3987
-"Aber wie ist denn das nur möglich?" => comment est-ce que c'est seulement possible?
+"Aber wie ist denn das nur möglich?" => comment est-ce que c'est seulement possible? | möglichen
 
 Ich weiss es nicht :Je ne sais pas.
 
@@ -441,6 +441,7 @@ alte : vieille
 Ruhe : quiet! (Rou:ë - roueuh)
 Ruhe! :  : Order! | 118
 Ruhe : calm (Rou:ë - roueuh)
+
 jd. bekam : bi-kam : recevoir/obtenir/commence à avoir/got/to get| 649 [infinitif bekommen / bekamen]
 
 Risse {pl} :  : flaws | 535
@@ -513,7 +514,7 @@ genau : gen-eau : exactly/true/vrai/détaillé/très/précis {adv} | 5526
  „Um genau zu sein, glaube ich genau das, ja.“
  =>>> Pour être précis, c’est exactement ce que je crois, oui. (ici : um = pour, genau = exact, zu = trop/plus et sein = etre)
  
- erwähnen : ea-vi-nen : mentionner/évoquer/to bring up [mention]
+ erwähnen : ea-vi-nen : mentionner/évoquer/to bring up [mention] | erwähnt
  
  dann : alors/donc
  
@@ -547,7 +548,7 @@ jd. schwöre : sh-veureu : sb. would swear [oath]
 
 zum : tsoum : à/to the/au {prep}
 
-am nächsten : néch-sten  : closest {adv}
+am nächsten : néçh-sten  : closest {adv}
 
 
 Tempel {m} : temp-eul : archi. relig. temple | 1037
@@ -615,7 +616,7 @@ jd. verfügte : fa-fugteu  : sb. disposer/disposed [had at one's disposal] | 16
 
 jd. stellt : shtelt  : sb. poses/represents | 217
 
-Vorräten → « des provisions » (forme datif pluriel de Vorrat)
+Vorräten → « des provisions » (forme datif pluriel de Vorrat) | Vorrats
 zur Verfügung stellt  : fournit
 
 versieht → « pourvoit », « équipe », ou ici : « fournit »
@@ -859,7 +860,7 @@ ihm zustehen
 
 bemitleidenswert : bi-mit-lay-den-sv^ea^t : pitiful {adj} | 1123
 
-gering : géring : faible/minime/modeste/mineure/slight {adj} | 4015 | geringste
+gering : géring : faible/minime/modeste/mineure/slight {adj} | 4015 | geringste | geringen
 
 bemitlaydenswert gering : lamentablement faibles
 
@@ -910,7 +911,7 @@ versagen :  fa^zagen: to fail [machines, computers etc.] | 2559
 
 Virus {n} : virous:  : biol. virus | 433
 
-des Weiteren : vaille-té-ren : un autre/en plus/égalment/en outre/additionnally/furthermore {adv}
+des Weiteren : vaille-té-ren : un autre/en plus/également/en outre/additionnally/furthermore {adv}
 
 Wie du weißt : Comme tu le sais 
 
@@ -958,7 +959,7 @@ Standen (infinitif STEHEN) : shtan-den : être debout/se trouver/était écrit/�
 
 ================================================================ 07JUN2025 (Page 12) (SOIR) ================================================================
 
-jdn./etw. erschöpfen : ea-scho-pfen : to exhaust sb./sth. | 1781
+jdn./etw. erschöpfen : ea-scho-pfen : to exhaust sb./sth. | 1781 | erschöpft
 
 Bank {f} : ban-k  : furn. bench | 1772
 
@@ -1312,7 +1313,7 @@ etw.Akk. festhalten [Daten] : fest-halten : consigner/enregistrer/to record sth.
 
 festhalten : fest-halten : consigner/noter/enregistrer par écrit/adhérer/to adhere | 3644
 
-entfernt [weggenommen] :  : removed {adj} {past-p} | 294
+entfernt [weggenommen] :  : éloigné/distant/removed {adj} {past-p} | 294
 
 [wir/sie/Sie] wurden : vourd^n : [we/they/you] were | 257
 [wir/sie/Sie] waren : var^n : [we/they/you] were | 1073
@@ -1340,8 +1341,6 @@ drahtig [Haar, Mensch] : dratiçh : maigre/wiry {adj} | 1129
 Bärtiger {m} : bé-rtig^a : beardy [Br.] [coll.] [usually pej.] [bearded man]
 
 zitternd : tsi-tternd : trembling {adj} {pres-p} | 1363
-
-jd. hielt : hielt : sb. held | 358
 
 angestoßen : angeshtosseun : usé/nudged/used/pushed {adj} {past-p} | 166
 
@@ -1453,7 +1452,7 @@ beieinanderstehend : placés [stehend] très près [bei] l'un l'autre [einander]
 
 jd. schimpfte : shimpf-te  : sb. scolded | 44
 
-heiser : heiz^a  : hoarse {adj} [voice, person] | 2321
+heiser : heiz^a  : hoarse {adj} [voice, person] | 2321 | heisere
 
 dir : di^a : you {pron} [indirect object] [informal] | 1318 
 
@@ -1631,7 +1630,7 @@ Angestellte : personnel/employé/travailleurs
 
 achtlos : aCHTlos : négligent/careless/regardless {adj} {adv} | 237
 
-Schlag {m} : shlak : blow | 2047
+Schlag {m} : shlak : blow/beat | 2047
 
 [wir/sie/Sie] flogen : fl-eau-g^n : [we/they/you] flew | 99
 
@@ -1728,6 +1727,7 @@ Bürohengst {m} [pej.] : buro-hèngst  : paper pusher [coll.]
 lustig : loustiçh : funny/amusing {adj} | 3153
 
 lief : courut/marcher (inf verb laufen) 
+^ souvent utiliser pour décrire larmes qui coulent ou frisson le long du dos
 
 knallrot : knall-rot : rouge pétant {adj}
 
@@ -1747,7 +1747,7 @@ Ordnung {f} : ort-noung : order | 673
 
 gebracht : gebraCHT : brought/ramener {past-p} | 573 (infinitif bringen) | brachte
 
-Seiten {pl} : zay-ten : pages/côtés [e.g : de tous les côtés]<pp.> | 1063
+Seiten {pl} : zay-ten : pages/côtés [e.g : de tous les côtés]<pp.> | 1063 | Seite
 
 etw. umklammerte : oum-klamateu  : sth. étreindre/clasped | 18
 
@@ -2028,7 +2028,7 @@ gleichgültig : glaï-çhgultçh : indifferent {adj} [not important or interest
 
 etw. vertiefte : fe-tifte : sth. approfondir/deepened | 9 vertiefen (inf verb)
 
-jd. drehte : dréçhen : sb. turned | drehen(verb inf) 152
+jd. drehte : dri-te (dri-èn) : sb. tourner/sb. turned | drehen(verb inf) 152
 
 etw. flackerte : flack-ate : lueur [de qqch]/sth. flickered | 24
 
@@ -2100,7 +2100,7 @@ merken : merk^n : mémoriser/se rendre compte | merkt
 
 etw. anschauen : ansch-aouen : to look at sth | anschaut.
 
-dunkle: dounkl^a : dark/sombre
+dunkle: dounkl^a : dark/sombre | dunklen
 
 Ringe {pl} : ring-eu : rings | 45
 
@@ -2272,7 +2272,7 @@ eigentlich : ai-gèn-tliçh : en fait/en réalité/actually/actual/true {adv} | 
 
 gewesen : gé-vizen : been {past-p} | 1074 | infinitif sein 
 
-Sache {f} : zaCHE : l'affaire [ex: une dispute]/l'histoire/choses/thing | 1079
+Sache {f} : zaCHE : l'affaire [ex: une dispute]/l'histoire/choses/thing | 1079 | Sachen {pl}
 
 lag : lag : se trouvait/était (infinitif liegen, situer) (VERB)
 
@@ -2552,7 +2552,7 @@ vernichtet :fa-niçhtet  : destroyed/expunged {adj} {past-p} | 81
 
 getragen : geu-trag^n : porté/carried/worn {adj} {past-p} [dressed in] | 522 
 
-Ort {m} : Ort : location/site/place | 2378
+{m} Ort : Ort : location/site/place | 2378
 
 aufgehört : auf-ge-heurt : cessé/ceased {past-p} | 759 | racine aufhören
 
@@ -2644,7 +2644,7 @@ armselig : arm-zi-liçh : pathetic {adj} | 1507
 
 Eigenschaft {f} : aïg-eun-shaft : characteristic | 911
 
-Bett {n} : bett : furn. bed | 3125
+Bett {n} : bett : furn. lit/bed | 3125
 
 gefesselt : gé-fesselt : enchaîné/bound {adj} {past-p} [enchained] | 1253
 
@@ -3122,7 +3122,9 @@ Theoretisch : tiori-tish : en théorie/theoretically (adj)
 
 kommen : komm^n : to go/to come
 
-Praxis {f} :  praxiss : pratique/practice | 884
+Praxis {f} :  praxiss : [la] pratique [application réelle, opposé à la théorie, e.g : la pratique de la médecine]/practice | 884 (NOUN)
+
+^ ne pas confondre avec praktisch qui est un adjectif et un adverbe et non pas un NOM
  
 irgendetwas : eug-ent-ètvass : anything/something {pron} | 833
 
@@ -3235,7 +3237,7 @@ jd. stieß : shtiess : sb. thrust/poked/bumped | 171
 
 Erz {n} : ia-ts : geol. mining ore | 1745 (NOUN)
 
-jd. schlug : shlouk : sb. battre/hit/bashed/whacked | 2996
+jd. schlug : shlouk : sb. battre/hit/bashed/whacked | 2996 | verbe racine schlagen
 
 Funken {pl} : founk^n : phys. sparks/étincelles | 384 (NOUN)
 
@@ -3325,7 +3327,7 @@ mächtig : méçhtiçh : mighty/powerful/sacrément {adj} | 2342
 
 beunruhigen : bé-oun-rou-hig^n : agité/to agitate/trouble/bother | 1586 | beunruhigt
 
-niemandem : nie-mand^n: personne/aucun
+niemandem : nie-mand^n: personne/aucun | niemanden
 
 etw. strahlte : shtralte  : sth. beamed/radiated | 81
 
@@ -3357,7 +3359,9 @@ vorsichtig : fuo-ziçhtiçh : prudent/careful {adj} | 7596
 
 genug : génouk : assez/enough {adj} {adv} | 2026
 
-{m} Rat : ra-t : advice [guidance] | 5385
+{m} Rat : ra-t : conseil/advice [conseil court, général, guidance] | 5385
+^ ne pas confondre avec Ratschlag (conseil spécifique, formel, détaillé)
+
 
 Wofür ist das? : wo-fur : what for/ce pour quoi
 
@@ -3608,7 +3612,7 @@ schwarzgebrannte Spirituosen {pl} :  : gastr. moonshine {sg} [coll.]
 
 Zeug : tsoy-g : truc/machin/saleté/shit :
 
-[zu] trinken : trink^n : to drink | 5488
+[zu] trinken : trink^n : to drink | 5488 | trank
 
 [ich] sehe : zi-eu : [I] see | 281
 
@@ -3822,7 +3826,7 @@ heulen wie Schlosshunde : littéralement "hurler comme des chiens de château" (
 
 wischen : vishen : essuyer/to wipe/smear | 1609  | wischte
 
-jd. umarmte : oum-armte : sb. étreindre/embraced | 35 | verbe racine umarmen
+jd. umarmte : oum-armte : sb. étreindre/embraced | 35 | verbe racine umarmen | Umarmung
 
 starren : regard fixe, rigide, raide
 
@@ -3975,7 +3979,7 @@ Auspeitschung {f} : aous-p-aïlt-shoung : whipping | 20
 
 ereilen [geh.] :  : to befall [fate] [literary] | 591
 
-hirnlos : hiirn-loss : mindless/brainless {adj} | 88
+hirnlos : hiirn-loss : mindless/brainless {adj} | 88 | hirnlose
 
 Idioten {pl} : idiot^n : idiot/âne/crétin/dunce/cretins | 42
 
@@ -4139,7 +4143,7 @@ Wie kommt es : cela vient/se fait-il (plus simple en angalis : how come)  (IDIOM
 
 ================================================================ 19JUN2025 (Page 34) (SOIR) ================================================================
 
-stecken : shteck^n  : caser/placer/insérer/to stick | 1504
+stecken : shteck^n  : caser/placer/insérer/to stick | 1504 | gesteckt
 
 unerwartet : oun-ervartèt : inattendu/soudain/unexpected/unexpectedly {adj} | 1758
 
@@ -4208,7 +4212,7 @@ Geizhals {m} [pej.] : gaï-ts-hals : radin/avare/miser/scrooge/cheapskate | 1111
 
 frisch : frish : fresh {adj} | 1695
 
-Löffel {m} : leuff^l : cuillère/spoon | 6610
+Löffel {m} : leuff^l : cuillère/spoon | 6610 |Löffelte => spooned
 
 abgeben : ap-geben : donner/céder/to provide | 2480
 
@@ -4260,7 +4264,7 @@ verlangt : fa-langt : requested/demand/requires {adj} {past-p} | 85 | verbe raci
 
 schicken : shik^n :  envoyer/to send | geschickt
 
-anschließend : an-shlie-ssent : subsequent {adj} | 5792
+anschließend : an-shlie-ssent : ensuite/puis/subsequent {adj} | 5792
 
 zurückschicken : tsou-ruuk-shik^n : to return [send back] | 125
 
@@ -4467,4 +4471,226 @@ pourquoi hierhergebracht et pas hiergebracht
 
 „Hierbringen“ (moins courant) pourrait être compris simplement comme « apporter ici » sans insister sur la direction « vers ici ».
 
-================================================================ 21JUN2025 (Page 37) (SOIR) ================================================================
+================================================================ 21JUN2025 (Page 37) (MATIN) ================================================================
+
+kostbaren : kostbar^n : précieux/cher/somptueux (adjectif)
+
+Karotte {f} : karotteu : bot. gastr. T carrot [Daucus carota ssp. sativus] | 1326 | Karotten {pl}
+
+Kühle {f} :  : cool | 12
+
+Wasser {n} <H2O> :  : chem. water <H2O> [H2O] | 32767
+
+lehnen :  : s'appuyer/appuyer/to lean [on smth] | 1416 | lehnte
+
+staubig : shtaobiçh : poussiéreux | staubigen
+
+Strohsack {m} : shtro-zak : sac de paille/paillasse (fait référence à un matelas rudimentaire rempli de paille)
+
+(jdm./etw.) dienen :  : qui sert/to serve (sb./sth.)/ | 2534 | diente
+
+Na : yeah/well/well then
+
+jetzt : yètst : now {adv} | 6623
+
+aufmuntern : aouf-mount^an : réconforter/faire sourire/to perk up/to encourage | 261 | aufgemuntert
+
+Seite {f} :  : side | 1636
+
+
+angenehm : angé-nim: agréable, confortable, plaisant (adjectif)| angenehmen
+
+Umarmung {f} : oum-armoung : embrace/hug | 1261
+
+Schlaf {m} : shlaf : sleep | 666
+
+Meter {m} [früher fachspr. auch {n}] <m> : mi-ta : unit metre <m> [Br.] | 1428
+
+Arbeitstag {m} : arb-aï-tstag : workday [esp. Am.] | 80
+
+jdn. aufwecken : aouf-veck^n : réveiller/to wake sb./to rouse | 410
+
+Tante {f} : tanteu : aunt | 32767
+
+hörbar : heuua-bar : audible {adj} | 865
+
+Welt {f} : velt : world | 2025 | Welten {pl} (NOUN)
+
+serviert :  : gastr. served {adj} {past-p} | 381 | verbe racine servieren
+
+Kohl {m} : kohl : bot. gastr. T cabbage | 5522
+
+"Welten entfernt sein von" (IDIOM) (littéralement : to be worlds apart from xxx)
+
+littéralement => être des mondes éloigné de...
+→ idiomatique => être à des années-lumière de, être très loin de, ne rien avoir à voir avec (en termes de qualité ou de différence).
+
+dazu [zu diesem Zweck] : datsou : de plus/pour ce faire/pour atteindre cet objectif/à cette fin/ dans ce but {adv}
+
+Unbekannte {f} : oun-bekannte : stranger [female] | 41
+
+Dunkelheit {f} : dounkel-hayt : obscurité/ténèbres/gloom/dark | 2069
+
+Kopfnicken {n} : kopf-ninkn : nod (of the head)
+
+à partir de maintenant si meaning clair je n'écrirais plus les mots composés
+
+nicht auszumachen :  : indistinguishable {adj}
+auszumachen : distinguable (adj)
+
+aufgebracht1 : aouf-ge-braCHt : upset {adj} [angry] | 1887
+
+gerettet : geu-rétètt : rescued {adj} {past-p} | 337
+
+Unsinn! : oun-zinn : Rubbish! [esp. Br.] | 3638
+
+Unsinn {m} :  : folly | 1260
+
+Strafe {f} : shtrafeu : punishment | 2587
+
+sich erholen : ea-holl^n : med. to recover [health] | erholt
+
+Medizinmann {m} : midi-tsin-mann : ethn. relig. medicine man/shaman/witch doctor
+
+Ersparnis {f} : er-shparnis : saving | 392
+
+Ersparnisse {pl} : eshpa-nisseu : savings | 1298
+
+auf die Füße kommen : se remettre sur pied (IDIOM)
+
+Vorrat {m} :  : supply | 1837
+
+Peitschenhieb {m} : payt-shen-hieb : whiplash/lash [of the whip] | 561
+
+ausreichen : aouss-rayçhen : to suffice | 1675
+
+================================================================ 21JUN2025 (Page 38) (SOIR) ================================================================
+
+umsonst [unentgeltlich] : oum-zonst : free/gratuitement {adv} [costing nothing] | 646
+
+sonst : sonsst : else {adv} | 2598
+
+jd./etw. teilte : tay-l-teu : partager/séparer/scinder/sb./sth. divided | 30 | verbe racine teilen
+
+Teilen {n} : tayl-èn : math. division | 38
+
+nett : nett : gentil/kind/nice {adj} | 6190 | nette
+
+Geste {f} : gésteu : action/gesture | 1934
+
+fressen : fress^n : bouffer/dévorer/to eat [animal, verbe spécifique aux animaux, les hommes mangent avec 'essen', utiliser fressen = péjoratif pour les hommes] | 577 (verbe)
+
+Fressen {n} [Futter] : fress^n : bouffe | 32 [animal, nom spécifique aux animaux, les hommes ont de la Essen (nourriture), utiliser Fressen = péjoratif pour les hommes. c'est pour insulter, être vulgaire, rabaisser quelqu'un]
+
+Du lieber Himmel! : Nom de Dieu/Mon Dieu/Seigneur/Ciel! (IDIOM/exclamation, littéralement "You sweet Heavens!")
+
+fremd : frem-t : étranger/alien/foreign {adj} | 2089
+
+{m,f,n} Fremde: fremd^a : étranger/stranger | 123
+
+{n} Tier : ti-a : zool. animal [also: fig] | 1792
+
+echt : èçht : authentique/vrai/genuine {adj} | 5413
+
+praktisch : praktish  : pratique/utile/pratiquement/handy {adj, advb} | 2679
+
+^ ne pas confondre avec Praxis qui définit la pratique (le nom)
+
+Abfallgrube {f} : ap-fall-groubeu : archaeo. fosse à merde/fosse à déchets/fosse à ordures/cesspit [refuse pit] | 200 [péj. grossier]
+^ c'est un nom descriptif mais connoté, ce n'est PAS le terme technique pour "fosse sceptique (=Klärgrube/Senkgrube)"
+
+genehmer [geh.] : geunim^a : more convenient {adj}
+
+unangenehmer : oun-an-geunim^a : more unpleasant {adj}
+
+kostenlos : kost^n-los : gratuit/freebie {adj} [coll.] | 190
+
+einziehen : ayn-tsi-èn : rétracter/pull in/tirer vers l'intérieur (ziehen = tirer)/to retract [claws, undercarriage] | 182
+
+"den Kopf einziehen" (Zieh den Kopf ein) : fais-toi petit/évite d'attirer l'attention (IDIOM). 
+
+^ Littéralement "tire la tête vers l'intérieur/dedans"
+
+Zieh = tire (impératif de ziehen, tirer)
+den Kopf = la tête (accusatif)
+ein (racine verbe einziehen) = dedans / vers l’intérieur
+
+aufpassen : aouf-pass^n : faire attention/to pay attention | pass auf (IDIOM)
+
+Hinterkopf {m} : hint^a-kopf : anat. back of the head
+
+Sträfling {m} : shtré-fling : prisonniers/convicts/prisoner | 12 | Sträflinge 
+
+jd. zwang : tsvan^g : sb. contraint/forcé/forced/coerced/duress | 151
+
+Zwang {m} :  : contrainte/constraint | 880
+
+verurteilt : fa-urtaylt : [law] condamné/sentenced {adj} {past-p} | 655
+
+{m} Gauner : ga-on^a : escroc/filou/voyou/bandit/canaille
+
+{m} Mörder : meurd^a : meurtrier/assassin/tueur
+
+{m} Schacht : shaçht :puits/cheminée/cage | Schächten
+
+etw. wimmelt : vimmelt : grouiller/fourmiller/sth. swarms/teems | 23 | verbe racine wimmeln
+
+unterirdisch : ount^a-ir-dish : souterrain/underground {adj} {adv} | 870 | unterirdischen
+
+Kreatur {f} : kréa-toua : creature/critter | 142 | Kreaturen {pl}
+
+Appetithappen : appétite-ha-pp^n : amuse-bouche/appetizer/starter
+
+Appetit {m} : appétite : appétit | 525
+
+jdn./etw. fürchten : fua-çhten : craindre/appréhender/to dread sb./sth. | 4283
+
+etw.Akk. wahren : va-rèn : garder/to keep sth. [preserve; e.g. authority, reputation] | 1534
+
+gott + verlassen : godforsaken/perdu
+
+zwielichtig : tsvi-liçh-tiçh : louche/shady/sketchy {adj} [coll.] [dubious] | 1912
+
+Helfer {m} : helf^a  : assistant/complice/auxiliary [helper] | 3065
+
+lebend : li-bent : vivant/alive {adj} | 61
+
+verbringen : fa-bring^n : passer/to spend/to take | 4469 (verbe)
+
+Fall {m} [Sache] [auch ling., law., med.] : fall  : cas/case [issue, affair, cause] [also ling., law, med.]/peut aussi dire "tomber/drop" | 2371
+
+auf keinen Fall  : en aucun cas/surtout pas
+
+unten : ount^n : dessous/below/down {adv} | 1565
+
+Satz {m} : za-tst : ling. phrase/sentence | 6129
+
+[regional] hicksen :  hicks^n : hoqueter/to hiccup | 145 | hickste
+
+anscheinend : ant-shay-nent : apparemment/apparent (adj)/apparently/seemingly/en apparence {adv} | 2029
+
+beendet : bé-endet : finished {adj} {past-p} | 144 | verbe racine beenden (finir)
+
+eingeschlafen :  : fallen asleep {past-p} | verb racine einschlafen (to fall asleep)
+
+jd. lauschte : laoshteu : tendre l'oreille/sb. eavesdropped | 56
+
+Ratschlag {m} : ratsh-lak : conseil [conseil précis, concret, formel, appuyé, spécifique]/advice  | 3482 | Ratschläge {pl}
+^ ne pas confondre avec Rat (conseil en général, courant)
+
+Sack {m} : zak : sac (comme un sac en français) | 355 mais ici dans ce contexte ça fait référence à Strohsack, le lit de paille/sac de paille sur lequel il dort
+
+jd./etw. glättete :  : sb.sth. lissa/aplanit sb./sth. smoothed | 41 | verb racine glätten 
+
+kratzig : kratziçh : scratchy/itchy/qui donne envie de se gratter {adj} | 676
+
+entspannen : ent-shpannen : to relax | 2055
+
+Schnarchen {n} : shnarçhin : snoring | 191
+
+Kamerad {m} : kama-rat : comrade/fellow | 429
+
+================================================================ 21JUN2025 (Page 39) (SOIR) ================================================================
+
+Missgeschick {n} :  : misfortune | 284
+
