@@ -1,6 +1,6 @@
 library(readODS)
 
-data <- read_ods("~/Bureau/allemand/german_stats.ods", sheet = 1)
+data <- read_ods("~/Bureau/allemand/Sources_pour_les_nerds/german_stats.ods", sheet = 1)
 
 # Afficher les noms de colonnes pour les adapter ensuite
 print(names(data))
