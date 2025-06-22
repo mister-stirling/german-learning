@@ -1,11 +1,10 @@
-# german-learning
-
 Ce dépôt contient mes notes personnelles et outils pour l'apprentissage de l'allemand.
 
 ## 📊 Où trouver un résumé des statistiques de la progression ?.. 
-![image](https://github.com/user-attachments/assets/b04e5f7d-12c8-4c36-9ded-01f3cef5f63c)
-![image](https://github.com/user-attachments/assets/4de7f9e3-f42b-47be-81ec-6ad49769fb88)
-![image](https://github.com/user-attachments/assets/76c809d7-8e8c-4dab-b929-a47b89bcc37e)
+
+👉Ici_progression_textuelle_stats
+
+[Section en cours de construction... Patience!]
 
 ## 📦 Contenu
 
