@@ -8,7 +8,7 @@ Ce dépôt contient mes notes personnelles et outils pour l'apprentissage de l'a
 
 ## 📦 Contenu
 
-- Un add-on (script Tampermonkey) pour faciliter l'utilisation des dictionnaires en ligne.
+- Un add-on (script Tampermonkey) pour faciliter l'utilisation de dict.cc.
 - Un dictionnaire (+ idioms) et notes personnelles organisés par version pour un livre écrit en allemand.
 - Stats textuelles (pour les curieux) et stats descriptives de ma progression
 
