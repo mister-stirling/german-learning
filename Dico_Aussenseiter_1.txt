@@ -300,7 +300,8 @@ genullt : annulé/remis à zero / intraduisible en fr
 Gesicht {n} : gésiçht  : face/visage | 6019
 verlor : fea-loa : sb. lost/[il perdit]/to lose  | 247 | verloren
 
-jeden : yé-den : chaque
+jeden : yé-den : chaque/each
+
 jeder : yé-der  : everyone {pron} | 2424
 
 alt : old
@@ -688,6 +689,7 @@ jdm. zustehen : tsou-sté-ine : to appertain to sb.
 langsam : langzam : slow {adj} {adv} | 3388
 
 gerade [Zahl] : gé-ra-de : math. juste/even {adj} | 4034
+
 gerade [aufrichtig] :  : honest {adj} [sincere, frank] | 349
 
 gerade :  : straight/PRECISEMENT {adj} {adv} | 2605
@@ -819,7 +821,7 @@ normales : normale
 
 führen : fuu-rèn : mener/conduire/to lead | 4783
 
-Augenblick : aougen-blik : moment
+{m} Augenblick : aougen-blik : moment/instant
 
 versprechen : fa-spré-ch-en : to promise sb. sth. | 6310
 
@@ -962,7 +964,7 @@ Ohren {pl} : Or^en : ears | 481
 
 darüber : daru-ba : à ce sujet
 
-Standen (infinitif STEHEN) : shtan-den : être debout/se trouver/était écrit/était mentionné/figuraient
+Standen (infinitif STEHEN) : shtan-den : être debout/se trouver/était écrit/était mentionné/figuraient | steht
 
 [ich] möchte : meushte : [I] wish/like | 285
 
@@ -1167,7 +1169,7 @@ jd. wird : vi^at : sb. will | 669
 
 Haupteigenschaften {pl} : hop-teigen-schaften : caractéristiques principales /fundamental characteristics
 
-verschaffen : fa-shaffen : to provide | 1250
+verschaffen : fa-shaffen : apporte/to provide | 1250
 
 ================================================================ 08JUN2025 (Page 13) (MATIN) ================================================================
 
@@ -1596,7 +1598,7 @@ bei der Auswahl → lors de la sélection / dans le choix
 
 Ihres Personals → de votre personnel
 
-jdn./etw. erinnern [ugs.] [nordd.] : ea-innern : to remember sb./sth. | 2158 | die {f} Erinnerung (Mémoire, NOUN)
+jdn./etw. erinnern [ugs.] [nordd.] : ea-innern : to remember sb./sth. | 2158 | die {f} Erinnerung (Mémoire, NOUN) | Erinnerungen
 
 dich : diçh : you {pron} [direct object] [informal] | 1351
 
@@ -1868,7 +1870,7 @@ witzig : viztiçh : funny/humorous/witty {adj} | 1216
 
 Mischung {f} : mish-oung  : mixture/mélange/blend | 1005
 
-aufrichtiger : auf-riçhtig^a : sincère/sincerer {adj} | 11
+aufrichtiger : auf-riçhtig^a : sincère/sincerer {adj} | 11 | richtig = true/real
 
 Verwunderung {f} : fer-vouderoung : émerveillement/étonnement/stupeur/amazement/wonder | 200
 
@@ -2099,6 +2101,7 @@ Torso : torzo : torse
 Bierfass {n} : bi^afass : tonneau de bière/brew beer barrel
 
 weil : va-il : parce que/because {conj} | 6918
+^ ne pas confondre avec Weile qui veut dire période ou moment
 
 verkrüppelt : fa-kruppelt : infirme/mutilé/crippled {adj} {past-p} | 661 | verkrüppeln
 
@@ -2146,6 +2149,7 @@ jd./etw. widersprach : vi-dash-praCH : sb./sth. contradicted | 364
 Pech {n} : peçh : malchance/malheur/mauvaise fortune/misfortune | 1457
 
 eine Weile : vayleu : période/moment/for a bit {adv} [for a while]
+^ ne pas confondre avec Weil qui veut dire "parce que"
 
 Unterhaltung {f} : ounta-halt-oung  : conversation/chat | 5046
 
@@ -2494,7 +2498,7 @@ gegen : gi-gen  : against/around/towards {prep} | 5714
 
 starker : shta-k^a : fort | racine stark (adj)
 
-helfen : helf-en : to help | 2052
+helfen : helf-en : to help | 2052 | Hilfst
 
 PEJORATIF ==> schwatzhaft : shvatss-haft : talkative/chatty {adj} | 13 | schwatzhaft
 
@@ -2665,7 +2669,7 @@ Stück {n} : shtuk : chunk/stick/bout [e.g : de bois]/bâton | 647
 
 Holz {n} : holts : bot. material wood | 2247
 
-Fähigkeit {f} : féhiçhkayt : faculté/faculty/ability | 11093
+Fähigkeit {f} : féhiçhkayt : faculté/faculty/ability | 11093 | Fähigkeiten {pl}
 
 Geschenk {n} : géshenk : gift/present (gift) | 2344 | Geschenks | Geschenken {pl} | geschenkt
 
@@ -2787,7 +2791,7 @@ Boni {pl} : booni : bonuses | 35
 
 etw.Akk. verbessern : fa-bess^n : to improve sth. | 10452
 
-etw.Akk. anstellen  : anshtellen : entreprendre/to carry out/to undertake sth
+etw.Akk. anstellen  : anshtellen : entreprendre/to carry out/to undertake sth | stelle
 
 wobei : vobay : à condition que/du moment que (conjonction)
 
@@ -2957,7 +2961,7 @@ Arenen {pl} : arén^n : arenas | 7
 
 früher : fruuer : plus tôt 
 
-zuhören : tsou-heuren : to listen | 1815
+zuhören : tsou-heuren : to listen | 1815 | zuhörte
 
 {m} Ausbilder [bes.: mil.] : aouss-bild^a : entraîneur/instructor/trainer | 362	
 
@@ -3339,7 +3343,7 @@ Erwachsene {pl} : er-va-ksen  : adults | 585 | Erwachsener
 
 bewundernd : bév-oundern-t : admiring {adj} {pres-p} | 506
 
-mächtig : méçhtiçh : mighty/powerful/sacrément {adj} | 2342
+mächtig : méçhtiçh : intensivement/mighty/powerful/sacrément {adj} | 2342
 
 beunruhigen : bé-oun-rou-hig^n : agité/to agitate/trouble/bother | 1586 | beunruhigt
 
@@ -3769,7 +3773,7 @@ jd. schickte : shikte  : sb. sent/dispatched | 193 | verbe racine shicken
 
 weichherzig : vaille-hea-tsiçh : soft-hearted {adj}
 
-vorher : for-hea : auparaant/précédemment/previously {adv} | 4009 | 
+vorher : for-hea : auparavant/précédemment/previously {adv} | 4009 | 
 
 etwas zu sehen bekommen : voir qq chose/être témoin de qqch (IDIOM)
 
@@ -4033,7 +4037,7 @@ biegsame : big-zame :  flexible/souple (adj)
 
 massiv : massif (oui ça se prononce comme ça) : massive {adj} | 398
 
-investiert : in-ves-ti-at : invested {adj} {past-p} | 17
+investiert : in-ves-ti-at : invested {adj} {past-p} | 17 | 
 
 Kopftuch {n} : kopf-touCH : cloth. voile/foulard/headscarf/bandana/scarf | 458
 
@@ -4684,7 +4688,7 @@ Satz {m} : za-tst : ling. phrase/sentence | 6129
 
 anscheinend : ant-shay-nent : apparemment/apparent (adj)/apparently/seemingly/en apparence {adv} | 2029
 
-beendet : bé-endet : finished {adj} {past-p} | 144 | verbe racine beenden (finir)
+beendet : bé-endet : finished {adj} {past-p} | 144 | verbe racine beenden (finir) | beendete
 
 eingeschlafen :  : fallen asleep {past-p} | verb racine einschlafen (to fall asleep)
 
@@ -4812,7 +4816,7 @@ Milch {f} : milçh : agr. biol. gastr. milk | 32767
 
 beachten : pa-CHten : prêter attention/prendre en compte/respecter/noter/to regard | 4754
 
-taten ... so, als würden sie ... = firent comme si …
+taten ... so, als würden sie ... = firent comme si … (IDIOM/expression)
 
 Spiel {n} : shpi-l : parier/jouer/gamble/play/game | 2039
 
@@ -4959,7 +4963,7 @@ Ihm stockte der Atem. : He caught his breath.
 
 Messer {n} : mess^a : knife | 6267
 
-Waffe {f} [auch fig.] : vaffeu : weapon [also fig.] | 1064
+Waffe {f} [auch fig.] : vaffeu : weapon [also fig.] | 1064 | Waffen {pl}
 
 jd. verdiente : fa-dinteu : gagné/mérité/sb. earned | 35 [différent de Gewinnen = gagner car il y a un sens de victoire, compétition, jeu, acquérir qqch dans verdiente]
 
@@ -5009,7 +5013,8 @@ mehrfach : mi^a-faCH : multiple {adj} | 1014
 
 Werkzeug {n} :  : tools tool | 2337
 
-jdn./etw. einsetzen [anwenden, verwenden] : ayn-zetsen : to employ/to [put] to use sb./sth. | 522
+jdn./etw. einsetzen [anwenden, verwenden] : ayn-zetsen : to employ/to [put] to use sb./sth. | 522 | 
+verwendet | einsetzt
 
 Arbeiten {n} auf Distanz :  : remote work
 
@@ -5128,7 +5133,7 @@ etw.Akk. befinden :  : law to decide sth. [adjudge, adjudicate] | 409 [spécifi
 
 etw. pressen : press^n : presser/to squeeze/to press sth. | 107
 
-eher : i-a : rather {adv} | 13787
+eher : i-a : plutôt/rather {adv} | 13787
 
 hilflos : hilf-loss : impuissant/helpless/awkard/powerless {adj} | 841
 
@@ -5272,7 +5277,7 @@ Moral {f} [Disziplin] : mora-l : morale | 287
 
 fester : fest^a : firmer {adj} | 177
 
-Decke {f} [auch fig.] : dékeu : textil. blanket [also fig.] | 3885
+Decke {f} [auch fig.] : dékeu : textil. couverture/blanket [also fig.] | 3885
 
 rücksichtsvoll : ruuk-siçhts-foll : attentionné/thoughtful/considerate {adj} | 3301
 
@@ -5291,6 +5296,8 @@ Haarschopf {m} : haa-shopf : shock of hair/tignasse/touffe de cheveux
 Entwicklungs- : ent-vi-kloungz : developmental {adj} | 40
 
 Zweige {pl} : tsvaigeu : branches | 1017 | Zweig {m}
+
+Entwicklungszweige = branches de déveoppement
 
 silbern : zilb^an : argent/silver {adj} | 32001
 
@@ -5316,13 +5323,13 @@ gemeinsam = commun/en commun (ce qui est partagé e.g un objectif commun)
 
 verwoben : fer-vob^n : entremêlé/interwoven {adj} {past-p} | 201 | verbe racine verweben
 
-verdorren : fer-doCHen : se flétrir/to wither [become dry and shrivelled] | 509
+verdorren : fer-doCHen : se flétrir/to wither/se faner [become dry and shrivelled] | 509
 
 bekämpfen : bé-kém-pf^n : to combat | 1900
 
-belehrend : beli-rent : instructive {adj} | 170
+belehrend : beli-rent : moralisateur/instructive {adj} | 170
 
-nachgedacht : naCHgedaCHt : cogitated {past-p} | 21 | verbe racine nachdenken
+nachgedacht : naCHgedaCHt : réfléchi/pensé/cogitated {past-p} | 21 | verbe racine nachdenken
 
 wachsen : vak-ss^n : faire pousser/faire grandir/to grow | 3495 [croissance]
 
@@ -5340,9 +5347,11 @@ Bronze {f} : bronts : material bronze | 234
 
 jemandem ins Wort fallen : interrompre quelqu'un (ins Wort fallen = interrompre quelqu’un) (IDIOM) 
 
-grüblerisch : grubleurish : pensif/brooding/contemplative {adj} | 1470
+investieren : investi-reun : investir/to invest | 1346
 
-jdn. überkommen [Müdigkeit, Gefühl, z. B. der Angst] : uba-komm^n : to overtake sb. [tiredness, feeling, e.g. of fear] | 42
+grüblerisch : grubleurish : pensif/brooding/contemplative {adj} | 1470 | grüblerische
+
+jdn. überkommen [Müdigkeit, Gefühl, z. B. der Angst] : uba-komm^n : submerger/to overtake sb. [tiredness, feeling, e.g. of fear] | 42
 
 Diamant {m} : dia-ma-nnt : mineral. diamant/diamond <C> | 321
 
@@ -5350,7 +5359,7 @@ schimmernd : shimm-a^nd : scintillant/iridescent/shimmering/gleaming {adj} | 706
 
 Strolch {m} : shtreulsh : garnement/canaille | 125
 
-leuchten : loysht^n : briller/glow/to shine | 957
+leuchten : loysht^n : briller/glow/to shine | 957 : leuchteten
 
 Legende {f} [auch fig.] : li-gèndeu : legend [also fig.] | 309
 
@@ -5360,13 +5369,15 @@ Bewunderung {f} : bi-vounderoung : admiration/vénération | 2159
 
 jd./etw. ersetzte : erzetsteu : remplace/subtituer/sb./sth. superseded/replaced | 291 | verbe racine ersetzen | adjectif ersetzt
 
+Woher : voya : d'où/where from {adv}
+
 kommen : kommèn : to come | 3163
 
 jd. lobte : lobteu : complimenta/appludir/sb. praised | 208
 
 etw.Akk. verdienen [Geld, 50 Euro die Stunde, seinen Lebensunterhalt etc.] : ferdin^n : to earn sth. [money, 50 euros an hour, one's living, etc.]/mériter qqch. | 5385
 
-indem [zeitlich] : in-dim : while {conj}/whilst | 752
+indem [zeitlich] : in-dim : en [faisant qqch]/while {conj}/whilst | 752
 
 jd. sammelt : zammelt : sb. collects/gathers | 43
 
@@ -5374,7 +5385,7 @@ schwierige Aufgabe {f} : shvie-rig^a aouf-gabeu: difficult task
 
 schwierig : difficile/important (adjectif)
 
-Aufgabe {f} [Auftrag] : aouf-gabeu  : task | 4981
+Aufgabe {f} [Auftrag] : aouf-gabeu  : tâches/task | 4981
 
 erfüllt : ea-fullt : accomplished/fulfilled {adj} {past-p} | 1181 | verbe racine erfüllen
 
@@ -5382,8 +5393,55 @@ mithilfe [+Gen.] : mit-hilfeu : with the aid of {prep}
 
 Mithilfe {f} : mithilfeu : aid/assistance/help/coopération | 59
 
-erhöht : er-heut : increased {adj} {past-p} | 916
+erhöht : er-heut : augmenter/increased {adj} {past-p} | 916 | verbe racine erhöhen
 
 nächste : né-ksteu  : next {adj} | 1108
 
 ================================================================ 23JUN2025 (Page 47) (MATIN) ================================================================
+
+und hatte ... schwer zu kämpfen : avait du mal à lutter/peinait à s'en sortir (IDIOM)
+
+Erfahrungspunkt {m} <XP, EXP> : er-fa-roung-spounkt : games experience point <XP, EXP>
+
+Schräger {m} [selten] [Schrägstrich] : shré-g^a : slash/oblique </> | 7
+
+Strich {m} : shtriçh : line/dash/streak | 364
+
+{f} Null : noull : zéro
+
+etw.Akk. hervorbringen :her-foa-bring^n  : to utter sth. [noise] | 138 | faire sortir/articuler/exprimer | hervor
+
+beliebt : béli-pt : popular/admired/fancied/liked
+
+geduldig : ge-doul-diçh : patiently {adv} | 463
+
+etw. übernehmen [Aufgabe, Pflichten etc.] : uba-nim^n : to undertake sth./ASSUMER/PRENDRE EN CHARGE [task, duties, etc.] | 2489
+
+Gesetz {n} [Naturgesetz etc.] : ge-zetst : acad. phys. law [of nature etc.] | 2252
+
+will es = le veut
+
+Schwert {n} : shvéat : weapons sword | 1034
+
+Speer {m} : shpia : lance/spear/javelin | 1222
+
+Erwartung {f} : er-var-toung : expectation/anticipation/prospect | 742
+	
+zukünftig : tsou-kun-ftiçh  : future/coming/in the future/in the time to come {adj} | 943
+
+zukünftiger Abenteuer = d’aventures futures / à veni
+
+jd. versicherte [beteuerte] : fa-ziçh-erte : sb. assured | 405
+
+etw.Akk. dämpfen : démpf^n : atténuer/tempérer/réduire/audio to dampen sth. [weaken, mute, muffle, deaden] | 437 | dämpfte
+
+Begeisterung {f} : bi-kay-sster-oung : enthusiasm/excitement | 1818
+
+entsprechend [angemessen] : ent-shpréhent : selon/conformément/en fonction de/appropriate {adj} | 4151
+
+üben : ub^n : entraîner/to practice/to exercise/ practise [esp. Br.] | 2189
+
+Panzerung {f} : pantsé-roung : armure/plating [Am.] | 66
+
+================================================================ 23JUN2025 (Page 48) (MATIN) ================================================================
+
