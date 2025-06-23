@@ -36,7 +36,7 @@ plot_with_slope <- function(x, y, xlab, ylab, main, data_name = "") {
   legend("topleft", legend = legend_text, bty = "n", col = "red", cex = 0.8)
   
   if (data_name != "") {
-    mtext(paste0("*(", data_name, ")"), side = 1, line = 3.5, cex = 0.5)
+    mtext(paste0("*", data_name, ""), side = 1, line = 4, cex = 0.6)
   }
   
   cat(main, "\n")
@@ -51,7 +51,7 @@ plot_with_slope(
   xlab = "Numéro de page",
   ylab = "Mots par minute",
   main = "Figure 1. Progression de la vitesse de lecture",
-  data_name = "Livre: Außenseiter 1 - Fauxhumain1"
+  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p50)"
 )
 
 plot_with_slope(
@@ -60,7 +60,7 @@ plot_with_slope(
   xlab = "Numéro de page",
   ylab = "Minutes par mot",
   main = "Figure 2. Vitesse de lecture (temps par mot)",
-  data_name = "Livre: Außenseiter 1 - Fauxhumain1"
+  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p50)"
 )
 
 plot_with_slope(
@@ -69,28 +69,8 @@ plot_with_slope(
   xlab = "Numéro de page",
   ylab = "Mots nouveaux (%)",
   main = "Figure 3. Taux de mots découverts par page",
-  data_name = "Livre: Außenseiter 1 - Fauxhumain1"
+  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p50)"
 )
-
-# Graphique de base
-p <- ggplot(data, aes(x = factor(page_number), y = time_minutes)) +
-  geom_col(fill = "steelblue") +
-  labs(
-    x = "Page",
-    y = "Durée (min)",
-    title = "Livre: Außenseiter 1 - Fauxhumain1"
-  ) +
-  theme_minimal()
-
-# Calcul du total
-total_time <- (sum(data$time_minutes, na.rm = TRUE))/60
-
-# Ajout du total en annotation
-p <- p + annotate("text", x = Inf, y = Inf, 
-                  label = paste("Total:", round(total_time, 1), "heures (sans pause)"),
-                  hjust = 1.1, vjust = 1.5, size = 5, color = "red")
-print(p)
-
 
 #Superposition
 
@@ -102,9 +82,9 @@ plot_superpose_fig1_fig3 <- function(data) {
   plot(data$page_number[valid1], data$words_per_minute[valid1],
        type = "l", pch = 3, col = "blue",
        xlab = "Numéro de page", ylab = "Mots par minute",
-       main = "Figure 1 & 3 superposées",
+       main = "Figure 4. Figure 1 & 3 superposées",
        cex.main = 0.8, cex.lab = 0.7, cex.axis = 0.7, cex = 0.4)
-  
+  mtext("*Livre: Außenseiter 1 - Fauxhumain1 (p9 - p50)", side = 1, line = 4, cex = 0.6, col = "black")
   # Calcul et affichage pente pour figure 1
   model1 <- lm(words_per_minute ~ page_number, data = data[valid1, ])
   #abline(model1, col = "blue", lwd = 2)
@@ -135,4 +115,33 @@ plot_superpose_fig1_fig3 <- function(data) {
 }
 
 plot_superpose_fig1_fig3(data)
+
+# Graphique de base
+p <- ggplot(data, aes(x = page_number, y = time_minutes)) +
+  geom_col(fill = "steelblue") +
+  scale_x_continuous(breaks = seq(10, 50, by = 5)) +
+  labs(x = "Numéro de page", y = "Durée (min)", 
+       title = "Figure 5. Temps total de lecture effectif",
+       caption = "*Livre: Außenseiter 1 - Fauxhumain1 (p9 - p50)") +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(
+    face = "bold",        # texte en gras
+    size = 10,            # taille moyenne (par défaut autour de 11-12, 14 est un bon compromis)
+    hjust = 0.5,          # centrage horizontal
+    color = "black"       # couleur noire sobre
+    ),
+    axis.title.y = element_text(size=9),
+    axis.title.x = element_text(size=9),
+    plot.caption = element_text(hjust = 0.5, size = 7.2))
+
+# Calcul du total
+total_time <- (sum(data$time_minutes, na.rm = TRUE))/60
+
+# Ajout du total en annotation
+p <- p + annotate("text", x = Inf, y = Inf, 
+                  label = paste("Total:", round(total_time, 1), "heures (sans pause)"),
+                  hjust = 1.1, vjust = 1.5, size = 3.5, color = "red")
+print(p)
+
 
