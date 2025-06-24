@@ -1,0 +1,40 @@
+# Objectif : créer un raccourci clavier pour incrémenter, réinitialiser un compteur
+
+# Ouvrir cmd et créer le script pour incrémenter :
+
+mkdir -p ~/scripts
+nano ~/scripts/increment_counter.sh
+
+# C/C ça :
+
+#!/bin/bash
+FILE="$HOME/compteur.txt"
+[ -f "$FILE" ] || echo 0 > "$FILE"
+n=$(cat "$FILE")
+n=$((n+1))
+echo $n > "$FILE"
+notify-send "Compteur : $n"
+
+# Pareil pour réinitialiser le compteur :
+
+nano ~/scripts/reset_counter.sh
+
+#!/bin/bash
+echo 0 > "$HOME/compteur.txt"
+notify-send "Compteur réinitialisé"
+
+# Activer les scripts:  
+
+chmod +x ~/scripts/increment_counter.sh
+chmod +x ~/scripts/reset_counter.sh
+
+# Ensuite, aller dans paramètres => clavier => ajouter un raccourci personnalisé et ajouter les raccourcis :
+
+#par exemple F2 pour incrémenter:
+/home/ton dossier/scripts/increment_counter.sh
+
+#et pause pour réinitialiser:
+/home/ton dossier/scripts/reset_counter.sh
+
+
+
