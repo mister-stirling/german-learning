@@ -1,5 +1,7 @@
 library(readODS)
 library(ggplot2)
+library(lubridate)
+library(dplyr)
 # Charger les données
 data <- read_ods("~/Bureau/allemand/Sources_pour_les_nerds/german_stats.ods", sheet = 1)
 
@@ -10,8 +12,14 @@ data[data == "#VALUE!"] <- NA
 # Convertir les colonnes en numériques
 data$page_number <- as.integer(data[[1]])
 data$new_words <- as.integer(data[[2]])
-data$total_words <- as.integer(data[[3]])
-data$time_minutes <- as.numeric(data[[4]])
+data$rechecked_words <- as.integer(data[[3]])
+data$total_words <- as.integer(data[[4]])
+data$time_minutes <- as.numeric(data[[5]])
+
+# Dates
+dates_raw <- as.character(data[[6]])
+dates_parsed <- dmy(dates_raw)
+print(dates_parsed)
 
 # Calculs dérivés
 data$words_per_minute <- with(data, total_words / time_minutes)
@@ -143,5 +151,3 @@ p <- p + annotate("text", x = Inf, y = Inf,
                   label = paste("Total:", round(total_time, 1), "heures (sans pause)"),
                   hjust = 1.1, vjust = 1.5, size = 3.5, color = "red")
 print(p)
-
-
