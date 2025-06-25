@@ -94,15 +94,22 @@ Légende:
  Page 62 : 23 on 272 => 8% | consult : 48 | temps chronométré : 22min sans pause
  Page 63 : 21 on 300 => 7% | consult : 61 | temps chronométré : 31min sans pause
  Page 64 : 38 on 254 => 15% | consult : 61 | temps chronométré : 34min sans pause
- Page 65 : 
+ Page 65 : 16 on 202 => 8% | consult : 36 | temps chronométré : 16min sans pause
+ Page 66 : 16 on 296 => 5% | consult : 51 | temps chronométré : 21min sans pause
+ Page 67 : 18 on 233 => 8% | consult : 39 | temps chronométré : 16min sans pause
  
-  
+ 
+
+
 =================================
  
+
 Légende:
-- xx on xx : nombre de mots identifiés comme "nouveaux" (jamais rencontrés) sur le total des mots de la page
-- consult : nb de mots "nouveaux" + mots revérifiés (définition relue car incertitude)
-- Ces deux valeurs permettent d’estimer ma performance. Plus elles sont élevées, plus j’ai dû recourir au dictionnaire ; plus elles sont faibles, plus je lis de façon autonome.
+<spoil>
+'''- xx on xx : '''nombre de mots identifiés comme "nouveaux" (jamais rencontrés) sur le total des mots de la page
+'''- consult : '''nb de mots "nouveaux" + mots revérifiés (définition relue car incertitude)
+- Plus ces valeurs sont élevées, plus j’ai dû recourir au dictionnaire ; plus elles sont faibles, plus je lis de façon autonome.
+</spoil>
   
   
  
