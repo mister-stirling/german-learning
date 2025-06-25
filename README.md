@@ -2,12 +2,7 @@ Ce dépôt contient mes notes personnelles et outils pour l'apprentissage de l'a
 
 ## 📊 Où trouver un résumé des statistiques de la progression ?.. 
 
-👉Ici_progression_textuelle_stats | Graphes ici, last update : 23JUN2025
-![Rplot01](https://github.com/user-attachments/assets/fbe1c249-8c94-48ca-82fc-b1fef6a96479)
-![Rplot02](https://github.com/user-attachments/assets/3a4fe717-4bea-493d-920b-deda4e56e2cd)
-![Rplot03](https://github.com/user-attachments/assets/4cb9f99c-1d02-493b-aa8b-1cf8de584b7f)
-![Rplot04](https://github.com/user-attachments/assets/8b146be5-bbc4-4ec8-989b-639628c67fe9)
-![Rplot](https://github.com/user-attachments/assets/912696a2-e595-4d3c-a517-9a6484f467b0)
+👉Ici_progression_textuelle_stats | Dossier sources_pour_les_nerds.
 
 ## 📦 Contenu
 
