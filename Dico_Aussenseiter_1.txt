@@ -935,7 +935,7 @@ Lehrer {m} : léah-rar : educ. jobs teacher/tuteur/tutor | 2288
 
 davon : dafon : de ceci/des [qqch]/of the/of this {adv}
 
-gelesen : gili-zeun : read {adj} {past-p} | 312 | lies :
+gelesen : gili-zeun : read {adj} {past-p} | 312 | lies : | las
 
 altehrwürdig : alt--ia--vurdiçh  : Ancien/vénérable/très honorable {adj} [building, town, name, etc.] | 504 | altehwürdigen
 
@@ -1890,7 +1890,7 @@ jd. redete : ri-deteu : sb. parlait/talked | 26 (infintif reden, parler)
 
 der Kerl : ker-l : le gars/le type/bloke
 
-Verstehen : fa-shti^n : comprenre 
+Verstehen : fa-shti^n : comprendre 
 
 worauf : vo-ra-eauf  : ce sur quoi/whereupon {adv} | 252
 
@@ -2021,7 +2021,7 @@ C’est une évolution idiomatique du verbe simple gehen (aller) : la prépositi
 Meinst du? : meinst : Do you think so?
 Meinen : penser
 
-erstaunt : ea-shtaunt : amazed {adj} {past-p} | 2324 | 
+erstaunt : ea-shtaunt : amazed {adj} {past-p} | 2324 |  erstaunte
 
 einfallen [einstürzen] : einfall^n : to fall in
 
@@ -2347,7 +2347,7 @@ bezahlt <bez.> : beu-tsaalt : paid {adj} {past-p} <pd> | 201
 
 jedenfalls : yedenfallts : en tout cas/anyway {adv} | 5142
 
-jd. berichtete : beriçh-téteu : sb. told/reported | 18
+jd. berichtete : beriçh-téteu : sb. told/reported | 18 | 
 
 etw. klang : klan : sth. sounded/clinked | 14 |
 
@@ -3260,7 +3260,7 @@ jd. stieß : shtiess : sb. thrust/poked/bumped | 171
 
 {n} Erz : ia-ts : geol. mining ore | 1745 (NOUN)
 
-jd. schlug : shlouk : sb. battre/hit/bashed/whacked | 2996 | verbe racine schlagen
+jd. schlug : shlouk : sb. battre/hit/bashed/whacked | 2996 | verbe racine schlagen | geschlagen
 
 Funken {pl} : founk^n : phys. sparks/étincelles | 384 (NOUN)
 
@@ -3593,7 +3593,7 @@ dürr : dou : scrawny {adj} | 1808
 
 Kranker {m} : krank^a : souffrant [de maladie]/[un] malade/ill person
 
-Baum {m} : ba-om : bot. tree | 2731
+Baum {m} : ba-om : bot. tree | 2731 | Baümen {pl}
 
 blind [auch fig.] : blint : blind {adj} [also fig.] | 791
 
@@ -3650,7 +3650,6 @@ gesoffen [ugs.] : gé-zoff^n : drunk {past-p} | 18 | boozed | verbe racine saufe
 unangenehmes {n} : uoun-an-ge-nim-es : pénible/désagréable/inconfortable {pl}
 
 aufzwingen : aouf-tsing^n : impposer/forcer/to force | 224
-
 
 verärgert : fa-ergert : énervé/exaspéré/vêxé/upset/angry {adj} | 2887
 
@@ -6398,6 +6397,8 @@ Roggen {m} :  : agr. bot. T rye/SEIGLE [Secale cereale] | 1516
 
 Zwieback {m} :  : gastr. BISCOTTE/zwieback [Am.] | 120
 
+endgültig : ent-gultiçh : final/ultimate/permanent {adj} | 1712
+
 jd. schlang hinunter :  : sb. gulped/gobbled
 
 in Windeseile [Redewendung] : vindès-ayleu : with lightning speed {adv}
@@ -6598,3 +6599,118 @@ Moos {n} : mo-os: bot. T moss | 663
 jd./etw. bedeckte : be-dékteu : sb./sth. covered | 70
 
 ================================================================ 25JUN2025 (Page 65) (MATIN) ================================================================
+
+heran [näher zum Sprechenden oder zu einer Sache] :  : closer {adv} [to the speaker or to an object] | 53
+
+etw. abschneiden [Scheibe Brot etc.] :  : to cut sth. [cut off from a bigger item] | 436
+
+
+Schauen Sie! [formelle Anrede] :  : Look! [request/command to direct one's attention to something]
+
+jd. forderte : ford^eteu : sb. claimed/challenged | 539
+
+verschwörerisch : feushvérérish : conspiratorial {adj} | 214
+
+anders : and-éas : différemment/different/else {adv} | 5483
+
+Meinetwegen. [ugs.] : maynèt-vig^n : Whatever. [coll.] | 843
+
+geschnitten :  : cut/chopped {adj} {past-p} | 358 | verbe racine schneiden
+
+Rinde {f} : rindeu : bot. bark/crust | 1563
+
+Steinchen {n} : stayn-çhèn : pebble | 22
+
+geschält : geshélt : peeled {adj} {past-p} | 130 | verbe racine schälen
+
+Flecken {pl} : flék^n : taches/souillure/spot/blotches/blemishes/stain {sg} | 4031| Fleck {m}
+
+Messerklinge {f} : mess^a-klingeu : knife blade
+
+stocksteif [ugs.] : shtok-shtayf : stark and stiff {adj}
+
+geschlagen : geshlagèn : deafeated/struck {adj} {past-p} | 1423
+
+Kräuterkunde {f} : kroyter-kounde : bot. herbalism | 7
+
+================================================================ 25JUN2025 (Page 66) (MATIN) ================================================================
+
+Geschick {n} : géshik : craft [skill] | 1161
+
+Mitteilung {f} : mittay-loung : communication/notice/message/notification | 431 
+
+funktioniert : founk-tsion-iat : functioned {past-p} | 39 | verbe racine funktionieren (fonctionner)
+
+naiv : na-iff : naive {adj} | 1157
+
+Am Rand meines Bewusstseins : à la lisière de ma conscience/ at the edge of my consciousness/dans un coin de mon esprit(IDIOM)
+
+Rand {m} : rant : verge/edge | 2431
+
+lautlos : laout-loss : inaudible/silent {adj} | 399
+
+heranschleichen : héran-shlayçh^n : to sneak up to/to sneak
+
+nachvollziehbar :  : comprehensible/understandable/relatable {adj} | 2294
+
+gezwungen : gets-voung^n : compelled {adj} {past-p} | 3566 | verbe racine zwingen (to compel, to force, constrain)
+
+Scham {f} : sham : shame | 517
+
+geweint : gév-aynt : wept {past-p} | 190
+
+Knüppel {m} :  : massue/cudgel/club/bludgeon | 1055
+
+eingebildet [imaginär] : ayn-geu-bildèt: imaginary {adj} | 151
+
+angespannt : angeu-shpannt : tendu/tense/strained/fraught {adj} | 1630
+
+verschwunden :vash-vount^n  : vanished/missing {adj} {past-p} | 1671 | verbe racine verschwinden (disparaître)
+
+================================================================ 25JUN2025 (Page 67) (MATIN) ================================================================
+
+Logik {f} : log-ik (comme prononcé comme "log" (records) en anglais) : logic | 363
+
+sowohl : zo-voll : and {conj} | 206
+^
+Le mot „sowohl“ est une conjonction de coordination utilisée en allemand dans l’expression corrélative „sowohl ... als auch ...“, qui signifie
+    « aussi bien ... que ... »
+    ou
+    « tant ... que ... »
+    ou encore
+    « aussi ... que ... »
+
+weise : vayzeu : sage/wise {adj} | 1738
+
+bösartig : beus-artiçh : malicious/vicious/malevolent {adj} | 3614
+
+Witz  {m} : vits : joke | 1961
+
+berichten : beuriçh-tèn : to report/to tell | 4207
+
+beiseite : bay-sayté : aside {adv} | 1258
+
+jdn. freuen : froyèn : to please sb. | 242
+
+Beschreibung {f} : bésh-ray-boung : description | 6377
+
+neugierig : noy-giriçh : curious {adj} [inquisitive] | 8789
+
+Aufforderung {f} : aufforderoung : invitation/injonction [ordre]/request | 501
+
+etw. ändern : énder^n : changer/to shift sth. [change] | 1898
+
+Text {m} : tekst : text | 1117
+
+Zeile {f} [Reihe] : tsaylé : row/line [line of trees, houses etc.] | 1038
+
+haften [an] [kleben] : haft^n : to stick/to cling [to] | 745
+
+zurückgekehrt : tsou-rukgek-eart : returned {past-p} | 122
+
+zurückkehren :  : to return [come back] | 1579
+
+Muster {n} : modèle/schéma | Muster {pl} = motifs/maquettes
+
+================================================================ 25JUN2025 (Page 68) (MATIN) ================================================================
+
