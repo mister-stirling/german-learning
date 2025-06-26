@@ -666,7 +666,7 @@ bekommen : beu-komm^n : got {past-p} [Br.] | 1951
 
 zwölf : ts-veulf : twelve | 32102
 
-höchste : hu-steu : highest {adj} | 150 | höchstens
+höchste : hu-steu : au maximum/tout au plus/highest {adj} | 150 | höchstens
 
 an Tafeln: sur des panneaux 
 
@@ -692,7 +692,9 @@ schatten [dichter.] : sha-tt^n : to shadow | 436
 
 jd. 	 : zenk^te : sb. lowered | 35
 
-jdm. zustehen : tsou-sté-ine : avoir droit à/ être dû à qqun/to appertain to sb. | stünde
+jdm. zustehen : tsou-sté-ine : avoir droit à/ être dû à qqun/to appertain to sb. | stünde | standen
+
+^faire gaffe au zu qui peut se séparer de stehen (zu = du/attribuable) 
 
 langsam : langzam : lentement/slow {adj} {adv} | 3388
 
@@ -1204,7 +1206,7 @@ darüber : daruba : ahead/overhead {adv} | 379
 
 wo : vo  : where {adv} [interrogative] | 4370
 
-wichtigste : vish-tik-ste : important/essentiel/indispensable/significatif/main {adj} [attr.] [most important] | 210 | | wichtig {adj}
+wichtigste : vish-tik-ste : important/essentiel/indispensable/significatif/main {adj} [attr.] [most important] | 210 | | wichtig {adj} | wichtigsten
 
  das Wichtigste war ihm : le plus important pour lui (idiom)
  
@@ -1277,7 +1279,7 @@ Tonnen {pl} : ton^en : tons | 82
 
 sich beschweren : besh-viren : se plaindre
 
-jemand : yi-mand  : someone {pron} <so.> [subject] | 2805
+jemand : yi-mand  : someone {pron} <so.> [subject] | 2805 | jemandes
 
 Esszimmer {n} : est-tsim^a : dining room
 
@@ -1456,7 +1458,7 @@ Aufzeichnungen {pl} : auf-tsai-chnoungen : notes/records (the records themselves
 
 Aufzeichnungen machen : keep records
 
-eng [Kleidung, Beziehung] : (prononcé ing) : serré/étroit/proche/tight {adj} [narrow, close] | 7251
+[Kleidung, Beziehung] eng : (prononcé ing) : serré/étroit/proche/tight {adj} [narrow, close] | 7251 | engen (accusatif)
 
 bei : b-aïl : près, à côté/chez/pour [c'est pas un "pour" simple mais un "en ce qui concerne" circonstancie/conditionnel, "dans le cas de".  par exemple "pour un minérais précieeux, ça pouvait être même plus!"]
 
@@ -2308,7 +2310,7 @@ Gewissen {n} : gévi-ssen : conscience | 5832 (noun)
 
 Ne pas CONFONDRE Gewissen et gewissen (adjectif, pas un nom) 
 
-schlimmer : shlimm^a : worse {adj} {adv} | 7019 | schlimmeren
+schlimmer : shlimm^a : worse/grave/fâcheux/mauvais {adj} {adv} | 7019 | schlimmeren | schlimme
 
 jd. schrie : shrie : sb. criait/pleurait/screamed/cried | 67
 
@@ -2483,7 +2485,7 @@ zusammengebrochen : tsou-zam^n-gebroCHen : crashed down/collapsed {adj} {past-p}
 
 Meine Welt ist zusammengebrochen. :  : My world just caved in. (IDIOM)/ mon monde s'est éffondré
 
-großartig : grouss-artiçh : great/splendid {adj} | 3109
+großartig : grouss-artiçh : merveilleusement/parfaitement/superbement/great/splendid {adj} | 3109
 
 dürfen : duu-rf^n : are allowed to/ to be authorized to/to dare | durfte | darfst 
 
@@ -2509,7 +2511,7 @@ gegen : gi-gen  : against/around/towards {prep} | 5714
 
 starker : shta-k^a : fort | racine stark (adj)
 
-helfen : helf-en : to help | 2052 | Hilfst
+helfen : helf-en : to help | 2052 | Hilfst | geholfen
 
 PEJORATIF ==> schwatzhaft : shvatss-haft : talkative/chatty {adj} | 13 | schwatzhaft
 
@@ -2749,9 +2751,12 @@ Libellen {pl} : libell^n : entom. T libéllule/dragonflies/
 
 Schaden {m} : shad-en : damage | 4915
 
-beschaffen : beushaff^n : se procurer/to acquire/to obtain | 1477  | beschafft
+beschaffen : beushaff^n : se procurer/obtenir/to acquire/to obtain | 1477  | beschafft
 ^ insiste sur l'action de rechercher eet obtenir/trouver (y'a une démarche d'approvisionnement)
 ^ ne pas confondre avec erhalten qui veut dire "recevoir/obtenir"
+
+^faire gaffe car il existe un adjectif = beschaffen = être constitué de/avoir telle nature
+
 
 Geburtstag {m} : ge-bouet-staks : birthday | 3547
 
@@ -2872,7 +2877,7 @@ prahlen : prahl^n : vanter/pavaner/to brag/to boast | 3859
 
 unnötige : unneutigeu  : unnecessary
 
-lenken : lenk^n : to lead | 602 
+lenken : lenk^n : diriger/détourner/to lead | 602  | lenkte
 
 die {pl} Regeln : ri-geuln : rules | 4047
 
@@ -3345,7 +3350,7 @@ stemmen : se tenir fermement/appuyer fortement | gestemmt
 
 die Hände in die Hüften stemmen : idiom posturel, posture posteuse de sens implicite (défier qqun, mains sur les hanches) (IDIOM)
 
-{m} Angeber : ang-i-ber : bragger/showoff/poser/boaster/phony/braggart | 409
+{m} Angeber : ang-i-ber : bragger/showoff/poser/boaster/phony/braggart | 409 | 
 
 jdn. beglücken :  : satisfaire/plaisant/to please sb. [make happy] | 594 | beglücktes | beglückten
 
@@ -3477,7 +3482,7 @@ unsichtbaren : ounziçht-barèn : invisible
 
 etw. vertiefte : fa-tifteu : sth. deepened 
 
-auffallen : aouf-fallen : to stand out | auffiel
+auffallen : aouf-fallen : to stand out/être remarqué | auffiel
 
 Pfund {n} : pfount : pound
 
@@ -3673,13 +3678,13 @@ runzelnd : roun-tselnd : wrinkling {adj} {pres-p} | 11 | verbe racine runzeln | 
 
 stirnrunzelnd : shtirn-roun-tselnd : frowning {adj} {pres-p} | 860
 
-jd. beschloss : beu-schloss : sb. decided/resolved | 223
+jd. beschloss : beu-schloss : sb. decided/resolved | 223 | beschlossen
 
 Hilfe {f} : hil-feu : help | 32767 | hilfos
 
 Halluzination {f} : hall-ou-tsi-na-tsione  : psych. hallucination | 88
 
-beruhigen : bé-rou-higèn : rassurer/calmer/to soothe | 3089 | behurigt | beruhigend
+beruhigen : bé-rou-higèn : rassurer/calmer/to soothe | 3089 | behurigt | beruhigend | beruhigte
 
 weit : vaït : far {adj} {adv} | 6011
 
@@ -3766,7 +3771,7 @@ duftend : douft^nd : parfumé/odorant/smelling {adj} {pres-p} [scenting] | 21 |
 
 Heu {n} : hoy : foin/hay | 908
 
-vergraben : fea-grab^n : buried {adj} {past-p} [hidden in the ground] | 37
+vergraben : fea-grab^n : enfouir/enterrer qqch/buried {adj} {past-p} [hidden in the ground] | 37 verbe racine vergraben (enterrer/enfouir)
 
 jd. schlief : shlief : sb. slept | 192 | schlafen
 
@@ -4108,6 +4113,7 @@ Freundlichkeit {f} : froynt-liçh-kayt : friendliness/amabilité/gentleness/kind
 in Ordnung : ord-noung : bien/dans l'ordre//all right/fair enough/fine (c'est une expression)
 
 etw.Akk. besorge [beschaffen, kaufen] : beu-zorg : procure/trouve/to procure/to provide/to get sth. [obtain, acquire] | 1370(<-- impératif, verbe racine : besorgen) 
+
 
 Platz {m} [Ort] : plat-ss : endroit/spot/place | 244
 
@@ -6605,7 +6611,7 @@ abgelenkt : ap-geléknt : distracted {adj} {past-p} | 2121
 
 Furcht {f} [vor jdm./etw.] : fourçht : fear [of sb./sth.] | 1013
 
-vollkommen : foll-komm^n : utterly {adv} | 971
+vollkommen : foll-komm^n : complet/parfait/utterly {adv} | 971
 
 Tatsachen {pl} : tat-zaCHen : facts | matter of fact| 745 | die Tatsache {f}
 
@@ -6935,7 +6941,7 @@ sieben :  : seven/to sift/to riddle/to sieve | 32767
 
 Büschel {n} [Haare, Gras etc.] :  : tuft/clumps/tufts | das Buschel | 584
 
-Ergebnis {n} : er-gip-niss : result | 3396 | die Ergebnisse {pl}
+Ergebnis {n} : er-gip-niss : résultat/result | 3396 | die Ergebnisse {pl}
 
 jd. schnitt : shnit : sb. cut | 163
 
@@ -7147,4 +7153,77 @@ unerwarteter : ounervartet^a : more unexpected {adj}
 Erfolg {m} : ea-folk : econ. prosperity | 858
 
 ================================================================ 26JUN2025 (Page 77) (MATIN) ================================================================
+
+etw. umgab : oumgap : sth. surrounded | 7 | verbe racine umgeben (surrounded)
+
+
+jdn./etw. bedenken : bedenk^n : tenir compte/considérer/to consider sb./sth. [think of, reflect upon] | 13591
+
+angeben [ugs.] [prahlen] : angi-bn: se vanter/to brag/to state/to boast | 1704
+
+[wir/sie/Sie] konnten : konnt^n : [we/they/you] could [were able] | 133
+
+Prahlerei {f} : praleray : vantardise/boast/brag/ostentation/bravado/swagger | 1191
+
+Aufschneiderei {f} : aouf-shnayderay : fanfaronnade/brag/boast/bragging | 42 [vanter de façon prétentieuse, en exagérant]
+
+Folgen {pl} : folg^n : consequences/ramifications/résultats/séquelles | 1166 | die Folge
+
+geheim : ge-ha-im : clandestine/secret/proprietary/classified {adj} | 2159
+
+jdn./etw. zurücklassen : tsou-ruk-lass^n : to leave sb./sth. [behind] | 655 | zurückzulassen
+
+pk zurückzulassen et pas zurücklassen?
+>  zu + infinitif donc on ajoute un zu
+
+Fünftel {n} [schweiz. meist {m}] : funft-l : 5ème/fifth [fraction] | 117
+
+plausibel : plao-zib^l : plausible {adj} | 173
+
+sanft : zanft  : mellow/soft/gentle/silky {adj} | 2690
+
+klopfen :  : to knock/tapotement/coup léger | 1900
+
+echt : eçht : genuine/true/legit/unfeigned/real {adj} | 5413
+
+Festmahl {n} : fest-mal : feast/banquet | 230
+
+jdm. etw. gönnen [gewähren] : geunn^n : to grant sb. sth. [allow, concede] | 910
+
+Dach {n} : daCH : roof/vaulthousetop/top | 4405
+
+Schlafgenosse {m} [veraltend] [Zimmergenosse] : shlaf-genosseu : bunkmate
+
+ [gemeinsam haben, benutzen, tragen] etw.Akk. teilen : taylèn : to share sth. | 3608
+ 
+ jdn. durchfüttern [ugs.] : doursh-futtern  : to feed sb./to support sb.
+
+auch schon : c'est tout/rien d'autre
+
+glücklicherweise : glukliçha-vayzeu : heureusement/fortunately {adv} | 3533
+
+trübsinnig : trups-inniçh : gloomy/morose/mélancholie {adj} | 115 | trübsinnigen
+
+geeignet : gé-ayknèt : suitable/adapté {adj} | 10924 | geeigneten
+
+Vorstellungen {pl} : for-shtelloung^n : beliefs/idées/suggestions | 421 | die Vorstellung {f}
+
+Sand {m} : zan-t  : sand/clay [sports] | 1700
+
+Löcher {pl} : leuçha : holes | 211 | das Loche {m}
+
+[es] regnete : rignéteu : pleuvoir/[it] rained | 10 | regnen = pleuvoir | verbe racine regnen (pleuvoir/to rain)
+
+Wasserspiegel {m} : fassa-shpig^l : niveau de l'eau/water surface
+
+ansteigen : anshtay-g^n : to rise/monter/to increase | 6687
+
+etw.Akk. überfluten : uba-flout^n : inonder qqch./to inundate sth./to flood | 1338
+
+Muschel {f} [Muschelschale] : moush^l : zool. shell | 1055
+
+Muschelreste = reste de coquillages
+
+================================================================ 26JUN2025 (Page 78) (MATIN) ================================================================
+
 
