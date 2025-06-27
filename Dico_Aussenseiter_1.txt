@@ -680,7 +680,7 @@ gehört [von hören] : geu-heuat : heard (verbe racine hören = entendre)/belon
 
 jd. nickte : nik-teu : sb. nodded | 1273
 
-schweigend : schv-aïl-gent : se taire (oui c'est la vraie signification ENTIERE du verbe)/garder le silence/silencieusement/silently {adv} | 259 | schwiegen :
+schweigend : schv-aï-gent : se taire (oui c'est la vraie signification ENTIERE du verbe)/garder le silence/silencieusement/silently {adv} | 259 | schwiegen :
 
 Erstgeborener {m} : east-ge-borener : firstborn | 10
 
@@ -1023,7 +1023,7 @@ käme nichts dabei heraus : nothing would come out of it/cela ne donnerait rien 
 
 Erfahrungsessenzen : erfahrung (=expérience) + essenz (pluriel essenzen = essence)
 
-nahezu : nahé-tsu : just about/almost/virtually {adv} | 3250
+nahezu : nahé-tsu : presque/pratiquement/just about/almost/virtually {adv} | 3250
 
 geschaffen : ge-schaff^n : créer/created (VERB, infinitif schaffen)
 
@@ -1273,7 +1273,7 @@ Legenden {pl} :  : legends | 12
 
 Möbel {pl} : meub-eul : furn. meuble/furniture {sg} | 3907
 
-jdn./etw. wiegen : vi-gen  : to weigh sb./sth. | 2476
+jdn./etw. wiegen : vi-gen  : to weigh sb./sth./bercer qqn.qqch (sensé figuré, endormir la vigilance) | 2476
 
 Tonnen {pl} : ton^en : tons | 82
 
@@ -1287,7 +1287,7 @@ im (contractio nde im dem) : dans le/la [la salle à manger]
 
 Bankangestellte {f} : bank-angeu-shtellte : bank assistant/employé de banque [female]
 
-jd. stellte : shtellte : set/put/ peut aussi dire CESSER | 136 | prétérit de stellen
+jd. stellte : shtellte : set/put/poser ou peut aussi dire CESSER | 136 | prétérit de stellen
 
 stellte + something + FEST : noter/constater/affirmer/déclarer/
 
@@ -1538,7 +1538,7 @@ Haustür {f} : hauztua : frontdoor | 162
 
 denn : denn : donc/because/anyway {conj} | 1409
 
-wohin : vo-hin : where {adv} | 455
+wohin : vo-hin : where/où {adv} | 455
 
 kurz : kourts : brief {adj} | 4252
 
@@ -1647,7 +1647,7 @@ Schlafzimmer {n} : schlaff-tsima : bedroom | 4901
 
 Notizen {pl} : noti-tsen : notes | 505 
 
-Dürren {pl} :  : maigrelet/aride/sécheresse | 274
+Dürren {pl} :  : maigrelet/aride/sécheresse | 274 | adj dürren
 
 Angestellte : personnel/employé/travailleurs
 
@@ -1733,7 +1733,7 @@ blechern : bléçharn : métallique (son métallique) | 502
 
 drang : dran : parvint/retentit/se fit entendre/drang (en)
 
-spöttisch : shpeuttish  : mocking/scornful {adj} | 1316
+spöttisch : shpeuttish  : mocking/scornful {adj} | 1316 | spöttische
 
 wiehernd : vi-hernd : hénissement (cheval)/neighing/whining {adj} {pres-p} | 67
 
@@ -1811,7 +1811,7 @@ Gehrock {m} : gé-rock  : cloth. frock-coat
 
 trafen sich unsere Blicke: nos regards se sont croisés/their eyes met. 
 
-Trafen : tréfen : rencontrer/se sont rencontrés (infinitif : treffen) 
+Trafen : tréfen : rencontrer/se sont rencontrés/toucher (une cible, une personne)/atteindre emotionnellement (infinitif : treffen) | Traf
 
 jdn. treffen [begegnen, zusammenkommen] :  : atteindre/incomber/to meet sb. | 1107
 
@@ -2029,7 +2029,7 @@ C’est une évolution idiomatique du verbe simple gehen (aller) : la prépositi
 Meinst du? : meinst : Do you think so?
 Meinen : penser
 
-erstaunt : ea-shtaunt : amazed {adj} {past-p} | 2324 |  erstaunte
+erstaunt : ea-shtaunt : amazed/astonished/wondering {adj} {past-p} | 2324 |  erstaunte
 
 einfallen [einstürzen] : einfall^n : to fall in
 
@@ -2513,7 +2513,7 @@ starker : shta-k^a : fort | racine stark (adj)
 
 helfen : helf-en : to help | 2052 | Hilfst | geholfen | half
 
-PEJORATIF ==> schwatzhaft : shvatss-haft : talkative/chatty {adj} | 13 | schwatzhaft
+PEJORATIF ==> schwatzhaft : shvatss-haft : talkative/chatty {adj} | 13 | schwatzhaft | Schwatzen
 
 
 zärtlich : tséat-liçh : (adj) tendre/affectueuse 
@@ -2913,7 +2913,7 @@ jd. lieferte : lief-ate : sb. livré/delivered | 24 | verbe racine  liefern
 
 logische : log(prononce le G)-ish :l ogique/cohérent (adjectif)/
 
-erfolgreich : ea-fol-greiçh : prospère (adjectif) | erfolgreichen
+erfolgreich : ea-fol-greiçh : prospère/habile (adjectif) | erfolgreichen
 
 {m} Kredit : krédit : fin. crédit [bancaire]/loan | 3507
 
@@ -2940,7 +2940,7 @@ aufgelaufener Zins {m} : aufgel-aouf-ner : fin. accrued interest
 
 Zinsen {pl} : tsin-z^n : fin. interest {sg} | 4064
 
-erschrocken : ea-shrok^n : effrayé/terrifié/startled/terrified {adj} | 2974 (racine verbe/adj erschrecken) | erschreckt
+erschrocken : ea-shrok^n : effrayé/terrifié/startled/terrified {adj} | 2974 (racine verbe/adj erschrecken) | erschreckt | erschreckend
 
 enorm : énorm : énorme/enormous {adj} | 961 | enormen
 
@@ -3574,7 +3574,7 @@ schnodderig [ugs.] [pej.] : shnodderiçh : prétentieux/flippant {adj} | 14
 
 Sie klatschten : klatsh-t^n : They clapped.
 
-höhnisch : heu-nish : de manière moqueuse/mocking/sneering {adj} | 438 | höhnte
+höhnisch : heu-nish : de manière moqueuse/mocking/sneering {adj} | 438 | höhnte | höhnische
 
 
 Nacht {f} : naCHt : night | 6547
@@ -3944,7 +3944,7 @@ ungeschickt : ounge-shikt  : maladroit/awkward {adj} | 6215
 
 vertraut : fer-traut : familier (adjectif) | vertrautes | vertrauten
 
-zerknittertes Papier {n} : tser-knitt-t-a-tes : froissé/crinkled paper
+zerknittertes Papier {n} : tser-knitt-t-a-tes : froissé/crinkled paper | zerknitterten
 
 Aufseher {m} : aouf-zih^a : jobs gardien/surveillant/warden | 2919
 
@@ -4688,7 +4688,7 @@ Appetithappen : appétite-ha-pp^n : amuse-bouche/appetizer/starter
 
 Appetit {m} : appétite : appétit | 525
 
-jdn./etw. fürchten : fua-çhten : craindre/appréhender/to dread sb./sth. | 4283 | fürchtete
+jdn./etw. fürchten : fua-çhten : craindre/appréhender/to dread sb./sth. | 4283 | fürchtete | fürchteten
 
 etw.Akk. wahren : va-rèn : garder/to keep sth. [preserve; e.g. authority, reputation] | 1534
 
@@ -5281,7 +5281,7 @@ Abenteuer {n} : aben-toya : adventure | 2552
 
 Geschichte {f} [Erzählung] : gé-shi-çhteu : story [tale] | 2300
 
-persönlicher : perzeun-liçha : more personal {adj}
+persönlicher : perzeun-liçha : more personal {adj} / personnel =  Persönliches 
 
 Entwicklung {f} : ènt-vik-loung : development/growth/progression | 6370
 
@@ -5922,7 +5922,7 @@ Seelen {pl} :  : souls | 57
 
 jd./etw. zupfte :  : sb./sth. plucked | 529
 
-ungekämmt :  : unkempt {adj} [hair which hasn't been combed] | 388
+ungekämmt :  : unkempt {adj} [hair which hasn't been combed] | 388 | ungekämmten
 
 farblos [Stil, Persönlichkeit] :  : lackluster {adj} [Am.] | 765
 
@@ -5968,7 +5968,7 @@ jd. marschierte :  : sb. marched | 93 | marschieren
 
 Eimer {m} : aym-a : bucket | 6125
 
-jd. goß [alt] : goss : sb. poured | 76
+jd. goß [alt] : goss : sb. poured/watered/cast | 76
 
 eisig : ay-ziçh  : frigid {adj} | 464
 
@@ -6394,7 +6394,7 @@ merkwürdiger : merk-vuur-dig^a : stranger {adj} | 173
 
 gefährlicher :  : more dangerous {adj}
 
-Oberkörper {m} :  : anat. torso/upper body [mot neutre utilisé en usage courant pour le haut du corps, ne pas confondre avec Torso qui est utilisé en clinique]
+Oberkörper {m} : oba-keurpa : anat. torso/upper body [mot neutre utilisé en usage courant pour le haut du corps, ne pas confondre avec Torso qui est utilisé en clinique]
 
 Tätowierung {f} : tato-vie-roung : tattoo | 184
 
@@ -7461,5 +7461,157 @@ Vier-Augen-Gespräch {n} : geshpréçh : private conversation [between two peop
 erregen : errig^n : to stir/to arouse/to solicit | 1532
 
 ================================================================ 27JUN2025 (Page 82) (MATIN) ================================================================
+
+Nachbarn {pl} : naCHbarn : neighbors [Am.] | 66 | {m} der Nachbar (neighbour)
+
+Sträfling {m} : shtréfling : convict/prisoner | 1929
+
+jd. hockte : hokteu : sb. squatted/crouched | 745
+
+pechschwarz [ugs.] : pesh-shvarts : jet-black/pitch black {adj}
+
+
+dichter : diçht^a : denser {adj} | 454
+
+krumm : kroum : crooked {adj} | 851
+
+Raubtier {n} : robti^a : zool. T carnivore/predator | 102
+
+muskulös : mousk-ou-leus : buff/beefy/ripped {adj} [Am.] [coll.] [muscular] | 990 | muskulöser
+
+Pflasterstein {m} : pflaster-shtayn : pavé (de pierre)/cobblestone | 197 | Pflastersteine
+
+Strafgefangene {pl} : shtrafgefang-eun-eu : prisoners | 7 | ein Strafgefangener
+
+herumstehen : heroumshti-in : to stand about | herumstanden
+
+tierhaft : tihaft : animal/bestial {adj}
+
+Katze {f} : katsseu : zool. T cat/félin | 3208
+
+Spatz {m} : shpatz  : orn. T sparrow/moineau | 1726 | die Spatzen
+
+jd./etw. stürzte : shturtsteu : sb./sth. plummeted/toppled/barged | 347
+
+sorglos : zorgloss : insouciant/carefree/casual/careless {adj} | 1454
+
+Fensterbrett {n} : fensta-brett : rebord de fenêtre/windowsill | 254
+
+sichAkk. herumtreiben [ugs.] [pej.] : heroum-trayb^n : to hang about [coll.] (herum = autour, treiben = pousser trainer errer sans but)
+
+jedem : yédem : chaque 
+
+zugehen [ugs.] [sich schließen] : tsou-gi-in  : to close [without object] [of a door, window etc.]/TO WALK UP TO | 32 | zugingen
+
+verengen : fa-eng^n : plisser/rétrécir/to constrict | 110 |  | verengten
+
+etw.Akk. verfolgen [Ziel, Idee, auch Straftat] : fer-folg^n : to pursue sth. | 7610 | verfolgte
+
+vorkommen : paraitre, sembler
+
+unbeschwert : oun-béshvéat : easygoing {adj}/carefree | 118 | unbeschwerte
+
+tierhaft : tia-haft : animal {adj}
+
+schlagartig : shlak-artiçh : abruptly {adv} | 449
+
+Fröhlichkeit {f} : freu-liçh-kayt : gaïeté/mirth | 308
+
+verarscht [ugs.] : fer-arsht : pranked/messed around {past-p} [coll.]
+
+Mundwinkel {m} : mount-vink-l : anat. mouth corner [rare for: corner of one's mouth]
+
+Das tat er immer : il faisait toujours cela
+
+tat : did 
+
+================================================================ 27JUN2025 (Page 83) (MATIN) ================================================================
+
+sichAkk. zusammenreißen [ugs.] : tsou-zamm^n-rayss^n : to check oneself/to put oneself together/to man up
+
+Feststellung {f} : fest-shtelloung : finding/assessment | 571
+
+Öl {n} : eul : oil | 2359
+
+ehemalig [attr.] <ehem.> : éé-maliçh : former {adj} [attr.] <fmr> | 2731
+
+es nicht bringen [ugs.] [etwas nicht können] :  : to be unable to cut it [Am.] [coll.] / ne pas être à la hauteur (IDIOM)
+
+schleierhaft [ugs.] : shlaya-haft : incomprehensible/opaque/obscur {adj} | 115
+
+gutgelaunt : gout-gelaount : cheerful/good-humored {adj} | 815
+
+Scherzbold {m} : shertz-bolt : joker/tease | 8
+
+gutmütig : gout-mutiçh : good-natured/easygoing/docile {adj} | gutmütige
+
+
+Offenheit {f} : off^nhayt : ouverture/sincérité/franchise/openness/candor [Am.] | 1206
+
+Täuschung {f} [Betrug] : toy-shoung : tromperie/escroquerie/deception/deceit/cheat | 2612
+
+am heutigen Tag : hoy-tigeun : at the present day {adv}
+
+Puzzleteile {pl} : pouzzle-tayleu : games puzzle pieces
+
+Einbildung {f} : ayn-bildoung : imagination | 801
+
+berauben : beraouben : voler/to rob | 285 | beraubt
+
+absehen : abzi-in : viser/cibler/prévoir/deviner/renoncer à (quadn utilisé avec von) | abgesehen
+
+klüger : klug^a : wiser/savvier/more clever {adj} | 206
+
+Lernerfahrung {f} : leurn-er-faroung : learning experience
+
+schallend : shallent : clangorously/resoundingly {adv} | 34
+
+Bande {f} : bandeu : gang | 256
+
+jd. bedachte : bedaCHteu : sb. considered | 397
+
+Esses : essez : essens
+
+================================================================ 27JUN2025 (Page 84) (MATIN) ================================================================
+
+Verlust {m} :  ferloust: loss | 3992
+
+Traf mich ... so schwer ? = m'a-t-elle touché si durement?
+
+etw.Akk. erweisen [beweisen, nachweisen] :  : to prove sth. | 617 | erwiesen
+
+schamlos : shlamlos : unashamed/wanton {adj} | 375
+
+Stunden {pl} <Std.> : shountd^n  : hours <h, hrs> | 212
+
+geschweige denn : geshvaygeu : much less
+
+ungeheuer : oungeu-heya : tremendous {adj} | 645
+
+vertrauensselig : fa-traouensseliçh : credulous/trusting {adj} | 221
+
+echter : éçhta : truer {adj} | 29
+
+Bettlerjunge {m} : bettleu-youngeu  : beggar boy
+
+kastanienbraun :  : auburn {adj} | 618 | kastanienbraunen
+
+Verständnis {n} : fershtant-nis : understanding/compréhensif | 1034
+
+scheinbar :shaynbar  : seemingly/apparent {adv} | 1807
+
+erteilt : ertayl^n  : granted/give {adj} {past-p} | 172
+
+erteilen :  : to confer/to grant | 1222
+
+jdn. unterkriegen [ugs.] : ounter-krig^n : to get sb. down [discourage]/to prevail against
+
+================================================================ 27JUN2025 (Page 85) (MATIN) ================================================================
+
+
+
+
+
+
 
 
