@@ -328,7 +328,7 @@ selbst [sogar] : sel-bst : même/soi-même/par soi-même/de notre propre initiat
 
 Neid {m} : nayt : envy | 4698
 
-Schwarz: schvartz : black
+Schwarz: schvartz : black | Schwarze {n, ou adjectif}
 
 Felsen : felzen : rocher (gros rocher, nature immobile, indomptale)
 
@@ -567,7 +567,7 @@ jdn./etw. schleppen : shlepp^n   : to drag/tow/ramener sb./sth. | 3692 | geschle
 
 Vermutung {f} : fea-mou-tun^g  : assumption/hunch/guess | 3083
 
-Berichte {pl} : bé-ri-shte : reports | 239
+Berichte {pl} : bé-ri-sht : reports | 239 | Berichten {pl datif} | der Bericht (le rapport)
 
 Berichte {pl} :  : proceedings | 47
 
@@ -1167,7 +1167,7 @@ die einzigen : ein-tsigen : the only ones {pron}
 
 Gegenstände {pl} : gé-gen-çhtende : items/objets | 2096 | Gegenstand 
 
-Anforderungen {pl} : an-forder-oungen : requirements | 3537 
+Anforderungen {pl} : an-forder-oungen : requirements| 3537 
 
 Levelbeschränkung = Level +Beschränkung = restriction, limitation
 
@@ -1362,7 +1362,7 @@ drahtig [Haar, Mensch] : dratiçh : maigre/wiry {adj} | 1129
 
 Bärtiger {m} : bé-rtig^a : beardy [Br.] [coll.] [usually pej.] [bearded man]
 
-zitternd : tsi-tternd : trembling {adj} {pres-p} | 1363 | zitternden |  zitterst
+zitternd : tsi-tternd : trembling {adj} {pres-p} | 1363 | zitternden |  zitterst | zitterten
 
 angestoßen : angeshtosseun : usé/nudged/used/pushed {adj} {past-p} | 166
 
@@ -1582,7 +1582,7 @@ gestatten : gess-ta-tn: autoriser/permettre/laisser | gestattete
 
 Zahn {m} : tsahn  : anat. tech. tooth [jaw, saw, rake, etc.] | 5015 (ou Zähne : teeth {pl} )
 
-leg : ajoute/pose (infinitif legen) | legte
+leg : ajoute/pose (infinitif legen) | legte | lege
 
 leg einen Zahn zu : mets les bouchées doubles/accélère! (idiom)
 
@@ -1731,7 +1731,7 @@ rüpelhaft [pej.] :  : grossier/rude/boorish {adj} | 604
 
 blechern : bléçharn : métallique (son métallique) | 502
 
-drang : dran : insister/parvint/retentit/se fit entendre/drang (en) (dringen infinitif)
+drang : dran : insister/parvint/retentit/se fit entendre/drang (en) (dringen infinitif) 
 
 spöttisch : shpeuttish  : mocking/scornful {adj} | 1316 | spöttische
 
@@ -2310,7 +2310,7 @@ Gewissen {n} : gévi-ssen : conscience | 5832 (noun)
 
 Ne pas CONFONDRE Gewissen et gewissen (adjectif, pas un nom) 
 
-schlimmer : shlimm^a : worse/grave/fâcheux/mauvais {adj} {adv} | 7019 | schlimmeren | schlimme
+schlimmer : shlimm^a : worse/grave/fâcheux/mauvais {adj} {adv} | 7019 | schlimmeren | schlimme | schlimm
 
 jd. schrie : shrie : sb. criait/pleurait/screamed/cried | 67
 
@@ -2940,7 +2940,7 @@ aufgelaufener Zins {m} : aufgel-aouf-ner : fin. accrued interest
 
 Zinsen {pl} : tsin-z^n : fin. interest {sg} | 4064
 
-erschrocken : ea-shrok^n : effrayé/terrifié/startled/terrified {adj} | 2974 (racine verbe/adj erschrecken) | erschreckt | erschreckend
+erschrocken : ea-shrok^n : effrayé/terrifié/startled/terrified {adj} | 2974 (racine verbe/adj erschrecken) | erschreckt | erschreckend | erschrockenes
 
 enorm : énorm : énorme/enormous {adj} | 961 | enormen
 
@@ -3008,7 +3008,7 @@ Grundlagen {pl} : grount-lagen : essentials/fondamentaux | 994
 
 Spitzhacke {f} : shpitz-hackeu : tools pickaxe [Br.] | 175
 
-{m} Bergbau : industrie minière (NOUN) | Bergbaus
+{m} Bergbau : industrie minière/extraction minière (NOUN) | Bergbaus
 
 umgehen : oum-gi-en : manier/manipuler/savoir uiliser qqch :(verbe à part entière, pas séparable)
 
@@ -3130,7 +3130,7 @@ etw. anrichten [Schaden, Unheil etc.] : anriçhtèn : to cause sth. [damage, h
  wohl doch nuance avec incertitude ou fatalisme : « probablement quand même »
  
  anhaltende : an-halt-endeu : persistent/durable |
- ^ ne pas confondre avec anhalten qui veut dire s'arrêter
+ ^ ne pas confondre avec anhalten qui veut dire s'arrêter 
  
  
 {f} Belastung : beul-astoung : fardeau/burden | 3403
@@ -3430,7 +3430,7 @@ spitz : shpitz : pointed {adj} | 1466
 Stahlspitze : la pointe d'acier
 
 jd./etw. biss : biss : sb./sth. bit | 286
-(jdn./etw.) beißen :  : to bite (sb./sth.) | 3146
+(jdn./etw.) beißen : bayss^n : to bite (sb./sth.) | 3146
 
 Erz {n} : ea-tz : geol. mining ore | 1745
 
@@ -3701,7 +3701,7 @@ bei lebendigem Leib die Haut abziehen  : le dépecer vivant/le passer à tabac (
 
 abziehen : abtzi-in : enlever/flay/remove/dépouiller/arracher/strip
 
-Haut {f} : ha-ot : peau/skin | 5105 | Haüte {pl} (skins)
+{f} Haut : ha-ot : peau/skin | 5105 | Haüte {pl} (skins)
 
 Ausschuss : aouss-chouss comité/commission/REBUT
 
@@ -4295,7 +4295,7 @@ gedankenverloren : ge-dank-^n-ferloren : absentmindedly {adv} | 95
 
 Bart {m} : bart : beard | 5251
 
-jd. drängte : drén-gte : pressa/poussa/elbowed/sb. urged | 448
+jd. drängte : drén-gte : pressa/poussa/elbowed/sb. urged | 448 | gedrängt
 
 Überleg doch mal : réfléchis donc encore (réfléchis quand même/donc = doch + mal (une fois/donc))
 
@@ -4480,7 +4480,7 @@ unbegründet : oun-be-gruun-dèt : infondé/sans fondements {adj}
 
 Schuldgefühl {n} : shoult-gefuul : guilt feeling
 
-Schuldgefühle {pl} :  : feelings of guilt
+Schuldgefühle {pl} : shoult-gefuul-eu : feelings of guilt
 
 zu besänftigen : bessén-ftig^n : apaiser/to appease/to placate
 
@@ -4703,7 +4703,7 @@ lebend : li-bent : vivant/alive {adj} | 61
 
 verbringen : fa-bring^n : passer/to spend/to take | 4469 (verbe)
 
- {m} [Sache] [auch ling., law., med.] Fall : fall  : cas/case [issue, affair, cause] [also ling., law, med.]/peut aussi dire "tomber/drop" | 2371
+ {m} [Sache] [auch ling., law., med.] Fall : fall  : cas/case [issue, affair, cause] [also ling., law, med.]/peut aussi dire "tomber/drop" | 2371 
 
 auf keinen Fall  : en aucun cas/surtout pas
 
@@ -5247,7 +5247,8 @@ gebrochen : gébroCHen : broken/fractured {adj} {past-p} | 624 | verbe racine ge
 
 etw. flicken : flick^n : réparer/raccomoder/to patch sth./cobble [mend, repair] | 1174
 
-(jdn./etw.) anhalten : anh-halt^n : to stop (sb./sth.)/halt | 955
+(jdn./etw.) anhalten : anh-halt^n : to stop (sb./sth.)/halt | 955 | angehalten
+
 
 nächtliche : néçhtliçhe : nocturne {adj} | nächtlichen
 
@@ -5338,7 +5339,7 @@ jdn./etw. auswählen : aouss-vélèn : to pick sb./sth. [choose] | 512 | choisir
 
 etw. gefällt jdm. : gé-felt : sb. likes sth./prefer smth. | 277
 
-zögern : tseu-gern : to hesitate/hésiter | 6761  | zögerst
+zögern : tseu-gern : to hesitate/hésiter | 6761  | zögerst | zögernd
 
 Antwort {f} : ant-vort : reply | 2180
 
@@ -5416,7 +5417,7 @@ schwierige Aufgabe {f} : shvie-rig^a aouf-gabeu: difficult task
 
 schwierig : difficile/important (adjectif)
 
-Aufgabe {f} [Auftrag] : aouf-gabeu  : tâches/task | 4981
+Aufgabe {f} [Auftrag] : aouf-gabeu  : tâches/task/mission | 4981
 
 erfüllt : ea-fullt : accomplished/fulfilled {adj} {past-p} | 1181 | verbe racine erfüllen
 
@@ -5498,7 +5499,7 @@ zugesetzt [gestört] : tsou-geu-zetst : causer des troubles/faire du mal/importu
 
 freischalten : fréii-shalt^n : pour activer/ouvrir/to enable | 139
 
-Haken {m} [fig. für Krux] : hak^n  : crux | 110
+Haken {m} [fig. für Krux] : hak^n  : crux/hook [trap] | 110
 ^ crux of the matter = der Haken an der Sache
 
 magisch : magish : magic {adj} | 352
@@ -5553,7 +5554,8 @@ Narbe : narbeu : cicatrice {f}
 
 {n} Mark : mark  : marrow/la moelle | 548
 
-Bein {n} : ba-in : jambe (peut aussi dire "os") | 6289 | die Beinen (au datif/accusatif)
+Bein {n} : ba-in : jambe (peut aussi dire "os") | 6289 | die Beinen (au datif/accusatif) | Beine
+
 
 durch Mark und Bein gehen : transpercer jusqu'à la moelle (=quelque chose qui provoque un effet profond, souvent intense ou dérangeant). équivalent français = glacer le sang (IDIOM) 
 
@@ -5859,7 +5861,7 @@ Seuche {f} :  : med. VetMed. plague/epidemic | 439
 
 sich durcharbeiten ici au sens figuré → se répandre méthodiquement ou implacablement)
 
-keiner :  : aucun/none/nobody {pron} | 124
+keiner : kayn^a : aucun/none/nobody {pron} | 124
 
 örtliche : local
 
@@ -5954,7 +5956,7 @@ jd./etw. verschwand : vea-shvant : sb./sth. disappeared | 592
 
 stapfen : shatpf^n : to trudge/stomp | 1289 | stapfte
 
-Bengel {m} [ugs.] :  : gamin/rascal/rascal/urchin | 725
+Bengel {m} [ugs.] : beng-l : gamin/rascal/rascal/urchin | 725
 
 bitter :  : bitter {adj} | 1268
 
@@ -5997,7 +5999,7 @@ Lager {n} [Camp] : lag^a : camp/ | 538
 
 gierig : gi-riçh : greedy {adj} | 5340
 
-dünn : dunn : thin {adj} | 6053 | dünne | dünnen (adj)
+dünn : dunn : mince/thin {adj} | 6053 | dünne | dünnen (adj)
 
 gehässig : géhéssiçh : spiteful/hateful/catty/venomous {adj} | 923
 
@@ -6713,7 +6715,7 @@ bösartig : beus-artiçh : malicious/vicious/malevolent {adj} | 3614
 
 Witz  {m} : vits : joke | 1961
 
-berichten : beuriçh-tèn : to report/to tell | 4207
+berichten : beuriçh-tèn : to report/to tell | 4207 (ne pas confondre avec le nom)
 
 beiseite : bay-sayté : aside {adv} | 1258
 
@@ -7011,7 +7013,7 @@ zum Glück [Redewendung] : tsoum gluk : heureusement/luckily/fortunately/blessed
 
 jd. verbot : fa-bot : sb. forbade | 186
 
-verbieten : fa-bit^n : to prohibit | 3473
+verbieten : fa-bit^n : to prohibit/to forbid | 3473 | verboten
 
 Einfall {m} [feindlich] : ayn-fall : idée/incursion/trouvaille/incursion/idea/raid | 534
 
@@ -7186,7 +7188,7 @@ plausibel : plao-zib^l : plausible {adj} | 173
 
 sanft : zanft  : mellow/soft/gentle/silky {adj} | 2690
 
-klopfen :  : to knock/tapotement/coup léger | 1900
+klopfen : klopf^n : to knock/tapotement/coup léger | 1900 | klopfendem
 
 echt : eçht : genuine/true/legit/unfeigned/real {adj} | 5413
 
@@ -8195,10 +8197,133 @@ haben mögen : aient pu être/ont pu être
 
 Todesstrafe {f} : todes-shtrafe : law capital punishment/death penalty
 
-jdn. hinrichten : hin-riçht^n : law to execute sb. [put to death] | 469 | Hingerichtet
+jdn. hinrichten : hin-riçht^n : law to execute sb. [put to death] | 469 | Hingerichtet 
+^ [ce verbe est spécifique à l'exécution à la mort, clair et précis, contrairement à richten qui peut dire corriger/ajuster/orienter/juger/exécuter]
 
 etw.Akk. vernehmen [geh.] [etw. hören; auch: von etw. Kenntnis erhalten] : fea-nimm^n  : to hear sth. [also: learn (of) sth.] | 723 | vernommen
 
 etw.Akk. diskutieren : diskoutir^n : to discuss sth. | 134
 
-================================================================ 01JUILLET2025 (Page 97) (MATIN) ================================================================
+================================================================ 01JUILLET2025 (Page 97) (MIDI) ================================================================
+
+jdn./etw. belauschen : belaosh^n : to eavesdrop on sb./sth./to listen in on | belauschte
+
+strengstens : shtréng-stenz : strictly {adv} | 42
+
+verantwortungsvoll : fea-ant-vortoung-sfoll : responsible {adj} | 1084 | verantwortungsvolle
+
+nun einmal : tout simplement/puisque c'était ainsi (idiom)
+
+geahnt : gé-ant : suspected {adj} | 13
+
+etw.Akk. ahnen [vermuten] : ahn^n : to suspect sth./to anticipate | 1835
+
+aufhäufen : aouf-hoyf^n : to stack/to accumulate | 105
+
+etw. hinterlassen : hint^a-lass^n: to leave sth. [stains, scars, an impression, a message, etc.] | 866
+
+seufzen : zoyfts^n : soupirer/to sigh | 2711
+
+blinzeln : blintsel^n : to blink | 1774 | blinzeln
+
+jdn. verabschieden : fa-ap-shid^n : dire adieu à/to farewell sb. [Aus.] [NZ] | 204
+
+[auslösen, hervorrufen]  etw.Akk. provozieren : provotsi-r^n : to provoke sth. | 2638
+
+sichAkk. abschuften [ugs.] : ap-shouft^n : to slave away [coll.]
+
+================================================================ 01JUILLET2025 (Page 98) (MIDI) ================================================================
+
+etw.Akk. wegnehmen [fortnehmen, wegtun] : vek-nim^n : to remove sth. [take sth. away]/ to take away | 802
+
+jd./etw. landet : landèt : sb./sth. lands | 17
+
+Vertrag {m} : fa-trak : contract | 5227
+
+(etw.Akk.) unterschreiben : ounta-shrayb^n : to sign (sth.) | 2268
+
+Goldgrube {f} : golt-groubeu : goldmine | 145
+
+mit etw. überschüttet sein / werden : ubershuttèt : to be awash with sth.
+
+  [fertigbringen, erreichen] etw.Akk. schaffen : shaff^n  : réussir à/to accomplish sth./to create something/ | 2579
+
+gelegen : géli-g^n : situated {adj} | 522
+
+Chance {f} : chansseu : chance | 637
+
+Genuss {m} : genouss : enjoyment | 3430
+
+geringer : gering^a : lesser/inferior/less {adj} | 581 | geringerem
+
+ärger : earg^a : worse {adj} {adv} | 175 | ärgsten = le  plus méchant, le plus mauvais (comme best et besten)
+
+meinem ärgsten Feind : my worst enemy
+
+auseinandernehmen : aouss-ay-nander-nim^n : to dismantle/to tear apart | 666
+
+herabsinken : herap-zink^n : to sink (down) | herabgesunken
+
+zappeln : tsappl-n : to fidget | 1962 | zappeln
+
+Skrupel {m} : skroup-l : scrupule | 104 | skrupellose on ajoute -los car "sans" | skrupellose (adj)
+
+harmlos : harmloss : harmless/innocent {adj} | 1527
+
+Er schickt ... los : Il envoie ... (ici, los schicken = envoyer, expédier)
+
+Anforderung {f} : an-for-deroung : demand/[une demande] | 2874
+
+dringend : dring-ent : urgent/urgently {adj} | 6041
+
+kleingewachsene = klein + wachsen (petit + grandir/croître) = petite taille
+
+auskundschaften : aous-kount-shaft^n : to recon [short for: reconnoitre]/to scout/faire de la reconnaissance | 435
+
+Erzadern : erts-adea^n : filon de minerais
+
+================================================================ 01JUILLET2025 (Page 99) (MIDI) ================================================================
+
+wonach : vonaCH : after what/after which/que cherche-t-il {adv}
+
+spurlos : shpourlos : without (a) trace {adv}
+
+jdm./etw. misstrauen : misstraouen : to mistrust sb./sth. | 785
+
+Vergiss es! [Daraus wird nichts!] : fergiss ès : Forget it!/Nevermind
+
+längst [vor langer Zeit] : léngsst  : long ago {adv}
+
+argwöhnisch : ark-veunish : suspicious/wary {adj} [wary] | 1760
+
+jdm. Angst einjagen : ayn-yag^n : to frighten sb./to intimidate | infinitif à particule séparable du verbe einjagen = einzujagen
+
+bislang : bislang : yet {adv} [up to now or until some other specific time]/so far/as yet | 881
+
+herzensgut : herts-n-zgout : good-hearted {adj}
+
+nüchtern [sachlich] : nuçhte^an : businesslike {adj} | 345
+
+================================================================ 01JUILLET2025 (Page 100) (MIDI) ================================================================
+
+weitergehen : va-ita-gi-in : to proceed/to progress/to continue/to progress | 377
+
+Zunge {f} : tsoungeu : anat. tongue [Lingua / Glossa] | 5561
+
+[veraltet] [hinrichten]  jdn. richten : riçht^n :  corriger/ajuster/orienter/juger/executer qqn. [put to death] | 35
+
+das Eisen schmieden, solange es heiß ist :  : idiom to strike while the iron is hot / battre le fer tant qu'il est encore chaud (IDIOM)
+
+jdn. erpressen : eapress^n : to blackmail sb./to extort | 1848
+
+jd./etw. verursachte : fa-oua-zaCHteu : sb./sth. caused | 1022
+
+käsig [blass] [ugs.] : kéziçh : pale [looking like cheese, a sour appearance] {adj} | 32
+
+Verräter {m} : farréta : traitor/turncoat | 3728
+
+bezeugen : betsoyg^n : to witness | 3180
+
+mit aufgerissenen Augen [nachgestellt] : aouf-geriss^n-n : saucer-eyed/wide-eyed {adj}
+
+================================================================ 01JUILLET2025 (Page 101) (MIDI) ================================================================
