@@ -34,7 +34,7 @@ total_dur_hour <- (sum(data$time_minutes, na.rm = TRUE))/60
 
 
 # Fonction pour tracer et afficher pente
-plot_with_slope <- function(x, y, xlab, ylab, main, data_name = "") {
+plot_with_slope <- function(x, y, xlab, ylab, main, data_name = "", y_tick_step = 1) {
   valid <- !is.na(x) & !is.na(y)
   model <- lm(y[valid] ~ x[valid])
   slope <- coef(model)[2]
@@ -42,7 +42,13 @@ plot_with_slope <- function(x, y, xlab, ylab, main, data_name = "") {
   plot(x[valid], y[valid],
        xlab = xlab, ylab = ylab, main = main,
        pch = 19, col = "blue",
-       cex.main = 0.8, cex.lab = 0.7, cex.axis = 0.7, cex = 0.7)
+       cex.main = 0.8, cex.lab = 0.7, cex.axis = 0.7, cex = 0.7,
+       yaxt = "n"  # désactive l’axe y automatique
+  )
+  
+  # Axe y personnalisé
+  y_ticks <- seq(floor(min(y[valid])), ceiling(max(y[valid])), by = y_tick_step)
+  axis(side = 2, at = y_ticks, las = 1, cex.axis = 0.7)
   
   abline(model, col = "red", lwd = 2)
   
@@ -66,37 +72,40 @@ plot_with_slope(
   xlab = "Numéro de page",
   ylab = "Mots par minute",
   main = "Figure 1. Progression de la vitesse d'étude",
-  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p67)"
+  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p100)",
+  y_tick_step = 3
 )
 dev.off()
 
 #MPM
-png("graphes_export/fig2_temps_par_mot.png", width = 800, height = 600)
-plot_with_slope(
-  data$page_number,
-  data$time_per_word,
-  xlab = "Numéro de page",
-  ylab = "Minutes par mot",
-  main = "Figure 2. Vitesse d'étude (temps par mot)",
-  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p67)"
-)
-dev.off()
+#png("graphes_export/fig2_temps_par_mot.png", width = 800, height = 600)
+#plot_with_slope(
+# data$page_number,
+# data$time_per_word,
+# xlab = "Numéro de page",
+# ylab = "Minutes par mot",
+# main = "Figure 2. Vitesse d'étude (temps par mot)",
+ # data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p100)",
+# y_tick_step = 0.1
+#)
+#dev.off()
 
 #New words per page
-png("graphes_export/fig3_mots_nouveaux.png", width = 800, height = 600)
+png("graphes_export/fig2_mots_nouveaux.png", width = 800, height = 600)
 plot_with_slope(
   data$page_number,
   data$new_words_on_total,
   xlab = "Numéro de page",
   ylab = "Mots nouveaux (%)",
-  main = "Figure 3. Taux de mots découverts par page",
-  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p67)"
+  main = "Figure 2. Taux de mots découverts par page",
+  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p100)",
+  y_tick_step = 4
 )
 dev.off()
 
 #Superposition
 
-plot_superpose_fig1_fig3 <- function(data) {
+plot_superpose_fig1_fig2 <- function(data) {
   valid1 <- !is.na(data$page_number) & !is.na(data$words_per_minute)
   valid3 <- !is.na(data$page_number) & !is.na(data$new_words_on_total)
   
@@ -104,13 +113,13 @@ plot_superpose_fig1_fig3 <- function(data) {
   plot(data$page_number[valid1], data$words_per_minute[valid1],
        type = "l", pch = 3, col = "blue",
        xlab = "Numéro de page", ylab = "Mots par minute",
-       main = "Figure 4. Figure 1 & 3 superposées",
+       main = "Figure 3. Figure 1 & 2 superposées",
        cex.main = 0.8, cex.lab = 0.7, cex.axis = 0.7, cex = 0.4)
-  mtext("*Livre: Außenseiter 1 - Fauxhumain1 (p9 - p67)", side = 1, line = 4, cex = 0.6, col = "black")
+  mtext("*Livre: Außenseiter 1 - Fauxhumain1 (p9 - p100)", side = 1, line = 4, cex = 0.6, col = "black")
   # Calcul et affichage pente pour figure 1
   model1 <- lm(words_per_minute ~ page_number, data = data[valid1, ])
   #abline(model1, col = "blue", lwd = 2)
-  legend_text1 <- paste0("Vitesse étude (pente = ", round(coef(model1)[2], 3), ")")
+  legend_text1 <- paste0("Vitesse étude mots/min (pente = ", round(coef(model1)[2], 3), ")")
   
   # Ajouter figure 3 : mots nouveaux en % (axe Y droit)
   par(new = TRUE)
@@ -123,43 +132,44 @@ plot_superpose_fig1_fig3 <- function(data) {
   # Calcul et affichage pente pour figure 3
   model3 <- lm(new_words_on_total ~ page_number, data = data[valid3, ])
   #abline(model3, col = "red", lwd = 2)
-  legend_text3 <- paste0("Mots nouveaux (pente = ", round(coef(model3)[2], 3), ")")
+  legend_text3 <- paste0("Mots nouveaux/total % (pente = ", round(coef(model3)[2], 3), ")")
   
   
   # Ajouter légende
   legend("top", legend = c(legend_text1, legend_text3),
-         col = c("blue", "red"), pch = c(19, 19), bty = "n", cex = 0.50)
+         col = c("blue", "red"), pch = c(19, 19), bty = "n", cex = 0.7)
   
   #bty = n sinon
   # Afficher pentes dans console
   cat("Figure 1 - pente mots/minute:", round(coef(model1)[2], 5), "\n")
-  cat("Figure 3 - pente mots nouveaux %:", round(coef(model3)[2], 5), "\n")
+  cat("Figure 2 - pente mots nouveaux %:", round(coef(model3)[2], 5), "\n")
 }
 
 #Génère figure superposée
-png("graphes_export/fig4_superposition_fig1_fig3.png", width = 800, height = 600)
-plot_superpose_fig1_fig3(data)
+png("graphes_export/fig3_superposition_fig1_fig2.png", width = 800, height = 600)
+plot_superpose_fig1_fig2(data)
 dev.off()
 
 #Consult dico
-png("graphes_export/fig5_mots_consultes.png", width = 800, height = 600)
+png("graphes_export/fig4_mots_consultes.png", width = 800, height = 600)
 plot_with_slope(
   data$page_number,
   data$consult_words_on_total,
   xlab = "Numéro de page",
   ylab = "Mots consultés (%)",
   main = "Figure 5. Taux de mots consultés (usage dico) par page",
-  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p67)"
+  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p100)",
+  y_tick_step = 2
 )
 dev.off()
 
 # Histo pour temps total
 p <- ggplot(data, aes(x = page_number, y = time_minutes)) +
   geom_col(fill = "steelblue") +
-  scale_x_continuous(breaks = seq(10, 50, by = 5)) +
+  scale_x_continuous(breaks = seq(10, 100, by = 5)) +
   labs(x = "Numéro de page", y = "Durée (min)", 
-       title = "Figure 6. Temps total d'étude effectif",
-       caption = "*Livre: Außenseiter 1 - Fauxhumain1 (p9 - p67)") +
+       title = "Figure 5. Temps total d'étude effectif",
+       caption = "*Livre: Außenseiter 1 - Fauxhumain1 (p9 - p100)") +
   theme_minimal() +
   theme(
     plot.title = element_text(
@@ -183,7 +193,7 @@ print(p)
 
 # Capture temps total (ggplot)
 ggsave(
-  filename = "graphes_export/fig6_temps_total_etude.png",
+  filename = "graphes_export/fig5_temps_total_etude.png",
   plot = p,
   width = 6,
   height = 4
