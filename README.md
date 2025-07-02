@@ -1,6 +1,4 @@
 
-![german_learning](https://github.com/user-attachments/assets/e9ed3776-5b99-45ea-99ff-ea69dac76e7c)
-
 Ce dépôt contient mes notes personnelles et outils pour l'apprentissage de l'allemand.
 
 ## 📊 Où trouver un résumé des statistiques de la progression ?.. 
