@@ -86,13 +86,13 @@ jd. fügte ein : fugteu : sb. ajouter/infliger/inserted/add
 leise : lay-zeu : quiet/soft/doucement/à voix basse {adj} | 2408 | leisen | leier
 
 flüstern : flu-steurn : to whisper/à voix basse | 2160
-Er fügte hinzu, dass ... : fug^té in-tsou : He added that ... | geflüsterten
+Er fügte hinzu, dass ... : fug^té in-tsou : He added that ... | geflüsterten | flüsternd
 
 fast : "presque" /nuance d'intensité
 
 hinzu : in-tsou : en plus/en supplément
 
-hinzufügen : hin-tsou-fug^n : ajouter en plus (mot exact pour définir l'ajout, hinzu étant la particule du verbe)
+hinzufügen : hin-tsou-fug^n : ajouter en plus (mot exact pour définir l'ajout, hinzu étant la particule du verbe) | hinzugefügt
 
 zufügen : ajouter, inflinger,causer
 
@@ -117,7 +117,9 @@ trat einen Schritt vor	fit un pas en avant	Geste concret, image détaillée
 
 Blicke {pl} : bli^que : glances/regard | 188
 
-etw.Akk. verbrennen : fe-brennen : to incinerate sth. | 1436
+etw.Akk. verbrennen : fe-brennen : brûler [consumer] qqch /to incinerate sth. | 1436 | verbrannten
+^ ici brennen = brûler mais ver- ajoute une action complète ou intensité avec connotation négative (consumer)
+
 
 selbst [sogar] : sel-bst : even {adv} | 1175
 
@@ -160,7 +162,7 @@ deine : dayneu : your {pron} [determiner] [female or pl]
 
 Geburt {f} : gebou^eut ou gebuRT : birth | 1773
 
-hervorragend : hea-fo-rragend : excellent/outstanding {adj} | 4121 | hervorragend
+hervorragend : hea-fo-rragend : excellent/outstanding {adj} | 4121 | hervorragend | hervorragende
 
 überstanden : uba-shtanden : overcome {adj} {past-p} | 626 | überstehst
 
@@ -463,7 +465,7 @@ Risse {pl} : risseu : fissures/to crack | 213
 
 Geist1  {m} : ga-ïst  : spirit| 1399
 [wir/sie/Sie] tun :  : [we/they/you] do/fait/faire | 766
-tun : toun : to do | 2428
+tun : toun : to do | 2428 | getan (=done participe passé)
 ^ faire gaffe à la forme impérative (ordre) : tu (oui oui, tu pour dire do!)
 
 damit : da-mit : with it {adv} : pour que/par ça/avec cela, là-dedans, dans cette affaire [cet adverbe exprime TOUJOURS un but et/ou un complément utilisé avec "mit" pour dire "avec cela/en s'en servant", ne pas confondre avec DARUM qui exprime la CAUSE ou la MOTIVATION]
@@ -484,7 +486,7 @@ geschieht  : SE PASSE/ arrive, se produit
 Willen {m} : villén  : will | 110
 dem Willen → à la volonté
 
-jd./etw. entspricht : ents-prisht : sb./sth. corresponds/suits to/correspond à/se conforme | 281
+jd./etw. entspricht : ents-priçht : sb./sth. corresponds/suits to/correspond à/se conforme | 281
 
 Ich arbeite daran. : dar-an : I'm working on it.
 daran :  : at it {adv}
@@ -522,7 +524,7 @@ genau : gen-eau : exactly/true/vrai/détaillé/très/précis {adv} | 5526
  „Um genau zu sein, glaube ich genau das, ja.“
  =>>> Pour être précis, c’est exactement ce que je crois, oui. (ici : um = pour, genau = exact, zu = trop/plus et sein = etre)
  
- erwähnen : ea-vi-nen : mentionner/évoquer/to bring up [mention] | erwähnt
+ erwähnen : ea-vé-nen : mentionner/évoquer/to bring up [mention] | erwähnt
  
  dann : alors/donc
  
@@ -947,7 +949,7 @@ altehrwürdig : alt--ia--vurdiçh  : Ancien/vénérable/très honorable {adj} [b
 
 es gibt [existiert, ist vorhanden] : es gipt : there's [there is]/il y a
 
-dahingeschieden : da-hin-geshii-den  : défunts/deceased {adj} {past-p} <decd., dec.> [formal] | 14
+dahingeschieden : da-hin-geshii-den  : défunts/deceased {adj} {past-p} <decd., dec.> [formal] | 14 | Dahingeschiedenen
 
 Systemfehler {m} : zeu-stim-fehler : tech. system error
 
@@ -1053,7 +1055,7 @@ nachdenklich : naCHTden-kliçh : thoughtful/pensively {adj} [pensive] | 2356 | n
 
 wohl : nuance d'incertitude/hypothèse/conjecture (e.g : wie alt sie wohl ist = quelle âge at-t-elle? / Wie alt sie wohl ist? : quelle âge a tlle, je me demande?)
 
-jd. überlegte : uba-lekte : sb. deliberated | 206 (adjectif)
+jd. überlegte : uba-lekte : sb. deliberated/réfléchi | 206 (adjectif)
 
 wussten (racine wissend : savoir)
 
@@ -1073,7 +1075,7 @@ entdeckt : en-teckt : découvert/discovered {adj} {past-p} | 554
 
 Heiler : guérisseurs, soigneurs
 
-jd. lachte : laCHte : sb. laughed | 121 | racine verbe lachten | lachen
+jd. lachte : laCHte : sb. laughed | 121 | racine verbe lachten | lachen | lachend (adj)
 
 sein hinein : hi-naïn : son intérieur/ (hinein = in) {adv} | 601 
 
@@ -1092,7 +1094,7 @@ seltsam : zelt-tzam : étrange/bizarre (adj) | seltsamen
 Wege {pl} : vé-geu : paths/ways | 161 (NOUN)
 
 Aussehen : semble/apparence/aspect (NOUN, f)
-aussehen : aouss-ehen : apparaître (verbe)
+aussehen : aouss-ehen : apparaître/ressembler (verbe)
 
 faire gaffe c'est un verbe à particule spérable aussi : aus + sehen
 
@@ -1132,7 +1134,7 @@ Wenden {n} :  : naut. tacking [sailing] | 47 (NOUN)
 
 gebraucht habe = ai mis / ai utilisé/avoir mis (du temps)
 
-brauchen : rau-CHen: avoir besoin de /to need/to require/to want [de temps VOIRE prendre du temps] : verb | brauchst
+brauchen : rau-CHen: avoir besoin de /to need/to require/to want [de temps VOIRE prendre du temps] : verb | brauchst | gebrauchen
 
 gebraucht : ge-brau-CHt : deuxième main/usé/used/second-handed {adj} {past-p} | 973 (ADJECTIF)
 
@@ -1165,7 +1167,7 @@ sagen : dire/say [e.g: tu veux me dire par là que... : Du willst mir damit sage
 
 die einzigen : ein-tsigen : the only ones {pron}
 
-Gegenstände {pl} : gé-gen-çhtende : items/objets | 2096 | Gegenstand 
+Gegenstände {pl} : gé-gen-çhtende : items/objets | 2096 | der Gegenstand {m} 
 
 Anforderungen {pl} : an-forder-oungen : requirements| 3537 
 
@@ -1212,7 +1214,7 @@ wichtigste : vish-tik-ste : important/essentiel/indispensable/significatif/main 
  
  später : shpét^a : plus tard
  
- jdn. verdammen :  : to doom/curse/maudire  sb. | 1874 (verb, infinitif) | verdammter (sb. maudit)
+ jdn. verdammen : ferdamm^n : to doom/curse/maudire  sb. | 1874 (verb, infinitif) | verdammter (sb. maudit)
  
  schwerer :  : plus lourd/plsu grave/plus dur/heavier/more serious/more difficult (si c'est une insulte, c'est un marqueur d'intensité, pas de résistance physique (exemple sale batard/sacré salaud!)) {adj} | 139
  
@@ -1298,7 +1300,7 @@ Alter: vieux/vieille (aussi un mot d'argot à l'oral comme 'frère' en français
 
 Eiche  {f} : aïl-çhe : oak/chêne  1290
 
-fest : fess-t  : tightly/solid/firmly {adv} | 761
+fest : fess-t  : fermement/tightly/solid/firmly {adv} | 761
 
 unbeeindruckt : oun-be-aïn-droukt : unfazed {adj} [coll.] | 1316
 
@@ -1317,7 +1319,7 @@ finger:finger:finger
 
 Bewegung setzen : mettre en mouvement
 
-setzen : zet-ssen : to put [something] (e.g : put in motion)| 1797
+setzen : zet-ssen : to put [something] (e.g : put in motion)| 1797 | gesetzt
 sich in Bewegung setzen :  : to get under way/put in motion
 
 Bewegung {f} : bevi-goung : motion/movement | 1203 | bewegen | bewegte
@@ -1344,7 +1346,7 @@ die aus dem Haus entfernt wurden = qui furent enlevés de la maison
 
 Führerschein {m} : fu-ra-shayne : transp. driver license [Am.] [Aus.] [NZ] [Can.]
 
-anfangen : anfang^n : to begin | 1833
+anfangen : anfang^n : to begin | 1833 | fängt + an
 
 schön : sheune : beau/bon/agréable
 
@@ -1464,7 +1466,7 @@ bei : b-aïl : près, à côté/chez/pour [c'est pas un "pour" simple mais un "e
 
 einander : eye-nan-dea : each other/l'un l'autre {pron}
 
-jd. zeigte : tsai-kte : sb. showed/se montraient | 252
+jd. zeigte : tsai-kte : sb. showed/se montraient | 252 | zeigt 
 
 Verachtung {f} : fa-aCH-toung : contempt | 5918
 
@@ -1482,7 +1484,7 @@ Anweisung {f} : an-vaille-zoung : instruction [order, command] | 2218
 
 gegeben : gégé-ben : given {adj} {past-p} | 417 | verbe racine geben 
 
-holen : hol-en : prendre/aller chercher/apporter
+holen : hol-en : prendre/aller chercher/apporter | hole
 
 die Lade : la-deu : tiroir/drawer (NOUN)
 
@@ -1602,7 +1604,7 @@ ihrs / ihres :  : theirs {pron}
 
 Personals: perzonal: personnes/ressources humaines/employés/staff
 
-vorgehen [verfahren] : for-gi-ine : to proceed | 1034
+vorgehen [verfahren] : for-gi-ine : to proceed | 1034 | vorging | vorgibst
 
 bissig : bissiçh : acerbe/snappy/mordant {adj} [coll.] [snappish] [often fig.] | 419 | bissigen | Bissiges
 
@@ -1751,6 +1753,7 @@ lustig : loustiçh : funny/amusing {adj} | 3153
 
 lief : courut/marcher (inf verb laufen)  | liefen
 ^ souvent utiliser pour décrire larmes qui coulent ou frisson le long du dos
+^ marche rapide (verbe racine laufen)
 
 knallrot : knall-rot : rouge pétant {adj}
 
@@ -1861,7 +1864,7 @@ in der nahen Mine : dans la mine proche/voisine
 
 Mine : mayne : mine (cave où tu pioches et tout) | minen {pl}
 
-erfahren : ea-fahren : experienced {adj} | 2978 | erfahrener
+erfahren : ea-fahren : experienced/apprendre {adj} | 2978 | erfahrener
 
 erfahren hatte : avais appris/avais été informé
 
@@ -2027,7 +2030,7 @@ das geht dich nichts an : cela ne te concerne pas (quasiment un idiom):
 C’est une évolution idiomatique du verbe simple gehen (aller) : la préposition an donne une direction symbolique « vers » quelqu’un, ce qui s’interprète comme « ce sujet va vers toi » au sens « t’implique » ou « te concerne ».
 
 Meinst du? : meinst : Do you think so?
-Meinen : penser | meine
+Meinen : to reckon/to mean/to think/to deem/penser | meine | gemeint
 
 erstaunt : ea-shtaunt : amazed/astonished/wondering {adj} {past-p} | 2324 |  erstaunte
 
@@ -2168,7 +2171,7 @@ eine Weile : vayleu : période/moment/for a bit {adv} [for a while]
 
 Unterhaltung {f} : ounta-halt-oung  : conversation/chat | 5046
 
-die beiden : beid^n : the two of them/both {pron}
+die beiden : beid^n : the two of them/both {pron} | Beides
 
 setzte sich : se poursuivit / se continua
 
@@ -2354,7 +2357,7 @@ Hauptstadt {f} : haoup-shtadt : capital city
 
 bezahlt <bez.> : beu-tsaalt : paid {adj} {past-p} <pd> | 201
 
-jedenfalls : yedenfallts : en tout cas/anyway {adv} | 5142
+jedenfalls : yedenfallss : en tout cas/anyway {adv} | 5142
 
 jd. berichtete : beriçh-téteu : sb. told/reported | 18 | 
 
@@ -2374,7 +2377,7 @@ untersuchen : ount^a-zuCHen : to investigate | 4817 | untersuchten
 
 sieht : zit : voir | racine sehen = voir infinitif vebre
 
-ehrlich : erliçh : honnête/sincère/fidèlement/honest {adj} | 9887
+ehrlich : erliçh : honnête/sincère/fidèlement/honest {adj} | 9887 | ehrlicher
 
 wahrheitsgetreu : var-haï-tsgeu-troy : véridique/veridic/faithful {adj} [to reality] | 380
 
@@ -2534,7 +2537,7 @@ dadurch : dadoyçh : ainsi/donc
 
 Gefühle {pl} : ge-fühleu : emotions/sentiments | 458 | fühlen 
 
-jdn./etw. verraten : ferra-ten : révéler/trahir/to betray sb./sth. | 565  | verrieten | verriet
+jdn./etw. verraten : ferra-ten : révéler/trahir/to betray sb./sth. | 565  | verrieten | verriet | verrätst
 ^ faire gaffe ici à REVELER ET TRAHIR
 
 ausbrechen : aouss-brèçhen : to burst [e.g : in tears = in Tränen] | 587
@@ -2762,7 +2765,7 @@ Geburtstag {m} : ge-bouet-staks : birthday | 3547
 
 Geburtstagsgeschenk {n} :  : birthday gift
 
-überreicht : u-ba-rraçht : presented {adj} {past-p} | 75
+überreicht : u-ba-rraçht : presented {adj} {past-p} | 75 | überreichte
 
 ================================================================ 13JUN2025 (Page 22) (MATIN) ================================================================
 
@@ -2785,7 +2788,7 @@ schlichten : shliçhten : simple/sobre (adjectif)
 
 etw.Akk. schlichten : shliçhten  : to smoothe/to reconcile sth. [fight etc| 4647 (VERBE)
 
-wertvoll : viat-foll : précieux/valuable {adj} | 6475
+wertvoll : viat-foll : précieux/valuable {adj} | 6475 | wertvoller
 
 Wie sich herausgestellt hat, ... :  : Turns out, ... [sl.] [Am.]
 
@@ -2809,7 +2812,7 @@ Boni {pl} : booni : bonuses | 35
 
 etw.Akk. verbessern : fa-bess^n : to improve sth. | 10452 | 
 
-etw.Akk. anstellen  : anshtellen : entreprendre/to carry out/to undertake sth | stelle
+etw.Akk. anstellen  : anshtellen : entreprendre/to carry out/to undertake sth | stelle | angestellt
 
 wobei : vobay : à condition que/du moment que/en quoi/bien que [conjonction difficile à traduire, introduit une concession ou une précision] (conjonction)
 
@@ -2861,9 +2864,9 @@ Bergarbeiter {m} : berg-arbayter :  mineur (le métier) | 506
 
 das Falsche {n} : falsheu : the wrong thing/le mauvais [la personne]/l'imposteur
 
-{f} die Art : ar-t : l'art
+{f} die Art : ar-t : l'art 
 
-Art {f} [Sorte] : ar-t (prononce le t) : type [de qqch, type d'homme, type d femme etc]/kind | 799
+ {f} [Sorte] Art : ar-t (prononce le t) : type [de qqch, type d'homme, type d femme etc]/kind | 799 | die Arten
 
 Aufmerksamkeit {f} : auf-merk-zam-kayt : attention/heed | 4004
 
@@ -2907,7 +2910,7 @@ niemand : nie-mant : nobody {pron} | 1690
 
 liegend : li-gent : allongé/lying {adj} {pres-p} [stretched out, recumbent] | 215
 
-verbracht : féa-braCHt : passer [du temps]/spent {adj} {past-p} [time] | 346 
+verbracht : féa-braCHt : passer [du temps]/spent {adj} {past-p} [time] | 346 | verbrachten
 
 jd. lieferte : lief-ate : sb. livré/delivered | 24 | verbe racine  liefern
 
@@ -2940,7 +2943,7 @@ aufgelaufener Zins {m} : aufgel-aouf-ner : fin. accrued interest
 
 Zinsen {pl} : tsin-z^n : fin. interest {sg} | 4064
 
-erschrocken : ea-shrok^n : effrayé/terrifié/startled/terrified {adj} | 2974 (racine verbe/adj erschrecken) | erschreckt | erschreckend | erschrockenes
+erschrocken : ea-shrok^n : effrayé/terrifié/startled/terrified {adj} | 2974 (racine verbe/adj erschrecken) | erschreckt | erschreckend | erschrockenes | erschreckte
 
 enorm : énorm : énorme/enormous {adj} | 961 | enormen
 
@@ -2968,7 +2971,7 @@ jd. seufzte : zoif-tste : sb. sighed | 662
 
 Lanista : lanista : propriétaire de gladiateurs/d'un ludus (ludus = école de gladiateurs)
 
-gehören : appartenir à/belong to 
+gehören : appartenir à/belong to | gehört
 
 Gladiatoren {pl} : gladiator^n : gladiators
 
@@ -3139,8 +3142,9 @@ auf etw.Akk. achten : ACHten : to pay attention to sth. | to mind smth. | achtet
 
 nicht aus Versehen — ne [soit] pas par accident
   
-irgendeinem : irg-en-daynem : quelconque | irgendeinen
-  
+irgendeinem : irg-en-daynem : quelconque | irgendeinen  irgendeiner
+
+
 Mob : monstre/foule
  
 ================================================================ 13JUN2025 (Page 25) (MATIN) ================================================================
@@ -3356,7 +3360,7 @@ die Hände in die Hüften stemmen : idiom posturel, posture posteuse de sens imp
 
 jdn. beglücken :  : satisfaire/plaisant/to please sb. [make happy] | 594 | beglücktes | beglückten
 
-brummen [murren] : brou-men : to grumble | 136
+brummen [murren] : brou-men : to grumble | 136 | brummte
 
 Erwachsene {pl} : er-va-ksen  : adults | 585 | Erwachsener | erwachsenen
 
@@ -3456,7 +3460,7 @@ Stärke : force abstraite en tant que qualité (morale, mentale, mesurée). Krä
 
 begleitet : be-klaytet : accompanied {adj} {past-p} | 1883 | begleiten
 
-bewundern : beu-voundern : to admire | 7580 / bewunderten
+bewundern : beu-voundern : to admire | 7580 / bewunderten | bewunderte
 
 keuchen : koiçhen : to gasp | 2875 | keuchte
 
@@ -3490,13 +3494,13 @@ Pfund {n} : pfount : pound
 
 erworben : er-voa-ben : acquired/bought {adj} {past-p} | 1751
 
-listig : listiçh  : cunning/rusé/malin/malice {adj} | 1549
+listig : listiçh  : cunning/rusé/malin/malice {adj} | 1549 | listigen
 
 ließ ... schweifen : shvaï-fèn : let roam/laissa promener/balayer/to ramble/roam | 607 
 
 Tontafel {f} : toont-a-fell : archaeo. clay tablet ==> dans ce contexte on parle de point de force. pour une raison que je comprends pas ils utilisent le mot "tablette" pour définir des points de caractéristiques (Tafeln)
 
-schreien : shraien :to scream/shout | schrien
+schreien : shraien :to scream/shout | schrien | geschrien
 
 begeistert : beg-aïs-tat : excited/enthusiastic {adj} {past-p} | 2356
 
@@ -3517,7 +3521,7 @@ unwillkürlich : oun-vil-kuurliçh : involontairement/malgré [moi]/involuntaril
 
 Stelle {f} : shtelleu : emplacement/Spot/position (=job)/place/à sa place| 584
 
-vorstellen : foa-shtell^n : s'imaginer/présenter qqch. souvent quand il est utilisé c'est pour dire "imaginer". faire gaffe, vor + stellen sont des partticules séparables et peuvent être éparpillées ailleurs mais forment bien le verbe| prétérit stellte : .... vor | vorzustellen 
+vorstellen : foa-shtell^n : s'imaginer/présenter qqch. souvent quand il est utilisé c'est pour dire "imaginer". faire gaffe, vor + stellen sont des partticules séparables et peuvent être éparpillées ailleurs mais forment bien le verbe| prétérit stellte : .... vor | vorzustellen  | vorgestellt
 
 vornehmen : foa-ni-men effectuer | sich vornahm = souhaiter faire qcch.
 
@@ -3612,7 +3616,7 @@ Kranker {m} : krank^a : souffrant [de maladie]/[un] malade/ill person
 
 Baum {m} : ba-om : bot. tree | 2731 | Baümen {pl}
 
-blind [auch fig.] : blint : blind {adj} [also fig.] | 791
+blind [auch fig.] : blint : aveugle/blind {adj} [also fig.] | 791
 
 Blatt {n} : bla-tt : bot. papier/sheet/pageleaf | 3215
 
@@ -3640,7 +3644,7 @@ rund : adjectif aussi
 
 jd. blinzelte : blintsel-te : sb. blinked | 606
 
-einige : aïl-nigeu : some/several {adj} {pron} | 2948 | plusieurs | einigen
+einige : aïl-nigeu : plusieurs/some/several {adj} {pron} | 2948 | plusieurs | einigen
 
 Male {pl} : mal-eu : times [occasions] | 128
 
@@ -3711,7 +3715,7 @@ Narr {m}: naRR (comme rue mais avec le r enfoncé genre rrue : fool | 1433
 
 sichAkk. einmischen : aïn-mishen : to butt in/intervenir [fig.] [coll.] | mischte
 
-Vereinbarung {f} : fa-aïl-n-baroung : accord/agreement/arrangement | 1392 | vereinbaren | vereinbart
+Vereinbarung {f} : fa-aï-n-baroung : accord/agreement/arrangement | 1392 | vereinbaren | vereinbart
 
 getroffen : ge-toff^n  : rencontrer/prendre/frapper/hit/struck/meet {adj} {past-p} | 666 | verbe racine treffen
 
@@ -3856,7 +3860,7 @@ aufsuchen : aouf-zouCHen : visiter/trouver/voir/chercher/to find [search for] |
 
 jd. weinte : va-ine-teu : sb. wept | 430
 
-hingegen : hing-gig^n : however {adv} {conj} | 1044
+hingegen : hing-gig^n : toutefois/however {adv} {conj} | 1044
 
 Hunde {pl} :  : zool. T dogs | 231 
 der Hund : le chien
@@ -4226,7 +4230,6 @@ est, a report, a bid, etc.]/to file [a divorce] | 5156
 
 behaupten : bé-hopt^n : affirmer/prétendre/to claim [profess, assert] | 6727
 
-
 Eigentum {n} [Habseligkeiten] : ayg-entoum : property/belongings {pl} | 1169
 
 beschädigt : beshé-diçht : abîmé/détérioré/damaged/marred {adj} {past-p} | 3888 | beschädigen
@@ -4268,7 +4271,7 @@ stammen :  : to be descended
 
 fröhlich : freuliçh : joyeux/gai/jovial/merry/happy {adj} | 3507 | fröhliche
 
-Schauer {m} [Erregung, Nervenkitzel] : shau^a : frisson | 625
+Schauer {m} [Erregung, Nervenkitzel] : shau^a : frisson/shiver | 625
 
 kalt : kalt : cold {adj} | 32767 | katen
 
@@ -4305,7 +4308,7 @@ davorstehen : dafor-shti-in :littéralement auparavant + être debout => devant 
 
 nachzugeben : naCH-tsou-giben : céder
 
-verlangt : fa-langt : requested/demand/requires {adj} {past-p} | 85 | verbe racine verlangen | verlangte
+verlangt : fa-langt : requested/demand/requires {adj} {past-p} | 85 | verbe racine verlangen | verlangte | verlangst
 
 schicken : shik^n :  envoyer/to send | geschickt
 
@@ -4335,7 +4338,7 @@ Nachschub {m} : naCHshoup : supplies {pl} | 403
  
  Kriegs- : krigss : war {adj} [attr.]
  
- fangen : fang-en : capturer/piéger/to trap/capture/ensnare | 652
+ fangen : fang-en : capturer/piéger/to trap/capture/ensnare | 652 | 
  
  Orks {pl} [die Rasse der Orks in Tolkiens Welt] :  : film lit. F Orcs [in Tolkien's work]
  
@@ -4494,7 +4497,7 @@ Sekunde {f} <s, Sek.> [Sek. ist veraltet] : zé-kounde  : unit second <s, sec.> 
 
 enden : end^n : se terminer/to end | 427
 
-vorübergehend : for-ub-a-gi-int : temporary {adj} | 2276
+vorübergehend : for-ub-a-gi-int : temporary {adj} | 2276 | vorübergehenden
 
 Unterkunft {f} : ounta-kounft : logement/accommodation/shelter/lodging	 [lodging] | 7081
 
@@ -4697,7 +4700,7 @@ gott + verlassen : godforsaken/perdu
 
 zwielichtig : tsvi-liçh-tiçh : louche/shady/sketchy {adj} [coll.] [dubious] | 1912
 
-Helfer {m} : helf^a  : assistant/complice/auxiliary [helper] | 3065
+Helfer {m} : helf^a  : assistant/complice/auxiliary [helper] | 3065 | Helfers
 
 lebend : li-bent : vivant/alive {adj} | 61
 
@@ -4728,7 +4731,7 @@ Sack {m} : zak : sac (comme un sac en français) | 355 mais ici dans ce contexte
 
 jd./etw. glättete :  : sb.sth. lissa/aplanit sb./sth. smoothed | 41 | verb racine glätten 
 
-kratzig : kratziçh : scratchy/itchy/qui donne envie de se gratter {adj} | 676
+kratzig : kratziçh : scratchy/itchy/qui donne envie de se gratter {adj} | 676 | kratzte
 
 entspannen : ent-shpannen : to relax | 2055
 
@@ -4754,7 +4757,7 @@ ne pas confondre avec seitdem ("depuis") qui s'utilise tout seul et fait référ
 
 {f} [Stimmung] Laune : la-oune : humeur/mood/caprice (rare) | 1588
 
-verderben : fa-derb^n : gâcher/to spoil/to deprave/to corrupt/to perish/to taint | 4907
+verderben : fa-derb^n : gâcher/to spoil/to deprave/to corrupt/to perish/to taint | 4907 | verdirbst
 
 aufgewacht : aouf-geu-vaCHt : woken {adj} {past-p} [ceased sleeping] | 194 | verbe racine aufwachen | wach
 
@@ -4785,7 +4788,7 @@ verführerisch : fa-fuhreu-rish : seductive {adj} | 2141
 
 Raum {m} : ra-oum : la pièce/room | 887
 
-jd./etw. füllte :  : sb./sth. filled/remplir [qqch] | 15 | verbe racine füllen 
+jd./etw. füllte :  : sb./sth. filled/remplir [qqch] | 15 | verbe racine füllen | Gefüllt
 
 Magen {m} : mag^n  : anat. stomach | 5650
 
@@ -4845,8 +4848,7 @@ beachten : pa-CHten : prêter attention/prendre en compte/respecter/noter/to reg
 
 taten ... so, als würden sie ... = firent comme si … (IDIOM/expression)
 
-Spiel {n} : shpi-l : parier/jouer/gamble/play/game | 2039 [e.g : mein Leben stand auf dem Spiel = ma vie était en jeu] |
-
+Spiel {n} : shpi-l : parier/jouer/gamble/play/game | 2039 [e.g : mein Leben stand auf dem Spiel = ma vie était en jeu] | Spiele
 
 ernst : ern-st :sérieux/grave
 
@@ -4993,7 +4995,7 @@ Messer {n} : mess^a : couteau/knife | 6267
 
 Waffe {f} [auch fig.] : vaffeu : weapon [also fig.] | 1064 | Waffen {pl}
 
-jd. verdiente : fa-dinteu : gagné/mérité/sb. earned | 35 [différent de Gewinnen = gagner car il y a un sens de victoire, compétition, jeu, acquérir qqch dans verdiente]
+jd. verdiente : fa-dinteu : gagné/mérité/sb. earned | 35 [différent de Gewinnen = gagner car il y a un sens de victoire, compétition, jeu, acquérir qqch dans verdiente] | gewinnt
 
 Libelle {f} :  : entom. dragonfly | 626
 
@@ -5142,7 +5144,7 @@ Locken  {pl} : lock^n : boucles/tresses/curls | 410 | Locke {f}
 
 riechen : rieçhen : sentir [personne,parfum..]/to smell | 3521 | rochen (verbe au prétérit de riechen)
 
-obwohl : ob-voul : although {conj} | 16457
+obwohl : ob-voul : bien que/même si/although {conj} | 16457
 
 jd. trug : trouk : sb. wore | 558
 
@@ -5730,7 +5732,7 @@ Wasserfluten {n} : vass^a-flout^n : waterflooding
 
 stürzen [aus dem Gleichgewicht kommen] [auch fig.: gestürzt werden] : shtua-ts^n : to topple/tomber violemment/s'effondrer/se précipiter | 1235 | prétérit stürtzen
 
-Straße {f} <Str.> : shtrasseu : road <Rd.>/street | 457
+Straße {f} <Str.> : shtrasseu : road <Rd.>/street | 457 | Straßen
 
 zwischen <zw.> : tsvi-sh^n : entre/au milieu de/between {prep} <bet.> | 1897
 
@@ -5761,7 +5763,7 @@ Zerbrechlichkeit {f} : tsea-breçh-liçh-kayt : fragilité/friabilité/fragility
 
 etw.Akk. vollbringen : follbring^n : to accomplish sth./to achieve smth. |  1289 | vollbrachte
 
-Wunder {n} : vound^a : miracle | 1271
+Wunder {n} : vound^a : miracle/merveille | 1271 | Wundern
 
 Fahrkunst {f} : fahr-kounst : driving skill [for a particular vehicle]
 
@@ -5891,7 +5893,7 @@ Einfriedung {f} :  : clôture/stockade/enclosure | 14
 
 deren : der^n : whose {pron} | 1845
 
-bewacht : bevaCHt : guarded {adj} {past-p} | 97 - verbe racine bewachen
+bewacht : bevaCHt : guarded {adj} {past-p} | 97 - verbe racine bewachen (surveiller, garder)
 
 Lebensmittelvorräte {pl} : liben-smittel-forréteu : stocks of food | der Lebensmittelvorrät
 
@@ -6049,7 +6051,7 @@ hartverdientes = hart (dur) + verdienen (mériter/gagner)
 
 ================================================================ 24JUN2025 (Page 55) (MATIN) ================================================================
 
-leihen : layen : prêter/to lend | 3616
+leihen : layen : prêter/to lend | 3616 | geliehen
 
 eindringlich : ayn-dring-liçh : hauntingly/haunting {adj} | 1121
 
@@ -6186,7 +6188,7 @@ Ansprache {f} : anshpraCHe  : discours/speech/oration | 422
 
 feierlich : fayérliçh : solemn/solemnly/ceremonious {adj} | 3439
 
-Schwur {m} [Gelübde] : shvoua : vow | 2442
+Schwur {m} [Gelübde] : shvoua : vow/serment/voeu solennel | 2442
 
 getilgt :  : erased/paid {adj} {past-p} | 50 (also verb. racine tilgen)
 
@@ -6200,7 +6202,7 @@ Abschied {m} : apshiet : farewell/leave/goodbye | 2346
 
 jd./etw. schützte :  : sb./sth. protected/shielded | 13 (VERBE)
 
-fernhalten :  : to keep away/to keep out/to hold off | fernzuhalten
+fernhalten :  fernhalt^n : to keep away/to keep out/to hold off | fernzuhalten
 
 angeblich : angi-bliçh : supposément/allegedly {adv} | 5809
 
@@ -6310,8 +6312,8 @@ skeptisch :  : wary/sceptical {adj} | 2235
 
 nutzlos : noutz-loss : useless {adj} | 1466
 
-gezeichnet [unterzeichnet] : gé-tsay-çhnet : sketched/drawn/signed {adj} {past-p} | 70 | ici dans le livre : der Gezeichnet
- => utilisé comme un nom => celui qui es marqué
+gezeichnet [unterzeichnet] : gé-tsay-çhnet : sketched/drawn/signed {adj} {past-p} | 70 | ici dans le livre : der Gezeichnet | Gezeichnete
+ => utilisé comme un nom => celui qui est marqué/le marqué [la personne]
  
 ================================================================ 24JUN2025 (Page 59) (SOIR) ================================================================
 
@@ -6406,7 +6408,7 @@ jd. wies : viz : sb. showed | 17
 
 schüchtern : shuh-tern : shy/timide {adj} | 3586
 
-jederzeit :  : anytime/n'importe quand/ {adv} | 1403
+jederzeit : yeda-tsaït : anytime/n'importe quand/ {adv} | 1403
 
 nieder : nid^a : down/low {adv} | 361
 
@@ -6516,7 +6518,7 @@ alarmiert :  : alarmed {adj} {past-p} | 331 | verbe racine alarmieren
 
 Mut {m} : mout : courage/mettle/grit | 3774
 
-mahnen :  : admonester/rappeler à l'ordre [ c'est un rappel ferme, une mise en garde, envers qqun qui doit changer de comportement]/avertir/exhorter/to admonish | 1853 | mahnte
+mahnen : ma-nèn : admonester/rappeler à l'ordre [ c'est un rappel ferme, une mise en garde, envers qqun qui doit changer de comportement]/avertir/exhorter/to admonish | 1853 | mahnte
 
 hoffen : ho-ff : to hope | 1522 | hoffe
 
@@ -6644,7 +6646,7 @@ anders : and-éas : différemment/different/else {adv} | 5483
 
 Meinetwegen. [ugs.] : maynèt-vig^n : Whatever. [coll.] | 843
 
-geschnitten :  : cut/chopped {adj} {past-p} | 358 | verbe racine schneiden
+geschnitten :  : cut/chopped {adj} {past-p} | 358 | verbe racine schneiden (shnayd^n)
 
 Rinde {f} : rindeu : bot. bark/crust | 1563
 
@@ -6755,7 +6757,7 @@ uralt : oua-alte : ancient/very old/immemorial {adj} | 1394 | uralte
 
 Behauptung {f} : beu-haoupt-oung : affirmation/allegation/claim | 3405 | behauptete
 
-aufgestellt :  : placé/positioned/nominated {adj} {past-p} | 170 | verbe racine aufstellen (mettre, mettre en place)
+aufgestellt :  : placé/positioned/nominated/dressé {adj} {past-p} | 170 | verbe racine aufstellen (mettre, mettre en place, dresser) | stellten (prétérit) | stellen
 
 aufstellen :  : to establish/to arrange/to deploy | 1069
 
@@ -6779,7 +6781,7 @@ gewaltig : geu-valtiçh : vast/tremendous/prodigieux {adj} | 7353 | gewaltigen
 
 weiter : vay-ta : continuer{adv}/autre{adj}/au-delà {adv}/further/broader {adv} | 5097
 
-Ernte {f} :  : récolte/cueillette/harvest/crop | 1788 | verbe racine ernten (récolter/cueillir) | erntete | geerntet
+Ernte {f} : ernteu : récolte/cueillette/harvest/crop | 1788 | verbe racine ernten (récolter/cueillir) | erntete | geerntet
 
 so viel ... wie : autant (structure comparative)
 
@@ -7505,7 +7507,7 @@ sichAkk. herumtreiben [ugs.] [pej.] : heroum-trayb^n : to hang about [coll.] (he
 
 jedem : yédem : chaque 
 
-zugehen [ugs.] [sich schließen] : tsou-gi-in  : to close [without object] [of a door, window etc.]/TO WALK UP TO | 32 | zugingen
+zugehen [ugs.] [sich schließen] : tsou-gi-in  : to close [without object] [of a door, window etc.]/TO WALK UP TO | 32 | zugingen |
 
 verengen : fa-eng^n : plisser/rétrécir/to constrict | 110 |  | verengten
 
@@ -7666,7 +7668,7 @@ Handschlag {m} : hant-shlak : handshake | 43
 
 jd. beglückwünschte : békluk-vunshteu : sb. complimented/félicité | 5 | beglückwünschen
 
-bitten : bitt^n : to request | 4755
+bitten : bitt^n : to request/to ask | 4755 | gebeten 
 
 um Hilfe zu bitten : demander de l'aide
 
@@ -7696,7 +7698,7 @@ angesprochen : angeu-shproCHen : solicited/responded/addressed {adj} {past-p} | 
 
 fortschicken : fortshik^n : to order away/to send off | fortgeschickt
 
-Geschäft {n} [Laden] : geshéft : affaires/comm. shop [acheter un truc/passer aux affaires, entrer dans le vif du sujet "zum Geschäft kommen"]/magasin | 5574 | Geschäften
+Geschäft {n} [Laden] : geshéft : affaires/comm. shop [acheter un truc/passer aux affaires, entrer dans le vif du sujet "zum Geschäft kommen"]/magasin/business | 5574 | Geschäften
 
 ================================================================ 29JUN2025 (Page 87) (APREM) ================================================================
 
@@ -8216,7 +8218,7 @@ nun einmal : tout simplement/puisque c'était ainsi (idiom)
 
 geahnt : gé-ant : suspected {adj} | 13
 
-etw.Akk. ahnen [vermuten] : ahn^n : to suspect sth./to anticipate | 1835
+etw.Akk. ahnen [vermuten] : ahn^n : suspecter/to suspect sth./to anticipate | 1835
 
 aufhäufen : aouf-hoyf^n : to stack/to accumulate | 105
 
@@ -8284,7 +8286,7 @@ Erzadern : erts-adea^n : filon de minerais
 
 ================================================================ 01JUILLET2025 (Page 99) (MIDI) ================================================================
 
-wonach : vonaCH : after what/after which/que cherche-t-il {adv}
+wonach : vonaCH : après quoi/after what/after which/que cherche-t-il {adv}
 
 spurlos : shpourlos : without (a) trace {adv}
 
@@ -8292,7 +8294,7 @@ jdm./etw. misstrauen : misstraouen : to mistrust sb./sth. | 785
 
 Vergiss es! [Daraus wird nichts!] : fergiss ès : Forget it!/Nevermind
 
-längst [vor langer Zeit] : léngsst  : long ago {adv}
+längst [vor langer Zeit] : léngsst  : long ago/loin {adv}
 
 argwöhnisch : ark-veunish : suspicious/wary {adj} [wary] | 1760
 
@@ -8326,4 +8328,413 @@ bezeugen : betsoyg^n : to witness | 3180
 
 mit aufgerissenen Augen [nachgestellt] : aouf-geriss^n-n : saucer-eyed/wide-eyed {adj}
 
-================================================================ 01JUILLET2025 (Page 101) (MIDI) ================================================================
+================================================================ 01JUILLET2025 (Page 101) (SOIR) ================================================================
+
+Gegenleistung {f} : gig-n-layshtoung : consideration [reward, payment]/reward/service in return | 235
+
+tauschen : taosh^n : to exchange | 540
+
+Geheimnisse {pl} : gehaymniss-eu  : secrets | 134
+
+etw.Akk. besiegeln : bézig-ln : to confirm sth./to seal smth./to ratify smth. | 10 | besiegelten
+
+Verschwiegenheit {f} : fa-shvi-genhayt : secrecy/confidentialité/discretion [reticence] | 238
+
+Verschwiegenheitsschwur = serment/engagement de confidentialité
+
+bedeutungsvoll : bédoytoung-sfoll : significant/meaningful {adj} [meaningful] | 365
+
+aufleuchten : aoufloyçht^n : to beam | 131 | aufleuchteten
+
+ausrechnen : aousréçhn^n  : to calculate | 694 | ausgerechnet
+
+[Material] robust : roboust : sturdy {adj} [material] | 1414
+
+Schuhe {pl} : shoueu : cloth. shoes | 4726 | der Schuh
+
+Feueranzünder {m} : faya-antss-unda : allume-feu/firelighter/kindler [Br.] | 17
+
+verschwendet : fa-shvendèt : wasted/gaspillé/prêté attention {adj} {past-p} | 753 | verbe racine verschwenden
+
+abschließen : ap-shliss^n : to complete/to lock smth./to conclude | 1704 | abzuschließen
+
+hereinbrechen : herayn-breçhèn : to befall | 158 | hereingebrochen
+
+restlich : restliçh : remaining {adj} | 1132 | restliche
+
+jd. bezog : be-tsog : sb. applied | 37 | verbe racine einbezogen 
+
+hungrig : houngriçh : hungry {adj} | 1599
+
+================================================================ 01JUILLET2025 (Page 102) (SOIR) ================================================================
+
+Armut {f} : armout : poverty | 5494
+
+geschäftlich : geshéftliçh : business {adj} | 413
+
+zusammenschließen [Unternehmen] : tsouzamm^nshliss^n : econ. to merge/to team up/to incorporate | 249
+
+Flöhe {pl} : fleué  : puces [animal]
+
+Kumpane {pl} [ugs.] : koum-pané : cronies | 404 | der Kumpan
+
+eindeutig : ayn-doytiçh : clear {adj} [unmistakable, positive]/obvious | 3889
+
+aus der Ruhe bringen : me faire sortir de mon calme (IDIOM)
+
+{m} [fig.] Schachzug : shaCHtsou-k : gambit [fig.] [trick, device]/chess move/move | 936
+
+gegenseitig : gig-nz-zaytiçh : mutual/bilatéral {adj} [reciprocal] | 9915
+
+etw.Akk. auseinandersetzen : aousaynanderzets^n : to expose/ to explain smth. sth. | 368
+
+einfältig : ayn-féltiçh : silly {adj} {adv} | 713
+
+ein paarmal : paa-mal  : several times/a few times {adv}
+
+Kreis {m} : krays : circle | 1728
+
+spielen : shpil^n : to play | 2766
+
+vorwarnen : foa-varn^n : to forewarn/to caution | 386
+
+================================================================ 02JUILLET2025 (Page 103) (MIDI) ================================================================
+
+Einzelheiten {pl} :  : details | 510 | die Einzelheit {f}
+
+etw.Akk. aushandeln : aouss-handeln : négocier/to strike sth. [a bargain] | 303 | auszuhandeln.
+
+Reinheit {f} : rayn-hayt : purity | 893
+
+Absichten {pl} : apziçht^n : intentions | 331 | die Absicht {f} (intention)
+
+[willig] eifrig : ay-friçh : eager {adj} | 7773
+
+Landkarte {f} : lant-karteu : geogr. map | 1582
+
+jd./etw. berührte : beuruateu : sb./sth. touched/fingered | 452
+
+Kartenteil : Karte + Teil = partie de carte
+
+Zeitalter {n} : tsayt-alt^a : ages | 1624
+
+================================================================ 02JUILLET2025 (Page 104) (MIDI) ================================================================
+
+no words (small page)
+
+================================================================ 03JUILLET2025 (Page 105) (MIDI) ================================================================
+
+stellten sich mir alle Haare am Körper auf = tous les poils de mon corps se hérissèrent/(littéraleemnt : se dréssèrent)
+
+etw. sprengen [gewaltsam öffnen] : shpreng^n : to burst sth. [forcibly] | 376
+
+Sinn {m} : zinn : sense | 3082
+
+Erkundung {f} : ea-koundoung : research/exploration/investigation | 388
+
+Erkundungsteam : équipe d'exploration
+
+etw. zusammenstellen : tsouzamm^nshtéllèn : to assemble sth. [e.g. a team]/to arrange| 3404 | zusammengestellt
+
+mitmachen : mitmaCH^n : to participate | 2341 | mitzumachen
+
+jd. entlockte : entlockteu : sb. elicited | 219
+
+Lächeln {n} : léçheul^n : smile | 810
+
+eifersüchtig [auf] : ayfézuuçhtiçh : jealous {adj} [of] | 5817
+
+sichAkk. über jdn. lustig machen : loustiçh maCH^n : to make fun of/to tease sb.
+
+kichern : kiçher^n : to chuckle/to giggle | 2622 | kicherte
+
+mit stolzgeschwellter Brust [Redewendung] : stoltse-gesschvellet^a : as proud as a peacock {adv} [idiom]
+
+schwellen : shvell^n : to swell/to rise/to inflate | 172
+
+herumgelaufen : se promener/marcher/déambuler
+
+statt : shtatt : instead of {prep}
+
+verzweifeln : fa-tsvayfel^n : to despair | 3364 | desperate (adj)
+
+abbringen : app-bring^n : to dissuade/dissuader | 2258 | abzubringen
+
+(jdn./etw.) annehmen [akzeptieren] : an-nim^n : to accept (sb./sth.) | 1946 | anzunehmen
+
+[auch fig.: von Arbeitslosen, von Ameisen etc.] {f] Armee : armi : mil. army [also fig.: of the unemployed, of ants, etc.] | 450
+
+Bannspruch {m} : bannshprouCH : relig. excommunication/interdiction
+
+Feuer-Bannspruch : fire banishment
+
+verrechnen : ferréçh-n^n : se tromper [to miscalculate]/fin. compenser/to account/to settle | 788 | verrechnet
+
+[Größe, Formation] {f} Einheit : ayn-hayt : mil. QM tech. entity [separate unit]/unit [people]/unité | 2758
+
+Überlebender {m} : uba-lib-nt-da : survivor | 342  | Überlebende
+
+Vorfall {m} : foa-fall : incident | 4438
+
+Brandnarbe {f} : brant-narbeu : med. burn scar | Brandnarben {pl}
+
+Zeichen {n} [Vermerk] : tsayçh^n : mark | 151
+
+hübscher : hupsha : prettier {adj} | 46
+
+Er sah niemals sehr gut aus = il n'a jamais eu très bonne apparence
+
+sprechen : sphréçh^n : to speak | 3515 | sprichst | sprach
+
+================================================================ 03JUILLET2025 (Page 106) (MIDI) ================================================================
+
+Pest {f} : pest : med. plague | 895
+
+imperial : impirial : imperial {adj} | 19
+
+Karte {f} [Landkarte etc.] : karteu : map | 811 | Karten
+
+Diagramm {n} : diagramm : diagram | 567 | die Diagramme {pl}
+
+Büro {n} : buro : office/bureau | 2400 | die Büros
+
+Rein zufällig : tout à fait par hasard (Rein renforce le zufällig)
+
+ungebildet : oungeubildèt : illiterate {adj} [uneducated, uncultivated] | 1153
+
+Überzeugung {f} : uba-tsoy-goung : conviction [firm belief] | 6980
+
+Halbtrottel : half idiots
+
+in der Bredouille sein [ugs.] : brédou-lli : to be in a pretty pickle [coll.]/situation compliquée
+
+jdm. etw. einschärfen : aynsharf^n : inculquer/to inculcate sb. with sth./to drum sth. into sb.'s head
+
+Bücherwurm {m} [auch fig.] : buçher-vourm : bookworm [also fig.: bibliophile] | 205
+
+Akademie {f} : akadémi : educ. academy | 164
+
+Trupp {m} : troupp : squad/troop | 827
+
+sich weigern : vayger^n : to refuse | geweigert
+
+mitgehen : mit-gi^en : to accompany/to go along | 599 | mitzugehen
+
+woraufhin : voraouf-hin : après quoi/ce qui a fait que/whereupon {adv} | 365
+
+schlug die Stimmung um : l'ambiance a changé (littéraelemnt ; frapper, ambiance, um=autour/inverse) (IDIOM)
+
+================================================================ 03JUILLET2025 (Page 107) (MIDI) ================================================================
+
+betonen : beton^n : to emphasize/to stress | 5080
+
+[geh.] [spazieren] sichAkk. ergehen : éagi-in : to stroll (along)/to indulge in | erging
+
+ergründen : ergrund^n : to comprehend/to figure out | 731
+
+etw.Akk. auslösen : aouss-leuz^n : tech. to trigger sth./to cause smth/to elici smth.| 4956 | auslöste
+
+das Rätseln : rétsel^n : énigme/mystère | Rätsel
+
+jdn./etw. anziehen [reizen, anlocken] : antsi^n : to attract sb./sth./to allure smth./to draw smth. | 4355 | angezogen [attracted/drawn]
+
+beschleunigen : beshloynig^n : to accelerate/to hasten | 5393 | beschleunigte
+
+Puls {m} : poulz : pulse | 333
+
+Mach weiter so : continue ainsi/continue comme ça
+
+Wir werden ja sehen : on verra bien
+
+vorhin : fo-hin : earlier/just now {adv} | 827
+
+Hinweis {m} : hin-vayss : hint/clue/evidence/indication | 4132
+
+Balken {m} : balk^n : bar | 1321
+
+Fortschrittsbalken : barre de progression
+
+etw.Akk. anzeigen [zeigen] : an-tsay-g^n : to indicate/to display sth. | 1225
+
+lebendiger : li-ben-diga : livelier {adj} | 91
+
+ [geh.] {m} Leichnam : layçh-nam : corpse/dead body | 241
+ 
+erbärmlich : erbémliçh : pathetic/abject/pitiful/déplorable {adj} | 4147
+
+Stell dir vor! : shtell : Imagine!
+
+kompliziert : kompli-tsiét : elaborate {adj} [design, pattern etc.]/complex/intricate | 1987
+
+Köchin {f} : keuçhin : gastr. jobs cook [female] | 399
+
+Ferien {pl} : feuri^n : vacation/holidays {sg} [Am.] | 2381 
+
+reinste : raynsteu : purest {adj} | 43 | rein
+
+verlocken : ferlok^n : to allure/to tempt | 612
+
+jd./etw. tröstet : treustét : sb./sth. comforts/consoles | 27
+
+================================================================ 03JUILLET2025 (Page 108) (APREM) ================================================================
+
+Anwendung {f} : anvendoung : usage/application | 1401
+
+Einschränkung {f} : ayn-shrén-koung : constraint | 1973
+
+Vermögen {n} : ferm-eu-g^n : fin. fortune | 5496
+
+annähernd : ann-néant : roughly {adv} | 351
+
+unbezahlt : oun-bétsahlt : unpaid {adj} | 241
+
+beschlagnahmen :  : to seize [confiscate] | 3619 | beschlagnahmt
+
+Pfiff {m} : pfiff : whistle [sound] | 165
+
+"sonst würdest du dich wieder in einen lebendigen
+Leichnam verwandeln." : Sinon, tu te retransformerais en cadavre vivant. 
+
+überreichen : uberrayçhèn : to present/to hand over | 632
+
+verletzen : fer-lets^n : to harm | 3013
+
+Zustand {m} : tsou-shtand : condition [state] | 2864
+
+================================================================ 03JUILLET2025 (Page 109) (APREM) ================================================================
+
+etw.Akk. schieben : shib^n : glisser/to shove sth./slide smth. | 2633
+
+Kratzer {m} : kratzer : scratch | 1363 | Kratzern
+
+gewährleisten : gevérlayst^n : to ensure/to safeguard/to guarantee | 3498
+
+Ringfinger {m} : ringfing^a : anat. annulary | 66
+
+linke : linkeu : left {adj} | 115
+
+Rolle {f} : rolleu : sociol. theatre role | 881
+
+Größe {f} : greusseu : size | 2683
+
+etw.Akk. verändern : fer-énder^n : to alter sth./to modify smth. | 2084
+
+anpassen : anpass^n : to adjust/to adapt | 5234 | anzupassen
+
+glatt : glatt : smooth/sleek {adj} | 4104
+
+sichAkk. an jdn. schmiegen : shmig^n : to nestle up to sb. | schmiegte
+
+================================================================ 03JUILLET2025 (Page 110) (SOIR) ================================================================
+
+betäuben : beutoyb^n : to numb/to daze/to stun| 517 | betäubt
+
+[du] solltest : zolltést : [you] should/[you] ought to | 317
+
+jdn. umbringen : oumbring^n : to kill/to slay sb. | 726 | particule séparable um + bringen
+
+Es wundert mich. : voundert : I'm surprised.
+
+versetzen : fa-zétsten : to relocate/to transfer/to shift/to transpose | 965 | versetzten
+
+Nachdenken {n} : naCHdenk^n : contemplation/thought/reflection | 2468
+
+in Betracht gezogen : betraCHt gétsog^n : taken into account {adj} {past-p} [postpos.]
+
+etw.Akk. anzweifeln : antsvayfeln : to doubt sth. | 842
+
+im Sinn : en tête/ à l'esprit
+
+jdm. etw.Akk. widmen : vit-men : to dedicate sth. to sb./to devote smth. to sb. | gewidmet
+
+Zuversicht {f} : tsoufa-ziçht : confidence | 1719
+
+stellen sollte : devais poser
+
+Neigung {f} : naygoung : propensity/inclination/penchant | 2519
+
+etw.Akk. verspüren : fa-shpur^n : to feel sth./to perceive smth. | 696
+
+================================================================ 03JUILLET2025 (Page 111) (SOIR) ================================================================
+
+etw. wechseln : vékseln : to change sth. [by substitution] | 1653
+
+Geschäftsidee {f} : geshéfts-idée : business concept
+
+beschreiben : beushrayb^n : to describe | 5190
+
+etw.Akk. erbeuten : erboyt^n : to obtain sth. [carry off]/to catch smth.| 535
+
+etw.Akk. herunterklappen : herount^a-klapp^n : to hinge sth. down
+
+höchstmöglichen : le plus élevé possible (höchst + möglichen)
+
+Drop :butin [game]
+
+überzeugend : uba-tsoyg^nt : convincing {adj} {pres-p} | 2424
+
+insgesamt : inz-gezamt : overall/added together {adv} | 2734
+
+zusammenbekommen : tsouzamm^n-bekomm^n : to get together
+
+Gehen {n} : gi-hén : marcher/walking [différent de laufen qui définit marche rapide/courir]| 235
+
+innezuhalten : tenir/arrêter (=halten) + inne (momentanément) = s'arrêter momentanément/faire une pause
+
+================================================================ 03JUILLET2025 (Page 112) (SOIR) ================================================================
+
+abrupt : abroupt : sudden {adj} | 302
+
+hervortretend [Muskel, Ader] : her-foa-trét^nd : bulging/saillant/proéminant {adj} [muscle, vein] | 44 | hervortretenden {pl}
+
+vorführen : vuo-fur^n : to show/to demonstrate | 902 | vorgeführt
+
+Gans {f} : gan-ss : orn. T goose | 1608
+
+Märchen {n} [fig.] [Irrglaube] : méçh^n : myth [fig.] [untrue, but widely believed]/contes/fables/fairy tales/story | 801
+
+goldene Gans {f} [fig.] :  : golden goose [fig.]
+
+jdn./etw. niederstrecken [geh.] : nida-shtreck^n : to strike sb./sth. down [knock down]
+
+Händler {m} : hentla : merchant | 1637
+
+Händlerblut : sang de commercant (blut = sang + marchand)
+
+etw.Akk. erhitzen : ea-hitss^n  : chem. tech. to heat sth./chauffer qqch. | 1074
+
+Einfalt {f} : aynfalt : naïvety/simplemindedness | 116
+
+Kinderspiel {n} [fig.] [leichte Aufgabe] : kinda-shpiel : cakewalk/jeu d'enfant/laughter/breeze/pushover [coll.] | 217 (littéraelment jeu d'enfant)
+
+================================================================ 03JUILLET2025 (Page 113) (SOIR) ================================================================
+
+Aufstand {m} : aouf-shtand : insurrection/rebellion/riot/uprising | 1937
+
+etw.Akk. mitbekommen [bei etw. Zeuge sein] : mitbekomm^n : to witness sth. [see sth. happen] | 793
+
+nirgendwohin : neurgent-vohin : nowhere {adv} [direction] | 97
+
+durchlassen : doyçhlass^n : to allow [through] /to let pass/to let through| 403
+
+nachts : naCHts : at night {adv}
+
+irgendwo : irgent-vo : somewhere/someplace {adv} | 2176
+
+sichAkk. herumtreiben [ugs.] [pej.] : héroum-trayb^n : to hang about [coll.]/to prowl | herumgetrieben
+
+blöken [Schaf, Kalb] : bleuk^n : to bleat [like a sheep] | 455 | blökte
+
+gehorsam : ge-or-zam : obedient {adj}/submissive | 3200
+
+trügerischer : trugerisha : more treacherous {adj}
+
+entgehen : ent-gi^n : to avoid/to escape/to evade | 1171 | entgangen
+
+erhofft : ea-hofft : anticipated/desired {adj} {past-p} | 139
+
+abends : abents : in the evening {adv}
+
+herausspringen : heraousshpring^n : en tirer/to exit [jump out]/to hop out/to yield | 11
+
+================================================================ 03JUILLET2025 (Page 114) (SOIR) ================================================================
