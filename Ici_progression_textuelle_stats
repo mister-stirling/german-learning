@@ -16,6 +16,7 @@ Stats :
 	Le calcul est une soustraction entre l'heure à laquelle j'ai cherché le dernier mot vs l'heure à laquelle j'ai cherché le premier mot de la page, en enlevant les 'pauses' (période sans recherche de mot) du calcul.
 	- Chapitre 54 : Ajout de la mention "consult".
 	Consult est l'indicateur direct de ma compréhension écrite. 
+	- En dessous de 180 mots, la page n'est pas comptabilisée dans les stats (page trop peu fournie)
  
 Légende:
 	- xx on xx : nombre de mots identifiés comme "nouveaux" (jamais rencontrés) sur le total des mots de la page
@@ -66,7 +67,7 @@ Légende:
  Page 40 : 52 on 328 => 16% | temps chronométré : 58min sans pause
  Page 41 : 46 on 312 => 15% | temps chronométré : 46min sans pause
  Page 42 : 32 on 281 => 11% | temps chronométré : 50min sans pause
- Page 43 : 11 on 87 => 12% | temps chronométré : 13min sans pause
+ Page 43 : 11 on 87 => 12% | temps chronométré : 13min sans pause (page peu remplie par rapport au reste)
  
  {Début chapitre 4 : Dimanche 22 JUIN 2025} 
  
@@ -87,7 +88,7 @@ Légende:
  Page 58 : 15 on 266 => 6% | consult : 51 | temps chronométré : 25min sans pause 
  Page 59 : 29 on 290 => 10% | consult : 51 | temps chronométré : 27min sans pause
  Page 60 : 35 on 258 => 14% | consult : 69 | temps chronométré : 35min sans pause 
- Page 61 : 1 on 25 => 4% | consult : 4 | temps chronométré : 1min sans pause 
+ Page 61 : 1 on 25 => 4% | consult : 4 | temps chronométré : 1min sans pause  (page peu remplie par rapport au reste)
  
  {Début chapitre 5 : Mercredi 25 JUIN 2025} 
  
@@ -102,7 +103,7 @@ Légende:
  Page 70 : 10 on 188 => 5% | consult : 31 | temps chronométré : 14min sans pause 
  Page 71 : 18 on 211 => 8% | consult : 33 | temps chronométré : 23min sans pause
  Page 72 : 8 on 196 => 4% | consult : 31 | temps chronométré : 11min sans pause
- Page 73 : 14 on 152 => 9% | consult 26 | temps chronométré : 12min sans pause
+ Page 73 : 14 on 152 => 9% | consult 26 | temps chronométré : 12min sans pause (page peu remplie par rapport au reste)
 
  {Début chapitre 6 : Jeudi 26 JUIN 2025}
  
@@ -162,7 +163,18 @@ Page 117 : 1 on 49 => 2% | consult : 3 | temps chronométré : 1min30 sans pause
 Page 118 : 21 on 292 => 7% | consult : 52 | temps chronométré : 26min sans pause
 Page 119 : 17 on 238 => 7% | consult : 47 | temps chronométré : 19min sans pause
 Page 120 : 19 on 324 => 6% | consult : 59 | temps chronométré : 24min sans pause
-Page 121 : 
+Page 121 : 8 on 193 => 4% | consult : 29 | temps chronométré : 15min sans pause
+Page 122 : 4 on 164 => 2% | consult : 14 | temps chronométré : 10min sans pause (page peu remplie par rapport au reste)
+Page 123 : 0 on 147 => 0% | consult : 0 | temps chronométré : 3min sans pause (page peu remplie par rapport au reste)
+Page 124 : 17 on 255 => 7% | consult : 50 | temps chronométré : 23min sans pause
+Page 125 : 14 on 273 => 5% | consult : 48 | temps chronométré : 20min sans pause
+Page 126 : 22 on 326 => 7% | consult : 62 | temps chronométré : 33min sans pause
+Page 127 : 8 on 265 => 3% | consult : 41 | temps chronométré : 15min sans pause
+Page 128 : 10 on 174 => 4% | consult : 24 | temps chronométré : 10min sans pause (page peu remplie par rapport au reste)
+Page 129 : 5 on 178 => 3% | consult : 21 | temps chronométré : 9min sans pause (page peu remplie par rapport au reste)
+
+ {Début chapitre 10 : Samedi 05 JUILLET 2025}
+
  
 Légende:
 <spoil>
@@ -170,3 +182,6 @@ Légende:
 '''- consult : '''nb de mots "nouveaux" + mots revérifiés (définition relue car incertitude)
 - Plus ces valeurs sont élevées, plus j’ai dû recourir au dictionnaire ; plus elles sont faibles, plus je lis de façon autonome.
 </spoil>
+  
+  
+ 
