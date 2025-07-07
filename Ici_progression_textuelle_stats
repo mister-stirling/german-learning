@@ -67,7 +67,7 @@ Légende:
  Page 40 : 52 on 328 => 16% | temps chronométré : 58min sans pause
  Page 41 : 46 on 312 => 15% | temps chronométré : 46min sans pause
  Page 42 : 32 on 281 => 11% | temps chronométré : 50min sans pause
- Page 43 : 11 on 87 => 12% | temps chronométré : 13min sans pause (page peu remplie par rapport au reste)
+ Page 43 : 11 on 87 => 12% | temps chronométré : 13min sans pause (page peu remplie)
  
  {Début chapitre 4 : Dimanche 22 JUIN 2025} 
  
@@ -88,7 +88,7 @@ Légende:
  Page 58 : 15 on 266 => 6% | consult : 51 | temps chronométré : 25min sans pause 
  Page 59 : 29 on 290 => 10% | consult : 51 | temps chronométré : 27min sans pause
  Page 60 : 35 on 258 => 14% | consult : 69 | temps chronométré : 35min sans pause 
- Page 61 : 1 on 25 => 4% | consult : 4 | temps chronométré : 1min sans pause  (page peu remplie par rapport au reste)
+ Page 61 : 1 on 25 => 4% | consult : 4 | temps chronométré : 1min sans pause (page peu remplie)
  
  {Début chapitre 5 : Mercredi 25 JUIN 2025} 
  
@@ -103,7 +103,7 @@ Légende:
  Page 70 : 10 on 188 => 5% | consult : 31 | temps chronométré : 14min sans pause 
  Page 71 : 18 on 211 => 8% | consult : 33 | temps chronométré : 23min sans pause
  Page 72 : 8 on 196 => 4% | consult : 31 | temps chronométré : 11min sans pause
- Page 73 : 14 on 152 => 9% | consult 26 | temps chronométré : 12min sans pause (page peu remplie par rapport au reste)
+ Page 73 : 14 on 152 => 9% | consult 26 | temps chronométré : 12min sans pause (page peu remplie)
 
  {Début chapitre 6 : Jeudi 26 JUIN 2025}
  
@@ -140,7 +140,7 @@ Légende:
  Page 101 : 17 on 257 => 6% | consult : 40 | temps chronométré : 19min sans pause
  Page 102 : 15 on 251 => 6% | consult : 44 | temps chronométré : 16min sans pause
  Page 103 : 9 on 219 => 4% | consult : 36 | temps chronométré : 16min sans pause
- Page 104 : 0 on 19 => 0% | consult 1 | temps chronométré : 0min20 sans pause (page quasi vide, non comptée dans les stats)
+ Page 104 : 0 on 19 => 0% | consult 1 | temps chronométré : 0min20 sans pause (page peu remplie)
 
  {Début chapitre 8 : Jeudi 03 JUILLET 2025}
  
@@ -156,7 +156,7 @@ Page 113 : 14 on 292 => 5% | consult : 48 | temps chronométré : 17min sans pau
 Page 114 : 10 on 315 => 3% | consult : 38 | temps chronométré : 20min sans pause
 Page 115 : 15 on 278 => 5% | consult : 53 | temps chronométré : 21min sans pause
 Page 116 : 19 on 252 => 7% | consult : 43 | temps chronométré : 18min sans pause
-Page 117 : 1 on 49 => 2% | consult : 3 | temps chronométré : 1min30 sans pause (page quasi vide, non comptée dans les stats)
+Page 117 : 1 on 49 => 2% | consult : 3 | temps chronométré : 1min30 sans pause (page peu remplie)
 
  {Début chapitre 9 : Vendredi 04 JUILLET 2025}
 
@@ -164,18 +164,31 @@ Page 118 : 21 on 292 => 7% | consult : 52 | temps chronométré : 26min sans pau
 Page 119 : 17 on 238 => 7% | consult : 47 | temps chronométré : 19min sans pause
 Page 120 : 19 on 324 => 6% | consult : 59 | temps chronométré : 24min sans pause
 Page 121 : 8 on 193 => 4% | consult : 29 | temps chronométré : 15min sans pause
-Page 122 : 4 on 164 => 2% | consult : 14 | temps chronométré : 10min sans pause (page peu remplie par rapport au reste)
-Page 123 : 0 on 147 => 0% | consult : 0 | temps chronométré : 3min sans pause (page peu remplie par rapport au reste)
+Page 122 : 4 on 164 => 2% | consult : 14 | temps chronométré : 10min sans pause (page peu remplie)
+Page 123 : 0 on 147 => 0% | consult : 0 | temps chronométré : 3min sans pause (page peu remplie)
 Page 124 : 17 on 255 => 7% | consult : 50 | temps chronométré : 23min sans pause
 Page 125 : 14 on 273 => 5% | consult : 48 | temps chronométré : 20min sans pause
 Page 126 : 22 on 326 => 7% | consult : 62 | temps chronométré : 33min sans pause
 Page 127 : 8 on 265 => 3% | consult : 41 | temps chronométré : 15min sans pause
-Page 128 : 10 on 174 => 4% | consult : 24 | temps chronométré : 10min sans pause (page peu remplie par rapport au reste)
-Page 129 : 5 on 178 => 3% | consult : 21 | temps chronométré : 9min sans pause (page peu remplie par rapport au reste)
+Page 128 : 10 on 174 => 4% | consult : 24 | temps chronométré : 10min sans pause (page peu remplie)
+Page 129 : 5 on 178 => 3% | consult : 21 | temps chronométré : 9min sans pause (page peu remplie)
 
- {Début chapitre 10 : Samedi 05 JUILLET 2025}
-
+ {Début chapitre 10 : Dimanche 06 JUILLET 2025}
  
+Page 130 : 15 on 226 => 7% | consult : 34 | temps chronométré : 15min sans pause
+Page 131 : 27 on 330 => 8% | consult : 60 | temps chronométré : 31min sans pause
+Page 132 : 27 on 358 => 8% | consult : 64 | temps chronométré : 32min sans pause
+Page 133 : 29 on 329 => 9% | consult : 76 | temps chronométré : 28min sans pause 
+Page 134 : 21 on 286 => 7% | consult : 45 | temps chronométré : 23min sans pause
+Page 135 : 16 on 276 => 6% | consult : 48 | temps chronométré : 19min sans pause
+Page 136 : 6 on 230 => 3% | consult : 29 | temps chronométré : 13min sans pause
+Page 137 : 16 on 242 => 6% | consult : 42 | temps chronométré : 20min sans pause
+Page 138 : 19 on 250 => 8% | consult : 37 | temps chronométré : 18min sans pause
+Page 139 : 9 on 320 => 3% | consult : 38 | temps chronométré : 21min sans pause
+Page 140 : 8 on 288 => 3% | consult : 30 | temps chronométré : 17min sans pause
+
+
+
 Légende:
 <spoil>
 '''- xx on xx : '''nombre de mots identifiés comme "nouveaux" (jamais rencontrés) sur le total des mots de la page
