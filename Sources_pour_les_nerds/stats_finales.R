@@ -72,7 +72,7 @@ plot_with_slope(
   xlab = "Numéro de page",
   ylab = "Mots par minute",
   main = "Figure 1. Progression de la vitesse d'étude",
-  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p100)",
+  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p200)",
   y_tick_step = 3
 )
 dev.off()
@@ -85,7 +85,7 @@ dev.off()
 # xlab = "Numéro de page",
 # ylab = "Minutes par mot",
 # main = "Figure 2. Vitesse d'étude (temps par mot)",
- # data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p100)",
+ # data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p200)",
 # y_tick_step = 0.1
 #)
 #dev.off()
@@ -98,7 +98,7 @@ plot_with_slope(
   xlab = "Numéro de page",
   ylab = "Mots nouveaux (%)",
   main = "Figure 2. Taux de mots découverts par page",
-  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p100)",
+  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p200)",
   y_tick_step = 4
 )
 dev.off()
@@ -115,7 +115,7 @@ plot_superpose_fig1_fig2 <- function(data) {
        xlab = "Numéro de page", ylab = "Mots par minute",
        main = "Figure 3. Figure 1 & 2 superposées",
        cex.main = 0.8, cex.lab = 0.7, cex.axis = 0.7, cex = 0.4)
-  mtext("*Livre: Außenseiter 1 - Fauxhumain1 (p9 - p100)", side = 1, line = 4, cex = 0.6, col = "black")
+  mtext("*Livre: Außenseiter 1 - Fauxhumain1 (p9 - p200)", side = 1, line = 4, cex = 0.6, col = "black")
   # Calcul et affichage pente pour figure 1
   model1 <- lm(words_per_minute ~ page_number, data = data[valid1, ])
   #abline(model1, col = "blue", lwd = 2)
@@ -158,7 +158,7 @@ plot_with_slope(
   xlab = "Numéro de page",
   ylab = "Mots consultés (%)",
   main = "Figure 5. Taux de mots consultés (usage dico) par page",
-  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p100)",
+  data_name = "Livre: Außenseiter 1 - Fauxhumain1 (p9 - p200)",
   y_tick_step = 2
 )
 dev.off()
@@ -166,10 +166,10 @@ dev.off()
 # Histo pour temps total
 p <- ggplot(data, aes(x = page_number, y = time_minutes)) +
   geom_col(fill = "steelblue") +
-  scale_x_continuous(breaks = seq(10, 100, by = 5)) +
+  scale_x_continuous(breaks = seq(10, 200, by = 5)) +
   labs(x = "Numéro de page", y = "Durée (min)", 
        title = "Figure 5. Temps total d'étude effectif",
-       caption = "*Livre: Außenseiter 1 - Fauxhumain1 (p9 - p100)") +
+       caption = "*Livre: Außenseiter 1 - Fauxhumain1 (p9 - p200)") +
   theme_minimal() +
   theme(
     plot.title = element_text(
