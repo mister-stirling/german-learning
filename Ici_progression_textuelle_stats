@@ -209,11 +209,13 @@ Page 152 : 2 on 46 => 4% | consult : 5 | temps chronométré : 3min sans pause (
  {Début chapitre 12 : Jeudi 10 JUILLET 2025}
 
 Page 153 : 6 on 193 => 3% | consult : 28 | temps chronométré : 11min sans pause
-Page 154 : 
-
-
-
-
+Page 154 : 10 on 274 => 4% | consult : 28 | temps chronométré : 16min sans pause
+Page 155 : 15 on 317 => 5% | consult : 49 | temps chronométré : 22min sans pause
+Page 156 : 9 on 328 => 3% | consult : 41 | temps chronométré : 17min sans pause
+Page 157 : 9 on 285 => 3% | consult : 32 | temps chronométré : 16min sans pause
+Page 158 : 13 on 300 => 4% | consult : 46 | temps chronométré : 17min sans pause
+Page 159 : 20 on 305 => 7% | consult : 47 | temps chronométré : 19min sans pause
+Page 160 : 19 on 291 => 7% | consult : 64 | temps chronométré : 26min sans pause
 
 -----
 
@@ -225,10 +227,7 @@ Pages lues aujourd'hui (xxxx) :
 
 copier pages lues ici
 
-Légende:
-'''- xx on xx : '''nombre de mots identifiés comme "nouveaux" (jamais rencontrés) sur le total des mots de la page
-'''- consult : '''nb de mots "nouveaux" + mots revérifiés (définition relue car incertitude)
-- Plus ces valeurs sont élevées, plus j’ai dû recourir au dictionnaire ; plus elles sont faibles, plus je lis de façon autonome.
+Légende : xx on xx = mots inconnus / total ; consult = mots inconnus + revérifiés — plus c’est élevé, plus j’ai consulté le dictionnaire.
 </spoil>
   
   
