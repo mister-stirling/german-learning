@@ -408,7 +408,7 @@ bisher : bis-hia : to date {adv}
 
 nie : ni : jamais/ never {adv} | 5102
 
-erlebt : eal-libt : vécu/expérimenté/experienced {adj} {past-p} | 509 [infintiif: erleben]
+erlebt : eal-libt : vécu/expérimenté/experienced {adj} {past-p} | 509 [infintiif: erleben] | erlebte
 
 So etwas habe ich bisher noch nie erlebt“ → : Une chose pareille, je n’ai encore jamais vécu cela. 
 
@@ -700,7 +700,7 @@ jdm. zustehen : tsou-sté-ine : avoir droit à/ être dû à qqun/to appertain t
 
 langsam : langzam : lentement/slow {adj} {adv} | 3388 | langsamer
 
-gerade [Zahl] : gé-ra-de : math. juste/even {adj} | 4034
+gerade [Zahl] : gé-ra-de : math. juste/even/justement {adj} | 4034
 
 gerade [aufrichtig] :  : honest {adj} [sincere, frank] | 349
 
@@ -1072,7 +1072,7 @@ ewig : iviçh : éternel
 
 Jugend {f} : you-gn^t : youth [period or condition; also fig.] | 1571
 
-entdeckt : en-teckt : découvert/discovered {adj} {past-p} | 554 | entdeckte
+entdeckt : en-teckt : découvert/discovered/repère {adj} {past-p} | 554 | entdeckte
 
 Heiler : guérisseurs, soigneurs
 
@@ -1540,7 +1540,7 @@ Richtung {f} : riçhtung  : direction [course, route] | 3014
 
 Haustür {f} : hauztua : frontdoor | 162
 
-denn : denn : donc/because/anyway {conj} | 1409
+denn : denn : car/donc/because/anyway {conj} | 1409
 
 wohin : vo-hin : where/où {adv} | 455
 
@@ -2463,13 +2463,13 @@ der {m} Hof : hoo-f : cour/jardin/préau
 
 etw.Akk. erwärmen : ea-vér-men : réchauffer/to warm up/to heat sth. | 189
 
-eingetroffen : aïl-ngeu-troffeun : arrived {adj} {past-p} | 229
+eingetroffen : aï-ngeu-troffeun : arrived {adj} {past-p} | 229
 
 Transport {m} : tr-anne-spor-t : transport | 1289
 
 bereit : beu-raïl-t : prêt [à aider par exemple]/ready {adj} | 2428
 
-merkwürdigerweise : merk-vurdi-ga-vaill-ze : strangely {adv}/oddly enough/curiously enough/funnily enough [strangely enough] | 161
+merkwürdigerweise : merk-vurdi-ga-vaill-ze : strangely {adv}/oddly enough/curiously enough/funnily enough [strangely enough] | 161 | merkwürdigen
 
 ertappen : ea-tapp^n : surpris/prendre en flagrant délit/to catch [e.g: myself]| ertappte
 
@@ -3370,7 +3370,7 @@ Erwachsene {pl} : er-va-ksen  : adults | 585 | Erwachsener | erwachsenen
 
 bewundernd : bév-oundern-t : admiring {adj} {pres-p} | 506 | bewundernden
 
-mächtig : méçhtiçh : intensivement/mighty/powerful/sacrément {adj} | 2342
+mächtig : méçhtiçh : intensivement/mighty/powerful/sacrément {adj} | 2342 | mächtige
 
 beunruhigen : bé-oun-rou-hig^n : agité/to agitate/trouble/bother | 1586 | beunruhigt
 
@@ -3558,7 +3558,7 @@ Lachen  {n} : laCH-en : laugh | 963 (NOUN)
 
 zeigen : tsaï-gèn : pointer du doigt/to point/exhibit/ to expose/to reveal | 3913 | zeigten
 
-Grimassen {pl} : grimass^n : grimaces | 18
+Grimassen {pl} : grimass^n : grimaces | 18 | die Grimasse
 
 jdn. nachäffen : naCH-éff^n  : imiter/singer/to ape/to mimic/to parrot sb. [imitate] | 183
 
@@ -3890,7 +3890,7 @@ davor : dafoa : devant/in front/before it {adv}
 
 Wand- : vant : wall {adj} [attr.] [e.g. calendar, clock] | 524
 
-Wand {f} [Zimmerwand, Hauswand] [auch anat.] : vant  : wall [of a room or building] [also anat.] | 3489
+Wand {f} [Zimmerwand, Hauswand] [auch anat.] : vant  : wall/parois [of a room or building] [also anat.] | 3489 | die Wände / Wänden (datif pl)
 
 Granitwände : granitvé-ndeu : mur de granit
 
@@ -4000,7 +4000,7 @@ weinenden : vay-nend^n : pleurant | weinend
 
 Pranke {f} : prankeu : paw | 250 | Pranken = pattes
 
-erschauern [geh.] : er-shau^an : trembler/to shiver | 180 | erschauerte
+erschauern [geh.] : er-shau^an : frissonner/trembler/to shiver | 180 | erschauerte
 
 beim : ba-im : on the/at/lors de/pendant/en train de (the) {prep}
 
@@ -4499,7 +4499,7 @@ Traum {m} : tra-om : dream | 1248
 
 Sekunde {f} <s, Sek.> [Sek. ist veraltet] : zé-kounde  : unit second <s, sec.> | 2168
 
-enden : end^n : se terminer/to end | 427 | geendet
+enden : end^n : se terminer/to end | 427 | geendet | endete
 
 vorübergehend : for-ub-a-gi-int : temporary {adj} | 2276 | vorübergehenden
 
@@ -4530,7 +4530,7 @@ kostbaren : kostbar^n : précieux/cher/somptueux (adjectif)
 
 Karotte {f} : karotteu : bot. gastr. T carrot [Daucus carota ssp. sativus] | 1326 | Karotten {pl}
 
-Kühle {f} :  : cool | 12
+Kühle {f} : kul : cool/chill (froid) | 12 | kühl
 
 Wasser {n} <H2O> :  : chem. water <H2O> [H2O] | 32767
 
@@ -4632,7 +4632,7 @@ nett : nett : gentil/kind/nice {adj} | 6190 | nette | netter |
 
 Geste {f} : gésteu : action/gesture | 1934
 
-fressen : fress^n : bouffer/dévorer/to eat [animal, verbe spécifique aux animaux, les hommes mangent avec 'essen', utiliser fressen = péjoratif pour les hommes] | 577 (verbe) | frisst
+fressen : fress^n : bouffer/dévorer/to eat [animal, verbe spécifique aux animaux, les hommes mangent avec 'essen', utiliser fressen = péjoratif pour les hommes] | 577 (verbe) | frisst | gefressen
 
 Fressen {n} [Futter] : fress^n : bouffe | 32 [animal, nom spécifique aux animaux, les hommes ont de la Essen (nourriture), utiliser Fressen = péjoratif pour les hommes. c'est pour insulter, être vulgaire, rabaisser quelqu'un]
 
@@ -4669,7 +4669,7 @@ Zieh = tire (impératif de ziehen, tirer)
 den Kopf = la tête (accusatif)
 ein (racine verbe einziehen) = dedans / vers l’intérieur
 
-aufpassen : aouf-pass^n : faire attention/to pay attention/veiller sur qqn/qqch. | pass auf (IDIOM) | aufpasst | aufzupassen
+aufpassen : aouf-pass^n : faire attention/to pay attention/veiller sur qqn/qqch. | pass auf (IDIOM) | aufpasst | aufzupassen | aufpasste
 
 Hinterkopf {m} : hint^a-kopf : anat. back of the head
 
@@ -4687,7 +4687,7 @@ verurteilt : fa-urtaylt : [law] condamné/sentenced {adj} {past-p} | 655 | verur
 
 {m} Schacht : shaçht :puits/cheminée/cage | Schächten
 
-etw. wimmelt : vimmelt : grouiller/fourmiller/sth. swarms/teems | 23 | verbe racine wimmeln
+etw. wimmelt : vimmelt : grouiller/fourmiller/sth. swarms/teems | 23 | verbe racine wimmeln | wimmelte
 
 unterirdisch : ount^a-ir-dish : souterrain/underground {adj} {adv} | 870 | unterirdischen
 
@@ -5064,7 +5064,7 @@ Zahl {f} [Ziffer] : tsa-l : digit [number, numeral] | 383
 
 Schadenspunktzahl : points de dégats/damage
 
-jd. kümmerte sich um jdn./etw. : koumma-te : préoccupait/importait/sb. minded sb./sth. [took care of, looked after] | verbe racine kümmern 
+jd. kümmerte sich um jdn./etw. : koumma-te : préoccupait/importait/sb. minded sb./sth. [took care of, looked after] | verbe racine kümmern (se soucier de)
 
 jd. meinte : mayn-teu : sb. opined [expressed as one's opinion]/ pour ma part [Ich meinte] | 42
 
@@ -5241,7 +5241,7 @@ Ascheflocken : mot inventé (Asche = cendre) + Flocken : flocons
 
 Flocke {f} : flok-eu : flocon/paillette
 
-Erde {f} [Erdreich, Bodenart] : èrdeu  : terre/earth/soil/planète (plus rare)| 2134 | Erden {pl}
+{f} Erde : èrdeu  : terre/earth/soil/planète (plus rare)| 2134 | Erden {pl}
 ^Erde est plus naturel
 ^ ne pas confondre avec Erdeboden qui fait référence à la couche de terre ferme, le terrain naturel, la surface du sol (sens scientifique ou poétique)
 
@@ -5369,7 +5369,7 @@ belehrend : beli-rent : moralisateur/instructive {adj} | 170
 
 nachgedacht : naCHgedaCHt : réfléchi/pensé/cogitated {past-p} | 21 | verbe racine nachdenken
 
-wachsen : vak-ss^n : faire pousser/faire grandir/to grow | 3495 [croissance] | gewachsen
+wachsen : vak-ss^n : faire pousser/faire grandir/to grow | 3495 [croissance] | gewachsen | wuchs
 
 ================================================================ 22JUN2025 (Page 46) (SOIR) ================================================================
 
@@ -5506,7 +5506,7 @@ zugesetzt [gestört] : tsou-geu-zetst : causer des troubles/faire du mal/importu
 
 freischalten : fréii-shalt^n : pour activer/ouvrir/to enable | 139
 
-Haken {m} [fig. für Krux] : hak^n  : crux/hook [trap] | 110
+Haken {m} [fig. für Krux] : hak^n  : crux/hook/crochet [trap] | 110
 ^ crux of the matter = der Haken an der Sache
 
 magisch : magish : magic {adj} | 352
@@ -5924,7 +5924,7 @@ unsanft :  : [de manière] brusque/rudely {adv}/rude | 20
 
 jd./etw. bellte :  : sb./sth. barked | 90
 
-Warnung {f} [Signalwort, z. B. verbindlich in techn. Dokumentationen] :  : warning [signal word, ANSI standard]/caveat | 569
+Warnung {f} [Signalwort, z. B. verbindlich in techn. Dokumentationen] : varnoung : warning [signal word, ANSI standard]/caveat | 569 | die Warnungen
 
 fleißig :  : hardworking/dilligent {adj} | 3577
 
@@ -6438,11 +6438,11 @@ endgültig : ent-gultiçh : final/ultimate/permanent {adj} | 1712
 
 jd. schlang hinunter : shlank : sb. gulped/gobbled
 
-in Windeseile [Redewendung] : vindès-ayleu : with lightning speed {adv}
+in Windeseile [Redewendung] : vindèz-ayleu : with lightning speed {adv}
 
 Löffelvoll {m} [alt] : loffel-foll : spoonful | 75
 
-jd. besaß : beuzass : sb. possessed/owned | 389
+jd. besaß : beuzass : sb. possessed/owned | 389 | besaßen
 
 sichAkk. zusammenrollen :  : to curl up
 
@@ -6474,7 +6474,7 @@ aufgehen [Sonne, Mond etc.; Teig, Kuchen etc.] : aouf-gi-en : to rise [sun, mo
 
 friedlich :  : peaceful/tranquil {adj} | 1595
 
-bleiben : blay-b^n : rester/to remain/to stay | 10260 | blieben | bleib
+bleiben : blay-b^n : rester/to remain/to stay | 10260 | blieben | bleib | bleibenden
 
 Pflaumen {pl} [Trockenpflaumen] : pflaum^n  : gastr. prunes [dried plums] | 22 (prunes)
 
@@ -6651,7 +6651,8 @@ anders : and-éas : différemment/different/else {adv} | 5483
 
 Meinetwegen. [ugs.] : maynèt-vig^n : Whatever. [coll.] | 843
 
-geschnitten : geshnitt^n : cut/chopped {adj} {past-p} | 358 | verbe racine schneiden (shnayd^n)
+geschnitten : geshnitt^n : cut/chopped {adj} {past-p} | 358 | verbe racine schneiden (shnayd^n) | schnitten
+
 
 Rinde {f} : rindeu : bot. bark/crust | 1563
 
@@ -6995,7 +6996,7 @@ Er pflegte ... [etw. zu machen / tun / erledigen / verrichten etc.] : pflègteu 
 
 etw.Akk. schmieden [auch fig.: z. B. ein Bündnis] : shmide^n : material to forge sth. [also fig.: e.g. an alliance] | 1851
 
-heiß [auch fig.] : heiss : hot {adj} [also fig.] | 32767
+heiß [auch fig.] : heiss : hot {adj} [also fig.] | 32767 | heißen = chaud
 
 ================================================================ 26JUN2025 (Page 74) (MATIN) ================================================================
 
@@ -7223,7 +7224,7 @@ Vorstellungen {pl} : for-shtelloung^n : beliefs/idées/suggestions | 421 | die V
 
 Sand {m} : zan-t  : sand/clay [sports] | 1700
 
-Löcher {pl} : leuçha : holes | 211 | das Loche {m}
+Löcher {pl} : leuçha : holes | 211 | das Loche {m} | Löchern
 
 [es] regnete : rignéteu : pleuvoir/[it] rained | 10 | regnen = pleuvoir | verbe racine regnen (pleuvoir/to rain)
 
@@ -7502,7 +7503,7 @@ Katze {f} : katsseu : zool. T cat/félin | 3208
 
 Spatz {m} : shpatz  : orn. T sparrow/moineau | 1726 | die Spatzen
 
-jd./etw. stürzte : shturtsteu : sb./sth. plummeted/toppled/barged | 347
+jd./etw. stürzte : shturtsteu : sb./sth. plummeted/toppled/barged | 347 | stürzten
 
 sorglos : zorgloss : insouciant/carefree/casual/careless {adj} | 1454
 
@@ -7840,7 +7841,7 @@ Teller {m} : tella : plate | 6721
 
 berappen [ugs.] : berapp^n : débourser/to cough up [coll.]
 
-Fledermäuse {pl} : flida-moyzeu : zool. bats/chauve-souris | 105 | die Fledermaus
+Fledermäuse {pl} : flida-moyzeu : zool. bats/chauve-souris | 105 | die Fledermaus | Megafledermäuse
 
 registrieren : régi-strir^n : to register/notice | 574 | registrierte
 
@@ -8188,7 +8189,7 @@ etw.Akk. erraten : errat^n : to guess sth. | 1262
 
 Schwindsucht {f} [veraltend] : shvintsouCHt : med. tuberculose
 
-ziemlich : tsimliçh : quite/fairly {adv} | 5548
+ziemlich : tsimliçh : assez/plutôt/tout à fait/quite/fairly {adv} | 5548
 
 einflussreich : ayn-flouss-rayçh : influential {adj} | 1606 | einflussreichen
 
@@ -8610,7 +8611,7 @@ Zustand {m} : tsou-shtand : condition [state] | 2864
 
 etw.Akk. schieben : shib^n : glisser/to shove sth./slide smth. | 2633
 
-Kratzer {m} : kratzer : scratch | 1363 | Kratzern
+Kratzer {m} : kratzer : scratch/griffure | 1363 | Kratzern
 
 gewährleisten : gevérlayst^n : to ensure/to safeguard/to guarantee | 3498
 
@@ -8985,7 +8986,7 @@ Benachrichtigung {f} : bénaCHriçhtigoung : notification/advice | 885
 
 Dämlack {m} : démlak : imbécile/sucker/jerk [coll.] | 46
 
-[derb] [sterben] abkratzen : apkrats^n : crever/to croak [coll.] [to die] | 1506 | verbe à particules = kratzt (=gratter/racler) + ab | stirbt
+[derb] [sterben] abkratzen : apkrats^n : crever/to croak [coll.] [to die] | 1506 | verbe à particules = kratzt (=gratter/racler) + ab | stirbt | stirbst
 
 in chronologischer Reihenfolge : chronologisha rayènfolgeu : in chronological order {adv}
 
@@ -9678,7 +9679,7 @@ Bordellbesitzerin {f} : bordel-bézitsserin : brothel owner [female]
 
 Besitzerin {f} : bezitsserin : owner [female] | 99 (le -in indique le fméinin), sinon Besitzer {m}
 
-anlaufen : anlaouf^n : engin. to start (running)/to warm up/to tarnish [metal] | anlief
+anlaufen : anlaouf^n : engin. to start (running)/to warm up/to tarnish [metal] | anlief | angelaufen
 
 Hühnerstall {m} : hunashtall : agr. henhouse/poulaillier | 75
 
@@ -9794,7 +9795,7 @@ Erleuchtung {f} : er-loyçh-toung : epiphany | 3644
 
 ================================================================ 09JUILLET2025 (Page 149) (SOIR) ================================================================
 
-violett : violèt : purple {adj} | 32767
+violett : violèt : purple {adj} | 32767 | violetten
 
 Stör {m} : shteua : fish T sturgeon/esturgeon (gros poisson d'eau douce, de plusieurs metres)| 238
 
@@ -10249,7 +10250,7 @@ jdm. etw.Akk. zumuten : tsou-mout^n : to ask sth. of sb./to demand smth. from sb
 
 ================================================================ 13JUILLET2025 (Page 166) (APREM) ================================================================
 
-Gänge {pl} : géngeu : passageways | 46 | der Gang
+Gänge {pl} : géngeu : passageways/galeries/couloirs | 46 | der Gang | Gängen
 
 verkehren : fa-kir^n : to socialize/to move/to keep company | 297 
 ^ ATTENTION, le ppassé verkehrt est aussi un adjectif figé
@@ -10366,15 +10367,125 @@ durchsuchen : doyçhsouCH^n : fouiller/to rummage/to browse | 589
 
 ================================================================ 13JUILLET2025 (Page 170) (APREM) ================================================================
 
+hierher : hiahia : here {adv} | 229
 
+Stoffbündel : : paquet en tissu
 
+etw.Akk. belegen : belig^n : to prove sth./to attend smth. [a lecture]/to occupy/to seize smth./TO COAT smth. [surface] | 1871 | belegten
 
+etw. zuschnüren : tsou-hnur^n : to cord sth./to lace up| 44 | zugeschnürt
 
+================================================================ 13JUILLET2025 (Page 171) (APREM) ================================================================
 
+Beginn {m} : beginn : début/commencement/advent [of an era etc.] | 1841
 
+jdm. Angst einjagen : einyag^n : to frighten sb./to intimidate sb.
 
+lauern : laua^n : to lurk/to lie in wait for| 2621
 
+Pflanzen {pl} : pflants^n : bot. plants | 688 | die Pflanze
 
+jdn. auszeichnen : aoustsay-çhn^n : to distinguish sb. | 609
+
+sich auszeichnen durch = se distingeur par
+
+äußerste : oysserzte : utmost/utter/extreme {adj} | 3350 (superlatif)
+
+Aggression {f} : aggressio-nn : aggression | 199
+
+etw. feststellen [herausfinden] : fesstshtell^n : to ascertain sth./to determine/to assess/to detect/to note | 4291 | festgestellt
+
+giftig : giftiçh : poisonous/toxic {adj} | 4812
+
+kurz davorstand : être sur le point de
+
+heimtückisch : heymtukish : insidious {adj} | 3511 | heimtückischen
+
+locken : lok^n : to entice/to lure/to attract/to decoy | 4080 | lockten
+
+Färbung {f} : férboung : tinge/hue/staining | 855
+
+Opfer {n} : opfa : sacrifice/victime/casualty | 4242
+
+Sporen {pl} : shpor^n : bot. mycol. T spores | 428 | die Sporn
+
+entsetzlich : entsétsliçh : terrible/horrible/appalling {adj} | 4506 | entsetzlichen
+
+etw.Akk. zersetzen : tsa-zetss^n : to corrode sth. | 147
+
+etw. aufsaugen : aouf-zaoug^n : to imbib smth./to absorb sth./to drink in smth. | 345 | aufgesaugt
+
+Schauspiel {n} : shaoushpil : drama/spectacle [event or scene regarded in terms of its visual impact] | 227
+
+etw. verdauen [auch fig.] : fadaou-èn : to digest sth. [also fig.] | 2577
+
+verbal : verbal : verbal {adj} | 41
+
+Spezies {f} : shpitsiess : biol. species | 183
+
+Gift {n} : g-ift : poison | 1812 (oui c'est pas cadeau...)
+
+strömen : shtreum^n : to pour/to stream| 612 | strömte
+
+entlangkriechen : entlang (alongside) + kriechen (crawl/ramper) = ramper le long de
+
+Höhlendecke {f} : heulendeckeu : cave ceiling
+
+wachsam : vaCHssam : vigilant/alert/wary {adj} | 2632
+
+Gehör {n} : géheua : anat. audio hearing/audition | 3102
+
+Wolfshund {m} : volfs-hount : zool. T wolfhound/chien de berger | 11
+
+Rudel {n} : roud-l : zool. pack/pride [of lions]/herd/swarm | 747
+
+super [ugs.] : zoupa : super {adj} | 1079
+
+================================================================ 15JUL2025 (Page 172) (APREM) ================================================================
+
+Mit Haut und Haaren : haout (peau) : lit. F Tooth and Nail [Arnon Grunberg] / veut dire "complètement, sans rien laisser/dévorer/engloutire" (IDIOM)
+
+Viper {f} : vipa : zool. T viper [family Viperidae] | 59
+
+Reißzahnblüten = Reißzahn = dent carnassière/dent acérée (prédateur/fauve) + Blüten = fleurs => fleurs à crocs
+
+Koldune, Hexpaods = créature spécifique au livre
+
+aufzählen : auft-sél^n : to enumerate/to list | 1063 | aufzuzählen
+
+Voraussage {f} : fora-ssaougeu : prediction | 459
+
+gemächlich : geméçhliçh : leisurely/easygoing {adj} {adv} | 1625
+
+jdn./etw. stören : shteur^n : to disturb sb./sth./troubler [interrupt] | 4125
+
+Gerüche {pl} : geruçheu : odours [Br.] | 133 | der Geruch
+
+Ausbildung {f} [Lehre] : aoussbildoung : educ. jobs apprenticeship/training/education [professions] | 5086
+
+verursachen : fa-ouar-zaCH^n : to cause/to raise | 6181 | verursachst
+
+etw.Akk. anzünden [z. B. Feuer, Streichholz, Kerze, Zigarette] :  : to light sth. [e.g a fire]/to ignite/to kindle| 1466 | anzündest
+
+sichDat. etw.Akk. zuziehen : tsou-tsi^n : med. to contract sth. [a disease, an infectious agent]/to sustain [an injury]/to bring sth. upon oneself | zuziehst
+
+Notwendigkeit {f} : notvendiçh-keyt : necessity | 4906
+
+dumpf : doumpf : dull/terne/étouffé (son ou lumière) {adj} [esp. pain, sound] | 2320 | dumpfen
+
+lichtgrün [hellgrün] : liçhtgrun : light green {adj}
+
+grün : grun : green {adj} | 32767
+
+ans Leben wollen = vouloir oter la vie (ans = an + das)
+
+frieren : frir^n : to freeze/to be cold | 1875
+
+Ladung {f} : ladoung : load/batch/charge/cargo | 1665
+
+mit geschlossenen Augen [z. B. Sie tat es mit geschlossenen Augen.] : geshloss^n^n : with one's eyes closed {adv} [e.g. She did it with her eyes closed.]
+
+================================================================ 15JUL2025 (Page 173) (APREM) ================================================================
 
 
 
