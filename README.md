@@ -1,7 +1,7 @@
 
 Ce dépôt contient mes notes personnelles et outils pour l'apprentissage de l'allemand.
 
-## 📊 Où trouver un résumé des statistiques de la progression ?.. 
+## 📊 Où trouver un résumé de ce qui a été fait depuis le début du projet ?
 
 👉Ici_progression_textuelle_stats | Dossier sources_pour_les_nerds.
 
