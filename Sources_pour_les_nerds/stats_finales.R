@@ -166,7 +166,7 @@ dev.off()
 # Histo pour temps total
 p <- ggplot(data, aes(x = page_number, y = time_minutes)) +
   geom_col(fill = "steelblue") +
-  scale_x_continuous(breaks = seq(10, 200, by = 5)) +
+  scale_x_continuous(breaks = seq(10, 200, by = 20)) +
   labs(x = "Numéro de page", y = "Durée (min)", 
        title = "Figure 5. Temps total d'étude effectif",
        caption = "*Livre: Außenseiter 1 - Fauxhumain1 (p9 - p200)") +
