@@ -266,7 +266,7 @@ verrückter : féru-kter : fou/madder/crazier/loonier {adj} | 40
 
 jd./etw. würde : veurde : sb./sth. would | 1583
 
-durch : doyçh ou doueCH: à traver/par/through/across/done {adv} {prep} | 7008
+durch : dou-içh ou doueCH: à traver/par/through/across/done {adv} {prep} | 7008
 
 Berge {pl} : bea-ge  : mountains | 223  | der Berg (the mountain) | Bergen
 
@@ -2534,7 +2534,7 @@ Kehle {f} : kiileu : anat. VetMed. throat | 1190
 
 [sie] brannten : brann^tn : [they] burned | 13
 
-dadurch : dadoyçh : ainsi/donc
+dadurch : dadou-içh : ainsi/donc
 
 Gefühle {pl} : ge-fühleu : emotions/sentiments | 458 | fühlen | Gefühlen
 
@@ -3296,7 +3296,7 @@ jd./etw. holte : hoolte : sb./sth. attrapé/ramenés/pried/fetched/retrieved | 1
 
 wild [brutal] : vild : savage/fierce/ferocious {adj} | 3544
 
-durcheinander [ugs.] : doy-çhaynander  : désordre/chaos/pagaille/in shambles/confused {adj} | 4161
+durcheinander [ugs.] : doui-çhaynander  : désordre/chaos/pagaille/in shambles/confused {adj} | 4161
 
 Dans la phrase „Wer will es als Erster versuchen?“, la particule „als“ est essentielle pour exprimer le rang ou l’ordre. c'est "en premier/le premier à"
 
@@ -4238,7 +4238,7 @@ beschädigt : beshé-diçht : abîmé/détérioré/damaged/marred {adj} {past-p}
 
 Entschädigung {f} : ent-shé-digoung : indemnité/compensation | 2772
 
-durchgedreht [ugs.] [insb. Menschen] : doch-gedrid : crazy/wacko/nuts {adj} [coll.] [pred.] [esp. people] | 10 | verbe racine durchdrehen
+durchgedreht [ugs.] [insb. Menschen] : douiçh-gedrid : crazy/wacko/nuts {adj} [coll.] [pred.] [esp. people] | 10 | verbe racine durchdrehen
 
 etw. beläuft sich auf : beloyft : sth. totals
 
@@ -5097,9 +5097,9 @@ warten : vart^n : to wait | 2162 | Wartest
 
 Experiment {n} : eks-péri-mènt : experiment | 433
 
-durchführen : doyçh-fur^n : exécuter/réaliser/mener à bien/to go through [in a vehicle] | (verbe)
+durchführen : douiçh-fur^n : exécuter/réaliser/mener à bien/to go through [in a vehicle] | (verbe)
 
-durchfahren : doyçh-far^n : traverser un lieu/qqch/ressentir une sensation (être traversé par un frisson)
+durchfahren : douiçh-far^n : traverser un lieu/qqch/ressentir une sensation (être traversé par un frisson)
 
 
 sobald : zobalt : aussitôt que/as soon as/just as/once/when/une fois [que] {conj} [as soon as] | 1913
@@ -5781,7 +5781,7 @@ wert : ve-at : valoir/worth {adj} | 5921
 
 Dorf {n} : dor-f : village | 2845
 
-durchnässt : douyçhnésst : trempé/mouillé/drenched/soaked {adj} {past-p} | 632
+durchnässt : douiçhnésst : trempé/mouillé/drenched/soaked {adj} {past-p} | 632
 
 Hauptstraße {f} :  : main road/high gate
 
@@ -6559,7 +6559,7 @@ streunender Hund {m} :  : stray dog
 
 ================================================================ 25JUN2025 (Page 64) (MATIN) ================================================================
 
-feucht : foyçht : damp/moist/humid/wet/soggy {adj} | 3850 | feuchte
+feucht : fouiçht : damp/moist/humid/wet/soggy {adj} | 3850 | feuchte
 
 Sorglosigkeit {f} : zoklo-ziçh-kayt : insouciance/recklessness/carelessness [literary] | 726
 
@@ -6598,7 +6598,7 @@ jd. bildete ab : bildéteu : sb. depicted/imaginer
 
 jdn./etw. bilden [formen, gestalten] :  : créer/constituer/to form/to pattern/to build sb./sth./se former | 1484 | verbe racine bilden | bildeten | bildete
 
-Durchgang {m} : doyçhgang : passage [way through, through access]/gateway | 566
+Durchgang {m} : douiçhgang : passage [way through, through access]/gateway | 566
 
 verlaufen [vonstattengehen, ablaufen] : fer-laoufen : to proceed [progress, go forward]/se dérouler| 989 | verlaufende
 
@@ -7137,7 +7137,7 @@ mit bloßen Fäusten :  : barefisted {adj} {adv}
 
 Ballen {m} [Hand, Fuß, Zehen] : ball^n : anat. ball [of hand, foot, toes]/ to bolt [roll of cloth, paper] | 64 | geballt |
 
-hindurch : hin-doyçh : through {adv}/throughout {adv} {prep} | 349
+hindurch : hin-douiçh : through {adv}/throughout {adv} {prep} | 349
 ^ pk durch + hindurch => sourire malgré/ à travers les larmes (insistance stylistique, la difficulté du geste)
 
 schlecht : shléçhteu : bad {adj} | 32767 | schlechtes
@@ -7336,7 +7336,7 @@ jdn./etw. übersehen : uba-zi^n : to overlook sb./sth. [to fail to see] | 1878
 
 gründlich : gruntliçh : minutieux/rigoureux/thorough {adj} | 6105
 
-durchdacht : doyçhdaCHt : elaborate {adj} [well conceived]/sophisticated/thougt-out | 5068 | verbe racine durchdenken
+durchdacht : douiçhdaCHt : elaborate {adj} [well conceived]/sophisticated/thougt-out | 5068 | verbe racine durchdenken
 
 nebenbei : niben-bay : besides/en outre {adv} | 621
 
@@ -7639,7 +7639,7 @@ gelassen [ruhig] : gelass^n : laisser | 3832 | verbe racine lassen
 
 anmerken : anmer^k n : to remark | 2202 [au sens de percevoir qqch]
 
-etw. durchschauen : doysh-shaou^n : deviner intentions/voir clair/to figure sth. out/to comprehend/to suss/to comprehend smth. | durchschaute
+etw. durchschauen : douiçh-shaou^n : deviner intentions/voir clair/to figure sth. out/to comprehend/to suss/to comprehend smth. | durchschaute
 
 Oberboss {m} [ugs.] : oba-boss : supremo/big boss [coll.] [Br.] | 66
 
@@ -8144,7 +8144,7 @@ Quote {f} :  : part/quota/rate/share | 79
 
 ausgemacht : aousgemaCHt : arranged/agreed {adj} {past-p} | 418
 
-durchgehen : doyrçhgi-in : passer/to pass | 506
+durchgehen : douiçhgi-in : passer/to pass | 506
 
 (etw.) anlegen : anlig^n : fin. to invest (sth.)/mettre/s'amarrer | 965 | angelegt
 
@@ -8724,7 +8724,7 @@ etw.Akk. mitbekommen [bei etw. Zeuge sein] : mitbekomm^n : to witness sth. [see
 
 nirgendwohin : neurgent-vohin : nowhere {adv} [direction] | 97
 
-durchlassen : doyçhlass^n : to allow [through] /to let pass/to let through| 403
+durchlassen : douiçhlass^n : to allow [through] /to let pass/to let through| 403
 
 nachts : naCHts : at night {adv}
 
@@ -9069,7 +9069,7 @@ leiden : layd^n : to suffer/tolerate/supporter/aimer qqn. | 9322 | litt = souffr
 
 nämlich : némliçh : namely/en effet/justement {adv} | 1750
 
-undurchschaubar : oun-doyçh-shaouba : inscrutable/impénétrable {adj} | 818 | undurchschaubarste 
+undurchschaubar : oun-douiçh-shaouba : inscrutable/impénétrable {adj} | 818 | undurchschaubarste 
 
 Vergangenheit {f} : fer-gang^nhayt : past | 3240
 
@@ -10267,7 +10267,7 @@ losziehen : loss-tsi-^n : to head out [Am.]
 
 synchron : zynchr-on : synchronous {adj} | 71
 
-etw.Akk. durchmachen : doyçhMACH^n : to undergo sth./to go through/to experience | 2200 | durchgemacht
+etw.Akk. durchmachen : douiçhMACH^n : to undergo sth./to go through/to experience | 2200 | durchgemacht
 
 zurechtkommen : tsou-rèçht-komm^n : to manage/faire avec/to get along/ [si "mit" avant ; to cope with smth.] | 696
 
@@ -10367,7 +10367,7 @@ jdm. etw. abknöpfen :  ap-kneupf^n : soutirer/extorqué/to screw sb. for sth. [
 
 Wucherer {m} : vouCHerer : usurier/extortioner [usurer]/extortioner [usurer] | 6
 
-durchsuchen : doyçhsouCH^n : fouiller/to rummage/to browse | 589
+durchsuchen : douiçhsouCH^n : fouiller/to rummage/to browse | 589
 
 ================================================================ 13JUILLET2025 (Page 170) (APREM) ================================================================
 
@@ -10579,7 +10579,7 @@ Feigenblatt {n} [auch fig.] : fayg^nblatt : bot. fig leaf [also fig.]/front [�
 
 Konkurrenz {f} : konkourrents : competition | 5440
 
-Durchfall {m} : dourçhfall : med. diarrhea [Am.] | 1330
+Durchfall {m} : douiçhfall : med. diarrhea [Am.] | 1330
 
 Unfall {m} : ounfall : accident/mishap | 5031
 
@@ -10761,7 +10761,7 @@ Taille {f} : tailyeu : anat. waist/la taille [anatomie] [ | 5907
 
 hereinziehen : hera-in-sti^n : to draw in | hereingezogen
 
-durchkommen : doyçhkomm^n : to come through/to get a pass | si précédé de "mit" = mit durchkommen => to get away with smth. | durchgekommen
+durchkommen : douiçhkomm^n : to come through/to get a pass | si précédé de "mit" = mit durchkommen => to get away with smth. | durchgekommen
 
 Verdacht {m} : fadaCHt : suspicion | 3692 | die Verdächte
 
@@ -10859,7 +10859,7 @@ Feigling {m} : faygling : coward | 2634 | Feiglinge
 
 ================================================================ 17JUL2025 (Page 183) (MATIN) ================================================================
 
-durchaus : doyçhaous : quite/thoroughly {adv} [completely, perfectly] | 1952
+durchaus : douiçhaous : quite/thoroughly {adv} [completely, perfectly] | 1952
 
 jdn./etw. angreifen [attackieren] : angrayf^n : to attack sb./sth. | 1519
 
@@ -10954,7 +10954,7 @@ außen : aouss^n : externally {adv} [on the outside] | 47 | äußeren
 
 Anschein {m} : antsheyn : semblance | 1584
 
-durchwühlen : doyçhvul^n : to ransack/to rummage/to burrow through | 734
+durchwühlen : douiçhvul^n : to ransack/to rummage/to burrow through | 734
 
 ================================================================ 17JUL2025 (Page 186) (SOIR) ================================================================
 
@@ -11092,7 +11092,7 @@ Weibchen {n} : vaypsh-n : zool. female (animal)| 78
 
 jdn./etw. herausfordern : heraoussfordern : to challenge sb./sth./to defy| 3244 | herausgefordert
 
-durchdringend : doyçhdringent : piercing/pervasive {adj} | 711 | durchdringender
+durchdringend : douiçhdringent : piercing/pervasive {adj} | 711 | durchdringender
 
 Schmerzensschrei {m} : shmertssensshray : cry of pain/scream of pain
 
@@ -11136,7 +11136,7 @@ verzweifelt : fa-tsvayfelt : desperate {adj} | 6608
 
 flimmern : flimmern  : to flicker/scintiller | 1394 | flimmerte
 
-durchgehend : dorshgi-ent : continuous/sans interruption {adj} | 2309
+durchgehend : douiçhgi-ent : continuous/sans interruption {adj} | 2309
 
 Ohnmacht {f} : ounmaCHt : med. faint/fainting/blackout/impuissance | 1610
 
@@ -11166,7 +11166,7 @@ tasten : tast-n : to grope/to fumble | 1318
 
 flehen [geh.] : flé-en : to crave/to beg/to plead [implore] | 195
 
-Ehrfurcht {f} : eafoyçht : awe/reverence | 3865
+Ehrfurcht {f} : eafouiçht : awe/reverence | 3865
 
 unschätzbar : ounshatss-ba : invaluable {adj}/inestimable | 4386 | unschätzbarem
 
@@ -11294,7 +11294,7 @@ nebulös : nébuleuss : nebulous/hazy {adj} [fig.] | 87
 
 Schrei {m} : shrey : shout/yell | 1130
 
-etw.Akk. durchbrechen : doyçhbreçh^n : to breach sth./to burst/to break through| 523
+etw.Akk. durchbrechen : douiçhbreçh^n : to breach sth./to burst/to break through| 523
 
 muhen : moo-n : to moo | 66 | muhendes
 
