@@ -24,7 +24,8 @@ Stats :
 	- Chapitre 54 : Ajout de la mention "consult".
 	Consult est l'indicateur direct de ma compréhension écrite. 
 	- En dessous de 180 mots, la page n'est pas comptabilisée dans les stats (page trop peu fournie)
- 
+ 	- Jalon page 200 : Arrêt des statistiques "à la page", au profit de mesures de progression ponctuelles et moins chronophages.
+	
 Légende:
 	- xx on xx : nombre de mots identifiés comme "nouveaux" (jamais rencontrés) sur le total des mots de la page
 	- consult : nb de mots "nouveaux" + mots revérifiés (définition relue car incertitude)
@@ -268,7 +269,13 @@ Page 198 : 17 on 222 => 7% | consult : 38 | temps chronométré : 14min sans pas
 Page 199 : 13 on 197 => 7% | consult : 25 | temps chronométré : 9min sans pause 
 Page 200 : 16 on 249 => 7% | consult : 38 | temps chronométré : 14min sans pause
 
+Arrêt total des statistiques "à la page" à partir de ce jalon (page 200).
+Les mesures de progression seront réalisées sur des pages au hasard. La raison ? Les stats ne sont plus motivantes pour moi et prennent du temps. 
 
+Page 201-203 (inclus) : temps chronométré : 57min sans pause
+Page 204-206 :
+ 
+=================================
 
 
 
