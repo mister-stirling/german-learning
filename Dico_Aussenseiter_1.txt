@@ -1182,7 +1182,7 @@ jd. wird : vi^at : sb. will | 669
 
 Haupteigenschaften {pl} : hop-teigen-schaften : caractéristiques principales /fundamental characteristics
 
-verschaffen : fa-shaffen : apporte/to provide | 1250 | verschaffte
+verschaffen : fa-shaffen : apporte/to provide | 1250 | verschaffte | verschafften
 
 ================================================================ 08JUN2025 (Page 13) (MATIN) ================================================================
 
@@ -1332,7 +1332,7 @@ weiße : vay-sse : blanc
 
 die = qui (pronom relatif)
 
-sorgfältig : zorg-féltiçh : soigneusement/meticulous {adj} | 3998
+sorgfältig : zorg-féltiçh : soigneusement/meticulous/avec attention {adj} | 3998
 etw.Akk. festhalten [Daten] : fest-halten : consigner/enregistrer/to record sth. | 170
 
 festhalten : fest-halten : consigner/noter/enregistrer par écrit/adhérer/to adhere | 3644
@@ -1960,7 +1960,7 @@ lauter : louder : louder {adj} | 153 | lautesten (loudest)
 
 Ruf {m} : rouf : shout | 294
 
-oben : obeun : upstairs/above {adj} {adv} | 1367
+oben : obeun : upstairs/above {adj} {adv} | 1367 | oberen
 
 Schimpftirade {f} : shimpf-tiradeu : tirade [d'injures]/rant | 1253
 
@@ -2141,7 +2141,7 @@ kürzlich : kurtz-liçh : lately/dernièrement/récemment {adv} | 794
 
 krank : kr-anne-k  : med. malade/sick/ill {adj} [also fig.] | 2059
 
-immerhin : imm^a^hin : toujours/néanmoins/TOUT DE MÊME/anyway/after all {adv} | 1559
+immerhin : imm^a^hin : après tout/toujours/néanmoins/TOUT DE MÊME/anyway/after all {adv} | 1559
 
 Tagen : jour
 
@@ -2894,7 +2894,7 @@ beigebracht : bay-geu-braCHt : enseigner/taught/m'a appris | beibringen | bräch
 wenn : venn : if/whenever/when {conj} | 3185
 on l'utilise au conditionnel ou pour le temporel, à NE PAS CONFONDRE avec wann
 
-wann : utilisé UNIQUEMENT quand on veut poser une QUESTION de temps et questions indirectes, c'est TOUT : "quand est-ce que tu viens? wann kommst du?")
+wann : utilisé UNIQUEMENT quand on veut poser une QUESTION temporelle et questions indirectes, c'est TOUT : "quand est-ce que tu viens? wann kommst du?")
 
 bald : balt : bientôt/soon {adv} | 8190
 
@@ -3015,7 +3015,8 @@ Spitzhacke {f} : shpitz-hackeu : tools pickaxe [Br.] | 175
 
 {m} Bergbau : industrie minière/extraction minière (NOUN) | Bergbaus
 
-umgehen : oum-gi-en : manier/manipuler/savoir uiliser qqch :(verbe à part entière, pas séparable)
+umgehen : oum-gi-en : manier/manipuler/savoir uiliser qqch :(verbe à part entière, pas séparable) 
+^ ne pas confondre avec umgehend qui est un adverbe pour dire immédiatement
 
 umgeht: oum-git : sb./smth contourner/goes round sb./sth.
 
@@ -3646,7 +3647,7 @@ rund : adjectif aussi
 
 jd. blinzelte : blintsel-te : sb. blinked | 606
 
-einige : aïl-nigeu : plusieurs/some/several {adj} {pron} | 2948 | plusieurs | einigen VERBE (= se mettre d'accord) | geeinigt
+einige : aïl-nigeu : plusieurs/some/several {adj} {pron} | 2948 | plusieurs |
 
 Male {pl} : mal-eu : times [occasions] | 128
 
@@ -5373,8 +5374,8 @@ wachsen : vak-ss^n : faire pousser/faire grandir/to grow | 3495 [croissance] | g
 
 ================================================================ 22JUN2025 (Page 46) (SOIR) ================================================================
 
-verschieden : fér-shid^n : various {adj} | 4214 | verschiedensten | verschiedenes
-^ distincts, séparés, plusieurs entités non idetniques (contrairemnt à unterschiedlich)
+verschieden : fér-shid^n : various {adj} | 4214 | verschiedensten | verschiedenes | verschiedenen
+^ distincts, séparés, plusieurs entités non idetniques (contrairemnt à unterschiedlich) 
 
 verschiedene Arten {pl} : fa-shi-d^n art^n : various types
 
@@ -5871,7 +5872,7 @@ sich durcharbeiten ici au sens figuré → se répandre méthodiquement ou impla
 
 keiner : kayn^a : aucun/none/nobody {pron} | 124
 
-örtliche : local
+örtlich : local/vernaculaire | örtliche | örtlichen
 
 Verbreitung {f} :  : dissemination/propagation/spread | 1970
 
@@ -6207,7 +6208,7 @@ Abschied {m} : apshiet : farewell/leave/goodbye | 2346
 
 jd./etw. schützte :  : sb./sth. protected/shielded | 13 (VERBE)
 
-fernhalten :  fernhalt^n : to keep away/to keep out/to hold off | fernzuhalten
+fernhalten :  fernhalt^n : tenir à l'écart/to keep away/to keep out/to hold off | fernzuhalten
 
 angeblich : angi-bliçh : supposément/allegedly {adv} | 5809
 
@@ -7565,7 +7566,7 @@ Offenheit {f} : off^nhayt : ouverture/sincérité/franchise/openness/candor [Am.
 
 Täuschung {f} [Betrug] : toy-shoung : tromperie/escroquerie/deception/deceit/cheat | 2612
 
-am heutigen Tag : hoy-tigeun : at the present day {adv}
+am heutigen Tag : hoy-tigeun :verdient at the present day {adv}
 
 Puzzleteile {pl} : pouzzle-tayleu : games puzzle pieces
 
@@ -8118,8 +8119,8 @@ zusammengefasst : tsou-zamm^ngeffast : resumed/summarized/pooled/condensed {adj}
 
 etw. zusammenfassen :  : to summarize sth. | 2482
 
-Einsturz {m} : ayn-shturts : collapse/écroulement/effondrement | 151
-
+Einsturz {m} : ayn-shturts : collapse/écroulement/effondrement | 151 | Einsturzes
+ 
 etw.Akk. zum Einsturz bringen :  : to collapse sth. [cause sth. to fall down or give way]
 
 Obhut {f} [geh.] : op-hout : custody | 863
@@ -8826,7 +8827,7 @@ arg : ak : bad {adj} | 175
 
 wehtun : vitoun : to hurt | 4667
 
-anrühren : anruur^n : to touch | 319 | angerührt
+anrühren : anruur^n : to touch/toucher/manipuler | 319 | angerührt
 
 etw. schütten : shutt^n : verser qqch/to pour sth. | 1122
 ^ gießen implique une façon de verser avec soin, avec contrôle
@@ -8853,7 +8854,7 @@ tätscheln : tétsheln : to pat | 966
 
 ================================================================ 04JUILLET2025 (Page 118) (SOIR) ================================================================
 
-gähnen : gén^n : to yawn | 4201 | gähnte
+gähnen : gén^n : to yawn | 4201 | gähnte | GÄHNEND
 
 ehemalig [attr.] <ehem.> : ieu-mal-içh : former/ancien {adj} [attr.] <fmr> | 2734 | ehemaligen
 
@@ -9299,7 +9300,7 @@ perlweiß : perlvayz : pearly white/blanc nacré {adj}
 
 freigeben : fraygib^n : to release/libérer/dévoiler| 4607 |  freigaben ppassé
 
-rein : rayn : pure/sheer {adj} | 1950
+rein : rayn : pure/sheer {adj} | 1950 | Reine
 
 zerreißen : tsérreyss^n : to tear/to shred/to rend | 3650
 
@@ -10304,7 +10305,7 @@ unglaublich : oun-glaoub-liçh : incredible {adj} | 4729
 
 {m} Geruchssinn : gerouçhssin : sense of smell/scent [archaic] [sense of smell] | 138
 
-Proviant {m} : provian^t : provisions {pl} [supplies of food and drink for a journey] | 335
+Proviant {m} : provian^t : provisions {pl} [supplies of food and drink for a journey] | 335  | der Proviant | Proviants
 
 dran [ugs.] [daran] :  : thereon {adv} | 89
 ^ Denk dran : pense-y (à cela) (dran = contraction de daran = à cela)
@@ -10367,7 +10368,7 @@ jdm. etw. abknöpfen :  ap-kneupf^n : soutirer/extorqué/to screw sb. for sth. [
 
 Wucherer {m} : vouCHerer : usurier/extortioner [usurer]/extortioner [usurer] | 6
 
-durchsuchen : douiçhsouCH^n : fouiller/to rummage/to browse | 589
+durchsuchen : douiçhsouCH^n : fouiller/to rummage/to browse | 589 | durchsucht
 
 ================================================================ 13JUILLET2025 (Page 170) (APREM) ================================================================
 
@@ -10545,7 +10546,7 @@ Zeichensprache {f} : tsayçhèn-spraCHeu : sign language
 
 an einem sicheren Ort : ziçhèr^n : in a safe place {adv}
 
-Ehre {f} : ireu : honor [Am.] | 1602
+Ehre {f} : ireu : honor [Am.] | 1602 | adjectif honorable = ehrenhaften
 
 jdm./etw. zuteil werden [geh.] [alt] : tsoutayl-viad^n : to be bestowed on sb./sth.
 
@@ -10769,7 +10770,7 @@ jdm. etw. aufdrängen : aoufdréng^n : to press sth. on sb./to push sth. on sb.
 
 jdn. verschaukeln [ugs.] : fashaoukeln : to take sb. for a ride [coll.] [to deceive]
 
-entschlossen : entshloss^n : determined/intent/resolute {adj} | 6937
+entschlossen : entshloss^n : déterminé/determined/intent/resolute {adj} | 6937
 
 etw.Akk. erkunden : erkount^n : to explore sth./to scout/to investigate | 1865 | erkundet
 
@@ -10873,7 +10874,7 @@ Gefährte {m} : geférteu : companion | 717 | Gefährten
 
 so weit : zo vayt : thus far {adv}
 
-Schimmel  {m} : shimm-l : mold | 3621
+Schimmel  {m} : shimm-l : mold/moisissure | 3621
 
 womöglich : vomeugliçh : possibly/maybe {adv} | 463
 
@@ -11428,8 +11429,90 @@ vernichtend : fanisht^nt : destructive {adj} | 486
 
 Rammbock {m} : rammbok : hist. mil. battering ram
 
-================================================================ 19JUL2025 (Page 201) (MATIN) ================================================================
+================================================================ 
+19JUL2025 (Page 201) (SOIR) ================================================================
 
+Wucht {f} : vouCHt : force | 482
 
+rammen : ramm^n : to ram/run into | 606
 
+zurückfliegen :  : to fly back/refoulement
 
+Abklingzeit {f} : apklingtseyt : games cooldown <CD> | 6
+
+Reichweite {f}  : reyçhvayteu : range  | 1426
+
+etw. ausrichten [einstellen, regulieren] : aoussriçht^n : to adjust sth./to accomplish/| 771
+^ dépend du contexe mais peut dire être efficace/avoir de l'effet/pouvoir faire qqch
+
+zurückwerfen :  : to throw back | zurückzuwerfen
+
+weglaufen :  : to elope | 934
+ 
+Weglaufen {n} :  : elopement | 11
+
+reell : ré-él : math. real {adj} | 97
+
+================================================================ 19JUL2025 (Page 202) (SOIR) ================================================================
+
+wie im Fluge [Redewendung] [Zeit: vergehen] : flougeu : in a flash {adv} [idiom] [happening quickly]
+
+etw.Akk. untertreiben : ountatreyb^n : to downplay sth./to understate smth.| 1084
+
+etw. bewirken :  : to cause sth./to effect smth./to achieve smth. | 2199 bewirkte
+
+Überblick {m} : uba-blik : overview/review/summary | 1016
+
+sichDat. einen Überblick (über etw.Akk.) verschaffen :  : to get an overview (of sth.) (IDIOM)
+
+Ritter {m} : ritta : knight | 879 | adjectif = ritterlichen (chevaleresque)
+
+Möhre {f} : meureu : bot. gastr. T carrot | 559 | die Möhren
+
+Gemüse  {n} [eine Sorte] : gémuseu  : agr. gastr. vegetable | 4470 | 
+
+Trockenfleisch {n} :  : gastr. beef jerky [Am.]
+
+Nuss {f} :  : bot. gastr. nut | 999| die Nüsse
+
+Geschmack {m} : geushmak : taste | 2694
+
+schon eher :  : more like (it) [coll.]
+
+================================================================ 19JUL2025 (Page 203) (SOIR) ================================================================
+
+herausschaffen :  réussir à sortir/to bring out (heraus = mouvement vers l'extérieur + schaffen (réussir/parvenir à) | herausschaffte = réussir à sortir
+
+Rechnung {f} [schriftliche Kostenforderung] : réçhnoung : fin. gastr. bill [statement of charges] | 32767
+
+etw.Akk. präsentieren : préséntir^n : to present/to showcase sth. | 1009
+
+umgehend : oumgi-int : immediate {adj} | 699
+
+finanziell : fi-nan-tsiell  : monetary/financiaire {adj} | 930 |finanzielle
+
+etw. wägen [schweiz.] [sonst fachspr.] [wiegen] :  : to weigh sth. | 87 | wog
+
+anmieten : anmit^n : to hire | 306
+
+sichAkk. einigen :  : to come to terms/to come to a settlement | einigen VERBE (= se mettre d'accord) | geeinigt
+
+einteilen [z. B. Essen] : entayl^n : to ration [e.g. food] | 1026
+
+aufstocken : aoufshtok^n : to raise/to bulk up/to replenish| 250
+
+Ansturm {m} [Anstürmen] : anshtourm : onslaught/storm | 624
+
+anlocken : anlok^n : to draw [attract]/to decoy | 1021
+
+Erschütterung {f} : ershutteroung : vibration/secousse/commotion/concussion/tremor | 1361 | die Erschütterungen {pl}
+
+sich hervorwagen (aus) :  : to dare to come out (of) | wagen = oser
+
+Du liebe Güte ... : dou liebeu guteu : Oh dearie me ...
+
+Schleim {m} : shleym : mucus/slime | 893
+
+sichtbar : ziçhtba : visible {adj} | 1538
+
+================================================================ 20JUL2025 (Page 204) () ================================================================
