@@ -5,8 +5,6 @@ Ce dépôt contient mes notes personnelles et outils pour l'apprentissage de l'a
 
 👉Ici_progression_textuelle_stats | Dossier sources_pour_les_nerds.
 
-<img width="831" height="596" alt="image" src="https://github.com/user-attachments/assets/06dea9b2-8e0d-4f45-8618-7b267c3550c8" />
-
 ## 📦 Contenu
 
 - Un add-on (script Tampermonkey) pour faciliter l'utilisation de dict.cc.
