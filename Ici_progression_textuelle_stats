@@ -21,7 +21,7 @@ Stats :
 	Précisions : 
 	- Chapitre 1 : Temps de lecture estimé, pas chronométré. 
 	Le calcul est une soustraction entre l'heure à laquelle j'ai cherché le dernier mot - l'heure à laquelle j'ai cherché le premier mot de la page, en enlevant les 'pauses' (période sans recherche de mot) du calcul.
-	- Chapitre 54 : Ajout de la mention "consult" (indicateur direct de ma compréhension écrite). 
+	- Page 54 : Ajout de la mention "consult" (indicateur direct de ma compréhension écrite). 
 	- En dessous de 180 mots, la page n'est pas comptabilisée dans les stats (page trop peu fournie)
  	- Jalon page 200 : Arrêt des statistiques "à la page", au profit de mesures de progression ponctuelles et moins chronophages.
 	
@@ -271,9 +271,16 @@ Page 200 : 16 on 249 => 7% | consult : 38 | temps chronométré : 14min sans pau
 Arrêt total des statistiques "à la page" à partir de ce jalon (page 200).
 Les mesures de progression seront réalisées sur des pages au hasard/sur la moyenne des pages. La raison ? Les stats ne sont plus motivantes pour moi et prennent du temps. 
 
- Lecture ''Aussenseiter 1'' Page 201-203 (inclus) : temps chronométré : 57min sans pause
+(Temps "sans pause") :
+
+ Lecture ''Aussenseiter 1'' Page 201-203 (inclus) : temps chronométré : 57min
  Lecture ''Aussenseiter 1'' Page 204 : temps chronométré : unk
  Lecture ''Aussenseiter 1'' pages 205-207 (inclus) : temps chronométré : 1h06
+ Lecture ''Aussenseiter 1'' pages 208-209 (inclus) : temps chronométré : 40min
+ Lecture ''Aussenseiter 1'' pages 210-213 (inclus) : temps chronométré : 45min
+ Lecture ''Aussenseiter 1'' pages 214-215 (inclus) : temps chronométré : 39min
+  
+  
 
 =================================
 
