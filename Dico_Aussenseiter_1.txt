@@ -1697,7 +1697,6 @@ etw.Akk. einsammeln : ayn-zammeln : rassembler/collecter/gather/to collect sth. 
 
 C’est un verbe à particule séparable. Ich sammle ein = je ramasse / collecte.
     
-
 Körper {m} : keurp^a : body [also wine] | 1243
 
 bebte (infinitif Beben) : bi-bent : tremblait. inf séisme/tremblement/secousse/frémissement (verbe & neutral noun) | bebten | bebenden | bebte
@@ -1893,7 +1892,7 @@ Bitterkeit {f} : bit^akeit : amertume/rancoeur/aigreur/bitterness | 106
 
 schließlich : shliss-liçh : après tout/finalement//in the end/éventuellement/eventually/finally {adv} | 8050
 
-kapieren [ugs.] : kapier^n : to understand | 439 | kapiert
+kapieren [ugs.] : kapier^n : to understand | 439 | kapiert | kapierte
 
 wovon : vofon : de quoi/à propos de quoi/from which/from what {adv}
 
@@ -2491,7 +2490,7 @@ Meine Welt ist zusammengebrochen. :  : My world just caved in. (IDIOM)/ mon mond
 
 großartig : grouss-artiçh : merveilleusement/parfaitement/superbement/great/splendid {adj} | 3109
 
-dürfen : duu-rf^n : are allowed to/ to be authorized to/to dare | durfte | darfst 
+dürfen : duu-rf^n : are allowed to/ to be authorized to/to dare/avoir le droit de | durfte | darfst 
 
 ^[faire gaffe ici, en allemand dürfen peut aussi être utilisé pour exprimer une obligation négative, un interdit car tu n'as PAS la permission. e.g : tu ne dois jamais oublier => Das darfst du niemals vergessen]
 
@@ -2801,7 +2800,7 @@ gewichtige Gründe {pl} : géviçhtigeu : weighty reasons
 
 Gründe {pl} : grundeu : reasons/plupart | 570
 
-dafür : dafu^a : pour cette raison/for it/that reason {adv}
+dafür : dafu^a : pour cette raison/for it/that reason/pour cela/en échange {adv}
 
 zunächst : tsou-néçhst : d'abord/initially {adv} | 3906
 
@@ -3113,7 +3112,7 @@ Lernfortschritt {m} : leurn-fort-shritt : educ. learning progress
 
 etw.Akk. beeinträchtigen : be-ayn-tréçhtigèn : to compromise sth. [impair] | 2353
 
-jdn./etw. jagen : ya-g^n  : to chase sb./sth. | 2923 | jagte
+jdn./etw. jagen : ya-g^n  : to chase sb./sth. | 2923 | jagte | jagten
 
 [sie] gingen : ging^n : [they] went | 822
 
@@ -3125,7 +3124,7 @@ bloße : bloss-eu: seulement/uniquement | bloß
 
 schwächen : shvéçhen : to weaken/to undermine | 728
 
-etw. anrichten [Schaden, Unheil etc.] : anriçhtèn : to cause sth. [damage, harm, etc.] | 579
+etw. anrichten [Schaden, Unheil etc.] : anriçhtèn : to cause sth. [damage, harm, etc.] | 579 | anrichtete
  
  letztendlich : lètzt-entliçh  : eventually {adv} | 3237 | éventuellement | après tout | à la fin |
  
@@ -3947,7 +3946,7 @@ Energie {f} : éner-gui (comme le gui, la plante) : energy | 1828
 
 Macht {f} [Stärke] : maCHt : might/power | 2111 | die Mächte
 
-ungeschickt : ounge-shikt  : maladroit/awkward/clumsy {adj} | 6215 | ungeschickter
+ungeschickt : ounge-shikt  : maladroit/awkward/clumsy {adj} | 6215 | ungeschickter | ungeschickten
 
 ================================================================ 18JUN2025 (Page 32) (SOIR) ================================================================
 
@@ -5176,7 +5175,7 @@ eher : i-a : plutôt/rather {adv} | 13787
 
 hilflos : hilf-loss : impuissant/helpless/awkard/powerless {adj} | 841
 
-schwach : shvaCH : faible/fragile/weak {adj} | 7288 | schwacher
+schwach : shvaCH : faible/fragile/weak {adj} | 7288 | schwacher | schwachen
 
 ================================================================ 22JUN2025 (Page 43) (SOIR) ================================================================
 
@@ -5497,7 +5496,7 @@ derjenige : dea-yénigeu : celui-là (celui) /qui/that/he who {pron} | 2958
 
 am schwierigsten : shviérik-stèn : le plus difficile
 
-Einsatz {m} [Anstrengung] : ayn-zatz : utilisation/engagement/effort/dedication | 832
+Einsatz {m} [Anstrengung] : ayn-zatz : utilisation/engagement/effort/dedication | 832 | Einsätze
 
 fiel es nicht leicht : tombé ça pas léger/facile => ça ne tombait pas léger => ça n'était pas facile
 
@@ -6204,7 +6203,7 @@ wahrscheinlicher : var-shayn-liçher : more likely/likelier {adv}
 
 Abschied {m} : apshiet : farewell/leave/goodbye | 2346
 
-jd./etw. schützte :  : sb./sth. protected/shielded | 13 (VERBE)
+jd./etw. schützte :  : sb./sth. protected/shielded | 13 (VERBE) | racine schützen | schützten
 
 fernhalten :  fernhalt^n : tenir à l'écart/to keep away/to keep out/to hold off | fernzuhalten
 
@@ -6507,6 +6506,7 @@ trieben : pousser/flotter (verbe)
 
 Herde {f} [auch fig. pej.] : hérdeu : herd [also fig. pej.]/troupeau | 440 
 
+^ ne pas confondre avec Herd (stove/cuisinière/foyer)
 ================================================================ 25JUN2025 (Page 63) (MATIN) ================================================================
 
 
@@ -6847,7 +6847,7 @@ das Ufer {n} : oufa : rive/bord/berge/shore/bank | 1076
 
 jdn./etw. anfühlen : anful^n : to touch sb./sth./to feel smth/détecter qqch. | 91 | e.g : sich kalt anfühlen (to feel cold to the touch)
 
-nass : nass : humide/mouillé wet/soaked {adj} | 6121
+nass : nass : humide/mouillé wet/soaked {adj} | 6121 | nasse
 
 Nass : eau [idiom]/humidité  (IDIOM) | Nasses
 ^ faire gaffe ici, en fait Das kühle Nass ça parle d'eau mais c'est familier, poétique, imagé. c'est une vision vivante de l'eau. on utilise pas Kühle Wasser parce que c'est moins naturel et stylistique en allemand
@@ -7488,7 +7488,7 @@ dichter : diçht^a : denser {adj} | 454
 
 krumm : kroum : crooked {adj} | 851
 
-Raubtier {n} : robti^a : zool. T carnivore/predator | 102
+Raubtier {n} : robti^a : zool. T carnivore/predator | 102 | Raubtiers
 
 muskulös : mousk-ou-leus : buff/beefy/ripped {adj} [Am.] [coll.] [muscular] | 990 | muskulöser
 
@@ -7510,7 +7510,7 @@ sorglos : zorgloss : insouciant/carefree/casual/careless {adj} | 1454
 
 Fensterbrett {n} : fensta-brett : rebord de fenêtre/windowsill | 254
 
-sichAkk. herumtreiben [ugs.] [pej.] : heroum-trayb^n : to hang about [coll.] (herum = autour, treiben = pousser trainer errer sans but)
+sichAkk. herumtreiben [ugs.] [pej.] : heroum-trayb^n : to hang about [coll.] (herum = autour, treiben = pousser trainer errer sans but) | herumtrieben
 
 jedem : yédem : chaque 
 
@@ -7892,7 +7892,7 @@ mehrere : mérereu : various/plusieurs {adj} | 1075 | mehrerer | mehreren
 
 knallhart [ugs.] : knallhat : brutal {adj} | 429
 
-geschickt : geushikt : skilful {adj} [Br.]/deft/habile/adroit | 1647 | Geschicks | geschickten
+geschickt : geushikt : skilful {adj} [Br.]/deft/habile/adroit | 1647 | Geschicks | geschickten | geschickter = plus habile
 
 jd. tauschte : taoshteu : sb. bartered/swapped/échanger | tauschten | verbe racine tauschen
 
@@ -8325,7 +8325,7 @@ das Eisen schmieden, solange es heiß ist :  : idiom to strike while the iron is
 
 jdn. erpressen : eapress^n : to blackmail sb./to extort | 1848
 
-jd./etw. verursachte : fa-oua-zaCHteu : sb./sth. caused | 1022 | verursachten = causer
+jd./etw. verursachte : fa-oua-zaCHteu : sb./sth. caused | 1022 | verursachten = causer/provoquer [qqch]
 
 käsig [blass] [ugs.] : kéziçh : pale [looking like cheese, a sour appearance] {adj} | 32
 
@@ -9285,7 +9285,7 @@ silberhell : zilbahell : silvery {adj}
 
 Glocken {pl} : glok^n : bells/marbles | 80 | die Glocke {f}
 
-himmelblau : himmelblao : bleu ciel/cerulean/azure/sky-blue {adj} | 120
+himmelblau : himmelblao : bleu ciel/cerulean/azure/sky-blue {adj} | 120 | himmelblauen
 
 zart : tsart : gentle/tendre/délicat {adj} | 4883 | zarten
 
@@ -10439,7 +10439,7 @@ Gehör {n} : géheua : anat. audio hearing/audition | 3102
 
 Wolfshund {m} : volfs-hount : zool. T wolfhound/chien de berger | 11
 
-Rudel {n} : roud-l : zool. pack/pride [of lions]/herd/swarm | 747
+Rudel {n} : roud-l : zool. pack/pride [of lions]/herd/swarm | 747 | die Rudel / Rudeln
 
 super [ugs.] : zoupa : super {adj} | 1079
 
@@ -11033,6 +11033,7 @@ trüben : trub-n : to tarnish/to dim/to cloud/to blur | 2879 | trübte
 etw.Akk. erschüttern : entshuttern : ébranler qqch/boulverser/émouvoir/to jar sth. [building, brain]/to convulse/to jerk/to shake | 2006 | erschütterte
 
 jdn. kneifen : knayf^n : to pinch sb. | 2056 | kniff
+^ faire gaffe ici; kneifen est aussi utilisé idiomatiquement ("den Schwanz einkneifen" = rentrer la queue)
 
 mühelos : mueuloss : effortless {adj} | 1286
 
@@ -11358,7 +11359,7 @@ etw.Akk. weben [auch fig.] :  vib^n: textil. to weave sth. [also fig.] | 1659 
 
 Netz {n} : netss : réseau/net/mesh/web | 879
 
-Verteidigung {f} : fataydigoung : defense [Am.] | 1279
+Verteidigung {f} : fataydigoung : defense [Am.] | 1279 | Verteidigungspunkte
 
 Alarmsystem {n} : alarmzyst^m : alarm system
 
@@ -11770,7 +11771,7 @@ plätschern :  : to dabble | 748 / to ripple / to patter
 
 pinkfarben :  : pink-colored {adj} [Am.]
 
-Flossen {pl} :  : fins | 597 | die Flosse
+Flossen {pl} :  : fins/nageoires | 597 | die Flosse
 
 flink :  : nimble {adj} | 1260
 
@@ -11872,7 +11873,7 @@ Ablenkung {f} : aplenkoung : distraction | 3960
 
 ungeladen [Gäste etc.] : oungelad^n : uninvited {adj} | 16 | Ungeladene
 
-Gäste {pl} : gésteu : guests | 311 | der Gast {m}
+Gäste {pl} : gésteu : guests | 311 | der Gast {m} | des Gastes
 
 sicherstellen : ziçhéshtell^n : to ensure | 5628
 
@@ -11894,23 +11895,121 @@ etw.Akk. färben [Haar, Stoff etc.] :  : to dye sth. | 1601 | färbte
 
 schockierend :  : shocking {adj} | 693
 
-Stoß {m} :  : hit | 3174
+Stoß {m} : shtoss : hit | 3174
 
 unmittelbar : ounmittelbar : immediate {adj} | 3805
 
-Nähe {f} :  : proximity/vicinity | 4539
+Nähe {f} :  : proximity/vicinity | 4539 [datif = der Nähe]
 
 einen Blick erhaschen :  : to catch a glimpse | erhaschte
 
 jdm. vorkommen [erscheinen, scheinen] :  : to seem to sb. | vorkam
 
-Wellen {pl} : vell-n : waves | 1167
+Wellen {pl} : vell-n : waves/vagues | 1167
 
-================================================================ 25JUL2025 (Page 216) (SOIR)  ================================================================
-
-
+================================================================ 06AUG2025 (Page 216) (SOIR) ================================================================
 
 
+unerwünscht :  : undesirable {adj} | 1166
 
+schlüpfen :  : to slip [into sth.] | 922 | schlüpfte
 
+Auftauchen {n} :  : emergence/apparence | 167
 
+länglich : léngliçh : elongated {adj} | 500
+
+spaßen :  : to jest | 580
+
+Fang {m} [Fischbeute] :  : fish catch of fish
+
+wegrennen :  : to bolt [flee] | 543 | wegzurennen
+
+Plätschern {n} :  : splatter | 563
+
+jd. verrenkte : farrenkteu : med. sb. dislocated | 19
+
+undenkbar :  : inconceivable {adj} | 1810
+
+schäumen : shoym^n : mousser/to froth [fizz, sparkle]/to foam | 1148 | schäumte
+
+brodeln : brodeln : to bubble/bouillonner | 135 | brodelte
+
+Herd {m} : hé-at : gastr. stove | 7007
+
+Wirbel {m} :  : phys. vortex/tourbillon | 1759
+
+aufzucken :  : jaillir/scintiller/to flash [lightning] | 16 | aufzuckten
+
+silberne Blitze : éclairs argentés
+
+================================================================ 06AUG2025 (Page 217) (SOIR) ================================================================
+
+Schrecken {m} : shrek^n : dread/terreur | 817
+
+Fluss {m} : flouss  : geogr. hydro. river | 2430 | Flüsse {pl}
+
+den Schwanz einziehen / einkneifen [ugs.] [Redewendung] [sich einschüchtern lassen] :  : to show the white feather [idiom]/rentrer la queue (IDIOM)
+
+^ rappel einkneifen = pincer mais c'est un idiom
+
+fliehen : fli^n : to flee | 2269 | floh
+
+Rochenflossige : Rochen = raie ; Flosse = nageoire ; -ig pour adjectif ("à nageoires de raie")
+
+Wolfsfisch : poisson loup
+
+verhalten : fa-halt^n : se comporter/se conduire | verhielten
+
+unersättlich : ounazéttliçh : insatiable {adj} | 1954 | unersättliche
+
+in kürzester Zeit :  : in the shortest possible time {adv}
+
+Unterstützung {f} : ounta-shtu-tsoung : support | 3344
+
+schrägstellen : shrékshtell^n : tech. to slant/incliner | 46 | schräggestellte
+
+offenbar :  : obviously {adv} | 1881
+
+================================================================ 06AUG2025 (Page 218) (SOIR) ================================================================
+
+Pupille {f} :  : anat. zool. pupil [Pupilla]/pupille [anatomie] | 548
+
+smaragdfarben :  : emerald {adj} | 33 | smaragdfarbenen
+
+unverwandt : ounfa-vant : unwavering {adj} | 43
+
+dreieckig : dray-ékiçh : triangular {adj} | 684
+
+voneinander :  : from each other {adv}
+
+Lähmung {f} : lémoung : med. paralysis | 1056
+
+Lähmungsgiftes = poison paralysant
+
+öffnen : euffn^n : to open | 2267 | geöffnet
+
+scheiden [weggehen] : sheyd^n : to depart/to divorce | 360
+
+Chemikalie {f} : shimikalieu : chem. chemical | 317 |Chemikalien {pl} 
+
+fies [ugs.] : fiss : nasty/méchant {adj} | 1964
+
+auffressen : aoufress^n  : to eat up
+
+näherkommen : néakomm^n : to approach | 653
+
+gurgeln : gourgel^n : to gurgle/gargariser | 115 | gurgelnden
+
+Erneuerung {f} : ernoyeroung : renewal | 941
+
+Einsätze {pl} :  : insets | 13
+
+zielen : tsil^n : to aim | 1530
+
+katapultieren : katapoultir^n : to catapult/to yeet | 25
+
+ertrinken : étrink^n : to drown | 4445
+
+Ertrinken {n} :  : drowning | 329
+
+================================================================ 06AUG2025 (Page 219) (SOIR) ===============
