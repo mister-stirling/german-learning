@@ -119,7 +119,6 @@ Blicke {pl} : bli^que : glances/regard | 188
 etw.Akk. verbrennen : fe-brennen : brûler [consumer] qqch /to incinerate sth. | 1436 | verbrannten
 ^ ici brennen = brûler mais ver- ajoute une action complète ou intensité avec connotation négative (consumer)
 
-
 selbst [sogar] : sel-bst : even {adv} | 1175
 
 Haufen {m} [ugs.] [Menschen] : haou-feun : bunch [of people] [coll.] | 2576
@@ -1346,7 +1345,7 @@ die aus dem Haus entfernt wurden = qui furent enlevés de la maison
 
 Führerschein {m} : fu-ra-shayne : transp. driver license [Am.] [Aus.] [NZ] [Can.]
 
-anfangen : anfang^n : to begin | 1833 | fängt + an
+anfangen : anfang^n : to begin | 1833 | fängt + an | anzufangen
 
 schön : sheune : beau/bon/agréable
 
@@ -2008,7 +2007,7 @@ zusteht : tsou-shtit: mériter/deserves/concéder (infitif zustehen)
 
 jd. heulte : hol-teu : sb. hurla/pleura/blubbered/howled [coll.] | infintiif heulen (fondre en larmes) | heulten| geheult
 
-einfach : einfaCH  : simple/easy {adj} | 3127 | einfacher
+einfach : einfaCH  : simple/easy {adj} | 3127 | einfacher | einfachsten = the most simple
 
 jd./etw. stieg : shtik : sb./sth. <<se déplacer par des marches ou un mouvement vertical>>/monta/rose/went up/ascended [went up] | 447 | infintiif steigen | prétérit stiegen | gestiegen
 
@@ -2305,7 +2304,8 @@ gewesen : gé-vizen : been {past-p} | 1074 | infinitif sein
 
 Sache {f} : zaCHE : l'affaire [ex: une dispute]/l'histoire/choses/thing | 1079 | Sachen {pl}
 
-lag : lag : se trouvait/était couché/giser [e.g par terre]/to lay (infinitif liegen, situer)/tenait/à l'horizontale (VERB) | liegt
+lag : lag : se trouvait/était couché/giser [e.g par terre]/to lay (infinitif liegen, situer)/tenait/à l'horizontale (VERB) | liegt 
+^ attention il y a une forme idiomatique (=être dû à ; lag an)
 
 gewiss : géviss : certain/quelque {adj} | 3547 | gewisser | gewissen
 
@@ -2329,7 +2329,7 @@ fiel auf : est apparu/a sauté aux yeux/a remarqué | infinitif auffallen (à pa
 
 fiel xxx auf : /apparut/fut perceptible
 
-atmete : atmèteu : respirer | atmen infinitif (verbe) 
+atmete : atmèteu : respirer | atmen infinitif (verbe) | atmenden
 
 das Atmen : respiration 
 
@@ -3674,7 +3674,7 @@ unangenehmes {n} : uoun-an-ge-nim-es : pénible/désagréable/inconfortable {pl}
 
 aufzwingen : aouf-tsing^n : impposer/forcer/to force | 224
 
-verärgert : fa-ergert : énervé/exaspéré/vêxé/upset/angry {adj} | 2887
+verärgert : fa-ergert : énervé/exaspéré/vêxé/upset/angry {adj} | 2887 | verärgerte
 
 jd. spuckte etw. aus : shpoukteu : sb. spluttered sth. [spat out]
 
@@ -4122,7 +4122,6 @@ Freundlichkeit {f} : froynt-liçh-kayt : friendliness/amabilité/gentleness/kind
 in Ordnung : ord-noung : bien/dans l'ordre//all right/fair enough/fine (c'est une expression)
 
 etw.Akk. besorge [beschaffen, kaufen] : beu-zorg : procure/trouve/to procure/to provide/to get sth. [obtain, acquire] | 1370(<-- impératif, verbe racine : besorgen) | besorgt
-
 
 Platz {m} [Ort] : plat-ss : endroit/spot/place | 244
 
@@ -4580,7 +4579,7 @@ littéralement => être des mondes éloigné de...
 
 dazu [zu diesem Zweck] : datsou : de plus/pour ce faire/pour atteindre cet objectif/à cette fin/ dans ce but {adv}
 
-Unbekannte {f} : oun-bekannte : stranger [female] | 41
+Unbekannte {f} : oun-bekannte : stranger [female] | 41 | unbekannten
 
 Dunkelheit {f} : dounkel-hayt : obscurité/ténèbres/gloom/dark | 2069
 
@@ -6498,7 +6497,7 @@ Lebensvorräte : réserve de survie (points de vie?)
 
 wach :  : réveillé/awake/alert {adj} [pred.] | 1790
 
-bewaffnet : bé-vaff-nèt : armed {adj} {past-p} | 1133 | verbe racine bewaffnen (to arm/to arm against/to arm oneself)
+bewaffnet : bé-vaff-nèt : armed {adj} {past-p} | 1133 | verbe racine bewaffnen (to arm/to arm against/to arm oneself) | bewaffneten
 
 Ziegen {pl} :  : zool. T goats | 314 | die Ziege {f}
 
@@ -7518,7 +7517,7 @@ zugehen [ugs.] [sich schließen] : tsou-gi-in  : to close [without object] [of
 
 verengen : fa-eng^n : plisser/rétrécir/to constrict | 110 |  | verengten
 
-etw.Akk. verfolgen [Ziel, Idee, auch Straftat] : fer-folg^n : to pursue sth. | 7610 | verfolgte
+etw.Akk. verfolgen [Ziel, Idee, auch Straftat] : fer-folg^n : to pursue sth./to haunt sb. | 7610 | verfolgte | Altehrwürdigen
 
 vorkommen : for-komm^n : paraitre, sembler | vorgekommen
 
@@ -7786,7 +7785,7 @@ feilschen : fa-il-sh^n : to bargain/haggle | 1459
 
 umso [+Komparativ] : oumzo : all the more {prep} [idiom] [+ comparative]
 
-etw.Akk. anbieten : anbit^n : to provide sth. [afford] [opportunity, living etc.]/to offer | 5626 | anbieten | angeboten | geboten
+etw.Akk. anbieten : anbit^n : to provide sth. [afford] [opportunity, living etc.]/to offer | 5626 | anbieten | angeboten | geboten | bot + an
 
 Sturm {m} [auch fig.] : shtourm : meteo. storm [also fig.]/tempête | 1311
 
@@ -7872,7 +7871,7 @@ hängenbleiben : hang^n-blaybèn : to stick | hängengeblieben
 
 Eintopf {m} : ayn-topf : gastr. stew | 1877
 
-rechnen : rèçhn-en : math. to calculate | 1058 | Rechne | gerechnet.
+rechnen : rèçhn-en : math. to calculate/prévoir/compter | 1058 | Rechne | gerechnet.
 
 Beeren {pl} : bir-n : bot. baies/berries [myrtille, framboise, groseilles, etc] | 922 | die Beere (la baie)
 
@@ -8660,7 +8659,7 @@ stellen sollte : devais poser
 
 Neigung {f} : naygoung : propensity/inclination/penchant | 2519
 
-etw.Akk. verspüren : fa-shpur^n : to feel sth./to perceive smth. | 696
+etw.Akk. verspüren : fa-shpur^n : to feel sth./to perceive smth. | 696 | verspürte
 
 ================================================================ 03JUILLET2025 (Page 111) (SOIR) ================================================================
 
@@ -9038,7 +9037,7 @@ Genick {n} : génik : neck | 801 | die Genicke {pl}
 
 [junge Katze] Kätzchen {n} : kétsçhièn : zool. kitten [young cat] | 688
 
-verwundern : fer-voudern : to amaze/to surprise/to astonish | 500 | verwundert | verwundet
+verwundern : fer-voudern : to amaze/to surprise/to astonish | 500 | verwundert | verwundet | verwundete
 
 jdn. nerven [ugs.] : nerf^n : to annoy sb. | 959 | genervt
 
@@ -9161,7 +9160,7 @@ Seufzer {m} : zoyftssa : sigh | 977
 
 hüpfen : hupf^n : to hop/to leap/to jump/to bounce/to skip | 935 | hüpfte | gehüpft
 
-nähern : néarn : to near | 114 | näherte
+nähern : néarn : to near | 114 | näherte | genähert
 
 nach kurzem Zögern : kouts^m : after a moment's hesitation {adv} kurzem = short/court
 
@@ -9556,7 +9555,7 @@ nimmt... aus = dépouiller/exploiter (aus = dehors)
 
 nicht nur dich = not only you
 
-planen : plan^n : to plan/to schedule | 1390 | planst
+planen : plan^n : to plan/to schedule | 1390 | planst | geplant
 
 verdächtig : fédiçhtik : suspicious {adj} | 5123
 
@@ -9602,7 +9601,7 @@ Einwände {pl} : éynvéndeu : objections | 511 | der Einwand
 
 etw.Akk. sparen : shpar^n : to save sth. [e.g. money, electricity, time]/épargner qqch (épargne moi tes mots, etc) | 2675 | spar
 
-eilig : ayliçh  : urgent/hurry {adj} | 1156 
+eilig : ayliçh  : urgent/hurry/hâtif {adj} | 1156 
  
 ================================================================ 08JUILLET2025 (Page 141) (SOIR) ================================================================
  
@@ -10587,7 +10586,7 @@ ebensolche : ib^n-zolçheu : (exactly) the same {adj}
 
 etw. hegen : hig^n : to cherish sth. [feelings, hope etc.]/to nurture/to harbour | 966 | hegte
 
-jdn. ärgern [beunruhigen] : érgern : to fret sb./to vex [annoy]/to irritate | 2571 | geärgert
+jdn. ärgern [beunruhigen] : érgern : to fret sb./to vex [annoy]/to irritate | 2571 | geärgert | ärgerte
 
 vorhaben : foahab^n : to intend/to purpose/to plan | 2874 | vorgehabt
 
@@ -11197,7 +11196,7 @@ Sekret {n} : zikrit : biol. med. VetMed. secretion [substance] | 98
 
 etw.Akk. verstärken : farbley-bend^n : to reinforce sth. | 3830 | verstärkte
 
-verbleibend : fa-blayd^nd : remaining/residual {adj} | 1536
+verbleibend : fa-blayd^nd : remaining/residual {adj} | 1536 | verbleibende
 
 jd. maß : mass : sb. measured/mesure | 52
 
@@ -11371,7 +11370,7 @@ unbefugt : ounbefougt : unauthorized {adj} | 1159
 
 Aufenthalt {m} : aoufent-halt : séjour/stay | 1914 | Aufenthalts
 
-Voraussetzungen {pl} : foraoussetsoungp^n : requirements/preconditions | 910 | die Voraussetzung {f}
+Voraussetzungen {pl} : foraoussetsoung^n : requirements/preconditions | 910 | die Voraussetzung {f}
 
 Radius {m} : radious : radius | 247
 
@@ -11442,7 +11441,7 @@ Reichweite {f}  : reyçhvayteu : range  | 1426
 etw. ausrichten [einstellen, regulieren] : aoussriçht^n : to adjust sth./to accomplish/| 771
 ^ dépend du contexe mais peut dire être efficace/avoir de l'effet/pouvoir faire qqch
 
-zurückwerfen :  : to throw back | zurückzuwerfen
+zurückwerfen : tsou-ruk-verf^n : to throw back | zurückzuwerfen
 
 weglaufen :  : to elope | 934
  
@@ -11648,8 +11647,7 @@ Skelett {n} :  : anat. skeleton/squelette | 1008
 
 zwingen : tsving^n : to force | 4431 | zwingend ("forcément")
 
-verspeisen [geh.] :  : to eat | 478 | verspeisten
-
+verspeisen [geh.] : fashpeyz^n : to eat/to consume | 478 | verspeisten
 
 Bedeutung {f} [Wichtigkeit] :  : importance/sens | 4647
 
@@ -11673,7 +11671,7 @@ pelzig [so ähnlich wie Pelz, pelzartig] : peltsiçh : furry {adj} [furlike] | 
 
 ================================================================ 24JUL2025 (Page 208) (SOIR) ================================================================
 
-Schuppen {pl} :  : écailles {pl} | die Schuppe {f}
+Schuppen {pl} : shoupp^n : écailles {pl} | die Schuppe {f}
 
 matt [schwach, geschwächt] : matt : faint/dull {adj} | 997
 
@@ -11998,7 +11996,7 @@ auffressen : aoufress^n  : to eat up
 
 näherkommen : néakomm^n : to approach | 653
 
-gurgeln : gourgel^n : to gurgle/gargariser | 115 | gurgelnden
+gurgeln : gourgel^n : to gurgle/gargariser | 115 | gurgelnden | gurgelndes
 
 Erneuerung {f} : ernoyeroung : renewal | 941
 
@@ -12013,3 +12011,87 @@ ertrinken : étrink^n : to drown | 4445
 Ertrinken {n} :  : drowning | 329
 
 ================================================================ 06AUG2025 (Page 219) (SOIR) ===============
+
+weiterziehen : veytertsi^n : to move on | weiterzog
+
+etw. wiederherstellen :  : to restore sth. | 3707 | wiederhergestellt
+
+Fersen {pl} : ferz^n : anat. heels | 405 | die Ferse (=heel)
+
+Domestizierung {f} :  : agr. bot. zool. domestication | 15
+
+Amulett {n} : amoulett  : charm [amulet]/amulette | 124
+
+die Verwundeten {pl} :  : the wounded {pl} [used collectively]
+
+verwunden : favount^n : to wound | 1360
+
+Krume {f} :  : crumb | 15 | die Krumen {pl}
+
+versorgen :  : to provide | 8501 | versorgt
+
+meinerseits : meynazeyts : in return {adv} [for my part]
+
+etw.Akk. auslegen [interpretieren] :  : to interpret sth. | 270 | ausgelegt
+
+rätselhaft : rétselhaft : enigmatic {adj} | 2199 | rätselhaften
+
+Beweggrund {m} : bevik-ground : motive | 252 | Beweggründe {pl} 
+
+etw. aufklären : aoufklér^n : to clarify sth. | 1867 | aufklärte
+
+jdn./etw. ersäufen [ugs.] [auch fig.] : easoyf^n : to drown sb./sth. [also fig.] | 48
+
+================================================================ 06AUG2025 (Page 220) (SOIR) ===============
+
+zähmen : tssém^n : to tame | 1880 | Zähmenden (=dompteur) (die Domestizierung = la domestication)
+
+Selbstzerstörung {f} : zelbsttsershteuroung : self-destruction
+
+abspielen : apshpil^n : to act out/se dérouler/se produire (=se jouait...)
+
+Verbündete {f} :  : ally [female] | 93 | Verbündeten {pl} | Verbündeter
+
+================================================================ 06AUG2025 (Page 221) (SOIR) ===============
+
+etw.Akk. nachvollziehen : naCHfolltsi-n: to comprehend sth. | 4815
+
+Anliegen {n} :  : concern [cause] | 2813 (verbe racine = être couché/être dû à/dépendre de)
+
+lag an = an préposiiton qui donne un sens idiomatique liegen ; c'étati dû à 
+
+Machtlosigkeit {f} : maCHtloziçhkeyt : impuissance [literary] | 98
+
+etw.Akk. aufbauen [z. B. eine Organisation] : aoufbaouen : to establish sth. [e.g. an organization]/to forge smth. [a relationship] | 1944
+
+Kaninchen {n} : kaniniçh^n : gastr. zool. rabbit | 2652
+
+Ich mein ja nur. :  : idiom Just saying. [coll.]
+
+ja nur = justement/simplement/qu'à
+
+dunkelgrau :  : dark gray {adj} [Am.]
+
+================================================================ 06AUG2025 (Page 222) (SOIR) ===============
+
+Schwachstelle {f} : shvaCHshtelleu : flaw/vulnerability/weakness | 1677
+
+unwiderstehlich : ounvidashtehliçh : compelling/irresistible {adj} | 2411 | unwiderstehlichen
+
+panzern : pantss^n : to armour [Br.] | 68 | gepanzerte
+
+ausschimpfen : aoushimpff^n : to scold | 1767
+
+keuchend : koy^çhnt : panting/wheezing {adj} {pres-p} | 1668
+
+schnuppern : shnouppan : to sniff | 610 | schnupperte
+
+Hanglänge {f} :  : geogr. geol. slope length
+
+================================================================ 06AUG2025 (Page 223) (SOIR) ===============
+
+
+
+
+
+
