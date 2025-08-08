@@ -1048,7 +1048,7 @@ Falten {pl} : falt^n : wrinkles | 659 (NOUN)
 
 Tiefen {pl} : ti^fn : deeps | 44
 
-nachdenklich : naCHTden-kliçh : thoughtful/pensively {adj} [pensive] | 2356 | nachdenken : réfléchir/contempler | nachdachten= préterit de verbe racine nachdenken | nachzudenken
+nachdenklich : naCHden-kliçh : thoughtful/pensively {adj} [pensive] | 2356 | nachdenken : réfléchir/contempler | nachdachten= préterit de verbe racine nachdenken | nachzudenken
 
 
 wohl : nuance d'incertitude/hypothèse/conjecture (e.g : wie alt sie wohl ist = quelle âge at-t-elle? / Wie alt sie wohl ist? : quelle âge a tlle, je me demande?)
@@ -1153,7 +1153,7 @@ erklären [erläutern] : éklér^n : to explain sth. | 5288
 
 wedeln/wedelte : videl^n : to wag | 813 (VERB)
 
-momentan : momènt^an : présentement/current {adj} | 1370
+momentan : momènt^an : présentement/current {adj} | 1370 | momentanen
 
 imstande [sein] : im-shtande : capable {adv} [of] | 1494
 
@@ -2824,7 +2824,11 @@ bestehend : béshté-ent : existant | bestehenden | bestand  | bestanden | verbe
 
 stärken : renforcer/fortifier
 
-sondern : zond^an : mais plutôt/but rather {conj}
+sondern : zond^an : mais plutôt/but rather {conj} 
+^note perso; en réalité sondern corrige une négation (ça veut littéralement dire "mais"), et c'est souvent placé avant "eher" qui veut dire "plutôt"
+
+e.g ; "ce n'est pas de la peur, mais du respect" = on utilise sondern
+"ce n'est pas de la peur, mais plutôt du respect" = on utilise sondern eher
 
 [das] Neue {n} : noyeu : nouveau venu | neues
 
@@ -3974,7 +3978,7 @@ angekommen : an-geu-komm^n : arrived {past-p} | 461 | verbe racine ankommen |
 
 weiten : vaille-ten : élargir/to widen | 27 | weiteten
 
-aufgefallen : aouf-ge-fall^n : remarqué/attirer l'attention/noticed {past-p} [having been noticed] | 148 | gefiel
+aufgefallen : aouf-ge-fall^n : remarqué/attirer l'attention/noticed {past-p} [having been noticed] | 148 | 
 
 unterzujubeln : ounta-tsou-you-beln : refiler/refourguer [littéralement : fourguer en dessous, sens familier de forcer quelqu'un à accepter qqch.]
 
@@ -4035,7 +4039,7 @@ Risiko {n} [Brettspiel] : riziko : games Risk [board game] | 44
 
 etw. kostete : koste-teu: sth. cost | 205 |verbe racine kosten | gekostet
 
-unterdrücken : out-a-druuk-n : réprimer/supprimer/to suppress/to smother | 2886 | unterdrückte
+unterdrücken : out-a-druuk-n : réprimer/supprimer/to suppress/to smother | 2886 | unterdrückte | unterdrückten
 
 Fahre fort! : continue (littéralement : va de l'avant | Fahre = conduis/roule/va (fahren), et fort = loin/loin d'ici/en avant/continue)
 
@@ -4047,7 +4051,10 @@ ausgeführt : aouss-gefuurt : exécuté/conducted {adj} {past-p} | 2931
 
 ================================================================ 19JUN2025 (Page 33) (MIDI) ================================================================
 
-gefallen [im Krieg gefallen] :  : mil. killed in action {adj} {past-p} [postpos.] <KIA>/fallen/to please sb. | gefiel
+gefallen [im Krieg gefallen] :  : mil. killed in action {adj} {past-p} [postpos.] <KIA>/fallen/to please sb. |
+
+^ en dehors du contexte de guerre, gefallen signifie = plaire/convenir | gefiel
+
 gefallen :  : fallen {adj} {past-p} | 364
 
 gekämpft : gé-kempft : fought {adj} {past-p} | 347 | verbe racine kämpfen (se battre, to struggle, to fight, to combat)
@@ -5397,7 +5404,7 @@ schimmernd : shimm-a^nd : scintillant/iridescent/shimmering/gleaming {adj} | 706
 
 Strolch {m} : shtreulsh : garnement/canaille | 125
 
-leuchten : loysht^n : briller/glow/to shine | 957 : leuchteten | leuchtete
+leuchten : loysht^n : briller/glow/to shine | 957 : leuchteten | leuchtete | geleuchtet (pp)
 
 Legende {f} [auch fig.] : li-gèndeu : legend [also fig.] | 309
 
@@ -5570,7 +5577,7 @@ ins [in das] : inz : into (the) {prep}
 
 Leere {f} [auch fig.] : lii-reu : vide/void [also fig.] | 2048
 
-Ast {m} : ast : anat. bot. branch | 1475
+Ast {m} : ast : anat. bot. branch/limb [tree] | 1475
 
 Knorren {m} : knorr^n : bot. knot/gnarl
 
@@ -5976,7 +5983,7 @@ jd. marschierte : marshièteu : sb. marched | 93 | marschieren verbe racine | ma
 
 Eimer {m} : aym-a : bucket | 6125
 
-jd. goß [alt] : goss : sb. poured/watered/cast | 76
+jd. goß [alt] : goss : sb. poured/watered/cast/verser | 76 | goss
 
 eisig : ay-ziçh  : frigid/icy {adj} | 464 | eisige
 
@@ -6003,7 +6010,7 @@ Lager {n} [Camp] : lag^a : camp/ | 538 |
 
 gierig : gi-riçh : greedy {adj} | 5340
 
-dünn : dunn : mince/thin {adj} | 6053 | dünne | dünnen (adj)
+dünn : dunn : mince/thin {adj} | 6053 | dünne | dünnen (adj) | dünner
 
 gehässig : géhéssiçh : spiteful/hateful/catty/venomous {adj} | 923
 
@@ -6305,7 +6312,7 @@ offen : off^n : ouvert/franc/open {adj} | 1911
 
 robust : rob-oust : tough {adj} | 1712
 
-jdm. vertrauen : fa-traoun : faire confiance/to trust sb. | 3179 | verbe racine trauen | traute |vertraute
+jdm. vertrauen : fa-traoun : faire confiance/to trust sb. | 3179 | verbe racine trauen | traute |vertraute | traute
 
 zuckte zurück : reculer soudainement (= jerked back)
 
@@ -7246,7 +7253,7 @@ etw.Akk. verbergen : fa-berg^n : cacher/to hide sth. | 1165 | verbargen <= prét
 
 hochzuklettern : : hoch = haut + zu + klettern = grimper/escalader
 
-gelangen : geulang^n : to arrive/to get to/arriver/parvenir/réussir | 802 | gelang
+gelangen : geulang^n : to arrive/to get to/arriver/parvenir/réussir | 802 | gelang | gelangte
 
 nicht gewachsen : ne pas être à la hauteur/incapable de faire face (IDIOM)
 
@@ -8095,7 +8102,7 @@ etw.Akk. begreifen [verstehen] : begrayf^n  : to grasp sth. [understand] | 4444 
 
 Schläfrigkeit {f} : shléfriçh-kayt : drowsiness | 527
 
-jd. richtete auf : riçhtété : sb. cocked (up) [set upright]
+jd. richtete auf : riçhtété : sb. cocked (up) [set upright] | richteten auf
 
 jd./etw. stützen : shtutsten: to sustain/to support/to prop | 45 | stützte
 
@@ -9152,7 +9159,7 @@ nötig : neutiçh : necessary {adj} | 2886 | benötigt
 
 schnarchen : shnaçhèn : to snore | 1740 | schnarchenden {snoring,adj}
 
-sägen [ugs.] [hum.] [schnarchen] : ség^n : to snore | 20
+sägen [ugs.] [hum.] [schnarchen] : ség^n : to saw smth./scier quelque chose/to snore | 20
 
 Sägen {n} : zég^n : sciage (sawing)/ronflement (snore) | 86
 
@@ -9166,7 +9173,7 @@ nach kurzem Zögern : kouts^m : after a moment's hesitation {adv} kurzem = short
 
 Berührung {f} : beuru-roung : touch/contact | 774
 
-ermutigen : ea-moutig^n : to encourage | 10287 | ermutigt | ermutigte
+ermutigen : ea-moutig^n : to encourage | 10287 | ermutigt | ermutigte | ermutigend = encourageant
 
 ================================================================ 05JUILLET2025 (Page 129) (SOIR) ================================================================
 
@@ -9312,7 +9319,7 @@ Wolf {m} : volf : zool. T wolf [canis lupus] | 440
 
 erlegen : erlig^n : to slay/to kill/to cull [select and kill] | 516 | erlegt
 
-Schwanz {m} : shvantz : tail/queue [anatomie] | 1568
+Schwanz {m} : shvantz : tail/queue [anatomie] | 1568 | Schwanzes
 
 jd. zierte : tsiéteu : sb. adorned | 16
 
@@ -9561,7 +9568,7 @@ verdächtig : fédiçhtik : suspicious {adj} | 5123
 
 [du] tust : toust : [you] do | 445
 
-betteln : bétteln : to beg | 2431 | gebettelt | bettelte
+betteln : bétteln : to beg | 2431 | gebettelt | bettelte | pour info le verbe racine c'est bien betteln | bettelten
 
 ================================================================ 07JUILLET2025 (Page 139) (SOIR) ================================================================
 
@@ -9810,7 +9817,7 @@ bisherig [vorherig] : bis-iriçh : previous {adj} [attr.] [prior] | 828
 
 Holzfäller {m} : holtssfélla : jobs lumberjack/logger (wood + fäller)| 575
 
-Spur {f} : shpoua : track/trail | 1819 | Spuren {pl} (traces)
+Spur {f} : shpoua : track/trail/voie | 1819 | Spuren {pl} (traces)
 
 etw. abändern : ap-éndern : to alter sth./to amend [modify] | 4542
 
@@ -10058,7 +10065,7 @@ kreischen : kraysh^n : to squeal/to screech/to shriek | 1641
 
 blitzen : blits^n: to flash/to twinkle | 407
 
-zuckend : tsouk^nt : twitching/jerking {adj} | 736 | zuckenden
+zuckend : tsouk^nt : twitching/jerking {adj} | 736 | zuckenden | zucken
 
 Fontäne {f} : fonténeu : fountain/jet [de sable, de poussière, de sang] | 63
 
@@ -10506,7 +10513,7 @@ blattförmig : blattfeurmiçh : leaf-shaped {adj}
 
 jdn./etw. formen : form^n : to shape sb./sth./to forge [shape] smth. | 3010 | geformten
 
-Spitze {f} [spitzes Ende] : shpitsseu : tip [top of sth.]/apex/peak | 811 | Spitzen
+Spitze {f} [spitzes Ende] : shpitsseu : pointe/sommet/tête/tip [top of sth.]/apex/peak | 811 | Spitzen
 
 Armbrust {f} : armbrousst : weapons crossbow | 555 | die Armbrüste {pl} 
 
@@ -10973,7 +10980,7 @@ allumfassend : all-oum-fassent : comprehensive/overall/all-encompassing {adj} | 
 
 in grauer Vorzeit : foatsayt : in distant memory {adv} (expression), Vorzeit = past
 
-lähmen : lém^n : to paralyze [Am.] | 1136 | lähmte
+lähmen : lém^n : to paralyze [Am.] | 1136 | lähmte | gelähmt
 
 stockstill : shtokshtill : stone silent {adj}
 
@@ -11410,7 +11417,7 @@ Fliege {f} : flikeu : entom. T fly/bug | 2113 | die Fliegen
 
 Steigerung {f} : shteygeroung : increase | 1033
 
-vorhanden : foahand^n : existing {adj} | 884 | vorhandene
+vorhanden : foahand^n : existing/available/présent {adj} | 884 | vorhandene
 
 sichDat. etw.Akk. aneignen [in Besitz nehmen] : an-eygn^n : to take possession of sth./to pick smth. | anzueignen
 
@@ -11679,7 +11686,7 @@ katzengleich :  : catlike {adj} {adv} | katzengleicher
 
 Höhlenkatze : chat des cavernes
 
-schuppig :  : scaly {adj} | 393
+schuppig :  : scaly {adj} | 393 | schuppigen
 
 geräuschlos : géroshloss : silently {adv} | 201
 
@@ -11743,7 +11750,7 @@ derselben : the same
  
  entlang des Wegs :  : along the track {adv}
  
- Pfoten {pl} :  : paws | 310 | die Pfote
+ Pfoten {pl} : pfot^n : paws | 310 | die Pfote
  
 ================================================================ 25JUL2025 (Page 210) (MATIN) ================================================================
 
@@ -11885,7 +11892,7 @@ herangehen :  : to approach | 2219
 
 zusammendrängen : tsouzamm^n-dréng^n : to condense/to crowd together | 305 | zusammendrängte
 
-Rammstoß {m} :  : mil. naut. ramming (blow)
+Rammstoß {m} :  : mil. naut. ramming (blow)/coup de bêlier | Rammstößen {pl}
 
 Es hat sich ereignet. :  : It has happened.
 
@@ -11914,7 +11921,7 @@ schlüpfen :  : to slip [into sth.] | 922 | schlüpfte
 
 Auftauchen {n} :  : emergence/apparence | 167
 
-länglich : léngliçh : elongated {adj} | 500
+länglich : léngliçh : elongated {adj} | 500 | längliche
 
 spaßen :  : to jest | 580
 
@@ -11976,7 +11983,7 @@ smaragdfarben :  : emerald {adj} | 33 | smaragdfarbenen
 
 unverwandt : ounfa-vant : unwavering {adj} | 43
 
-dreieckig : dray-ékiçh : triangular {adj} | 684
+dreieckig : dray-ékiçh : triangular {adj} | 684 | dreieckigen
 
 voneinander :  : from each other {adv}
 
@@ -12090,8 +12097,67 @@ Hanglänge {f} :  : geogr. geol. slope length
 
 ================================================================ 06AUG2025 (Page 223) (SOIR) ===============
 
+Strahl {m} [Lichtstrahl] : shtral : beam [of light]/squirt/jet| 1564
 
+hinunter :  : to the bottom {adv}
 
+Alarmbereitschaft {f} :  : alert/état d'alerte | 65
+
+dazugekommen : apparu en plus
+
+bodenlos [fig.] : bod-n-loss : bottomless/sans fond/incredible/fathomless {adj} | 337
+
+Ungeduld {f} : oungedoult : impatience | 808
+
+steigern : shteygan : to increase/to raise/augmenter | 1880 | steigerte
+
+pissen [vulg.] : piss^n : pisser/to pee/to piss [coll.] | 52 | pisste
+
+nach und nach :  : bit by bit/gradually {adv}
+
+Säge nicht an dem Ast, auf dem du sitzt. :  : proverb Do not cut the bough you are sitting on. (IDIOM)
+
+jdn./etw. befördern [auch fördern, sich einsetzen für] : befeurdan : jobs to promote sb./sth./to carry smth./to send sb.smth quelque part/envoyer quelque part | 2008
+
+================================================================ 06AUG2025 (Page 224) (SOIR) ===============
+
+eingreifen : eingreyf^n : to intervene | 2341 | eingegriffen
+
+etw. ergeben : eagib^n : résultait en/donnait/to yield sth. [result in] | 2532
+
+richten : riçht^n : to focus | 698
+
+(etw.Akk.) schlucken : shlouk^n : to swallow (sth.) | 3511
+
+Rachen {m} : raCH^n : anat. zool. pharynx/intérieur de la gorge (la partie arrière de la bouche et le pharynx, si c'est un animal = gueule) | 3127
+
+Vielfraß {m} : filfrass : glouton/ zool. T glutton [Gulo gulo] / hog [person] [coll.] [greedy-guts]| 326
+
+etw.Akk. vollstopfen :  : to stuff sth. | 299 
+
+vollgestopft : follgeshtopft : crowded/overstuffed {adj} | 3169 | 
+
+Schulterzucken {n} : shoultatsouk^n : shrug | 261
+
+================================================================ 06AUG2025 (Page 225) (SOIR) ===============
+
+etw.Akk. anspannen [einen Muskel, seinen Körper etc.] :  : to tense sth. [a muscle, one's body, etc.] | 346 | spannten
+
+sondern eher = mais plutôt 
+
+etw.Akk. neigen [kippen] : neyg^n : to tilt sth/to tend [views, person] | 1111
+
+losschicken :  : to send off [dispatch, post] | loszuschicken
+
+die Augen zusammenkneifen :  : to narrow one's eyes to a slit
+
+treu : troy : faithful {adj} [to] | 3587 | treueren
+
+herbeirufen : herbayrouf^n : to summon | 1542
+
+Haustier {n} : haoustia : zool. pet | 1874
+
+================================================================ 06AUG2025 (Page 226) (SOIR) ===============
 
 
 
