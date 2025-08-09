@@ -1,9 +1,14 @@
 filename: 
 Aussenseiter_1_par_Fauxhumain
 
+Github : https://github.com/mister-stirling/german-learning
+
 Un dico basé sur le livre Die Außenseiter 1 - Alexey Osadchuk, par Fauxhumain, pour les débutants en allemand.
 
-Note perso 10JUIN2025 : étant bilingue fr/en et utilisant 3 dicos différents, la plupart des mots sont traduits en anglais. 
+Notes personnelles : 
+- étant bilingue fr/en et utilisant 3 dicos différents (dict.cc, linguee, occasionnellement pons.com), la plupart des mots sont traduits en anglais.
+- Je n'ai écrit à la main le sens de quasiment AUCUN mot, c'est du copier/coller de dictionnaire avec l'aide d'un script.
+- La prononciation est écrite après écoute et relève de ma propre compréhension. Il y a aussi des précisions par moment, obtenues avec des chatGPT.
 
 ================================================================ 06JUN2025 (Page 9) ================================================================
 
@@ -12285,7 +12290,6 @@ Ich beschloss, auszuprobieren, was als Nächstes bevorstand, und schätzte die E
 
 ================================================================ 08AUG2025 (Page 231) (SOIR) ===============
 
-
 etw. vollspritzen :  : to splash all over sth. | vollspritzte
 
 einfangen : eynfang^n : to capture/to catch/to trap/to collect | 4042 | fangen + ein. | fing + ein |
@@ -12401,7 +12405,6 @@ Energieverbrauch {m} : éna-gi-fabraouCH : energy consumption
 ermüden : ermud^n : to tire/to fatigue | 1753 | ermüdete
 
 etw. ausdrücken [zeigen] :  : to express sth./to put smth./to reveal smth. | 3892 | ausgedrückt
-
 
 langanhaltend :  : long-lasting {adj}/prolongé
 
