@@ -7,7 +7,7 @@ Un dico basé sur le livre Die Außenseiter 1 - Alexey Osadchuk, par Fauxhumain,
 
 Notes personnelles : 
 - étant bilingue fr/en et utilisant 3 dicos différents (dict.cc, linguee, occasionnellement pons.com), la plupart des mots sont traduits en anglais.
-- Je n'ai écrit à la main le sens de quasiment AUCUN mot, c'est du copier/coller de dictionnaire avec l'aide d'un script.
+- Je n'ai écrit à la main le sens de presque AUCUN mot, c'est du copier/coller de dictionnaire avec l'aide d'un script.
 - La prononciation est écrite après écoute et relève de ma propre compréhension. Il y a aussi des précisions par moment, obtenues avec des chatGPT.
 
 ================================================================ 06JUN2025 (Page 9) ================================================================
@@ -47,6 +47,8 @@ freudige (joyeux) Erregung {f} : froy-digeu : a thrill of pleasure
 
 Nachricht {f} [Mitteilung, Botschaft] : naCHiçht : message | 4713
 Nachricht {f} : naCHiçht : news | 435
+
+^ nachricht = message =/= mitteilung. mitteilung est plus plus formel (annonce officielle) tandis que nachricht est vrm le message au sens courant
 
 Grund {m} : groun^t  : cause/raison/reason [cause, motive] | 3397
 düsteren : du-sterèn : sombre
@@ -295,7 +297,7 @@ jd. befahl :  befal : sb. ordered | 32
 barsch : barsh : gruff/harsh {adj} | 488
 Was ist mit ihm? : qu'est-ce qu'il a ?
 
-knapp : knapp : scarce {adj} | 5613 | knappe
+knapp : knapp : scarce/à peine/un peu moins que {adj} | 5613 | knappe
 knapp :  : concise {adj} | 4531
 jd. antwortete : ant-vor-teteu : sb. replied | 641
 
@@ -2276,8 +2278,6 @@ Neuling {m} : noy-ling : recrue/rookie | 548 | Neulings
 
 Gefolge {n} : geu-fol-geu : retinue/entourage | 753
 
-aufgenommen : aouf-genomm^n : repris/contracter/incorporated {adj} {past-p} | 212
-
 Du meine Güte! : Mon Dieu!/Seigneur!/Bon sang! (IDIOM)
 
 Ach so : usage classique en allemand quand on te donne des mauvaises nouvelles (équivalent à "ah, je vois..." "ah, d'accord...")
@@ -2484,7 +2484,7 @@ ertappen : ea-tapp^n : surpris/prendre en flagrant délit/to catch [e.g: myself]
 Gedanken {pl} : gé-dank^n : thoughts | 1701 |
 
 bei dem Gedanken = à la pensée de 
-ungeduldig : oun-geul-doul-diçh : impatient/eager {adj} | 4126 
+ungeduldig : oun-geul-doul-diçh : impatient/eager {adj} | 4126 | ungeduldigen
 
 gewartet : gé-vartet : waited {past-p} | 37
 
@@ -2831,7 +2831,7 @@ wobei : vobay : à condition que/du moment que/en quoi/bien que [conjonction dif
 
 Gerücht {n} : geu-ruçht : rumour [Br.] | 2127
 
-Verbesserung {f} : fa-besseu-roung : improvement | 2985
+Verbesserung {f} : fa-besseu-roung : improvement | 2985 | Verbesserungen
 
 bestehend : béshté-ent : existant | bestehenden | bestand  | bestanden | verbe racine bestehen (exister, consister, persister)
 
@@ -3220,7 +3220,7 @@ Ressourcen {pl} : ré-sourss^n : resources | 975
 
 voraus : for-aouss : upfront/ahead {adj} | 562
 
-setzen [xxx] voraus : exigait/posait comme condition préalable
+setzen [xxx] voraus : exigait/posait comme condition préalable <==
 
 diejenigen : ceux/celles qui (pronom composé : die + -jenige)
 
@@ -3735,7 +3735,7 @@ sichAkk. einmischen : aïn-mishen : to butt in/intervenir [fig.] [coll.] | misch
 
 Vereinbarung {f} : fa-aï-n-baroung : accord/agreement/arrangement | 1392 | vereinbaren | vereinbart
 
-getroffen : ge-toff^n  : rencontrer/prendre/frapper/hit/struck/meet {adj} {past-p} | 666 | verbe racine treffen
+getroffen : ge-troff^n  : rencontrer/prendre/frapper/hit/struck/meet {adj} {past-p} | 666 | verbe racine treffen
 
 Leibeigenschaft {f} : laïb-ay-genshaft : hist. pol. sociol. servitude/servage/serfage/serfdom | 461
 
@@ -4175,7 +4175,7 @@ Ici, « am weitesten » est le superlatif de « weit » qui qualifie « entfernt
     
 umdrehen : oum-dri-in : retourner/to roll over/to reverse/ (verbe) | umzudrehen
 
-jdm./etw. folgen : folg^n : to follow sb./sth. | 165
+jdm./etw. folgen : folg^n : to follow sb./sth./ to ensue/ to trail/to pursue | 165 | gefolgt
 
 plötzlich : pleuts-liçh : soudainement/suddenly {adv} | 6301
 
@@ -4844,7 +4844,7 @@ bestrichen : beu-shtriçhen : coated/recouvert/tartiné {adj} {past-p} | 21
 
 etw. bestreichen [z. B. mit Butter] : beu-shtray-çhen : to coat sth. [e.g. with butter] | 68
 
-dick : di-k : épais/thick {adj} | 2406 | dicken (forme faible adjectif au féminin singulier accusatif, car Schicht "la couche" est féminin) | dickem
+dick : di-k : épais/thick {adj} | 2406 | dicken (forme faible adjectif au féminin singulier accusatif, car Schicht "la couche" est féminin) | dickem | dicker (=thicker)
 
 (etw.) dicken : tick^n : to thicken (sth.) | 6
 
@@ -5838,7 +5838,7 @@ Hochzeitstag {m} :  : anniversary [wedding anniversary] | 260
 
 jd. markierte :  : sb. marked/tagged | 78
 
-Verbindung {f} [bes. zw. Ländern, Organisationen etc.] :  : alliance | 1053
+Verbindung {f} [bes. zw. Ländern, Organisationen etc.] :  : alliance/connection/liaison/bonding | 1053
 
 Erben {pl} :  : heirs | 654 | das Erbe
 
@@ -6098,7 +6098,7 @@ grausam :  : cruel/horrible/gruesome {adj} | 4775
 
 Anblick {m} : anblik : sight/view | 4425
 
-etw. aufnehmen :  : to gather/to incorporate/to record/ to admit/to absorb sth. | 1059 | aufzunehmen
+etw. aufnehmen :  : to gather/to incorporate/to record/ to admit/to absorb sth./capter qqch/percevoir qqch. [sens olfactif]| 1059 | aufzunehmen | aufgenommen (participe passé)
 
 Hauptsache {f} : haop-tsaCHe : main point/essential thing
 
@@ -6427,6 +6427,9 @@ Oberkörper {m} : oba-keurpa : anat. torso/upper body [mot neutre utilisé en us
 Tätowierung {f} : tato-vie-roung : tattoo | 184
 
 jd. wies : viz : sb. showed | 17 | racine weisen
+^
+attention, wies ... auf = pointer vers qqch./désigner qqch
+^ viens de weisen auf (indiquer=montrer)
 
 schüchtern : shuh-tern : shy/timide {adj} | 3586
 
@@ -6617,7 +6620,7 @@ jdn./etw. bilden [formen, gestalten] :  : créer/constituer/to form/to pattern/
 
 Durchgang {m} : douiçhgang : passage [way through, through access]/gateway | 566
 
-verlaufen [vonstattengehen, ablaufen] : fer-laoufen : to proceed [progress, go forward]/se dérouler| 989 | verlaufende
+verlaufen [vonstattengehen, ablaufen] : fer-laoufen : to proceed [progress, go forward]/se dérouler| 989 | verlaufende | verlief
 
 jd. zählte : tsél-teu : sb. counted/clocked | zählten | 29/
 
@@ -6763,7 +6766,7 @@ haften [an] [kleben] : haft^n : to stick/to cling [to] | 745 | haftete
 
 zurückgekehrt : tsou-rukgek-eart : returned {past-p} | 122
 
-zurückkehren : tsourukk-ir^n : to return [come back] | 1579
+zurückkehren : tsourukk-ir^n : to return [come back] | 1579 | zurückkehrte
 
 Muster {n} : modèle/schéma | Muster {pl} = motifs/maquettes
 
@@ -7421,7 +7424,7 @@ Mucks : moukz : bruit
 
 jede Menge : une quantité énorme/une foule de (littéralement "toute une quantité" (IDIOM)
 
-selten : zelt^n : rare/seldom/scarce {adj} | 2543
+selten : zelt^n : rare/seldom/scarce {adj} | 2543 | seltener = rarer
 
 jd. irrte : irrteu : sb. was mistaken | verbe racine irren (=faire une erreur) | geirrt | irre
 
@@ -7701,7 +7704,7 @@ verhandeln : fa-handel^n : négocier/to bargain/to debate/to debate | 1458 | ver
 
 Verhandeln {n} : fa-handel^n : négociation/bargaining | 946
 
-der Reihe nach : rayeu : in sequence/tour à tour/ {adv} (IDIOM)
+der Reihe nach : rayeu : in sequence/tour à tour/ {adv} (après la série de...) | (IDIOM) 
 
 etw. fand statt : fant shtatt : sth. took place
 
@@ -8597,7 +8600,7 @@ Ferien {pl} : feuri^n : vacation/holidays {sg} [Am.] | 2381
 
 reinste : raynsteu : purest {adj} | 43 | rein
 
-verlocken : ferlok^n : to allure/to tempt | 612
+verlocken : ferlok^n : to allure/to tempt (verb) | 612 | verlockend = tempting (adj)
 
 jd./etw. tröstet : treustét : sb./sth. comforts/consoles | 27
 
@@ -10037,7 +10040,7 @@ merklich : mérkliçh : sensible/noticeably {adj} | 472
 
 Bewusstsein {n} : bevouss-tsa-in : awareness/conscience | 6448
 
-etw.Akk. aufsparen : aoufshpar^n  : to keep sth. [save] | 365
+etw.Akk. aufsparen : aoufshpar^n  : to keep sth. [save] | 365 | aufzusparen
 
 Botschaft {f} [Mitteilung] : botshaft : message | 1094
 
@@ -10119,7 +10122,7 @@ blitzschnell [ugs.] : bliztshnell : fulgurant/éclair/lightning {adj} [attr.] [v
 
 Hieb {m} : hip : blow | 352
 
-jdn./etw. mit etw.Dat. versehen [ausstatten] : vazi-in : to equip sb./sth. with sth.
+jdn./etw. mit etw.Dat. versehen [ausstatten] : vazi-in : to equip sb./sth. with sth. | 
 
 Klaue {f} : klaoueu : orn. tech. zool. claw | 346
 ^ singulier, désigne une grosse griffe (pas un talon), genre ce qu'il y a au bout des pattes des ours
@@ -10665,7 +10668,7 @@ phosphoreszierend : phosphorestsiere^nd: luminous/phosphorescent {adj} | 265
 
 also : alsso : and so {adv} {conj}
 
-unheimlich : oun-heymliçh : eerie/uncanny {adj} | 4591 (rien à voir avec heimlich qui veut dire furtif/secret/caché)
+unheimlich : oun-heymliçh : eerie/uncanny {adj} | 4591 (rien à voir avec heimlich qui veut dire furtif/secret/caché) | unheimlichen
 
 eines einzelnen : eintseln^n : of one single
 
@@ -11127,7 +11130,7 @@ Verhalten {n} : fa-halt^n : behavior/comportement [Am.] [also zool. and psych.]
 
 etw.Akk. gutheißen : gout-heyss^n : to endorse sth. [approve of sth.]/approuver qqch.| 819
 
-blicken [kurz, flüchtig] : blik^n : to glance/to glimpse at| 1689
+blicken [kurz, flüchtig] : blik^n : to glance/to glimpse at| 1689 | blickte
 
 sehnsüchtig : zinzuçhtiçh : longing {adj} | 1132
 
@@ -11215,7 +11218,7 @@ Sekret {n} : zikrit : biol. med. VetMed. secretion [substance] | 98
 
 etw.Akk. verstärken : farbley-bend^n : to reinforce sth. | 3830 | verstärkte
 
-verbleibend : fa-blayd^nd : remaining/residual {adj} | 1536 | verbleibende
+verbleibend : fa-blayd^nd : remaining/residual {adj} | 1536 | verbleibende | verbleibenden
 
 jd. maß : mass : sb. measured/mesure | 52
 
@@ -11427,7 +11430,7 @@ Bernstein {m} : bernshteyn  : mineral. amber | 603
 
 Fliege {f} : flikeu : entom. T fly/bug | 2113 | die Fliegen
 
-Steigerung {f} : shteygeroung : increase | 1033
+Steigerung {f} : shteygeroung : increase/augmentation | 1033
 
 vorhanden : foahand^n : existing/available/présent {adj} | 884 | vorhandene
 
@@ -11962,7 +11965,7 @@ silberne Blitze : éclairs argentés
 
 Schrecken {m} : shrek^n : dread/terreur | 817
 
-Fluss {m} : flouss  : geogr. hydro. river | 2430 | Flüsse {pl}
+Fluss {m} : flouss  : geogr. hydro. river | 2430 | Flüsse {pl} | Flusses
 
 den Schwanz einziehen / einkneifen [ugs.] [Redewendung] [sich einschüchtern lassen] :  : to show the white feather [idiom]/rentrer la queue (IDIOM)
 
@@ -12301,7 +12304,6 @@ her ; rapprochement du point d'observation (aller donne!)
 
 jdn./etw. beschnüffeln : beshnuffeln : to sniff at sb./sth.
 
-
 etw.Akk. versenken : fazenk^n : naut. to scuttle sth./to engulf smth. | 673 | versenkte
 
 Disziplin {f} :  : discipline | 731
@@ -12420,7 +12422,82 @@ Süßwarenladen {m} : zuss-var^n-lad^n  : comm. gastr. candy shop [Am.]
 
 jdn./etw. korrigieren : korrigir^n : to correct sb./sth. | 4109
 
-================================================================ 08AUG2025 (Page 238) (SOIR) ===============
+================================================================ 10AUG2025 (Page 238) (SOIR) ===============
+
+Zeiten {pl} :  : times/tenses | 89
+
+ausstatten : aousshtat^n : to equip | 1255 | auszustatten
+
+Luxus {m} : louxous : luxury | 437
+
+Fahrkarte {f} : fahrkarteu : transp. ticket | 5372
+
+etw.Akk. ansparen :  : to save (up) for sth. | angespart
+
+daraus :  : hence {adv} | 691
+
+Beweis {m} :  : evidence (anglais)/proof| 8077
+
+jdm. etw. vorzeichnen [fig.] :  : to predetermine sth. for sb. | vorgezeichnet = predestined {adj} | 99
+
+am größten :  : greatest {adj}
+
+irgend [irgend ein] [+ indef. Artikel] :  : some {adv} [some such] | 282
+
+so gut wie möglich :  : as well as possible {adv}
+
+Regenerierung {f} : ri-gen-eri-roung : regeneration | 7
+
+erreichbar :  : attainable/atteignable {adj} | 1600 | erreichbaren
+
+================================================================ 10AUG2025 (Page 239) (SOIR) ===============
+
+NO NEW WORDS
+
+================================================================ 10AUG2025 (Page 240) (SOIR) ===============
+
+verdunkeln : fa-dounkeln : to eclipse/to shade/to obscure | 469 | verdunkelt = assombrit
+
+von ihnen : d'entre eux
+
+Beobachtungsposten {m} : bi-ou-baCHtoung-shpost^n : mil. lookout [place from which to keep watch] | 7
+
+auszahlen : aousstsal^n : to disburse/to pay out | ausgezahlt
+
+übertragen : ubatrag^n : to transfer | 1325 | übertrug
+
+gelegentlich : giligèntliçh : occasionally {adv} | 8235
+
+Südosten {m} <SO> : zut-ost^n : southeast <SE> | 55
+
+sich erstrecken : eashtrek^n : geogr. to extend/to range/to reach
+
+================================================================ 10AUG2025 (Page 241) (SOIR) ===============
+
+Jagdgebiet {n} : yaktgebit : hunting hunting ground
+
+Höhe {f} : heuheu : altitude/height/hauteur | 1646
+
+von knapp fünf Metern = un peu moins de 5 mètres (knapp = à peine)
+
+genesen :  : to recuperate/to recover | 1937
+
+jd./etw. stand : shtant : sb./sth. stood | 207
+
+jdm. etw. bescheren : beshern : to bring sb. sth. | 493
+
+übrigbleiben : ubriçhbleyb^n : to remain | 1397
+
+Höchstwert {m} : heukstveat : peak | 276
+
+================================================================ 10AUG2025 (Page 242) (SOIR) ==============
 
 
 
+
+
+
+
+
+
+=
