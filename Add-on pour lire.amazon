@@ -1,0 +1,139 @@
+// ==UserScript==
+// @name         Kindle Cloud Reader - Bloquer curseur main
+// @namespace    http://tampermonkey.net/
+// @version      1.1
+// @description  Empêche Kindle Cloud Reader de changer le curseur en main
+// @match        https://lire.amazon.fr/*
+// @grant        GM_addStyle
+// ==/UserScript==
+
+// ==UserScript==
+// @name         Curseur normal partout, coûte que coûte
+// @namespace    tools
+// @version      1.4
+// @description  Écrase tout cursor:pointer en cursor:auto sur toutes les pages, même dans les Shadow DOM
+// @match        *://*/*
+// @run-at       document-start
+// @grant        GM_addStyle
+// ==/UserScript==
+
+(() => {
+  'use strict';
+
+  const CSS = `
+    html, body, * { cursor: auto !important; }
+  `;
+
+  // 1) Style global dans le document principal
+  function injectStyle(root = document) {
+    try {
+      const s = document.createElement('style');
+      s.setAttribute('data-force-cursor', '1');
+      s.textContent = CSS;
+      (root.head || root.documentElement || root).appendChild(s);
+      return s;
+    } catch (e) { /* ignore */ }
+  }
+
+  // 2) Assure que notre style reste le dernier si le site en ajoute après
+  function keepStyleLast(styleEl, root = document) {
+    if (!styleEl) return;
+    const head = root.head || root.documentElement || root;
+    const obs = new MutationObserver(() => {
+      try {
+        if (styleEl !== head.lastChild) head.appendChild(styleEl);
+      } catch (_) {}
+    });
+    obs.observe(head, { childList: true });
+  }
+
+  // 3) Écrase aussi en inline pour battre les styles inline agressifs
+  function forceInlineCursor(el) {
+    try {
+      el.style.setProperty('cursor', 'auto', 'important');
+    } catch (_) {}
+  }
+
+  // 4) À chaque survol, on réimpose le curseur au cas où le site le change à la volée
+  ['mouseover','mouseenter','mousemove','pointerover','pointermove'].forEach(evt => {
+    document.addEventListener(evt, e => {
+      if (e && e.target && e.target instanceof Element) forceInlineCursor(e.target);
+    }, true);
+  });
+
+  // 5) Shadow DOM: injecte notre style dans chaque shadowRoot existant et futur
+  function patchShadowRoot(shadowRoot) {
+    try {
+      const s = document.createElement('style');
+      s.textContent = CSS;
+      shadowRoot.appendChild(s);
+    } catch (_) {}
+  }
+
+  // Intercepte la création des shadow roots
+  const _attachShadow = Element.prototype.attachShadow;
+  Element.prototype.attachShadow = function(init) {
+    const sr = _attachShadow.call(this, init);
+    patchShadowRoot(sr);
+    // Surveille l'ordre des styles dans ce shadowRoot
+    keepStyleLast(sr.querySelector('style:last-of-type') || null, sr);
+    return sr;
+  };
+
+  // Parcourt le DOM pour patcher les shadow roots déjà présents
+  function walkAndPatchShadows(root = document) {
+    const stack = [root];
+    while (stack.length) {
+      const node = stack.pop();
+      if (!node) continue;
+      if (node.shadowRoot) patchShadowRoot(node.shadowRoot);
+      if (node.children) for (const c of node.children) stack.push(c);
+    }
+  }
+
+  // 6) Iframes même origine
+  function patchIframes() {
+    document.querySelectorAll('iframe').forEach(iframe => {
+      try {
+        const d = iframe.contentDocument;
+        if (!d) return;
+        const s = injectStyle(d);
+        keepStyleLast(s, d);
+        d.addEventListener('mouseover', e => {
+          if (e && e.target && e.target instanceof d.defaultView.Element) {
+            e.target.style.setProperty('cursor', 'auto', 'important');
+          }
+        }, true);
+      } catch (_) { /* cross-origin, on ignore */ }
+    });
+  }
+
+  // 7) Injection initiale et maintien
+  const mainStyle = injectStyle(document);
+  keepStyleLast(mainStyle, document);
+  walkAndPatchShadows();
+  patchIframes();
+
+  // 8) MutationObserver pour éléments ajoutés dynamiquement
+  const mo = new MutationObserver(muts => {
+    for (const m of muts) {
+      if (m.type === 'childList') {
+        m.addedNodes.forEach(n => {
+          if (n.nodeType === 1) {
+            forceInlineCursor(n);
+            if (n.shadowRoot) patchShadowRoot(n.shadowRoot);
+            // Iframes ajoutées après coup
+            if (n.tagName === 'IFRAME') patchIframes();
+            // Parcourt descendants
+            n.querySelectorAll && n.querySelectorAll('*').forEach(forceInlineCursor);
+          }
+        });
+      } else if (m.type === 'attributes' && m.attributeName === 'style') {
+        // Si le site modifie style="cursor:...", on réécrit derrière
+        forceInlineCursor(m.target);
+      }
+    }
+  });
+  mo.observe(document.documentElement, { subtree: true, childList: true, attributes: true, attributeFilter: ['style'] });
+
+})();
