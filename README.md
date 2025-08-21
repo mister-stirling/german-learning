@@ -21,4 +21,9 @@ Un script pour Tampermonkey qui :
 - Utilise le raccourci `ALT + A` pour réactiver la barre de recherche si elle est désactivée.
 - Permet de lisser l'utilisation du site: marge à gauche, etc pour plus de visibilité.
 
+## 🧩 Add-on pour amazon.lire.fr
+
+Le script empêche le changement du curseur en main.
+
+
 👉 Voir l'extension tampermonkey.
