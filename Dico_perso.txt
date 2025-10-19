@@ -448,7 +448,7 @@ jd./etw. soll : zoll  : sb./sth. shall | 2224
 
 jd./etw. soll : zoll : sb./sth. /est censé/doit/is believed to/should/ought to/(exprime un exigence) | sollte : aurait dû/devrait | sollen | sollten
 
-« Qu’est-ce que cette remarque insultante est censée vouloir dire, vieille sorcière ? »
+« Qu’est-ce que cette remarque insultante est censée vouloir dire, vieille sorcière ? » 
 
 lästerlich : léstea-liçh : blasphemous {adj} | 21
 
@@ -1147,7 +1147,7 @@ Wenden {n} :  : naut. tacking [sailing] | 47 (NOUN)
 
 gebraucht habe = ai mis / ai utilisé/avoir mis (du temps)
 
-brauchen : rau-CHen: avoir besoin de /to need/to require/to want [de temps VOIRE prendre du temps] : verb | brauchst | gebrauchen | braucht
+brauchen : brau-CHen: avoir besoin de /to need/to require/to want [de temps VOIRE prendre du temps] : verb | brauchst | gebrauchen | braucht
 
 gebraucht : ge-brau-CHt : deuxième main/usé/used/second-handed {adj} {past-p} | 973 (ADJECTIF)
 
@@ -1295,7 +1295,7 @@ jdn./etw. wiegen : vi-gen  : to weigh sb./sth./bercer qqn.qqch (sensé figuré, 
 
 Tonnen {pl} : ton^en : tons | 82
 
-sich beschweren : besh-viren : se plaindre
+sich beschweren : besh-viren : se plaindre | beschwerte
 
 jemand : yi-mand  : someone {pron} <so.> [subject] | 2805 | jemandes
 
@@ -1364,7 +1364,7 @@ die aus dem Haus entfernt wurden = qui furent enlevés de la maison
 
 Führerschein {m} : fu-ra-shayne : transp. driver license [Am.] [Aus.] [NZ] [Can.]
 
-anfangen : anfang^n : to begin | 1833 | fängt + an | anzufangen
+anfangen : anfang^n : to begin | 1833 | fängt + an | anzufangen | angefangen
 
 schön : sheune : beau/bon/agréable
 
@@ -2316,7 +2316,7 @@ Vergehen1  {n} :  : méfait/délit/infraction [Am.] | 1750 (NOUN)
 
 schwanger : shvan^g^a : enceinte/pregnant/expecting {adj} | 3136
 
-eigentlich : ai-gèn-tliçh : en fait/en réalité/actually/actual/true {adv} | 7055 | eigentlichen
+eigentlich : ai-gèn-tliçh : en fait/en réalité/actually/actual/true {adv} | 7055 | eigentlichen | en principe
 
 gewesen : gé-vizen : been {past-p} | 1074 | infinitif sein 
 
@@ -2357,7 +2357,7 @@ spürbar : shpua-ba : palpable/noticeable {adj} | 1127
 
 zwar : tsva : admettons/indeed/en fait/précisément/c'est-à-dire {adv} [admittedly] | 2293
 
-Himmel {pl} : him-mel : heavens! | 38
+Himmel {pl} : him-mel : heavens!/le ciel [der Himmel] {m}| 38
 
 jd. kommentierte : kommen-ti^ate : sb. commented
 
@@ -2971,7 +2971,7 @@ aufgelaufener Zins {m} : aufgel-aouf-ner : fin. accrued interest
 
 Zinsen {pl} : tsin-z^n : fin. interest {sg} | 4064
 
-erschrocken : ea-shrok^n : effrayé/terrifié/startled/terrified {adj} | 2974 (racine verbe/adj erschrecken) | erschreckt | erschreckend | erschrockenes | erschreckte | erschrockener | erschreckenden
+erschrocken : ea-shrok^n : effrayé/terrifié/startled/terrified {adj} | 2974 (racine verbe/adj erschrecken) | erschreckt | erschreckend | erschrockenes | erschreckte | erschrockener | erschreckenden | erschreckst
 
 enorm : énorm : énorme/enormous {adj} | 961 | enormen
 
@@ -3139,7 +3139,7 @@ Lernfortschritt {m} : leurn-fort-shritt : educ. learning progress
 
 etw.Akk. beeinträchtigen : be-ayn-tréçhtigèn : to compromise sth. [impair] | 2353
 
-jdn./etw. jagen : ya-g^n  : to chase sb./sth. | 2923 | jagte | jagten
+jdn./etw. jagen : ya-g^n  : to chase sb./sth. | 2923 | jagte | jagten | gejagt
 
 [sie] gingen : ging^n : [they] went | 822
 
@@ -3592,7 +3592,7 @@ irgendwann : irg-ent-vann : à un moment donné/un jour/éventuellement/eventual
 
 jd. ertrug : ea-troug : sb. endured | 111
 
-jd. rannte : r-ann-te : sb. ran | 193 | verbe racine rennen | rannte
+jd. rannte : r-ann-te : sb. ran | 193 | verbe racine rennen | rannte | gerannt
 
 Schildkröte {f} : shild-kreuteu : zool. T turtle | 648
 
@@ -3707,7 +3707,7 @@ spuckte : cracher
 
 Stirn {f} : sti^rn : anat. sourcil/front/brow [forehead] | 1389
 
-runzelnd : roun-tselnd : wrinkling {adj} {pres-p} | 11 | verbe racine runzeln | runzelte
+runzelnd : roun-tselnd : wrinkling {adj} {pres-p} | 11 | verbe racine runzeln [froncer, to wrinkle] | runzelte
 
 stirnrunzelnd : shtirn-roun-tselnd : frowning {adj} {pres-p} | 860
 
@@ -4079,7 +4079,7 @@ gekämpft : gé-kempft : fought {adj} {past-p} | 347 | verbe racine kämpfen (se
 
 Wahl {f} [Auswahl] : va-hl : choice/choix | 1227
 
-Augenwinkel {m} : aougen-vinkèl : anat. corner of the eye
+Augenwinkel {m} : aougen-vinkèl : anat. corner of the eye | Augenwinkeln
 
 fasziniert : fas-tsi-niat : fascinated/intrigued {adj} {past-p} | 196
 
@@ -5595,7 +5595,7 @@ ins [in das] : inz : into (the) {prep}
 
 Leere {f} [auch fig.] : lii-reu : vide/void [also fig.] | 2048
 
-Ast {m} : ast : anat. bot. branch/limb [tree] | 1475
+Ast {m} : ast : anat. bot. branch/limb [tree] | 1475 | Äste {pl} :  : branches | 610
 
 Knorren {m} : knorr^n : bot. knot/gnarl
 
@@ -5814,7 +5814,7 @@ umzuschauen : voir schauen (=look at smth.) + umzu = regarder autour
 
 Unterkünfte {pl} : unt-a-kuunfteu : logements/quartiers/accommodations/shelter/lodgings | 203 | {f} die Unterkunft
 
-Bewohner {m} :  : habitant/resident/dweller/ | 1332
+Bewohner {m} :  : habitant/resident/dweller/ | 1332 | 
 
 es gab : il y avait
 
@@ -6636,6 +6636,7 @@ jdn./etw. bilden [formen, gestalten] :  : créer/constituer/to form/to pattern/
 Durchgang {m} : douiçhgang : passage [way through, through access]/gateway | 566
 
 verlaufen [vonstattengehen, ablaufen] : fer-laoufen : to proceed [progress, go forward]/se dérouler| 989 | verlaufende | verlief | verliefen
+^ ne pas confondre avec sich verlaufen = se perdre
 
 jd. zählte : tsél-teu : sb. counted/clocked | zählten | 29/
 
@@ -7014,7 +7015,7 @@ Flexibilität {f} : fléxibili-tèt : versatility/flexibility | 336
 
 nachlassend : naCHaessent : weakening/flagging {adj} {pres-p} | 611 | nachlassenden
 
-nachlassen :  : relâcher/abaisser/to abate/to cease/fléchir/diminuer/affaiblir/to wane | 2863 | nachgelassen
+nachlassen :  : relâcher/abaisser/to abate/to cease/fléchir/diminuer/affaiblir/to wane | 2863 | nachgelassen | nachließ
 
 auffüllen : aouf-full^n : remplir/compléter/reconstituer/to fill | 395 aufzufüllen | aufgefüllt
 
@@ -7202,7 +7203,7 @@ jdn./etw. ignorieren : ik-norir^n : to ignore sb./sth. | 1584
 unerwarteter : ounervartet^a : more unexpected {adj}
 
 der Erfolg {m} : ea-folk : econ. prosperity/succès | 858 | Erfolge {pl}
-
+ 
 ================================================================ 26JUN2025 (Page 77) (MATIN) ================================================================
 
 etw. umgab : oumgap : sth. surrounded | 7 | verbe racine umgeben (surrounded)
@@ -7506,7 +7507,7 @@ unter vier Augen :  : tête-à-tête {adv} (IDIOM)
 
 Vier-Augen-Gespräch {n} : geshpréçh : private conversation [between two people]
 
-erregen : errig^n : to stir/to arouse/to solicit | 1532
+erregen : errig^n : to stir/to arouse/to solicit | 1532 | erregten
 
 ================================================================ 27JUN2025 (Page 82) (MATIN) ================================================================
 
@@ -7612,7 +7613,7 @@ klüger : klug^a : wiser/savvier/more clever {adj} | 206
 
 Lernerfahrung {f} : leurn-er-faroung : learning experience
 
-schallend : shallent : clangorously/resoundingly {adv} | 34
+schallend : shallent : clangorously/resoundingly {adv} | 34 | schallendes
 
 Bande {f} : bandeu : gang | 256
 
@@ -8855,7 +8856,7 @@ Schlafmedizin {f} : shlafméditsin : med. sleep medicine
 
 arg : ak : bad {adj} | 175
 
-wehtun : vitoun : to hurt | 4667
+wehtun : vitoun : to hurt | 4667 | wehzutun [avec action]
 
 anrühren : anruur^n : to touch/toucher/manipuler | 319 | angerührt
 
@@ -9335,7 +9336,7 @@ freigeben : fraygib^n : to release/libérer/dévoiler| 4607 |  freigaben ppassé
 
 rein : rayn : pure/sheer {adj} | 1950 | Reine | reines | reiner
 
-zerreißen : tsérreyss^n : to tear/to shred/to rend | 3650 | zerrissen
+zerreißen : tsérreyss^n : to tear/to shred/to rend | 3650 | zerrissen | zerrissene
 
 spazieren : shpatssi-r^n  : to stroll | 846 | 
 
@@ -10434,7 +10435,7 @@ sich auszeichnen durch = se distingeur par
 
 Aggression {f} : aggressio-nn : aggression | 199
 
-etw. feststellen [herausfinden] : fesstshtell^n : to ascertain sth./to determine/to assess/to detect/to note | 4291 | festgestellt (stellte + fest)
+etw. feststellen [herausfinden] : fesstshtell^n : to ascertain sth./to determine/to assess/to detect/to note | 4291 | festgestellt (stellte + fest) | feststellte
 
 giftig : giftiçh : poisonous/toxic {adj} | 4812
 
@@ -10506,7 +10507,7 @@ Ausbildung {f} [Lehre] : aoussbildoung : educ. jobs apprenticeship/training/educ
 
 verursachen : fa-ouar-zaCH^n : to cause/to raise | 6181 | verursachst
 
-etw.Akk. anzünden [z. B. Feuer, Streichholz, Kerze, Zigarette] :  : to light sth. [e.g a fire]/to ignite/to kindle| 1466 | anzündest
+etw.Akk. anzünden [z. B. Feuer, Streichholz, Kerze, Zigarette] :  : to light sth. [e.g a fire]/to ignite/to kindle| 1466 | anzündest | anzündete
 
 sichDat. etw.Akk. zuziehen : tsou-tsi^n : med. to contract sth. [a disease, an infectious agent]/to sustain [an injury]/to bring sth. upon oneself | zuziehst
 
@@ -10949,7 +10950,7 @@ veranstalten : fa-anshtalt^n : to stage/to arrange/to organize | 2073 | veransta
 
 voran : for-an : forth {adv} | 699
 
-zurückzukehren = en arrière (zurück/back) + kehren = revenir/retourner
+zurückzukehren | tsouruk-tsou-kihr^n = en arrière (zurück/back) + kehren = revenir/retourner
 
 Austritt {m} : aoushtritt : withdrawal/resignation [from party, firm, association etc.] | 128
 
@@ -11204,7 +11205,7 @@ tasten : tast-n : to grope/to fumble | 1318
 
 ================================================================ 18JUL2025 (Page 191) (SOIR) ================================================================
 
-flehen [geh.] : flé-en : to crave/to beg/to plead [implore] | 195
+flehen [geh.] : flé-en : to crave/to beg/to plead [implore] | 195 | flehte
 
 Ehrfurcht {f} : eafouiçht : awe/reverence | 3865
 
@@ -11460,7 +11461,7 @@ sichDat. etw.Akk. aneignen [in Besitz nehmen] : an-eygn^n : to take possession 
 
 Bild {n} : bilt : picture/image | 5574
 
-verlangsamen : falangzakm^n : to decelerate/to slow | 499
+verlangsamen : falangzakm^n : to decelerate/to slow | 499 | verlangsamte
 
 Überlebenschancen {pl} : ubalibenshans^n : chances of survival | die Überlebenschance
 
@@ -14421,7 +14422,7 @@ Kunden {pl} :  : comm. customers/clients | 673 | der Kunde/die Kunde
 
 raufen : raouf^n : to scuffle/to grapple | 635
 
-Hügel {m} :  : mound/hill = colline | 1056 | die Hügel
+Hügel {m} :  : mound/hill = colline | 1056 | die Hügel | Hügels
 
 jd./etw. sähe :  : sb./sth. would see
 
@@ -15042,7 +15043,7 @@ etw.Akk. aufknüpfen : pendre quelqu'un | aufgeknüpft
 
 ================================================================ 20AUG2025 (Page 377) (SOIR) ==============
 
-schniefen [ugs.] :  : to sniff/to sniffle | 220 | schniefte
+schniefen [ugs.] :  : to sniff/to sniffle | 220 | schniefte | geschnieft
 
 herunterholen :  : to bring down
 
@@ -15390,7 +15391,7 @@ Händedruck {m} :  : handclasp [Am.]
 
 ================================================================ 18OCT2025 (Page 20) (MATIN) ==============
 
-verdrängen :  : to supersede/to suppress | 2233 | verdrängte
+verdrängen :  : to supersede/to suppress | 2233 | verdrängte | verdrängten
 
 Einstellung {f} [Haltung, Grundhaltung] : eynshtelloung : attitude/mindset | 8665
 
@@ -15402,7 +15403,7 @@ Flugbahn {f} :  : trajectory/flight path | 1701
 
 ertönen :  : to sound | 451
 
-steil : shteyl : steep {adj}/à pic/abruptement| 5741
+steil : shteyl : steep {adj}/à pic/abruptement| 5741 | steilen
 
 Bewegungen {pl} :  : movements | 129
 
@@ -15584,12 +15585,280 @@ faustgroß : faoustgross : fist-sized {adj}
 
 ================================================================ 18OCT2025 (Page 28) (SOIR) ==============
 
+Delle {f} : délleu : dent | 1515
+
+etw. anritzen : anritss^n : to scratch sth. [make a shallow incision] | 94 | angeritzt
+
+jdn./etw. enthüllen :  : to expose sb./sth. | 3982 | enthüllte
+
+sich wegducken [auch fig.] : vek-douk^n : to duck away [also fig.]
+
+================================================================ 18OCT2025 (Page 29) (SOIR) ==============
+
+kopfüber :  : headfirst {adv} | 198
+
+totenbleich : tot^nbleyçh : ghastly/deathly pale {adj} | 20
+
+abgestanden : apgéshtand^n : stale/stagnant {adj} | 2914
+
+hereinwehen :  : to blow in | herbeiwehte
+
+(etw.Akk.) kullern [ugs.] : koulla^rn : to roll (sth.) | 433
+
+etw.Akk. abwischen [wegwischen] :  : to wipe sth. off
+
+================================================================ 18OCT2025 (Page 30) (SOIR) ==============
+
+klarkommen [ugs. für: zurechtkommen] :  : to clear/to cope with smth./to get by [to manage] | 474
+
+Ich vermisse dich. :  : I miss you.
+
+Migräneattacke {f} :  : med. migraine attack
+
+Schmerztabletten {pl} : shmartsstablett^n  : pharm. aspirin {sg} | 14 | die Schmerztablette
+
+Zeitraum {m} :  : period/stretch [of time] | 1310
+
+Dankbarkeit {f} [gegenüber] :  : gratitude [to] | 3601
+
+vorherig [attr.] : fuoheriçh : previous {adj} [attr.] | 1776
+
+Dankeschön {n} :  : thankyou | 30
+
+================================================================ 19OCT2025 (Page 31) (SOIR) ==============
+
+kniffen [Papier, Stoff] :  : to wrinkle (up)
+
+Gelände {n} :  : terrain/compound [open area enclosed by a fence] | 423
+
+auf etw.Akk. hindeuten :  : to indicate sth. | hindeutete
+
+beleuchten [auch fig.] :  : to illuminate [brighten with light] [also fig.: enlighten] | 853 | beleuchtete
+
+unter dem Strich :  : at the bottom line {adv}
+
+Unter dem Strich ... :  : The bottom line is that ...
+
+absterben [ugs.] [stehen bleiben (Motor)] :  : to stall [engine]/to die away | 212
+
+Ursache {f} : ouazaCHe : cause | 4051
+
+rascheln :  : to rustle | 1873
+
+Rascheln {n} :  : rustling | 195
+
+Gebüsch {n} :  : shrubbery | 454
+
+Zugriff {m} :  : access | 1823
+
+Beule {f} [Schwellung (am Kopf etc.)] :  : bump [swelling from a blow]/dent | 1476
+
+verbeulen :  : to dent | 200
+
+leiser : leyza : quieter {adj} | 320
+
+vermisst :  : missing {adj} | 207
+
+aufgrund [+Gen.] :  : with {prep} [owing to]/based on | 344
+
+Schmutz {m} :  : grime | 1388
+
+zerlumpt [Kleidung; Kind] :  : ragged/tattered {adj} [clothes; child] | 1305
+
+blutunterlaufen : blout-ounta-laouf^n : bloodshot {adj} | 518
+
+================================================================ 19OCT2025 (Page 32) (SOIR) ==============
+
+schmunzeln :  : to smirk/smile (to oneself)/to chuckle | 1381 | schmunzelte
+
+gruselig : grouzeliçh  : creepy {adj} [coll.] | 3109
+
+bedrohlich :  : threatening {adj} | 2725 | bedrohlichen
+
+dämonisch :  : demonic {adj} | 40
+
+jaulen : yaoulèn : to yelp | 552
+
+Wie bitte? :  : Beg your pardon! <BYP>/Say again? [express surprise]
+
+... aussehend :  : ...-looking {adj} [used with a preceding adj.] | 41 | aussehenden
+
+jdn. einholen [erreichen, überholen] : eynhol^n : to outrun sb. [to overtake, exceed, surpass] | 277
+
+================================================================ 19OCT2025 (Page 33) (SOIR) ==============
+
+jd. verletzte :  : sb. hurt | 3194
+
+fieberhaft :  : feverish/frantically {adj} | 665
+
+rückwärts :  : backwards {adv} | 1069
+
+Bösewicht {m} :  : villain | 4329
+
+Machete {f} : maCHiteu : tools machete | 37
+
+vollpinkeln : follpink^ln :to piss all over oneself/se pisser dessus | vollgepinkelt
+
+Hose {f} :  : cloth. pants {pl} [esp. Am.] [one pair] | 5511
+
+Oma {f} [ugs.] :  : grandma [coll.] | 32634
+
+Bücken {n} [auch: Sich-Bücken] :  : stoop [act of bending the body forward] | 137 | bückte
+
+eindrucksvoll :  : impressive {adj} | 4406 | eindrucksvolles
+
+Verrückte {pl} :  : weirdos [coll.] | 197
+
+jdn./etw. vergleichen [mit] :  : to match sb./sth. [with / against] | 3582
+
+================================================================ 19OCT2025 (Page 34) (SOIR) ==============
+
+etw. hinsetzen [Gegenstände] :  : to put sth. (down) [objects] | hinsetzte
+
+hinaufschauen [regional] :  : to look up
+
+zimperlich [empfindlich] :  : squeamish {adj} | 1837
+
+anstatt [+Gen., veraltet od. ugs. auch +Dat.] :  : instead of {prep}
+
+Schere {f} :  : tools scissors {pl} [pair of scissors]/pincer | 5470
+
+Leiden  {n} :  : suffering | 2001
+
+über etw.Akk. rätseln :  : to puzzle over sth./s'interrgoer
+
+================================================================ 19OCT2025 (Page 35) (SOIR) ==============
+
+behelfsmäßig :  : makeshift {adj} | 352 | behelfsmäßigen
+
+Holzspäne {pl} :  : chipped wood {sg}
+
+jd. beschwor :  : sb. conjured | 34
+
+etw.Akk. fällen [Bäume zur Holzgewinnung] :  : for. to log sth. [harvest trees] | 340
+
+Stämme {pl} :  : bot. for. trunks | 161
+
+Brennholz {n} :  : firewood | 193
+
+Span {m} : copeau [de bois] | Spänen
+
+entzwei :  : apart {adv} [broken, fallen]/asunder | 248
+
+Grube {f} [Vertiefung in der Erde; auch: Kiesgrube, Kohlenbergwerk] : groubeu : pit [large hole in the ground; also: gravel pit, coal pit] | 2077
+
+etw.Akk. besagen :  : to mean sth. [imply, signify] | 610
+
+besagte Feuergrube : la dite fosse à feu/fire pit
+
+Kleinholz {n} :  : firewood (bois d'allumage/petit bois)| 10
+
+lodern :  : to flare | 1556 | loderte
+
+etw.Akk. einrichten [gründen, bilden, errichten] :  : to establish sth. | 3218
+
+Sitzgelegenheit {f} :  : seating accommodation
+
+tränenverschmiert :  : tear-stained {adj}
+
+================================================================ 19OCT2025 (Page 36) (SOIR) ==============
 
 
+Systemstörung {f} :  : tech. system failure
+
+eindringend :  : invasive {adj} | 184
+
+Bedrohung {f} :  : threat | 6197
 
 
+================================================================ 19OCT2025 (Page 37) (SOIR) ==============
+
+hinfallen :  : to tumble/to fall down | 311
+
+aufwirbeln : aoufvirbel^n : to swirl up
+
+als etw. aufschlug :  : when sth. thudded
+
+peinlich : pa-in-liçh: embarrassing {adj} | 8000
+
+peinlich berührt sein :  : to be embarrassed
+
+================================================================ 19OCT2025 (Page 38) (SOIR) ==============
+
+etw.Akk. aushalten :  : to bear sth. [endure] | 4025 | aushalte
+
+Ereignis {n} :  : event | 2608 | Ereignisse {pl}
+
+Nachbardorf {n} :  : nearby village
+
+Heilkraut {n} :  : bot. pharm. (medicinal) herb
+
+Unkraut {n} :  : hort. weed | 1735
+
+zurückgehen [z. B. Preise] :  : revenir/retourner [en arrière]//to decline [diminish]/to drop/to slump | 2722 | zurückgegangen
+
+nirgends :  : nowhere {adv} [place] | 514
+
+================================================================ 19OCT2025 (Page 39) (SOIR) ==============
+
+unterfangen :  : to undertake | 1093
+
+Unterfangen {n} :  : endeavor [Am.] | 1082
+
+Unkräuter {pl} :  : bot. weeds | 44
+
+ziellos : tsill-os : aimless {adj} | 203
+
+unter den Mitgliedern : mitglidern : among the members {adv}
+
+mörderisch :  : cutthroat {adj} | 848 | mörderischer
+
+kehrtmachen :  : to turn around
+
+auf dem Absatz kehrtmachen [Redewendung] :  : to turn / spin on one's heel [idiom]
+
+(jdn.) hetzen :  : to hustle (sb.) [hurry]/to rush | 2877 | hetzte
+
+knirschend :  : crunching {adj} | 50 | knirschende
+
+Getrappel {n} [von Füßen] :  : patter [of feet] | 706
+
+flink :  : swift/nimble/agile {adj} | 1338
+
+pochen [Herz etc.] : poCH^n : to throb [heart, wound] | 1034
+
+================================================================ 19OCT2025 (Page 40) (SOIR) ==============
+
+joggen :  : sports to jog | 838
+
+Joggen {n} :  : sports jogging | 122
+
+wunderschön : voundersheun : gorgeous {adj} | 2138
+
+Fell {n} :  : fur [fur with fewer than 400 hairs per square cm, e.g. on a dog, cat or deer] | 909
+
+Speichel {m} :  : saliva | 1785
+
+(auf jdn./etw.) zustürzen :  : to rush over (to sth.) | zustürzte
+
+etw.Akk. zertrümmern :  : to break sth. [smash, break to pieces] | 347
+
+messerscharf :  : razor-sharp {adj} | messerscharfen
+
+plagen :  : to bother/to afflict | 2331 | plagten
 
 
+sichAkk. verfangen :  : to become entangled {past-p}/to catch [on smth.]
 
+Ranke {f} : rankeu : bot. tendril | 440
 
+Gleichgewicht {n} :  : balance | 1399
+
+Stillstand {m} :  : stalemate | 876
+
+(jdn./etw.) rollen : roll^n : to roll (sb./sth.) | 936
+
+etw. hinzusetzen : hin-tsou-zetss^n : to add sth. | 98
+
+================================================================ 19OCT2025 (Page 41) (SOIR) ==============
 
