@@ -1,5 +1,7 @@
 import fitz  # PyMuPDF
 
+#Objectif : c'était chiant de compter les mots à la main dans le PDF. Ce script le fait pour moi.
+
 # Ouvre le PDF
 pdf_path = "xxx"
 doc = fitz.open(pdf_path)
