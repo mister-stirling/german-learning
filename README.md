@@ -15,6 +15,6 @@ Un script pour Tampermonkey qui :
 - Utilise le raccourci `ALT + A` pour réactiver la barre de recherche si elle est désactivée.
 - Permet de lisser l'utilisation du site: marge à gauche, etc pour plus de visibilité.
 
-## Je suis un nerd et je veux les sources de ton projet/utiliser les mêmes outils pour les mesures, les stats, etc...
+## Je suis un geek et je veux les sources de ton projet/utiliser les mêmes outils pour les mesures, les stats, etc...
 
 Dossier Sources_pour_les_nerds
