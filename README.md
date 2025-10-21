@@ -1,18 +1,12 @@
 
 Ce dépôt contient mes notes personnelles et outils pour l'apprentissage de l'allemand.
 
-## 📊 Où trouver un résumé de ce qui a été fait depuis le début du projet ?
+## 📦 Je veux faire exactement comme toi et gagner du temps/je suis intéressé par le projet
 
-👉Ici_progression_textuelle_stats | Dossier sources_pour_les_nerds.
-
-## 📦 Contenu
-
-- Un add-on (script Tampermonkey) pour faciliter l'utilisation de dict.cc.
-- Un add-on (script Tampermonkey) pour rendre plus agréable amazon.lire.fr.
-- Un dictionnaire (+ idioms) et notes personnelles organisés par version pour un livre écrit en allemand.
-- Stats textuelles (pour les curieux) et stats descriptives de ma progression
-
-## 🧩 Add-on pour dict.cc et linguee.fr
+- Installe l'add-on (script Tampermonkey) pour faciliter l'utilisation de dict.cc.
+- Télécharge mon dictionnaire (+ idioms) et notes personnelles pour les livres lus.
+- 
+## 🧩 Que fait l'add-on pour dict.cc et linguee.fr ?
 
 Un script pour Tampermonkey qui :
 
@@ -21,9 +15,6 @@ Un script pour Tampermonkey qui :
 - Utilise le raccourci `ALT + A` pour réactiver la barre de recherche si elle est désactivée.
 - Permet de lisser l'utilisation du site: marge à gauche, etc pour plus de visibilité.
 
-## 🧩 Add-on pour amazon.lire.fr
+## Je suis un nerd et je veux les sources de ton projet/utiliser les mêmes outils pour les mesures, les stats, etc...
 
-Le script empêche le changement du curseur en main.
-
-
-👉 Voir l'extension tampermonkey.
+Dossier Sources_pour_les_nerds
