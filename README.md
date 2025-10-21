@@ -1,11 +1,11 @@
 
 Ce dépôt contient mes notes personnelles et outils pour l'apprentissage de l'allemand.
 
-## 📦 Je veux faire exactement comme toi et gagner du temps/je suis intéressé par le projet
+## 📦 Je veux faire comme toi et gagner du temps
 
 - Installe l'add-on (script Tampermonkey) pour faciliter l'utilisation de dict.cc.
 - Télécharge mon dictionnaire (+ idioms) et notes personnelles pour les livres lus.
-- 
+
 ## 🧩 Que fait l'add-on pour dict.cc et linguee.fr ?
 
 Un script pour Tampermonkey qui :
