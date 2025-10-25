@@ -3952,7 +3952,7 @@ forschen : forshen : to delve/to search | 2461 | forschenden (participe présent
 
 ungesund[auch fig.] : ounge-zount : malsain/malade/unhealthy/sickly {adj} [also fig.] | 480
 
-gesunden : gézound^n : to heal | 48
+gesunden : gézound^n : to heal/(adjectif 'sain' aussi)| 48
 
 Gesichtsfarbe {f} : gézi-çhts-farbeu : teint/complexion | 1529
 
@@ -5223,7 +5223,7 @@ Spielchen {n} [ugs.] : shpiel-çhen : little games {pl} [tricks]
 
 Jungchen {n} [regional] [ugs.] : young-çhèn : laddie [esp. Scot.] [coll.] | 239
 
-sichAkk. beeilen : ba-ayl-eun : to hurry up/se dépêcher
+sichAkk. beeilen : ba-ayl-eun : to hurry up/se dépêcher | beeilte
 
 ================================================================ 22JUN2025 (Page 44) (SOIR) ================================================================
 
@@ -5507,7 +5507,7 @@ Panzerung {f} : pantsé-roung : armure/plating [Am.] | 66
 
 ================================================================ 23JUN2025 (Page 48) (MATIN) ================================================================
 
-Gesundheit {f} : geu-zounthaït : health/vitalitéjk | 5444
+Gesundheit {f} : geu-zounthaït : health/vitalité | 5444
 
 nichts :  : rien/nothing {pron} | 1554
 
@@ -5802,7 +5802,7 @@ wert : ve-at : valoir/worth {adj} | 5921
 
 {m} der Wert :véat  : valeur/worth (NOUN)
 
-Dorf {n} : dor-f : village | 2845
+Dorf {n} : dor-f : village | 2845 Dörfer {pl} :  : villages | 122
 
 durchnässt : douiçhnésst : trempé/mouillé/drenched/soaked {adj} {past-p} | 632
 
@@ -6236,7 +6236,7 @@ Abschied {m} : apshiet : farewell/leave/goodbye | 2346
 
 jd./etw. schützte :  : sb./sth. protected/shielded | 13 (VERBE) | racine schützen | schützten
 
-fernhalten :  fernhalt^n : tenir à l'écart/to keep away/to keep out/to hold off | fernzuhalten
+fernhalten :  fernhalt^n : tenir à l'écart/to keep away/to keep out/to hold off | fernzuhalten | ferngehalten
 
 angeblich : angi-bliçh : supposément/allegedly {adv} | 5809 | angeblichen
 
@@ -6784,7 +6784,7 @@ zurückgekehrt : tsou-rukgek-eart : returned {past-p} | 122
 
 zurückkehren : tsourukk-ir^n : to return [come back] | 1579 | zurückkehrte
 
-Muster {n} : modèle/schéma | Muster {pl} = motifs/maquettes
+Muster {n} : motif/modèle/schéma | Muster {pl} = motifs/maquettes
 
 ================================================================ 25JUN2025 (Page 68) (SOIR) ================================================================
 
@@ -7116,7 +7116,7 @@ Summen {pl} : zoumm^n : totals | 12
 
 aufgeregt [erregt] : aouf-geriçht : excited/nervous/jumpy {adj} {past-p} | 6727 [ positif ou négatif, ça dépend]
 
-ungläubig : oun-gloy-bik : incredulous/unbelieving/infidel [archaic] {adj} | 1893
+ungläubig : oun-gloy-bik : incredulous/unbelieving/infidel [archaic] {adj} | 1893 | ungläubigen
 
 Schweiß- [z. B. Tropfen, Drüse, Verlust, Pore, Pruduktion, Fleck] : shveiss : sweat {adj} [e.g. bead, gland, loss, pore, production, stain] | 48
 
@@ -7759,7 +7759,7 @@ ehrenwert [geh.] : irenvéat : respectable/honorable/honest {adj} | 360 | ehrenw
 
 verbunden : fabount^n : associated/related {adj} {past-p} | 2869
 
-ausruhen [meist transitiv: sich, Arme, Beine, Augen a.] : aoussrouh^n  : to rest/to relax | 2035 | auszuruhen | ausgeruht
+ausruhen [meist transitiv: sich, Arme, Beine, Augen a.] : aoussrouh^n  : to rest/to relax | 2035 | auszuruhen | ausgeruht | ausruhte
 
 (sich) ausruhen :  : to rest to overcome fatigue
 
@@ -8180,7 +8180,7 @@ ausgemacht : aousgemaCHt : arranged/agreed {adj} {past-p} | 418
 
 durchgehen : douiçhgi-in : passer/to pass | 506
 
-(etw.) anlegen : anlig^n : fin. to invest (sth.)/mettre/s'amarrer | 965 | angelegt | anlegte
+(etw.) anlegen : anlig^n : fin. to invest (sth.)/mettre/s'amarrer | 965 | angelegt | anlegte | anzulegen
 
 Gerüchte {pl} : geruçhteu : rumours [Br.] | 803 | das Gerücht
 
@@ -8578,6 +8578,7 @@ etw.Akk. auslösen : aouss-leuz^n : tech. to trigger sth./to cause smth/to elici
 das Rätseln : rétsel^n : énigme/mystère | Rätsel | Rätsels
 
 jdn./etw. anziehen [reizen, anlocken : antsi^n : to attract sb./sth./to allure smth./to draw smth. | 4355 | angezogen [attracted/drawn]
+^ ne pas confodnre avec anziehen = mettre des vêtements
 
 beschleunigen : beshloynig^n : to accelerate/to hasten | 5393 | beschleunigte
 
@@ -8925,7 +8926,7 @@ wach liegen : vaCH lg^n : to lie awake (wach + liegen = wachgelegen (participe p
 
 nachgrübeln über [+Akk.] : naCHgrubeln : to ponder on/ to think about/to muse about | nachgegrübelt | nachgrübelte | nachzugrübeln
 
-jdn./etw. beschützen : beshuuts-èn : to protect/to defend sb./sth. | 825
+jdn./etw. beschützen : beshuuts-èn : to protect/to defend sb./sth. | 825 | beschützt
 
 mitkommen : mitkomm^n : to tag along | mitgekommen
 
@@ -9174,7 +9175,6 @@ springen : shpring^n : to leap/to jump/to spring/to bounce | 4061 | gesprungen
 Volldepp {m} [ugs.] [pej.] : foulldep : dipshit [vulg.] [pej.]/moron/dumbfuck | 427
 
 säubern [fig.] : zoyb^an : pol. to purge/to clean/to sanitize| 1227
-
 
 herfallen über : heafall^n : to attack/to go for/to pounce on | hergefallen
 
@@ -9434,7 +9434,7 @@ hier­her­bit­ten : hiaheabitt^n :prier de venir ici/demander de venir ici [an
 
 Hundeauge {n} : hounde-aougeu  : zool. dog's eye/yeux de chien | Hundeaugen
 
-zerbrechen : tsabréçh^n  : to shatter/to crash/to burst | 2420 | zerbricht | zerbrach | zerbrachen
+zerbrechen : tsabréçh^n  : to shatter/to crash/to burst | 2420 | zerbricht | zerbrach | zerbrachen | zerbrochen
 
 Stern {m} : shtean : star | 1845 | Sternen
 
@@ -9567,7 +9567,7 @@ Stille {f} : shtilleu : silence/calme/tranquilité/quiétude | 1027
 
 unschuldig :  : innocent {adj} | 4783 | unschuldigem
 
-etw.Akk. beschwören [Geister etc.] : beushveur^n : jurer/promettre/to invoke sth./conjurer/to confirm by oath | 1362
+etw.Akk. beschwören [Geister etc.] : beushveur^n : jurer/promettre/to invoke sth./conjurer/to confirm by oath | 1362 | beschworen
 
 abwehren : abvir^n : to fend/repousser/parer/to repel | 1388 | abgewehrt | abzuwehren
 
@@ -9832,7 +9832,7 @@ Tipps {pl} : tippss : tips | 62 | der Tipp
 
 grübeln : grubéln : to muse/to ponder | 1923 | grübelnd
 
-Erleuchtung {f} : er-loyçh-toung : epiphany/épiphanie | 3644
+Erleuchtung {f} : er-loyçh-toung : illumination/epiphany/épiphanie | 3644
 
 ================================================================ 09JUILLET2025 (Page 149) (SOIR) ================================================================
 
@@ -9846,7 +9846,7 @@ uneingeschränkt : oun-ayn-geshrénkt : unfettered/unrestricted/illimité/incond
 
 pro : par
 
-bisherig [vorherig] : bis-iriçh : previous {adj} [attr.] [prior] | 828 | bisherigen
+bisherig [vorherig] : bis-iriçh : previous {adj} [attr.] [prior] | 828 | bisherigen | vorherige
 
 
 Holzfäller {m} : holtssfélla : jobs lumberjack/logger (wood + fäller)| 575
@@ -10095,7 +10095,7 @@ gemeinsame Sache machen [Redewendung] : gemaynzameu : to join forces | littéral
 
 kreischen : kraysh^n : to squeal/to screech/to shriek | 1641 | kreischte
 
-{n} fließendes Wasser : fliessendess : flowing water
+{n} fließendes Wasser : fliessendess : flowing water | fließendem
 
 blitzen : blits^n: to flash/to twinkle | 407 | blitzten
 
@@ -10167,7 +10167,7 @@ kurzerhand : kourtsahant : unceremoniously {adv} | 207
 
 hinwerfen [fallen lassen] : hinveaf^n : to drop [throw down] [also: remark etc.] | 436
 
-(etw.) heilen : hayl^n : med. to cure (sth.)/to heal/to mend | 2191 | heilte
+(etw.) heilen : hayl^n : med. to cure (sth.)/to heal/to mend | 2191 | heilte | geheilt
 
 jdm. etw. einreden : ayn-rid^n : to talk sb. into believing sth | einzureden
 
@@ -10562,6 +10562,7 @@ Die Steppenreiter : shtepp^rayta : film F The Horsemen [John Frankenheimer]/cav
 Sehne {f} : zi-hneu : anat. tendon/corde | 1623
 
 Bogen {m} : bog^n : mus. weapons bow | 1008 | Bogens
+"in einem Bogen" => en arc de cercle
 
 das Sagen haben [Redewendung] : hab^n : to be in charge/ atte hier das Sagen = commander/avoir le pouvoir/être en charge (IDIOM)
 
@@ -10603,7 +10604,7 @@ Wurstfinger {m} [ugs.] : vourstfinga : med. sausage digit [coll.] [finger]
 
 ================================================================ 15JUL2025 (Page 175) (SOIR) ================================================================
 
-Meisterschaft  {f} : meystashaft : sports championship | 431
+Meisterschaft  {f} : meystashaft : maîtrise/excellence/sports championship | 431
 
 etw.Akk. ausreizen [z. B. Möglichkeiten] : aoussraytss^n : to exhaust sth./to exploit [e.g. possibilities] | 1147 | auszureizen | Gesundheit
 
@@ -10720,7 +10721,7 @@ Schleifspur {f} : shlayfshpoua : drag mark | Schleifspuren
 
 absichtlich : apziçht-liçh : deliberate {adj} [on purpose] | 6100
 
-fortbewegen : foatbevek^n : déplacer [loin, car fort appuie sur l'éloignement]/mouvoir/to move along | fortbewegt
+fortbewegen : foatbevek^n : déplacer [loin, car fort appuie sur l'éloignement]/mouvoir/to move along | fortbewegt | fortbewegte
 
 es zurückschaffen :tsuruk-shaff^n  : to make it back/ remettre en place/to transport back | zurückgeschafft
 
@@ -10784,7 +10785,7 @@ geräumig : geroymik : spacious {adj}/roomy [containing much space, e.g. car, T
 
 zurückkommen : tsourukkomm^n : to return [come back] | 233 | zurückkommst
 
-befestigen : befestig^n : to stick/to fasten/fixer qqch.| 1063 | befestigt | befestigte
+befestigen : befestig^n : to stick/to fasten/fixer qqch./attacher qqch.| 1063 | befestigt | befestigte
 
 ================================================================ 16JUL2025 (Page 180) (SOIR) ================================================================
 
@@ -11237,7 +11238,7 @@ Sekret {n} : zikrit : biol. med. VetMed. secretion [substance] | 98
 
 etw.Akk. verstärken : farbley-bend^n : to reinforce sth. | 3830 | verstärkte
 
-verbleibend : fa-blayd^nd : remaining/residual {adj} | 1536 | verbleibende | verbleibenden | verblieben | verbliebenden
+verbleibend : fa-blayb^nd : remaining/residual {adj} | 1536 | verbleibende | verbleibenden | verblieben | verbliebenden
 
 jd. maß : mass : sb. measured/mesure | 52
 
@@ -11818,7 +11819,7 @@ flink :  : nimble {adj} | 1260
 
 schwimmen : shvimm^n  : to swim | 3008 | schwammen (prétérit) | geschwommen
 
-klappen [ugs.] [funktionieren] : klapp^n : to work [to function] | 604
+klappen [ugs.] [funktionieren] : klapp^n : to work [to function] | 604 | klappt
 
 ================================================================ 25JUL2025 (Page 211) (MATIN) ================================================================
 
@@ -12001,6 +12002,7 @@ Wolfsfisch : poisson loup
 
 verhalten : fa-halt^n : se comporter/se conduire | verhielten | verhältst
 ^ ne pas confondre avec l'adjectif verhalten "cautious/prudent"
+^ ni Verhalten = comportement
 
 unersättlich : ounazéttliçh : insatiable {adj} | 1954 | unersättliche
 
@@ -12307,7 +12309,7 @@ etw.Akk. bearbeiten [z. B. einen Antrag, Aufträge] :  : admin. comm. to process
 
 etw. gewinnen [erreichen, erlangen] :  : to gain sth. [obtain] | 2757 | gewann
 
-entstehen : enshti^n : to emerge/to arise [come into existence]/to originate | 4950 | entstand
+entstehen : entshti^n : to emerge/to arise [come into existence]/to originate | 4950 | entstand
 
 klammheimlich [ugs.] :  : clandestine {adj} | 246
 
@@ -12996,7 +12998,7 @@ Meute {f} : moyteu : mob/meute | 257
 
 Konkurrent {m} :  : competitor | 3207 | Konkurrenten {pl}
 
-einschätzen :  : to assess/to estimate/considérer qqn. | 2772
+einschätzen : eynshétss^n : to assess/to estimate/considérer qqn. | 2772
 
 Beuteopfer : : proies
 
@@ -14470,7 +14472,7 @@ Anschub {m} : anshup : push | 93
 
 streiten : shtrayt^n : to quarrel/to contend | 2831
 
-festsetzen :  fest-zetss^n : to determine/to establish | 942
+festsetzen :  fest-zetss^n : to determine/to establish | 942 | festgesetzt
 
 Ehrenkodex {m} : iren-kod^x : code of honor [Am.]
 
@@ -16073,14 +16075,325 @@ auslöschen :  : to extinguish/to obliterate | 1878 | ausgelöscht
 
 ================================================================ 21OCT2025 (Page 57) (SOIR) ==============
 
+Zusatz- :  : additional {adj} | 237
+
+vorerst :  : for now {adv} [for the present]
+
+wehrlos :  : vulnerable {adj} | 885
+
+Lagerfeuer {n} :  : bonfire [campfire, outdoor fire for warmth or entertainment] | 1255
+
+braten :  : gastr. to roast/braiser | 1050
 
 
+================================================================ 24OCT2025 (Page 58) (SOIR) ==============
+
+deswegen : dessvig^n : because of this {adv}
+
+dehydriert : dihu-driat : dehydrated {adj} {past-p} | 50
+
+Was ist der Unterschied? :  : What's the difference?
+
+« Wo liegt der Unterschied? » veut donc littéralement dire :
+
+« Où se trouve la différence ? »
+
+etw.Akk. erlernen :  : to learn sth. [skill, language etc.] | 537
+
+Verschwendung {f} : fashvendoung : waste | 955
+
+================================================================ 24OCT2025 (Page 59) (SOIR) ==============
+
+Schreiner {m} [bes. westmd., südd., schweiz.: Tischler] :  : jobs carpenter | 1216
+
+================================================================ 24OCT2025 (Page 60) (SOIR) ==============
+
+Holzbearbeitung {f} :  : woodworking | 14
+
+zu Dutzenden :  : by the dozens {adv}
+
+Schmiedekunst {f} :  : art ind. blacksmithing | 14
+
+etw.Akk. verwerfen :  : to discard sth. [plan, theory etc.] | 4452 | verworfen
+
+durchgelesen :  : read through {past-p}
+
+herunterrollen :  : to roll down
+
+================================================================ 24OCT2025 (Page 61) (SOIR) ==============
+
+bahnen : bann^n : to pioneer | 407 | bahnte
+
+================================================================ 24OCT2025 (Page 62) (SOIR) ==============
+
+fortbewegen :  : to move along
+
+================================================================ 25OCT2025 (Page 63) (SOIR) ==============
+
+Erholung {f} :  : recovery | 1671
+
+Fortbewegung {f} :  : movement [locomotion] | 90
+
+Lieblings- :  liblingz : favourite {adj} [Br.] [attr.] | 1591
+
+etw.Akk. wegbewegen :  : détourner/to move sth. away/to sir away
+
+völligen : total/complet
+
+Loslassen {n} :  : letting go 
+
+Dehnen {n} :  : stretching | 184
+
+Verhalten {n} [auch zool. und psych.] :  : behavior [Am.] [also zool. and psych.] | 4584
+
+================================================================ 25OCT2025 (Page 64) (SOIR) ==============
+
+
+entschuldigen :  : to apologise [Br.] | 4870
+
+schlummernd [versteckt, lauernd] :  : lurking/dormant {adj} | 446 | schlummernden
+
+wohl aber ... :  : but ... however
+
+Anstoß {m} [fig.] [in: Anstoß nehmen, Anstoß geben] :  : impulsion/élan/incitation/umbrage | 1170
+
+================================================================ 25OCT2025 (Page 65) (SOIR) ==============
+
+Gegensatz {m} : gign^zatss : contrast | 911
+
+Waffenschmied {m} :  : armourer [Br.] | 17
+
+mittlerer : mittléra : intermédiaire/moyen
+
+speziell angefertigt :  : custom-built {adj}
+
+Batzen {m} [ugs.] :  : chunk | 332
+
+optisch :  : visual/optic/visuellement {adj} | 412
+
+================================================================ 25OCT2025 (Page 66) (SOIR) ==============
+
+ästhetisch : ésthétish : aesthetic {adj} | 194
+
+ritzen :  : to carve | 81 | geritzt
+
+Stichwaffen {pl} :  : weapons thrusting weapons
+
+(orientalischer) Krummsäbel {m} : kroummzéb-l : weapons scimitar
+
+Stab {m} :  : rod/bâton | 908 | Stabes
+
+Schaft {m} :  : shaft | 646
+
+staunend : shtaounent  : marveling {adj} [Am.] | 123
+
+Speicherring {m} : shpeiçherring  : nucl. phys. storage ring
+
+superteuer [ugs.] [meist pred.] : zoupatoya : super expensive {adj}
+
+als ich aufwuchs : quand je grandissais/pendant mon enfnace
+
+als jd. aufwuchs :  : when sb. grew up
+
+Sonderanfertigung {f} :  : custom build
+
+mitentworfen : concevoir avec/co-concevoir
+
+Fach {n} [in Tasche, Brieftasche etc.] :  : pocket [in a bag, purse etc.] | 50
+
+von Reichtum zeugt : signe de richesse
+
+„Er sollte jetzt durch
+sein.“ = il devrait être prêt/avoir fijni maintenant
+
+================================================================ 25OCT2025 (Page 67) (SOIR) ==============
+
+Handgelenk {n} :  : anat. wrist | 7112
+
+gestutzt :  : clipped {adj} {past-p} | 1209
+
+makellos :  : immaculate {adj} | 3600
+
+stylen :  : to style | 139
+
+an etw.Dat. herumkauen :  : to chew away at sth. [gnaw at sth. (until it's all gone)]
+
+maßgefertigt :  : custom-made {adj} | maßgefertigte
+
+================================================================ 25OCT2025 (Page 68) (SOIR) ==============
+
+gedankenversunken :  : deep in thought {adj}
+
+untergehen [Sonne, Mond etc.] : ounta-gi-in : to set [sun, moon, etc.] | 453
+
+etw.Akk. herauskitzeln : heraouskitsseln : to tease sth. out [fig.]
+
+
+================================================================ 25OCT2025 (Page 69) (SOIR) ==============
+
+einpacken :  : to wrap | 2376 | eingepackt
+
+verstreichen [Zeit] :  : to pass [of time]/to go by | 51
+
+mit etw.Dat. im Auge [fig.] :  : with a view to sth. {adv} [fig.]
+
+jd. hat sich um jdn./etw. gekümmert :  : sb. minded sb./sth. [took care of, looked after]
+
+anbrechen [geh.] [beginnen] [z. B. Nacht, Dunkelheit] :  : to descend [e.g. night, darkness] | 1006
+
+anbrechen [neuer Tag] :  : to dawn [new day] | 314
+
+================================================================ 25OCT2025 (Page 70) (SOIR) ==============
+
+Das Spiel ist aus. :  : The game is over.
+
+ist aus/war aus = to be done/éteint dans le cas du feu
+
+völlig weggetreten [ugs.] :  : really out of it [coll.]
+
+einwickeln :  : to wrap | 766 | eingewickelt
+
+jdn./etw. umkreisen :  : to circle sb./sth. | 1298
+
+umkreist :  : circled {past-p} | 19
+
+träge :  : sluggish {adj} | 3116
+
+heimisch : haymish : bot. zool. indigenous {adj} | 197
+
+weswegen :  : which is why {conj}
+
+Untote {pl} :  : undead
+
+jd./etw. scheint : sheymt : sb./sth. seems | 757
+
+================================================================ 25OCT2025 (Page 71) (SOIR) ==============
+
+sichAkk. ducken :  : to duck down
+
+flutschen [ugs.] [rutschen] :  : to slip | 46
+
+================================================================ 25OCT2025 (Page 72) (SOIR) ==============
+
+Bärenfell {n} :  : bearskin | 17
+
+hochrangige {pl} :  : high-level
+
+nahegelegen :  : nearby {adj} | 807
+
+benannt :  : named {adj} {past-p} | 199
+
+================================================================ 25OCT2025 (Page 73) (SOIR) ==============
+
+als jd. zusammenzuckte :  : when sb. jerked [winced]
+
+Miene {f} :  : countenance [facial expression or face] | 810
+
+Wrack {n} :  : wreck | 886
+
+verheddern :  : to tangle up/to get entangled
+
+Vogelnest {n} :  : orn. bird-nest
+
+Strähne {f} :  : strand [skein]/streak | 1229
+
+Haarschneidemaschine {f} : haarshnaydeumashineu : cosmet. electr. tools hair clipper
+
+etw.Akk. herstellen [anfertigen] :  : to manufacture sth. [produce] | 3885 | hergestellt
+
+================================================================ 25OCT2025 (Page 74) (SOIR) ==============
+
+Metallplatte {f} :  : metal plate
+
+Schutzvorrichtung {f} : shoutssforriçhtoung : safeguard | 48
+
+Viertel {n} [schweiz. meist {m}] [vierter Teil] :  : quarter [fourth] | 820
+
+einstellen [einrichten, ausrichten, justieren] :  : to adjust | 2966
+
+einen Viertelzoll : un quart de pouce
+
+verdeckt [geheim, verborgen] : fedékt : covert/concealed {adj} | 1293
+
+Friseur {m} : frizzeua : cosmet. jobs hairdresser | 1357
+
+jdn. aussparen :  : to spare sb. | 125
+
+================================================================ 25OCT2025 (Page 75) (SOIR) ==============
+
+Bad {n} [Wannenbad, Badewanne] :  : bath | 1101
+
+Decken1  {pl} :  : textil. blankets | 220
+
+================================================================ 25OCT2025 (Page 76) (SOIR) ==============
+
+jdn./etw. vermissen :  : to miss sb./sth. | 1815
+
+etw.Akk. entlanglaufen [an etw. entlanggehen] :  : to walk/run along sth.
+^ oui peut dire les deux ça dépend du contexte
+
+Umweg {m} : oumvik  : detour | 1420
+
+================================================================ 25OCT2025 (Page 77) (SOIR) ==============
+
+felsig :  : rocky {adj} | 190
+
+etw.Akk. erklimmen [geh.] [einen Berg etc.] :  : to climb sth. [a mountain, etc.] | 149
+
+Marsch1  {m} :  : march | 327
+
+gelind :  : gentle {adj} | 23
+
+rüttelnd :  : jolting {adj} {pres-p} | 38
+
+etw. gut durchschütteln :  : to give sth. a good shake/to churn/secouer
+
+hin und her :  : back and forth {adv} [idiom]
+
+herauskommen [sichtbar / erkennbar werden (auch als Ergebnis), heraustreten] :  : to emerge | 649
+
+hineinlaufen :  : to run in/to bump into | hineingelaufen
+
+Dorfvorsteher {m} :  : (village) headman | Vorsteherin {f}
+
+================================================================ 25OCT2025 (Page 78) (SOIR) ==============
+
+lange Sicht {f} :  : long run
+
+unhöflich :  : rude/impolite {adj} | 7813
+
+falsch [verkehrt] [auch: unrecht, ungerecht, unfair] :  : wrong {adj} {adv} | 2390
+
+auf niedrigem Niveau :  : at a low level {adv}
+
+================================================================ 25OCT2025 (Page 79) (SOIR) ==============
+
+Waldrand {m} :  : woodside
+Waldrand {m} :  : forest edge
+
+Dorfbewohner {pl} :  : villagers | 557
+
+in Schwierigkeiten geraten :  : to get into a mess
+
+================================================================ 25OCT2025 (Page 80) (SOIR) ==============
+
+Wanderung {f} :  : hike | 1091
+
+durchtrainiert :  : buff {adj} [Am.] [sl.] [in a condition of high physical fitness] | 780
+
+Narben {pl} :  : scars | 839
+
+================================================================ 25OCT2025 (Page 81) (SOIR) ==============
+
+Eigenart {f} [Marotte] :  : quirk [peculiar aspect of one's character]/peculiarity/bizarrerie | 1672
+
+letzten Endes [Redewendung] :  : at the end of the day {adv} [Br.] [coll.] [idiom]
+
+hellblond :  : light blonde {adj}
+
+================================================================ 25OCT2025 (Page 82) (SOIR) ==============
 
 à lire en dehors de batchs:
-	59
-	60
-	62
-	75
 	82
 	83
 	90
