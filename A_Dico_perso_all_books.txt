@@ -79,7 +79,7 @@ leicht [ohne Schwierigkeiten, einfach] : laiçht : easy/light {adj} | 2009
  doch diese Worte kamen ihm nicht leicht von den Lippen. : es mots ne lui vinrent pas facilement aux lèvres.
  
 Er ist am Leben“ : il est en vie (idiom)
-jd. erwiderte : éavide^atte : répondre/rétorquer/sb. retorted | 154 | verbe racine erwidern
+jd. erwiderte : éavide^atte : répondre/rétorquer/sb. retorted | 154 | verbe racine erwidern | erwiderten
 
 düsteren : du-sterèn : sombre
 
@@ -693,7 +693,8 @@ gehört [von hören] : geu-heuat : heard (verbe racine hören = entendre)/belon
 
 jd. nickte : nik-teu : sb. nodded | 1273
 
-schweigend : schv-aï-gent : se taire (oui c'est la vraie signification ENTIERE du verbe)/garder le silence/silencieusement/silently {adv} | 259 | schwiegen :
+schweigend : schv-aï-gent : se taire (oui c'est la vraie signification ENTIERE du verbe)/garder le silence/silencieusement/silently {adv} | 259 | schwiegen
+schweigen :  : to say nothing
 
 Erstgeborener {m} : east-ge-borener : firstborn | 10
 
@@ -1164,7 +1165,7 @@ schneller : schnell^a : faster {adj} {adv} | 163
 jd. starrte : shtarrteu : sb. stared | 203 (verb, STARREN)
 starrte + someone + an = stared at xxx
 
-erklären [erläutern] : éklér^n : to explain sth. | 5288
+erklären [erläutern] : éklér^n : to explain sth./affirmer | 5288
 
 wedeln/wedelte : videl^n : to wag | 813 (VERB)
 
@@ -2337,7 +2338,7 @@ jd. schrie : shrie : sb. criait/pleurait/screamed/cried | 67
 
 [wir/sie/Sie] dachten : daCHten : [we/they/you] thought | 104
 
-fähig : fé-içh : capable/accompli {adj} | 7228 | fähige
+fähig : fé-içh : capable/accompli {adj} | 7228 | fähige | fähigen
 
 Medizinfrau {f} : médit-sin-frao : ethn. relig. medicine woman
 
@@ -3921,7 +3922,7 @@ Festung {f} : feshtoung : archi. mil. forteresse/stronghold/fortress | 1291
 
 Steinwall {m} [aus Steinen aufgeschütteter Wall] : shtain-vall  : stone wall
 
-{n} Tor : to^a : gate/portail | 4622
+{n} Tor : to^a : gate/portail | 4622 | Tores
 
 bewaffnet : bevaffnete : armé/armed/weaponed {adj} {past-p} | 1132
 
@@ -4147,7 +4148,7 @@ Freundlichkeit {f} : froynt-liçh-kayt : friendliness/amabilité/gentleness/kind
 in Ordnung : ord-noung : bien/dans l'ordre//all right/fair enough/fine (c'est une expression)
 
 etw.Akk. besorge [beschaffen, kaufen] : beu-zorg : procure/trouve/to procure/to provide/to get sth. [obtain, acquire] | 1370(<-- impératif, verbe racine : besorgen) | besorgt | 
-^ ne pas confondre avec besorgt (=adjectif pour dire inquiet/afraid/anxious/worried)
+^ ne pas confondre avec besorgt (=adjectif pour dire inquiet/afraid/anxious/worried) | besorgten
 
 
 Platz {m} [Ort] : plat-ss : endroit/spot/place | 244
@@ -4456,7 +4457,7 @@ Gemüsesuppe {f} : geumuu-ze-zeuppe : gastr. potage/soupe de légumes/pottage | 
 
 Hunger {m} : houng^a : hunger | 2638
 
-jdn. bemühen [geh.] : beumu^n : to exert [himself/herself] | s'efforcer de | 116 | bemühte
+jdn. bemühen [geh.] : beumu^n : to exert [himself/herself] | s'efforcer de | 116 | bemühte | bemühten
 
 darum : daroum : for that reason {adv}
 [darum exprime la CAUSE ou la MOTIVATION
@@ -4897,7 +4898,7 @@ zuvor, vor, bevor, davor = ne pas confondre.
 
 vor = spatial ou temporel (il y a deux ans, avant le repas) préposition | bevor = comparer deux actions (je me lave les mains avant de manger) conjonction subord. | zuvor = auparavant (adverbe) | davor = adverbe spatial ou temporel (juste avant [cela], devant ça, auparavant. remplace un groupe introduit par "vor", référence à un élément précédent)
 
-etw.Akk. behalten : be-halt^n : mémoriser/garder [e.g : secret]/to keep/retain sth. | 9190
+etw.Akk. behalten : be-halt^n : mémoriser/garder [e.g : secret]/to keep/retain sth. | 9190 | behalten 
 
 vorbereitet : foa-ber-aï-tèt  : préparé/prepared/prévu {adj} {past-p} | 1367 | verbe racine vorbereiten (préparer) | 
 
@@ -5229,7 +5230,7 @@ sichAkk. beeilen : ba-ayl-eun : to hurry up/se dépêcher | beeilte
 
 Fahrer {m} : fah-rèr : chauffeur/driver | 1202
 
-angeschlossen : angeu-shloss^n : joint [comme joindre qqn/qqch]/connecté/raccordé/branché/associated/linked/attached/plugged {adj} {past-p} | 426 | verbe racine anschließen
+angeschlossen : angeu-shloss^n : joint [comme joindre qqn/qqch]/connecté/raccordé/branché/associated/linked/attached/plugged {adj} {past-p} | 426 | verbe racine anschließen | schloss + an
 
 Bär {m} : béa : stocks zool. T bear/OURS [animal] | 1651
 
@@ -6262,7 +6263,7 @@ in keinem berauschenden Zustand : dans un état loin d'être euphorique/état qu
 
 verharren [geh.] : faharr^n : to remain | 636
 
-verringert : farringat  : réduire/Diminuer/reduced/decreased {adj} {past-p} | 196 | verbe racine verringern | verringerten
+verringert : farringat  : réduire/Diminuer/reduced/decreased {adj} {past-p} | 196 | verbe racine verringern | verringerten | verringerter
 
 jd. verschenkt :  : sb. gives away | verbe racine verschenken
 
@@ -7015,7 +7016,7 @@ Flexibilität {f} : fléxibili-tèt : versatility/flexibility | 336
 
 nachlassend : naCHaessent : weakening/flagging {adj} {pres-p} | 611 | nachlassenden
 
-nachlassen :  : relâcher/abaisser/to abate/to cease/fléchir/diminuer/affaiblir/to wane | 2863 | nachgelassen | nachließ
+nachlassen :  : relâcher/abaisser/to abate/to cease/fléchir/diminuer/affaiblir/to wane | 2863 | nachgelassen | nachließ | nach + ließ
 
 auffüllen : aouf-full^n : remplir/compléter/reconstituer/to fill | 395 aufzufüllen | aufgefüllt
 
@@ -7174,7 +7175,7 @@ Ballen {m} [Hand, Fuß, Zehen] : ball^n : anat. ball [of hand, foot, toes]/ to
 hindurch : hin-douiçh : through {adv}/throughout {adv} {prep} | 349
 ^ pk durch + hindurch => sourire malgré/ à travers les larmes (insistance stylistique, la difficulté du geste)
 
-schlecht : shléçhteu : bad {adj} | 32767 | schlechtes
+schlecht : shléçhteu : bad {adj} | 32767 | schlechtes | schlechten
 
 jdm. etw.Akk. eintrichtern [ugs.] : ayn-triçhtèrn : inculquer/to incultate with. smth./to drum sth. into sb. [idiom] | eingetrichtert (IDIOM) | eintrichterte
 
@@ -8349,7 +8350,7 @@ nüchtern [sachlich] : nuçhte^an : businesslike {adj} | 345
 
 ================================================================ 01JUILLET2025 (Page 100) (MIDI) ================================================================
 
-weitergehen : va-ita-gi-in : to proceed/to progress/to continue/to progress | 377 | weitergingen
+weitergehen : va-ita-gi-in : to proceed/to progress/to continue/to progress | 377 | weitergingen | weiterzugehen
 
 Zunge {f} : tsoungeu : anat. tongue [Lingua / Glossa] | 5561
 
@@ -8799,7 +8800,7 @@ etw. überrollen : uba-roll^n : to overrun sth. | 160
 
 Ich kam mir vor : j'avais l'impression/je me suis senti | sens littéral vor + kam = vorkommen = se produire/apparaitre/sembler = Je suis venu à moi devant (IDIOM)
 
-bequem : bekvim : confortable/convenient/comfortable/ {adj} | 3707 | bequemen
+bequem : bekvim : confortable/convenient/comfortable/complaisant [qui se complait dans le confort] {adj} | 3707 | bequemen
 
 ================================================================ 04JUILLET2025 (Page 115) (APREM) ================================================================
 
@@ -9472,7 +9473,7 @@ mitlachte : mitléçhteu :rire avec [qqun]/participer au rire
 
 ================================================================ 07JUILLET2025 (Page 135) (APREM) ================================================================
 
-schluchzen : shlouCHts^n : to sob | 1812 | schluchzte | geschluchzt
+schluchzen : shlouCHts^n : to sob | 1812 | schluchzte | geschluchzt | schluchzten
 
 kehren [bes. schweiz.: wenden] : kir^n : to turn [change] | 261
 
@@ -9878,7 +9879,7 @@ altern : alter^n : to age (verbe racine)| 758 | gealtert
 Tabu {n} : tabou : taboo | 61
 
 ab und zu : de temps en temps
-
+ab und zu :  : every so often {adv}
 sehr wohl = bel et bien 
 
 ================================================================ 10JUILLET2025 (Page 151) (MIDI) ================================================================
@@ -10246,7 +10247,6 @@ etw.Akk. erschließen [Rohstoffquellen etc.] : ershliss^n : to exploit sth./to 
 akzentuieren : aktssen-toui-r^n : ling. mus. to accentuate | 636 | akzentuiertem
 
 Verfassung {f} [Zustand] : fafassoung : condition [state]/shape | 794 
-
 
 Sichtfeld {n} : siçhtfelt : field of view
 
@@ -10692,6 +10692,7 @@ also : alsso : and so {adv} {conj}
 unheimlich : oun-heymliçh : eerie/uncanny {adj} | 4591 (rien à voir avec heimlich qui veut dire furtif/secret/caché) | unheimlichen | unheimlicher
 
 eines einzelnen : eintseln^n : of one single
+einzelnen peut aussi dire "isolé" (adj)
 
 etw. verbinden : fa-bint^n : to link sth./to connect smth | 2221 | verbanden | verbundene (=associated/related)
 
@@ -11105,7 +11106,7 @@ etw.Akk. zermalmen : tsamalmmn : broyer/écraser/to crunch sth. [crush]/to pup |
 
 beten : bit^n : to pray | 1203 | betete
 
-zusammenbrechen : tsouzammenbreçh-n : to collapse/to buckle | 1304
+zusammenbrechen : tsouzammenbreçh-n : to collapse/to buckle | 1304 | zusammenzubrechen
 
 Gebet {n} : gebit : prière/prayer| 1281 | Gebete
 
@@ -11238,7 +11239,7 @@ Sekret {n} : zikrit : biol. med. VetMed. secretion [substance] | 98
 
 etw.Akk. verstärken : farbley-bend^n : to reinforce sth. | 3830 | verstärkte
 
-verbleibend : fa-blayb^nd : remaining/residual {adj} | 1536 | verbleibende | verbleibenden | verblieben | verbliebenden
+verbleibend : fa-blayb^nd : remaining/residual {adj} | 1536 | verbleibende | verbleibenden | verblieben | verbliebenden | verbliebenen
 
 jd. maß : mass : sb. measured/mesure | 52
 
@@ -11859,7 +11860,7 @@ dahingerafft werden :  : to be removed by death
 
 jd./etw. verstümmelte : fashtummilte : sb./sth. mutilated | 63
 
-schlitzen :  : to slit | 295 | schlitzte
+schlitzen : shlitsseu : to slit | 295 | schlitzte
 
 Gedärme {pl} : gedérmeu : anat. zool. guts/entrailles | 3463 | das Gedärm
 
@@ -12578,7 +12579,7 @@ Handlung {f} :  : action/deed [æct]/plot [storyline]| 1657
 
 besudeln :  : to sully/to stain/to besmirch | 832 | besudelt =stained
 
-hervorlugen [regional] [poet.] : herfoualoung^n : to peek out
+hervorlugen [regional] [poet.] : herfoualoung^n : to peek out | hervorlugte
 
 jdm./etw. nachschauen [hinterherschauen, nachblicken] : naCHshaouen : to look after sb./sth. [to follow sb. with one's eyes]
 
@@ -12671,7 +12672,7 @@ auf Qualität bestehen :  : to insist on quality [auf + besthene = to insist on 
 
 womit : voumit  : whereby {adv} | 535
 
-klaffen : klaff^n : to gape/to yawn | 578 | klaffenden (gaping)
+klaffen : klaff^n : to gape/to yawn | 578 | klaffenden (gaping) | klaffende
 
 Vorbereitung {f} :  : preparation | 1764 | Vorbereitungen {pl}
 
@@ -13398,7 +13399,7 @@ Besonderes {n} : beuzondereus : special | 222
 
 tröstend :  : consoling/soothing (pres-p) {adj} | 732
 
-jdn. trösten :  : to comfort sb. [console] | 2422 | tröstete
+jdn. trösten : treusst^n  : to comfort sb. [console] | 2422 | tröstete
 
 Zerstörer {m} : tsehsteura : mil. naut. destroyer/wrecker/ravager | 61
 
@@ -15295,7 +15296,7 @@ jdm. etw.Akk. verdenken [geh.] :  : to hold sth. against sb./to blame
 
 Lache  {f} [Pfütze] : laCHeu : puddle | 936
 
-durchbohren :  : to gore [pierce] | 855 | durchbohrt
+durchbohren :  : to gore [pierce] | 855 | durchbohrt | durchbohrte
 
 ================================================================ 12OCT2025 (Page 16) (SOIR) ==============
 
@@ -15621,7 +15622,7 @@ Zeitraum {m} :  : period/stretch [of time] | 1310
 
 Dankbarkeit {f} [gegenüber] :  : gratitude [to] | 3601
 
-vorherig [attr.] : fuoheriçh : previous {adj} [attr.] | 1776
+vorherig [attr.] : fuoheriçh : previous {adj} [attr.] | 1776 | vorherigen
 
 Dankeschön {n} :  : thankyou | 30
 
@@ -15717,7 +15718,7 @@ etw. hinsetzen [Gegenstände] :  : to put sth. (down) [objects] | hinsetzte
 
 hinaufschauen [regional] :  : to look up
 
-zimperlich [empfindlich] :  : squeamish {adj} | 1837
+zimperlich [empfindlich] :  : squeamish {adj} | 1837 | zimperliches
 
 anstatt [+Gen., veraltet od. ugs. auch +Dat.] :  : instead of {prep}
 
@@ -16377,7 +16378,7 @@ in Schwierigkeiten geraten :  : to get into a mess
 
 ================================================================ 25OCT2025 (Page 80) (SOIR) ==============
 
-Wanderung {f} :  : hike | 1091
+Wanderung {f} :  : hike/errance | 1091
 
 durchtrainiert :  : buff {adj} [Am.] [sl.] [in a condition of high physical fitness] | 780
 
@@ -16393,11 +16394,347 @@ hellblond :  : light blonde {adj}
 
 ================================================================ 25OCT2025 (Page 82) (SOIR) ==============
 
-à lire en dehors de batchs:
-	82
-	83
-	90
-	99
+weiterwandern : continuer + plus loin + marcher/randommer/marche à pied
+
+außer sich [Dat. od. Akk.] geraten :  : to go wild
+
+================================================================ 25OCT2025 (Page 83) (SOIR) ==============
+
+Heimweg {m} : heymvik : way home
+
+tagelang : tageulang : for days {adv}
+
+Häuten {n} :  : skinning [of animals] | 15
+
+abgenutzt :  : worn {adj} [threadbare, etc.] | 837
+
+Herstellung {f} :  : manufacture | 962
+
+mithelfen :  : to assist/to play one's part in doing smth. | 81 | mitzuhelfen
+
+================================================================ 25OCT2025 (Page 84) (SOIR) ==============
+
+Lederverarbeitung {f} :  : leatherworking
+
+Rüstungen {pl} :  : armaments | 21
+
+Häschen {n} :  : bunny | 152 | Häschens
+
+flauschig : flaoushik : fluffy {adj} [fabrics] | 1077
+
+Stofftier {n} :  : toys plushie [also: plushy] | 64
+
+gerben [Tierhaut, Fell] :  : to tan/tanner qqch. [peau] | 304
+
+Tierkadaver {m} : tiakadava : zool. carcass | 82
+
+anfassen :  : to grab/touch/to handle| 844
+
+erschaudern [geh.] :  : to cringe [fig.] | 894 | erschauderte
+
+erschaudern [geh.] :  : to shrink back
+		
+================================================================ 25OCT2025 (Page 85) (SOIR) ==============
+
+losziehen :  : to head out [Am] | losgezogen
+
+süßeste :  : sweetest {adj} | 7
+
+Eingangstor {n} :  : gateway [also fig.] | 25
+ 
+versammeln :  : to gather [esp. of people] | 1256 | versammelt
+
+Salbe {f} :  : cosmet. pharm. ointment | 2075
+
+		
+================================================================ 25OCT2025 (Page 86) (SOIR) ==============
+
+weglaufen :  : to elope/to run off | 935 | weglief
+
+Haupttor {n} :  : main gate
+
+jdn. wegführen :  : to lead sb. away
+
+verdursten :  : to die of thirst
+
+================================================================ 26OCT2025 (Page 87) (SOIR) ==============
+
+nach einer gefühlten Ewigkeit :  : after what felt like an eternity {adv}
+
+mit gedämpftem Ton :  : à voix basse/d'un ton étouffé/sotto voce [written]
+
+Gemurmel {n} : gemourm-l : muttering | 170
+
+verstummen : fa-shtoumm^n : to become silent | verstummte
+
+Flucht {f} :  : escape/getaway | 1855
+
+================================================================ 26OCT2025 (Page 88) (SOIR) ==============
+
+zügigen : : qui avance bien, sans interruption | zugig 
+
+gesund :  : healthy/sound/well [healthy] {adj} | 7664
+
+Spannung {f} : shpannoung : tension | 5222
+
+Anspannung {f} :  : psych. tension | 1285
+
+================================================================ 26OCT2025 (Page 89) (SOIR) ==============
+
+etw.Akk. entriegeln :  : to unlock sth. | 389
+
+Niedlichkeit {f} :  : cuteness | 47
+
+Hasen {pl} :  : zool. T hare {pl} | 338 | Hase {m}
+
+Baumreihe {f} : baoumrey-eu : line of trees
+
+Leitwolf {m} :  : leader of the pack
+
+jd./etw. durchbohrte :  : sb./sth. gored | 66
+
+jdn./etw. wegtragen : viktrag^n : to carry sb./sth. away [carry off (on foot)]
+
+================================================================ 26OCT2025 (Page 90) (SOIR) ==============
+
+PAS DE MOTS INCONNUS
+
+================================================================ 26OCT2025 (Page 91) (SOIR) ==============
+
+jd. begutachtete :  : sb. surveyed/examined | 218
+
+aufstauen :  : to dam | 33 | aufgestauten
+
+etw.Akk. zum Vorschein bringen :  : to bring sth. to light
+zum Vorschein kommen :  : to emerge
+
+Baumgrenze {f} : baoumgrentseu : ecol. for. geogr. treeline | 29
+
+etw.Akk. vergeuden : fagoyd^n : to waste sth./to squander smth. | 683 | vergeudete
+
+Heimkehr {f} :  : homecoming | 80
+
+================================================================ 26OCT2025 (Page 92) (SOIR) ==============
+
+stets :  : always {adv}/steadily | 1399
+
+================================================================ 26OCT2025 (Page 93) (SOIR) ==============
+
+Tuchfühlung {f} :  : body contact
+	
+auf Tuchfühlung bleiben [ugs.] : touCHfuloung : to stay in close touch
+
+jdn. mit Fragen löchern [ugs.] :  : idiom to drill sb. with questions [coll.]
+
+jdn./etw. in Schach halten : shaCH halt^n : idiom to hold sb./sth. at bay
+
+flehend : fli-nt : imploring {adj} | 188
+
+================================================================ 26OCT2025 (Page 94) (SOIR) ==============
+
+fluchtend :  : aligning {adj} | 18 | Flüchtenden
+^ ne pas cofnondre avec Flüchtenden = fugitifs/personne en fuite
+
+an jdm./etw. vorbeirennen :  : to run past sb./sth. | vorbeirannte
+
+behaupten :  : to contend
+
+jdn./etw. überrennen : ubarinn^n : mil. to overrun sb./sth. | 82
+jdn./etw. überrennen [ugs.] [umrennen] :  : to (run into and) knock down sb./sth.
+
+Bemühungen {pl} : bemuu-houng^n : efforts/endeavours/attempts | 1763
+
+Kartenhaus {n} :  : house of cards
+
+Das gehört zum guten Ton. :  : This is common courtesy.
+
+von oben bis unten : ount^n : from top to bottom {adv}
+
+freie Bahn {f} :  : free rein
+
+================================================================ 26OCT2025 (Page 95) (SOIR) ==============
+	
+regungslos : rigoungsloss : motionless {adj} | 215
+
+augenblicklich :  : instantaneous {adj} | 1529
+augenblicklich [unverzüglich, sofort] :  : instantly {adv} | 596
+
+Einzelkampf {m} :  : single combat/duel
+
+ungleich :  : uneven {adj}/déséquilibré | 688
+
+loslaufen [weglaufen] : losslaouf^n : to run off
+
+================================================================ 26OCT2025 (Page 96) (SOIR) ==============
+
+wallend [geh.] :  : flowing {adj} {pres-p} [hair, robes] | 46
+
+gebräunt :  : tanned {adj} {past-p} | 750
+
+gebräunt [Pigmentierung durch Melanin] :  : biol. melanic {adj} | 8
+
+etw. entlanggehen [oder fahren] :  : to skirt sth. [move along] | 221
+entlanggehen :  : to walk along
+
+etw.Akk. beschönigen :  : to sugarcoat sth. [Am.] | 531 | beschönigte
+
+================================================================ 26OCT2025 (Page 97) (SOIR) ==============
+
+durchgehen : douiçh : to pass | 510
+
+etw. durchgehen [durchlesen, prüfen] :  : to peruse sth. | 429
+
+durchgehen [suchen] :  : to sift [search] | 121
+
+hingehen : hingi-èn : to go [to somewhere] | 287
+
+Heldenkomplex : hero complex
+
+jdm. nahestehen [auch emotional] :  : to be close to sb. [also emotionally]
+
+Abmachung {f} :  : deal/arrangement/bargain [agreement]| 417
+
+Fremder {m} : frèmda : stranger | 1217
+
+heldenhaft : held^nhaft : heroic {adj} | 843
+
+================================================================ 26OCT2025 (Page 98) (SOIR) ==============
+
+Zwölfjähriger {m} <12-Jähriger> :  : twelve-year-old <12-year-old>
+
+schnauzen [ugs.] :  : to snap [rant, snub] | 182
+
+Gelächter {n} : géleyçhta : laughter | 845
+
+jdm./etw. etwas anhaben können :  : to be able to harm / damage sb./sth.
+
+leugnen : loyg^nèn : to deny | 4134
+
+================================================================ 26OCT2025 (Page 99) (SOIR) ==============
+
+jdn./etw. hinauftragen : hinaouftrag^n : to carry sb./sth. up
+
+Landschaft {f} : lantshaft : landscape | 1949
+
+nur so :  : only thus {conj}
+
+als wir vorbeikamen :  : as we were passing
+
+zusammenprallen :  : to hurtle | 178
+
+================================================================ 26OCT2025 (Page 100) (SOIR) ==============
+
+Vorderseite {f} :  : forefront | 421
+Vorderseite {f} :  : front | 694
+
+reingehen [ugs.] : reyngi-in : to go in
+
+Innenleben {n} :  : insides | 24
+
+jdn. würgen :  : to choke sb./to gag. | 1696
+
+Körperteile {pl} :  : body parts
+
+Eingeweide {pl} :  : anat. entrails | 1080
+Eingeweide {pl} :  : anat. bowels {pl} | 613
+
+herausziehen :  : to yank | 655 | herauszog
+
+grausig :  : ghastly/macabre/grisly/gruesome {adj} 
+
+Bergung {f} [auf See] :  : naut. salvage | 324
+
+den auch : celui la aussi
+
+(etw.) aufräumen :  : to clear up (sth.)/to tidy/to clear
+
+================================================================ 26OCT2025 (Page 101) (SOIR) ==============
+
+Wolfswelpe {m} :  : zool. wolf pup
+
+Revue {f} :  : mus. theatre revue | 18
+
+Oberteil {n} :  : cloth. tech. top | 460
+
+Mittelalter {n} <MA> : mittlealta : hist. Middle Ages {pl} <MA> [most often treated as sg.]
+
+Damit wollte er nichts zu tun haben. : il ne voulait rien à faire avec ça
+
+Verletzungen {pl} :  : injuries | 525
+
+================================================================ 26OCT2025 (Page 102) (SOIR) ==============
+
+Dringlichkeit {f} :  : pressure/urgency | 2145
+
+Bedenken {pl} [Sorgen] :  : concerns [worries]/misgivings | 1517
+
+erkrankt :  : diseased {adj} | 478
+
+aufmischen :  : to stir up [also fig: to incite]/to rough up/to mix smth. up | aufmischte
+
+etw.Akk. vergießen :  : to shed sth. [tears, blood, sweat] | 975
+
+welcher / welche / welches :  : whichever {pron}
+
+zahlreich :  : numerous {adj} | 3106 | zahlreiche
+
+blenden :  : to glare/to blind | 2294 | blendete
+
+Stiefel {m} :  : cloth. boot | 2098
+
+Blutlache {f} :  : pool of blood/puddle of blood
+
+================================================================ 26OCT2025 (Page 103) (SOIR) ==============
+
+hervorspringen :  : to leap/to lunge out | 282 | hervorspringt
+
+hineinstürmen : hineynshturm^n : to rush in
+
+================================================================ 26OCT2025 (Page 104) (SOIR) ==============
+
+Bach {m} [kleiner Fluss] :  : geogr. hydro. creek [Am.] [Aus.] [NZ] | 2206
+Bach {m} [kleiner Fluss] :  : geogr. hydro. stream [small river] | 2046
+
+Konfrontation {f} :  : confrontation/face-off | 103
+
+in die Hocke gehen :  : to crouch down
+
+================================================================ 26OCT2025 (Page 105) (SOIR) ==============
+
+Sterbezustand : death state/death condition/état de mort
+
+vorgelegen :  : available {adj}/existed (pp) | 331
+
+erfolgen :  : to follow/to happen/to ensue | 743
+
+Timer {m} : teyma : timer | 32
+
+wiederbeleben :  : to resuscitate/to revive | 2768
+
+================================================================ 26OCT2025 (Page 106) (SOIR) ==============
+
+
+
+
+
+à ne pas lire en batch:
+
+121
+122
+149
+150
+155
+156
+157
+165
+187
+191
+192
+194
+195
+196
+197
+198
 
 
 
