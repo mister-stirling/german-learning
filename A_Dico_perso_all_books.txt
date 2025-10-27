@@ -306,7 +306,7 @@ genullt : annulé/remis à zero / intraduisible en fr
 
 Gesicht {n} : gésiçht  : face/visage | 6019
 
-verlor : fea-loa : sb. lost/[il perdit]/to lose  | 247 | verloren | verbe racine verlieren
+verlor : fea-loa : sb. lost/[il perdit]/to lose  | 247 | verloren | verbe racine verlieren | verliert
 ^ peut être utilisé idiomatiquement (ich kein Wort verlieren = je ne dirai pas un mot)
 
 jeden : yé-den : chaque/each
@@ -610,7 +610,7 @@ angenommen : angenomm^n : assumed/accepted {adj} {past-p}
 [ich] war :  : [I] was | 1439
 
 fuhr...fort : continua/poursuivit (fortfahren) 
-Fortfahren : forte-fa-ren : comp. Continue | 232
+Fortfahren : forte-fa-ren : comp. Continue | 232 | to proceed | fortzufahren
 und fuhr leise fort: et poursuivit à voix basse
 
 fort est une particule de continuation, elle peut être séparée de fahren/fuhr.
@@ -906,7 +906,7 @@ dass Zufall hier seine Hände im Spiel hatte : que le hasard ait euses mains dan
 
 etw. schmerzte : shmea-tste : sth. hurt | 100
 
-anzusehen : antsou-zi-in : regarder qqn.qqch/to watch/jeter un oeil à qqn. (ansehen : voir/deviner)
+anzusehen : antsou-zi-in : regarder qqn.qqch/to watch/jeter un oeil à qqn. (ansehen : voir/deviner)/considérer
 
 an+sehen : verbe à particule séparable
     Aren ansehen → incorrect ici
@@ -953,7 +953,7 @@ Lehrer {m} : léah-rar : educ. jobs teacher/tuteur/tutor | 2288
 
 davon : dafon : de ceci/des [qqch]/of the/of this {adv}/de là
 
-gelesen : gili-zeun : read {adj} {past-p} | 312 | lies : | las | verbe racine lesen (lire)
+gelesen : gili-zeun : read {adj} {past-p} | 312 | lies : | las | verbe racine lesen (lire) |liest
 
 altehrwürdig : alt--ia--vurdiçh  : Ancien/vénérable/très honorable {adj} [building, town, name, etc.] | 504 | altehwürdigen | Altehrwürdigen
 
@@ -4489,7 +4489,7 @@ möge c'est une forme konjunktiv I solennelle, fréquente dans les prières et b
 
 Gott möge abhüten! [ostösterr.] [aus dem Jiddischen] : meugeu : God forbid!
 
-jdn./etw. segnen : zign^n : bénir sb/sth./to bless sb./sth. | 1371
+jdn./etw. segnen : zign^n : bénir sb/sth./to bless sb./sth. | 1371 | gesegnet
 
 großzügig : gross-tsuu-giçh : generous/charitable {adj} [liberal, lavish] | 7857
 
@@ -5092,11 +5092,11 @@ jd. kümmerte sich um jdn./etw. : koumma-te : préoccupait/importait/sb. minded 
 
 jd. meinte : mayn-teu : sb. opined [expressed as one's opinion]/ pour ma part [Ich meinte] | 42
 
-aufsteigen : aouf-shteig^n : monter/s'élever/accéder à un niveau supérieur [promotion professionelle, sportif]/to soar/climb/to raise | 3799 | aufzusteigen | aufgestiegen | aufstieg  | Aufstieg {m} :  : ascent | 1443
+aufsteigen : aouf-shteig^n : monter/s'élever/accéder à un niveau supérieur [promotion professionelle, sportif]/to soar/climb/to raise | 3799 | aufzusteigen | aufgestiegen | aufstieg  | Aufstieg {m} :  : ascent | 1443 | aufsteigt
 
 leveln [ugs.] : level^n  :to level (up) [sl.] [game]
 
-{n} Wachstum : vaCHstoum : croître/progression/croissance/increase | wächst
+{n} Wachstum : vaCHstoum : croître/progression/croissance/increase | wächst |Wachstumsklassen
 
 skalierbar : skalia-bar : évolutif/scalable {adj} | 167
 
@@ -6124,7 +6124,7 @@ Hauptschuld {f} :  : fin. primary debt
 
 Haupt- :  : main {adj} [attr.] | 4299
 
-zusätzlich : tsou-zéts-liçh : extra/supplémentaire {adj} | 1000 | zusätzliche | zusätzlichen
+zusätzlich : tsou-zéts-liçh : extra/supplémentaire {adj} | 1000 | zusätzliche | zusätzlichen | zusätzliche
 
 tilgen : tilg^n : fin. to redeem | 1528 | getilgt
 
@@ -8179,7 +8179,7 @@ Quote {f} :  : part/quota/rate/share | 79
 
 ausgemacht : aousgemaCHt : arranged/agreed {adj} {past-p} | 418
 
-durchgehen : douiçhgi-in : passer/to pass | 506
+durchgehen : douiçhgi-in : passer/to pass/to peruse | 506
 
 (etw.) anlegen : anlig^n : fin. to invest (sth.)/mettre/s'amarrer | 965 | angelegt | anlegte | anzulegen
 
@@ -8700,7 +8700,7 @@ etw.Akk. verspüren : fa-shpur^n : to feel sth./to perceive smth. | 696 | versp�
 
 ================================================================ 03JUILLET2025 (Page 111) (SOIR) ================================================================
 
-etw. wechseln : vékseln : to change sth. [by substitution]/changer/passer à qqch./echanger qqch./swap qqch. [sides] | 1653 | wechselte | wechselten 
+etw. wechseln : vékseln : to change sth. [by substitution]/changer/passer à qqch./echanger qqch./swap qqch. [sides] | 1653 | wechselte | wechselten  | wechselt
 
 Geschäftsidee {f} : geshéfts-idée : business concept
 
@@ -9247,7 +9247,7 @@ Versuche {pl} : fazouCHe : attempts/trials [tests] | 289 | der Versuch
 
 etw.Akk. herausschlagen : heraous-shlag^n : to obtain sth. [gain an advantage] | 56 | herauszuschlagen
 
-falsch : falsh : false/wrong {adj} | 5170
+falsch : falsh : false/wrong {adj} | 5170 | Falsches
 
 einstweilen [inzwischen] : aynst-vayl^n : meanwhile/for now/pour l'instant {adv} | 73
 
@@ -9299,7 +9299,7 @@ etw.Akk. festlegen : festlig^n : to determine sth. | 4730
 
 Im Festlegen : le choix/la fixation
 
-passend : passent : appropriate {adj} | 3092 | passenden
+passend : passent : appropriate {adj} | 3092 | passenden | Passendes
 
 wählerisch : vérlerish : picky {adj} [coll.] | 2730
 
@@ -9862,7 +9862,7 @@ Bürger {m} : burga : citizen/citoyen | 2510
 
 weidlich [veraltend] [in kaum zu übertreffendem Maße, sehr] : vaytliçh : thoroughly/properly {adv} [very much, greatly] | 352
 
-herausholen [zurückziehen] : heraoushol^n : to withdraw/to fetch | 440 | herausgeholt
+herausholen [zurückziehen] : heraoushol^n : to withdraw/to fetch | 440 | herausgeholt | herauszuholen
 
 Obergrenze {f} : obagréntseu : plafond/ceiling/maximum limit/cap | 945
 
@@ -10630,7 +10630,7 @@ etw. hegen : hig^n : to cherish sth. [feelings, hope etc.]/to nurture/to harbou
 
 jdn. ärgern [beunruhigen] : érgern : to fret sb./to vex [annoy]/to irritate | 2571 | geärgert | ärgerte
 
-vorhaben : foahab^n : to intend/to purpose/to plan | 2874 | vorgehabt | vorhatte | vorhatten
+vorhaben : foahab^n : to intend/to purpose/to plan | 2874 | vorgehabt | vorhatte | vorhatten | vorhast
 
 nicht umzubringen sein : oumtsoubring^n : to be hard to kill
 
@@ -10832,7 +10832,7 @@ Nachsicht {f} : naCHziçht : indulgence/clémence | 1559
 
 Eifer {m} : eifa : zeal/ferveur | 2355
 
-jdm. vergeben [verzeihen] : fa-gib^n : to forgive sb.|attribuer qqch.|to award [a prize]|to forego smth. [change oppportunity] [not use]| 481
+jdm. vergeben [verzeihen] : fa-gib^n : to forgive sb.|attribuer qqch.|to award [a prize]|to forego smth. [change oppportunity] [not use]| 481 | vergibt
 
 etw.Akk. hineingeben = begeben (se rendre/aller) + hinein (vers l'intérieur) | 
 
@@ -12867,7 +12867,7 @@ in die Quere kommen [ugs.] [Redewendung] [behindern, stören] : qvéreu : to ge
 
 etw. beseitigen : bézaytig^n: to eradicate sth./to remove smth.| 2914 | beseitigt | beseitigte
 
-etw. einbringen [Zinsen etc.] :  : to yield sth. [interest etc.] | 2950
+etw. einbringen [Zinsen etc.] :  : to yield sth. [interest etc.] | 2950 | einbrachte
 
 faszinierend :  : intriguing/fascinant {adj} | 4260 | faszinierenden
 
@@ -12937,7 +12937,7 @@ watscheln [ugs.] :  : to shamble/to waddle | 684 | watschelte | watschelte
 
 voreinstellen : for-eyn-shtell^n : to preset | 37
 
-etw.Akk. berücksichtigen :  : to consider sth. [take into account] | 2547
+etw.Akk. berücksichtigen :  : to consider sth. [take into account] | 2547 | berücksichtigt
 
 Wildschwein {n} :  : zool. boar [feral pig] | 1376
 
@@ -13902,7 +13902,7 @@ wie Espenlaub zittern [ugs.] [Redewendung] :  : to tremble like a leaf [idiom]
 
 ausströmen [Dampf, Gas] :  : to escape/to emit | 567 | ausgeströmt
 
-jdn./etw. loslassen :  : to release sb./sth. | 499 | losließ | losgelassen
+jdn./etw. loslassen :  : to release sb./sth. | 499 | losließ | losgelassen | loszulassen
 
 Taktik {f} :  : tactic/policy [tactics]| 105 | die Taktiken
 
@@ -14275,7 +14275,7 @@ senkte ich forschend den Blick = j'abaissai le regard en scrutant/avec curiosit�
 
 Zauberkraft {f} :  : magic power
 
-etw. ausschalten : aousshalt^n : comp. electr. tech. to break sth./disable/to neutralize | 573 | ausgeschaltet
+etw. ausschalten : aousshalt^n : comp. electr. tech. to break sth./disable/to neutralize | 573 | ausgeschaltet | to checkmate
 
 ================================================================ 16AUG2025 (Page 324) (SOIR) ==============
 
@@ -15210,7 +15210,7 @@ Artgenossen {pl} :  : zool. fellow species
 
 Meisterleistung {f} [auch ironisch] :  : feat [also ironically]/masterstroke | 1543
 
-Glefe {f} : gléfeu : weapons glaive | 14 | Glefen
+Glefe {f} : gléfeu : weapons glaive/guisarme | 14 | Glefen
 
 Stangenwaffe {f} :  : mil. polearm | 9
 
@@ -15771,7 +15771,6 @@ eindringend :  : invasive {adj} | 184 | Eindringendes
 
 Bedrohung {f} :  : threat | 6197
 
-
 ================================================================ 19OCT2025 (Page 37) (SOIR) ==============
 
 hinfallen :  : to tumble/to fall down | 311
@@ -15987,7 +15986,7 @@ im Grunde :  : in essence {adv}
 
 Futter2  {n} [bes. f. Kühe, Pferde] [auch fig.] :  : agr. fodder [also fig.] | 1035
 
-Schnittstelle {f} :  : interface | 1881
+Schnittstelle {f} : shnittshtelleu : interface | 1881
 
 aufrufen :  : to invoke | 4108
 
@@ -16563,7 +16562,7 @@ Einzelkampf {m} :  : single combat/duel
 
 ungleich :  : uneven {adj}/déséquilibré | 688
 
-loslaufen [weglaufen] : losslaouf^n : to run off
+loslaufen [weglaufen] : losslaouf^n : to run off | loslief
 
 ================================================================ 26OCT2025 (Page 96) (SOIR) ==============
 
@@ -16693,7 +16692,7 @@ hineinstürmen : hineynshturm^n : to rush in
 ================================================================ 26OCT2025 (Page 104) (SOIR) ==============
 
 Bach {m} [kleiner Fluss] :  : geogr. hydro. creek [Am.] [Aus.] [NZ] | 2206
-Bach {m} [kleiner Fluss] :  : geogr. hydro. stream [small river] | 2046
+Bach {m} [kleiner Fluss] :  : geogr. hydro. stream [small river] | 2046 | Baches
 
 Konfrontation {f} :  : confrontation/face-off | 103
 
@@ -16711,14 +16710,174 @@ Timer {m} : teyma : timer | 32
 
 wiederbeleben :  : to resuscitate/to revive | 2768
 
-================================================================ 26OCT2025 (Page 106) (SOIR) ==============
+================================================================ 27OCT2025 (Page 106) (SOIR) ==============
 
+Nieren {pl} : nir^n : kidneys | 520
 
+Leber {f} : liba : anat. gastr. liver [Hepar] | 4226
 
+verwundbar : fervountbar : vulnerable {adj} | 5786
 
+hilfreich : hilfreyçh : helpful {adj} | 817
 
-à ne pas lire en batch:
+Auferstehung {f} : aouf-ea-shtéhoung : resurrection | 2885
 
+Auferstehungstränke : potion de résurrection
+
+jd. fuhr vorbei :  : sb. drove past
+
+einen Entschluss fassen : entshlouss : to make a decision
+
+================================================================ 27OCT2025 (Page 107) (SOIR) ==============
+
+[ich] tue : toueu : [I] do | 424
+
+vernünftiger :  : more reasonable {adj}
+
+lebenswichtig :  : vital/essential {adj} | 168 | Lebenswichtiges
+
+alle Ausführungen {pl} :  : all styles
+
+in verschiedenen Ausführungen erhältlich :  : available in different versions {adj} [postpos.]
+
+Privatsphäre {f} :  : privacy | 1070
+
+Privatsphäre {f} :  : private sphere
+
+================================================================ 27OCT2025 (Page 108) (SOIR) ==============
+
+Sitz {m} :  : seat/chair | 1305
+
+jdm. (schwer) zu schaffen machen [Redewendung] :  : to give sb. a hard time [coll.] [idiom]
+
+jdn. verhätscheln [ugs.] :  : to indulge sb./to pamper | 1722
+
+jdm. nahestehen [auch emotional] : naheushtiin : to be close to sb. [also emotionally]
+
+recht [richtig] : rèçht : correct {adj} [right] | 92
+
+================================================================ 27OCT2025 (Page 109) (SOIR) ==============
+
+neidisch :  : envious {adj}/jaleous | 3644
+
+auch weiterhin etw. tun :  : to keep on doing sth.
+
+etw. belächeln :  : to smile at sth.
+jdn. belächeln :  : to sneer at sb.
+
+================================================================ 27OCT2025 (Page 110) (SOIR) ==============
+
+stagnieren : shtaknir^n : to stagnate | 452
+
+als jd./etw. anfing :  : when sb./sth. began
+
+================================================================ 27OCT2025 (Page 111) (SOIR) ==============
+
+verweigern :  : to refuse/to deny | 9638
+
+Wenn es dir nichts ausmacht. :  : If it's not too much (of a) hassle.
+
+Seltenheiten {pl} :  : rarities
+
+================================================================ 27OCT2025 (Page 112) (SOIR) ==============
+
+als allererstes [zuallererst] :  : first and foremost {adv}
+
+Wunderkinder {pl} :  : infant prodigies
+
+Sag mal ... :  : Tell me ...
+
+Blasphemie {f} :  : relig. blasphemy | 34
+
+jdn./etw. verprügeln :  : to batter sb./sth. [beat sb./sth.] | 1084
+verprügeln :  : to cane/passer à tabac | 462
+
+peinigen :  : to torment | 271
+
+jdn./etw. bestrafen : beshtraf^n  : to punish sb./sth. | 3833
+
+Gehabe {n} : géhabeu : demeanor [Am.] | 421
+
+Theorien {pl} : tiori-n : theories | 23
+
+Horizont {m} : hori-tsont : horizon | 552
+
+Es geht über meinen Horizont hinaus. :  : idiom It is beyond me.
+
+Man war sich einig ... :  : It was generally agreed ...
+
+vieldiskutiert : fil-diskou-tiat : much-debated {adj} | vieldiskutiertes
+
+Thema {n} : tima : topic | 3337
+
+================================================================ 27OCT2025 (Page 113) (SOIR) ==============
+
+Weisheit {f} :  : wisdom | 3133
+
+sichAkk. (für etw.Akk.) eignen : eiknèn : to be suitable (for sth.) | eigne
+
+Persönlichkeit {f} : perzeunliçhkeyt : personality | 1377
+
+Grundregeln {pl} : grountrègl-n : basic rules
+
+================================================================ 27OCT2025 (Page 114) (SOIR) ==============
+
+ähnelt : énélt : resembles | 376
+
+================================================================ 27OCT2025 (Page 115) (SOIR) ==============
+
+Reiter {m} [auf Karteikarten, bei Computeranwendungen] : raï-ta : tab | 768 |
+
+Erzmagier {m} : èrtss-magia  : myth. archimage
+
+Tänzer {m} : tènssa : dance dancer | 618
+
+Sänger {m} : zènga : mus. singer | 1049
+
+geschicklichkeitssorientiert : axé sur la dextérité
+Geschicklichkeit = dextérité
+-keit = forme nom abstrait (habile-té)
+fugen-s = lettre de liasion
+orientiert = orienté/axé
+
+Kampfstil {m} :  : combat style
+
+hauptsächlich : hoptzéçhtliçh  : mainly {adv} | 3169
+
+jd. behielt :  : sb. kept | 283
+
+Wehr {f} [veraltet] [Widerstand, Verteidigung] : véa : defence [Br.] | 195
+
+etw. eingrenzen [begrenzen, unter Kontrolle halten] : eingrèntss^n : to contain sth. [disease, inflation etc.]/to limit/to narrow sth. down | 517 | eingegrenzt
+
+================================================================ 27OCT2025 (Page 116) (SOIR) ==============
+
+abfahren : apfar^n : to leave [depart, with a vehicle] | 1921
+
+nach Belieben : belib^n : med. pharm. freely {adv} <ad libitum, ad lib.>
+
+================================================================ 27OCT2025 (Page 117) (SOIR) ==============
+
+jd. personifizierte :  : sb. personified | 6
+
+Zerstörung {f} :  : destruction/devastation/blight [destruction] | 2403
+
+Hauptwaffe {f} [auch fig.] :  : mil. weapons main weapon [also fig.]
+
+Wächter {m} :  : warden | 3437
+
+unsterblich :  : immortal {adj}/deathless/undying | 1600
+
+================================================================ 27OCT2025 (Page 118) (SOIR) ==============
+
+jdn. ansprechen :  : to address sb. | 1824
+etw.Akk. ansprechen [erwähnen] :  : to mention sth.
+
+Masochist {m} : mazoCHist : psych. masochist | 188
+
+================================================================ 27OCT2025 (Page 119) (SOIR) ==============
+
+ne pas lire en batch:
 121
 122
 149
