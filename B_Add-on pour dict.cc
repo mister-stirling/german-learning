@@ -7,6 +7,7 @@
 // @match        https://www.dict.cc/*
 // @match        https://www.linguee.fr/*
 // @match        https://de-en.dict.cc/*
+// @match        https://defr.dict.cc/*
 // @grant        GM_setClipboard
 // ==/UserScript==
 
@@ -26,6 +27,10 @@ observer.observe(document.body, { childList: true, subtree: true });
     // QoL improvements
 
     window.addEventListener('load', () => {
+
+            // --- AUTO-REMOVE SHIT ADVERTISEMENT DIVS ---
+    document.querySelectorAll('div[style*="height:600px"][style*="width:300px"]').forEach(el => el.remove());
+    // ---------------------------------
 
         // Raccourci clavier Alt + A pour afficher #sinp si caché
         window.addEventListener('keydown', (e) => {
