@@ -2834,7 +2834,7 @@ Boni {pl} : booni : bonuses | 35
 
 etw.Akk. verbessern : fa-bess^n : to improve sth./to upgrade/to enhance/to revise | 10452 | verbessert | verbesserten | verbessertes
 
-etw.Akk. anstellen  : anshtellen : entreprendre/to carry out/to undertake sth | stelle | angestellt
+etw.Akk. anstellen  : anshtellen : entreprendre/to carry out/to undertake sth | stelle | angestellt | anstellte
 
 wobei : vobay : à condition que/du moment que/en quoi/bien que [conjonction difficile à traduire, introduit une concession ou une précision] (conjonction)
 
@@ -11009,7 +11009,7 @@ jdn. übers Ohr hauen [ugs.] [Redewendung] : oa haou^n : to cheat sb./to shortch
 
 Fauchen {n} : faouCH^n : hiss/hissing | 119 | 
 
-gefrieren : geu-frir^n  : to freeze | 438
+gefrieren : geu-frir^n  : to freeze | 438 | gefriert
 
 allumfassend : all-oum-fassent : comprehensive/overall/all-encompassing {adj} | 2021 | allumfassende
 
@@ -13007,7 +13007,7 @@ Beuteopfer : : proies
 
 geringfügig :  : slightly {adv} | 4283
 
-Wahnsinn {m} :  : insanity/wicked! | 1759
+Wahnsinn {m} :  : insanity/wicked! | 1759 | Wahnsinns
 
 perlmuttfarben : perl-moutt-farb^n : pearly {adj} [colour] | 18
 
@@ -15177,7 +15177,7 @@ Werte {pl} :  : values | 1489
 
 [du] warst :  : [you] were | 386
 
-etw.Akk. aufwerten :  : to enhance sth./to upgrade | 1335 aufgewertet | aufzuwerten
+etw.Akk. aufwerten :  : to enhance sth./to upgrade | 1335 aufgewertet | aufzuwerten || aufwertest
 
 menschlich :  : human {adj} | 1400
 
@@ -16071,7 +16071,7 @@ viermal :  : quadruply {adv} | 29
 
 etw. eindämmen [fig.] :  : to contain sth. [control, dam] | 447
 
-auslöschen :  : to extinguish/to obliterate | 1878 | ausgelöscht
+auslöschen :  : to extinguish/to obliterate | 1878 | ausgelöscht | auslöscht
 
 ================================================================ 21OCT2025 (Page 57) (SOIR) ==============
 
@@ -16342,7 +16342,7 @@ etw.Akk. erklimmen [geh.] [einen Berg etc.] :  : to climb sth. [a mountain, et
 
 Marsch1  {m} :  : march | 327
 
-gelind :  : gentle {adj} | 23
+gelind :  : gentle {adj} | 23 | gelinde
 
 rüttelnd :  : jolting {adj} {pres-p} | 38
 
@@ -16360,7 +16360,7 @@ Dorfvorsteher {m} :  : (village) headman | Vorsteherin {f}
 
 lange Sicht {f} :  : long run
 
-unhöflich :  : rude/impolite {adj} | 7813
+unhöflich : ounheufliçh : rude/impolite {adj} | 7813
 
 falsch [verkehrt] [auch: unrecht, ungerecht, unfair] :  : wrong {adj} {adv} | 2390
 
@@ -16875,11 +16875,123 @@ etw.Akk. ansprechen [erwähnen] :  : to mention sth.
 
 Masochist {m} : mazoCHist : psych. masochist | 188
 
-================================================================ 27OCT2025 (Page 119) (SOIR) ==============
+================================================================ 28OCT2025 (Page 119) (SOIR) ==============
+
+im Rückstand : rukshtant : behind {adv}
+
+Verwender {m} : favendà : user | 10
+
+jd. hat / hatte gemieden :  : sb. has / had avoided
+
+================================================================ 28OCT2025 (Page 120) (SOIR) ==============
+
+auserkoren [geh.] :  : selected/chosen {adj} | 16
+
+Voreinstellungen {pl} : foa-eyn-shtelloung^n : comp. tech. preferences/defaults | 77
+
+Juckreiz {m} :  : itch | 738
+
+Qual {f} : qval : agony/torture | 3362
+
+Frust {m} [ugs.] : froust : frustration | 543
+
+sich Luft machen [Redewendung] :  : to give vent to sth. = laisser libre cours à/laisser éclater son mécontentement  [idiom] | machte + Luft
+
+================================================================ 28OCT2025 (Page 121) (SOIR) ==============
+
+Versicherung {f} :  : insur. insurance/reassurance | 5611
+
+etw.Akk. rückgängig machen :  : to undo sth. [cancel, revoke]
+
+etw. rückgängig machen :  : to change sth. back [to reverse a change]
+
+================================================================ 28OCT2025 (Page 122) (SOIR) ==============
+
+wegwischen :  : to wipe away | weggewischt
+
+Erlangen {n} [von Rang, Würde etc.] : erlang^n : achievement [e.g. freedom, a majority, rank] | 20
+
+================================================================ 29OCT2025 (Page 123) (SOIR) ==============
+
+im Gange :  : afoot {adj} {adv}
+
+Es ist etwas im Gange. :  : Something is going on.
+
+Förster {m} :  : for. jobs forester/ranger/woodman | 189
+
+================================================================ 29OCT2025 (Page 124) (SOIR) ==============
+
+irgendwelche [pl] : irgèntvèlçheu : any {pron} [some, no matter which] | 715
+
+einige :  : some/several{adj} {pron} | 1737
+
+Auszeichnungen {pl} [Ehrungen] :  : accolades [awards] | 1091
+
+Scheißbillig : de merde à deux balles/littéraelment 'bon marché de merde' (IDIOM)
+
+gar nicht :  : not at all {adv}
+
+Enthüllung {f} : ènthulloung : revelation | 3929
+
+================================================================ 29OCT2025 (Page 125) (SOIR) ==============
+
+Neugierde {f} : noygiadeu : curiosity | 519
+
+Aufstand {m} :  : rising [uprising] | 67
+
+================================================================ 29OCT2025 (Page 126) (SOIR) ==============
+
+saugen2 :  : to suck | 1499 | to vacuum | to draw 
+
+hellblau : hellblao : light blue {adj}
+
+stechend [Schmerz] : shtèçhènt : med. sharp {adj} [pain] | 462
+
+Entzug {m} :  : withdrawal/deprivation | 922
+
+================================================================ 29OCT2025 (Page 127) (SOIR) ==============
+
+Zyklus {m} : tsuuklous : cycle | 565
+
+verliebt : fa-libt : fond/enamored {adj} | 2348
+
+Erbse {f} :  : bot. gastr. pea | 1738
+
+selbsterklärend :  : self-explanatory {adj}
+
+Abenteurer {m} :  : adventurer | 83
+
+keiner, der etwas auf sich hält :  : no self-respecting man = der etwas auf sich hielt
+
+================================================================ 29OCT2025 (Page 128) (SOIR) ==============
+
+Er spitzte die Ohren. :  : He pricked up his ears. = dresser/tendre l'oreille
+
+================================================================ 29OCT2025 (Page 129) (SOIR) ==============
+
+zurückwinken :  : to beckon back
+
+zurückweichen :  : to flinch/to retreat | 2482 | zurückwich
+
+selbstironisch :  : self-mocking {adj}/self-depreciating/self-ironic
+
+jd. schenkte :  : sb. donated | 69
+
+etw.Akk. herausbekommen [ugs.] [Information] :  : to glean sth. [information] | 576
+
+etw.Akk. herausbekommen [ugs.] :  : to prise sth. out [Br.]
+
+etw. überschatten : ubashatt^n : to overshadow sth. | 274 | überschattet
+
+Kanal {m} :  : channel [natural or artificial waterway] | 555
+
+================================================================ 29OCT2025 (Page 130) (SOIR) ==============
+
 
 ne pas lire en batch:
-121
-122
+
+
+
 149
 150
 155
