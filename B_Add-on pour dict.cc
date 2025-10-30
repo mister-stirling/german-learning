@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Easy copy & listen for dict.cc
 // @namespace    http://tampermonkey.net/
-// @version      0.6
+// @version      1.0
 // @description  Click on the clipboard to hear a word and copy it to your clipboard. Alt + A to access the search bar quickly.
 // @author       mister-stirling
 // @match        https://www.dict.cc/*
