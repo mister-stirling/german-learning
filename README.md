@@ -14,6 +14,7 @@ Un script pour Tampermonkey qui :
 - Ajoute une boîte de texte pour prendre des notes (ex. : prononciation).
 - Utilise le raccourci `ALT + A` pour réactiver la barre de recherche si elle est désactivée.
 - Permet de lisser l'utilisation du site: marge à gauche, etc pour plus de visibilité.
+- (à utiliser couplé avec un bloqueur de pubs pour une concentration maximale)
 
 ## Je suis un geek et je veux voir les données sources de ton projet/les outils...
 
