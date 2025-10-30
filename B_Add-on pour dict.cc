@@ -28,9 +28,6 @@ observer.observe(document.body, { childList: true, subtree: true });
 
     window.addEventListener('load', () => {
 
-            // --- AUTO-REMOVE SHIT ADVERTISEMENT DIVS ---
-    document.querySelectorAll('div[style*="height:600px"][style*="width:300px"]').forEach(el => el.remove());
-    // ---------------------------------
 
         // Raccourci clavier Alt + A pour afficher #sinp si caché
         window.addEventListener('keydown', (e) => {
@@ -144,5 +141,21 @@ observer.observe(document.body, { childList: true, subtree: true });
             // Insertion du bouton en début de la cellule anglaise
             tds[0].insertBefore(btn, tds[0].firstChild);
         });
+
+    // --- Hide annoying popup divs starting with id="img_" ---
+    const hidePopups = () => {
+        document.querySelectorAll('div[id^="img_"]').forEach(div => {
+            div.style.height = '0px';
+            div.style.overflow = 'hidden';
+        });
+    };
+
+    // Run once after page load
+    hidePopups();
+
+    // Watch for dynamically inserted elements
+    const popupObserver = new MutationObserver(() => hidePopups());
+    popupObserver.observe(document.body, { childList: true, subtree: true });
+
     });
 })();
