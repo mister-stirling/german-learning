@@ -818,7 +818,7 @@ viele von ihnen : beaucoup d’entre eux
 
 ihn : lui/them
 
-jd./etw. bestätigte : beush-té-ti-kte  : confirmer/acknowledged/confirmed | 108 | bestätigen
+jd./etw. bestätigte : beush-té-ti-kte  : confirmer/acknowledged/confirmed | 108 | bestätigen | bestätigten
 
 Paar {n} : pa^a : couple/paire [treated as sg. or pl.] | 5219
 
@@ -5618,7 +5618,7 @@ Steppen- : shtépp^n : geogr. steppe {adj} [attr.] | 80
 
 Steppen-Orks : orcs des steppes (longue étendue d'herbe, souvent jaunes/oranges, sans arbre)
 
-beherrschen : bé-herr-sh^n : to dominate/to control/to dominate | 1173 | beherrscht
+beherrschen : bé-herr-sh^n : to dominate/to control/to master | 1173 | beherrscht | beherrschst
 
 Vorstellungskraft {f} : foua-shtelloung-skraft : imagination/power of imagination/to fire imagination | 281
 
@@ -5695,7 +5695,7 @@ entkommen : entkomm^n : to escape | 4536 |
 
 besitzen : bésitz^n : to possess/to own/to hold | 5000 | besitzt
 
-geizig : gaïtsiçh : cheap/mean {adj} [esp. Br.] [miserly] | 1802
+geizig : gaïtsiçh : cheap/mean {adj} [esp. Br.] [miserly] | 1802 | Geiziges
 
 Sei : impératif de être => sois
 
@@ -7750,7 +7750,7 @@ vertrauenerwecken :  : to arouse | 670end : fa-traouen-ervéckent : inspiring co
 
 Ton {m} : to-n : tone/sound | 314
 
-gelingen : géling^n : to succeed | 4390 | gelungen
+gelingen : géling^n : to succeed | 4390 | gelungen | gelingt
 
 etw.Akk. in den Griff bekommen :  : to get sth. under control
 
@@ -8260,7 +8260,7 @@ nun einmal : tout simplement/puisque c'était ainsi (idiom)
 
 geahnt : gé-ant : suspected {adj} | 13
 
-etw.Akk. ahnen [vermuten] : ahn^n : suspecter/to suspect sth./to anticipate | 1835 | ahnte
+etw.Akk. ahnen [vermuten] : ahn^n : suspecter/to suspect sth./to anticipate | 1835 | ahnte | ahnt
 
 aufhäufen : aouf-hoyf^n : to stack/to accumulate | 105
 
@@ -10848,7 +10848,7 @@ horchen : horçhèn : to listen | 175
 
 jdn. etw.Gen. verdächtigen : fadéçhtig^n : to suspect sb. of sth.
 
-etw.Akk. auffangen : aouffang^n : to catch sth. [ball etc.]/capter qqch. | 676
+etw.Akk. auffangen : aouffang^n : to catch sth. [ball etc.]/capter qqch. | 676 | fing + auf
 
 verzeichnen : fatsaiçhnèn : to record/[to register on measuring instrument] | 1327 | verzeichnete
 
@@ -12977,7 +12977,7 @@ Schädelknochen {m} : shédelknoCH^n : anat. zool. cranial bone
 
 schlüpfrig [fig.] [schwer fassbar] :  : elusive/salacious/slick {adj} | 746
 
-aufschlitzen : aoufshlitss^n : to slash/to slash open | 1306 | aufgeschlitzten
+aufschlitzen : aoufshlitss^n : to slash/to slash open | 1306 | aufgeschlitzten | aufzuschlitzen
 
 quellen :  : to gush | 547 | quoll | quollen
 
@@ -13792,7 +13792,7 @@ Wechsel {m} :  : change/shift | 430
 
 Liedchen : lied = chanson + -chen = petit => petit air
 
-pfeifen :  : to whistle | 2303 | pfiff (prétérit)
+pfeifen :  : to whistle | 2303 | pfiff (prétérit) | pfeifend
 
 Stadtmauer {f} :  : city wall
 
@@ -13983,7 +13983,7 @@ Dämon {m} :  : myth. relig. demon | 86
 
 ================================================================ 16AUG2025 (Page 306) ==============
 
-an etw.Dat. zweifeln :  : to doubt sth. | gezweifelt
+an etw.Dat. zweifeln :  : to doubt sth. | gezweifelt | zweifelte
 
 gefährden : geférd^n : to endanger/to compromise/to jeopardize | 2425 | gefährdet
 
@@ -14575,7 +14575,7 @@ sichDat. für etw.Akk. zu schade sein :  : to think / consider oneself too good 
 
 genüsslich :  : appreciative {adj} | 365
 
-aufschlagen :  : to pitch/to hit/to serve [tennis]/to open [book/newspaper]/to pop smth [open car trunk etc] | 641 | aufgeschlagen
+aufschlagen :  : to pitch/to hit/to serve [tennis]/to open [book/newspaper]/to pop smth [open car trunk etc] | 641 | aufgeschlagen | aufzuschlagen
 
 ================================================================ 18AUG2025 (Page 342) ==============
 
@@ -14984,6 +14984,8 @@ standhaft :  : firm {adj} | 1740
 ================================================================ 20AUG2025 (Page 373) ==============
 
 in absehbarer Zeit :  apzihbéra : anytime soon {adv}
+
+in absehbarer Zeit :  : in the foreseeable future {adv}
 
 badend :  : bathing {adj} | 16
 
@@ -16253,7 +16255,7 @@ völlig weggetreten [ugs.] :  : really out of it [coll.]
 
 einwickeln :  : to wrap | 766 | eingewickelt
 
-jdn./etw. umkreisen :  : to circle sb./sth. | 1298
+jdn./etw. umkreisen :  : to circle sb./sth. | 1298 | umkreiste
 
 umkreist :  : circled {past-p} | 19
 
@@ -17064,7 +17066,7 @@ jdm./etw. den Weg bahnen :  : to pave the way for sb./sth. [idiom]
 
 Zwischenzeit {f} : tsvishen-tseyt : meantime | 1948
 
-jdn./etw. betrügen :  : to cheat sb./sth./to deceive | 3606
+jdn./etw. betrügen :  : to cheat sb./sth./to deceive | 3606 | betrügerischen
 
 Tierheim {n} :  : (animal) sanctuary
 Tierheim {n} :  : pound [enclosure for stray animals] | 202
@@ -17235,16 +17237,180 @@ Abdruck {m} :  : empreinte/imprint/print/copy/indentation [foot, shoe] | 390
 
 ================================================================ 01NOV2025 (Page 146) ==============
 
+jdn. schnappen [ugs.] [zu fassen bekommen] :  : to nab sb. [coll.] [to seize a fugitive or wrongdoer] | 536 | schnappte
+etw.Akk. schnappen [ugs.] [ruckartig wegnehmen] :  : to swoop up sth.
+
+Umgang  {m} [gesellschaftlich] :  : contact | dealing | 636
+
+gespannt darauf sein zu :  : to be anxious to / être impatient de
+
+andauern :  : to last | 1925 | andauerte
+
+hecheln :  : to pant | 910
+
+etw.Akk. häufen :  : to accumulate sth. | 48 | häuften
+
+überlappen : : chevuacher superposer recouvrir (partiellement)
+
+================================================================ 01NOV2025 (Page 147) ==============
+
+Nachlässigkeit {f} :  : negligence | 698
+
+jdm./etw. nachsetzen [verfolgen] :  : to pursue sb./sth. | 79 | nachgesetzt
+
+im umgekehrten Fall :  : in the reverse case {adv} | umgekehrt
+
+anknacksen [ugs.] :  : to crack [bone, rib, etc.] | 482 | angeknackst
+
+kostspielig :  : costly/expensive {adj} | 769
+
+Heißt das ... ? :  : Does that mean ... ?
+
+etw. projizieren [auf jdn./etw.] : pro-yi-tsir^n : film photo. psych. to project sth. [onto sb./sth.] | 185
+
+================================================================ 01NOV2025 (Page 148) ==============
+
+lebenswichtigen Organe : : organes vitaux
+
+vermutlich :  : presumably/probably  {adv} | 4225
+
+jdn./etw. verfehlen : fafi-ln : to miss sb./sth. [an aim, target, person] | 380
+
+Schlüsselbein {n} : shlusselbeyn : anat. VetMed. collarbone/clavicle | 625
+
+Ungeheuer {n} :  : bibl. behemoth/monstre | 396 | Ungeheuers
+
+Entzug {m} :  : deprivation/withdrawal | 3092 | Manaentzugs
+
+Körperöffnungen {pl} :  : orifices | 153
+
+================================================================ 01NOV2025 (Page 149) ==============
+NO NEW WORDS
+
+================================================================ 01NOV2025 (Page 150) ==============
+
+Schlächter {m} [auch fig.] :  : jobs butcher/slaughterer [also fig.] | 36
+
+Kunststück {n} : kountshtuk : feat | 618
+
+================================================================ 01NOV2025 (Page 151) ==============
+
+weiterentwickeln :  : to enhance/to upgrade/to refine | 930
+
+Wenn ja, ... :  : If so, ...
+
+nicht von schlechten Eltern sein [ugs.] :  : to be a bit of all right [Br.] [sl.] = pas mal du tout (idiom)
+
+niesen : niz^n : to sneeze | 2375
+
+================================================================ 01NOV2025 (Page 152) ==============
+NO NEW WORDS
+
+================================================================ 01NOV2025 (Page 153) ==============
+
+Zerlegen {n} :  : disassembly | 29
+
+sichAkk. mit etw.Dat. begnügen :  : to content oneself with sth./to settle for smth./to make do with smth | begnügt
+
+Materialien {pl} : matériali^n : materials | 140
+
+Benutzer {m} : benouttsa : user | 482
+
+================================================================ 01NOV2025 (Page 154) ==============
+
+etw. nimmt zu :  : sth. increases
+
+Stufe {f} : shtoufeu : tier/level | 864
+
+Autopsie {f} : aoutopsi  : med. autopsy | 27
+
+================================================================ 02NOV2025 (Page 155) ==============
+
+Du kannst mich mal! [ugs.] [Redewendung] :  : Bite me! [Am.] [coll.] [idiom]
+Du kannst mich mal! [ugs.] [Redewendung] :  : You can stuff it! [coll.] => ça veut dire "tu peux me lécher le cul"
+
+Du kannst mich (mal) kreuzweise! [ugs. derb] :  : idiom You can (go and) get stuffed! [Br.] [coll.]
+
+================================================================ 02NOV2025 (Page 156) ==============
+no new words
+
+================================================================ 02NOV2025 (Page 157) ==============
+no new words
+
+================================================================ 02NOV2025 (Page 158) ==============
+
+Ernsthaftigkeit {f} : ernst-haft-içh-keyt : seriousness [of situation, interest, newspaper]/sobriety/earnestess | 165
+
+losrennen [loslaufen] :  : to run off [somewhere] | losgerannt
+
+festgehalten [gefangen genommen] :  : detained {adj} {past-p} [taken into confinement] / held | 734 | festgehalten
+
+================================================================ 02NOV2025 (Page 159) ==============
+
+Benommenheit {f} : bénomm^nheyt : daze | 677
+
+Zunahmen {pl} : tsounam^n : increases | 450
+
+================================================================ 02NOV2025 (Page 160) ==============
+
+na ja :  : oh well
+
+jdm. etw. verübeln :  : to blame sb. for sth./to resent
+
+================================================================ 02NOV2025 (Page 161) ==============
+
+Vorbehalte {pl} :  : reservations | 200
+
+Vorbehalte haben :  : to have misgivings
+
+über jdn./etw. hinwegkommen [ehemaligen Freund, Verlust etc.] :  : to get over sb./sth. [former friend, loss, etc.]/to overcome smth.
+
+Gefühlsausbruch {m} :  : emotional outburst
+
+dicht neben jdm./etw. stehen :  : to stand right beside sb./sth.
+
+„Du scheinst ein bisschen … neben dir zu stehen.“ → être à côté de ses pompes = être confus/désorienté/perdu [idiom]
+
+Verlegenheit {f} :  : embarrassment | 2358
+
+unüberlegt : oun-uba-ligt : rash {adj} | 1688
+
+Rückzieher {m} :  : backtrack | 346
+
+================================================================ 02NOV2025 (Page 162) ==============
+
+Gegenwart {f} : gign-vat : presence | 451
+
+Ausführungen {pl} : aousfuroung^n : remarks/statements | 201
+
+Da lag ich wohl falsch. [ugs.] :  : idiom I stand corrected. [I was wrong.]
+
+Begräbnis- : bégrébnis : funeral {adj} | 905
+Begräbnis {n} :  : funeral /burial| 338
+
+Beileid {n} :  : condolence/commiseration | 937
+
+================================================================ 02NOV2025 (Page 163) ==============
+
+aufholen :  : to catch up | aufzuholen
+
+Führung {f} [Leitung, Menschenführung] :  : leadership/lead | 971
+
+Gefäß {n} [auch anat., bot.] :  : vessel [also anat., bot.]/receptacle/container | 2686
+
+Behälter {m} : béhélta : container | 872
+
+Heilmittel {n} :  : med. cure | 3856
+
+================================================================ 02NOV2025 (Page 164) ==============
+
+erdrückend :  : overwhelming/stifling {adj} | 670
+
+Er spitzte die Ohren. :  : He pricked up his ears.
+
+================================================================ 02NOV2025 (Page 165) ==============
 
 
-
-
-
-149
-150
-155
-156
-157
 165
 187
 191
